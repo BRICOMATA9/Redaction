@@ -1,10 +1,10 @@
 \section{Introduction} \label{sec:Introduction}
 
 % Needs, Requirements, Constraints by Statistics (2-3 lines)
-The need of Low power wide area networks (LPWAN) increased significantly these five last years.
+The need of \red{\ac{LPWAN}} increased significantly these five last years.
 The main factor is that IoT devices require low power consumption to transmit data in a wide area.
 LoRa,
-	Sigfox and NB-IoT are the most known technologies that satisfy these requirements.
+	Sigfox and \red{\ac{NB-IoT}} are the most known technologies that satisfy these requirements.
 Applications like smart building and smart environment are one of hundreds use cases that need to be deployed with such technologies.
 Unlike Sigfox and NB-IoT,
 	LoRa is more open for academic research because the specification that governs how the network is managed is relatively open.
@@ -21,10 +21,10 @@ The selection of an appropriate transmission parameter for IoT networks typicall
 % Clear Problem (4-5 lines)
 Thus heterogeneous transmission configuration and \ac{SF} allocation strategies need to be studied.
 In this paper,
-	we investigate the performance of heterogeneous networks (i.e.
-when each IoT device selects its LoRa transmission parameters according to its link budget and the application requirements).
+	we investigate the performance of heterogeneous networks (\ie\red{,}
+	when each IoT device selects its LoRa transmission parameters according to its link budget and the application requirements).
 % Clear Contribution (3-4 lines)
-For that purpose we have developed a LoRa transmission adaptation mechanism,
+For that purpose\red{,} we have developed a LoRa transmission adaptation mechanism,
 	both ns-3 simulator and the Low cost Lora Gateway \cite{lowcostloragateway} are used to validate our approach.
 The computation tasks of the selection process will run on the Gateway device (Raspberry-pi) and the required settings will be sent to nodes for the next transmission.
 
@@ -36,17 +36,17 @@ The computation tasks of the selection process will run on the Gateway device (R
 % The structure 
 This paper is organized as follows.
 % Introduction
-Section \ref{sec:Related work} elucidates summary of related works.
+\refsec{Related work} elucidates summary of related works.
 % Background
 % Section \ref{sec:Background} provide the required background.
 % Approach
-In section \ref{sec:Approach}, we propose our approach to solve LoRa parameter selection problem.
+In \refsec{Approach}, we propose our approach to solve LoRa parameter selection problem.
 % Experimentation
-Our experimentation in a real environment is presented in section \ref{sec:Experimentation}.
+Our experimentation in a real environment is presented in \refsec{Experimentation}.
 % Results
 % Our findings are presented in section \ref{sec:Results}.
 % Conclusion
-Section \ref{sec:Conclusion} concludes this paper.
+\refsec{Conclusion} concludes this paper.
 
 
 % \begin{tikzpicture}

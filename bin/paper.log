@@ -1,4 +1,4 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016/Debian)  (format=lualatex 2019.4.2)  6 OCT 2019 19:54
+This is LuaTeX, Version 0.95.0 (TeX Live 2016/Debian)  (format=lualatex 2019.4.2)  7 OCT 2019 00:22
  system commands enabled.
 **paper.tex
 (./paper.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.127 seconds
+luaotfload | main : initialization completed in 0.096 seconds
 Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2017/02/22 v2.0g Standard LaTeX package
@@ -2158,7 +2158,7 @@ Package: bytefield 2015/10/28 v2.3 Network protocol diagrams
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \xinput with sig. 'm' on line 39.
+. Defining command \xinput with sig. 'm' on line 44.
 .................................................
 \c@todo=\count447
 
@@ -2587,85 +2587,85 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count470
 \@quotereset=\count471
-(/home/aghiles/Aghiles/Redaction/bin/paper.aux)
+(/home/aghiles/Aghiles/Research/Writing/bin/paper.aux)
 \openout1 = paper.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 18.
-LaTeX Font Info:    Try loading font information for MDA+cmr on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 17.
+LaTeX Font Info:    Try loading font information for MDA+cmr on input line 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdacmr.fd
 File: mdacmr.fd 
 )
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 18.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 18.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <5> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 18.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 17.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 18.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <7> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 18.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 17.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 18.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <8> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 18.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 17.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 18.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <9> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 18.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 17.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 18.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <10> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 18.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 17.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <11> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 18.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <11> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 18.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 17.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 18.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 18.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 17.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 18.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <17> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 18.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 17.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 18.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <20> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 18.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 17.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 18.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <24> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 18.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 17.
 
 -- Lines per column: 56 (exact).
 .................................................
 . chemgreek info: "mapping-activated"
 . 
-. Activating mapping `default' on line 18.
+. Activating mapping `default' on line 17.
 .................................................
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -2712,8 +2712,8 @@ Dictionary: translator-basic-dictionary, Language: English
 File: siunitx-abbreviations.cfg 2017/01/01 v2.7a siunitx: Abbreviated units
 )
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 18.
-Package hyperref Info: Link coloring ON on input line 18.
+LaTeX Info: Redefining \selectfont on input line 17.
+Package hyperref Info: Link coloring ON on input line 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -2723,12 +2723,12 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count478
 )
-LaTeX Info: Redefining \ref on input line 18.
-LaTeX Info: Redefining \pageref on input line 18.
-LaTeX Info: Redefining \nameref on input line 18.
+LaTeX Info: Redefining \ref on input line 17.
+LaTeX Info: Redefining \pageref on input line 17.
+LaTeX Info: Redefining \nameref on input line 17.
 
-(/home/aghiles/Aghiles/Redaction/bin/paper.out)
-(/home/aghiles/Aghiles/Redaction/bin/paper.out)
+(/home/aghiles/Aghiles/Research/Writing/bin/paper.out)
+(/home/aghiles/Aghiles/Research/Writing/bin/paper.out)
 \@outlinefile=\write8
 
 \openout8 = paper.out
@@ -2743,9 +2743,9 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'paper.bbl' found.
 
-(/home/aghiles/Aghiles/Redaction/bin/paper.bbl)
-Package biblatex Info: Reference section=0 on input line 18.
-Package biblatex Info: Reference segment=0 on input line 18.
+(/home/aghiles/Aghiles/Research/Writing/bin/paper.bbl)
+Package biblatex Info: Reference section=0 on input line 17.
+Package biblatex Info: Reference segment=0 on input line 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
 nary-english.trsl
@@ -2753,98 +2753,103 @@ File: translations-basic-dictionary-english.trsl (english translation file `tran
 slations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' fo
-r `english'. on input line 18.
+r `english'. on input line 17.
 \c__siunitx_mathsf_int=\count479
-LaTeX Font Info:    Try loading font information for OT1+zavm on input line 18.
+LaTeX Font Info:    Try loading font information for OT1+zavm on input line 17.
  (/usr/share/texlive/texmf-dist/tex/latex/arev/ot1zavm.fd
 File: ot1zavm.fd 2006/05/30 Fontinst v1.929 font definitions for OT1/zavm.
 )
-LaTeX Font Info:    Try loading font information for OML+zavm on input line 18.
+LaTeX Font Info:    Try loading font information for OML+zavm on input line 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/arev/omlzavm.fd
 File: omlzavm.fd 2006/05/30 Fontinst v1.929 font definitions for OML/zavm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zavm on input line 18.
+LaTeX Font Info:    Try loading font information for OMS+zavm on input line 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/arev/omszavm.fd
 File: omszavm.fd 2006/05/30 Fontinst v1.929 font definitions for OMS/zavm.
 )
-LaTeX Font Info:    Try loading font information for OMX+mdbch on input line 18.
+LaTeX Font Info:    Try loading font information for OMX+mdbch on input line 17.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/omxmdbch.fd
 File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
 )
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 18.
+(Font)              scaled to size 9.60007pt on input line 17.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 7.29605pt on input line 18.
+(Font)              scaled to size 7.29605pt on input line 17.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 18.
-LaTeX Font Info:    Try loading font information for U+msa on input line 18.
+(Font)              scaled to size 5.76004pt on input line 17.
+LaTeX Font Info:    Try loading font information for U+msa on input line 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 18.
+LaTeX Font Info:    Try loading font information for U+msb on input line 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for MDA+mdbch on input line 18.
+LaTeX Font Info:    Try loading font information for MDA+mdbch on input line 17.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/mdamdbch.fd
 File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
 )
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 9.60007pt on input line 18.
+(Font)              scaled to size 9.60007pt on input line 17.
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 7.29605pt on input line 18.
+(Font)              scaled to size 7.29605pt on input line 17.
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 5.76004pt on input line 18.
-LaTeX Font Info:    Try loading font information for U+zavm on input line 18.
+(Font)              scaled to size 5.76004pt on input line 17.
+LaTeX Font Info:    Try loading font information for U+zavm on input line 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/arev/uzavm.fd
 File: uzavm.fd 2006/05/30 Fontinst v1.929 font definitions for U/zavm.
 )
 \c__siunitx_mathtt_int=\count480
-LaTeX Font Info:    Try loading font information for T1+fvm on input line 18.
+LaTeX Font Info:    Try loading font information for T1+fvm on input line 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/bera/t1fvm.fd
 File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
 )
 \blx@maxsegment@1=\count481
 \blx@sectionciteorder@1=\count482
-Package biblatex Info: Reference section=1 on input line 19.
-Package biblatex Info: Setting label 'refsection:1' on input line 19.
+Package biblatex Info: Reference section=1 on input line 18.
+Package biblatex Info: Setting label 'refsection:1' on input line 18.
 \g__file_internal_ior=\read5
 
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/authors.tex"
 )
 
-LaTeX Warning: Empty bibliography on input line 65.
+LaTeX Warning: Empty bibliography on input line 64.
 
-Package biblatex Info: Reference section=0 on input line 65.
+Package biblatex Info: Reference section=0 on input line 64.
 \blx@maxsegment@2=\count483
 \blx@sectionciteorder@2=\count484
-Package biblatex Info: Reference section=2 on input line 65.
-Package biblatex Info: Setting label 'refsection:2' on input line 65.
+Package biblatex Info: Reference section=2 on input line 64.
+Package biblatex Info: Setting label 'refsection:2' on input line 64.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 65.
+(Font)              scaled to size 11.52008pt on input line 64.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 8.64006pt on input line 65.
+(Font)              scaled to size 8.64006pt on input line 64.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 6.72005pt on input line 65.
+(Font)              scaled to size 6.72005pt on input line 64.
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 11.52008pt on input line 65.
+(Font)              scaled to size 11.52008pt on input line 64.
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 8.64006pt on input line 65.
+(Font)              scaled to size 8.64006pt on input line 64.
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 6.72005pt on input line 65.
+(Font)              scaled to size 6.72005pt on input line 64.
 
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/00_abstract.
-tex")
+tex"
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 4.
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 4.80003pt on input line 4.
+)
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/01_introduct
 ion.tex")
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/02_related.t
@@ -2855,21 +2860,21 @@ Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ])
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/04_approach.
-tex" <genetic.pdf, id=83, 513.55263pt x 229.42613pt>
+tex" <genetic.pdf, id=91, 513.55263pt x 229.42613pt>
 File: genetic.pdf Graphic file (type pdf)
  <use genetic.pdf>
 Package luatex.def Info: genetic.pdf used on input line 119.
 (luatex.def)             Requested size: 252.0pt x 112.5773pt.
 )
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/05_experimen
-tation.tex" <../res/tmp/Picture/gateway.jpg, id=95, 4625.28pt x 3468.96pt>
+tation.tex" <../res/tmp/Picture/gateway.jpg, id=103, 4625.28pt x 3468.96pt>
 File: ../res/tmp/Picture/gateway.jpg Graphic file (type jpg)
 
 <use ../res/tmp/Picture/gateway.jpg>
 Package luatex.def Info: ../res/tmp/Picture/gateway.jpg used on input line 13.
 (luatex.def)             Requested size: 120.95892pt x 90.67252pt.
 
-<../res/tmp/Picture/node.jpg, id=96, 4625.28pt x 3468.96pt>
+<../res/tmp/Picture/node.jpg, id=104, 4625.28pt x 3468.96pt>
 File: ../res/tmp/Picture/node.jpg Graphic file (type jpg)
 
 <use ../res/tmp/Picture/node.jpg>
@@ -2878,16 +2883,15 @@ Package luatex.def Info: ../res/tmp/Picture/node.jpg used on input line 13.
 )
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/07_conclusio
 n.tex")
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 4.80003pt on input line 138.
-LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 4.80003pt on input line 138.
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 138.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-Package biblatex Info: Reference section=0 on input line 139.
+Underfull \hbox (badness 10000) in paragraph at lines 141--141
+[]\T1/ptm/m/it/9 Https://lora-alliance.org/resource-hub/lorawanr-specification-
 
+ []
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[2<./genetic.pdf><../res/tmp/Picture/gateway.jpg><../res/tmp/Picture/node.jpg>]
+Package biblatex Info: Reference section=0 on input line 142.
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -2900,17 +2904,18 @@ Before submitting the final camera ready copy, remember to:
  process uses the appropriate paper size.
 
 
-Package caption Warning: Unused \captionsetup[table] on input line 114.
+Package caption Warning: Unused \captionsetup[table] on input line 115.
 See the caption package documentation for explanation.
 
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 143.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 143.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[2<./genetic.pdf><../res/tmp/Picture/gateway.jpg><../res/tmp/Picture/node.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 140.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 140.
-(/home/aghiles/Aghiles/Redaction/bin/paper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 140.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 140.
+[3
+
+] (/home/aghiles/Aghiles/Research/Writing/bin/paper.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 143.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 143.
 Package rerunfilecheck Info: File `paper.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
 Package logreq Info: Writing requests to 'paper.run.xml'.
@@ -2919,16 +2924,16 @@ Package logreq Info: Writing requests to 'paper.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 46097 strings out of 494577
+ 46119 strings out of 494577
  100000,1648299 words of node,token memory allocated
- 1447 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 94 glue, 1 kern, 61 attribute, 77 glue_spec, 61 att
+ 1494 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 99 glue, 1 kern, 64 attribute, 77 glue_spec, 64 att
 ribute_list, 1 write nodes
-   avail lists: 1:5,2:1112,3:246,4:134,5:253,6:6215,7:1274,8:63,9:244,10:22,11:6
-53,12:3
- 47941 multiletter control sequences out of 65536+600000
- 276 fonts using 19160039 bytes
- 67i,13n,94p,1930b,1555s stack positions out of 5000i,500n,10000p,200000b,100000s
+   avail lists: 1:5,2:1128,3:245,4:144,5:274,6:6309,7:1304,8:65,9:249,10:22,11:6
+54
+ 47969 multiletter control sequences out of 65536+600000
+ 275 fonts using 19097967 bytes
+ 67i,13n,94p,1930b,1760s stack positions out of 5000i,500n,10000p,200000b,100000s
 
 warning  (pdf backend): unreferenced destination with name 'FL'
 
@@ -2951,6 +2956,12 @@ warning  (pdf backend): unreferenced destination with name 'Tx'
 warning  (pdf backend): unreferenced destination with name 'SF'
 
 warning  (pdf backend): unreferenced destination with name 'CSS'
+
+warning  (pdf backend): unreferenced destination with name 'NB-IoT'
+
+warning  (pdf backend): unreferenced destination with name 'LPWAN'
+
+warning  (pdf backend): unreferenced destination with name 'IoT'
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/t
 exmf-dist/fonts/enc/dvips/arev/arevot1.enc}{/usr/share/texlive/texmf-dist/fonts/
 enc/dvips/arev/arevoml.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/are
@@ -2960,10 +2971,10 @@ bch/md-chb7y.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/times/utmri8a.pfb>
-Output written on paper.pdf (2 pages, 5418405 bytes).
+Output written on paper.pdf (3 pages, 5422031 bytes).
 
-PDF statistics: 171 PDF objects out of 1000 (max. 8388607)
- 149 compressed objects within 2 object streams
- 34 named destinations out of 1000 (max. 131072)
+PDF statistics: 181 PDF objects out of 1000 (max. 8388607)
+ 158 compressed objects within 2 object streams
+ 37 named destinations out of 1000 (max. 131072)
  64 words of extra memory for PDF output out of 10000 (max. 10000000)
 

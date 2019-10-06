@@ -199,11 +199,25 @@
 	},
 	"expanded_folders":
 	[
-		"/home/aghiles/Aghiles/Redaction/src",
-		"/home/aghiles/Aghiles/Redaction/src/setup"
+		"/home/aghiles/Aghiles/Research/Writing/src",
+		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection",
+		"/home/aghiles/Aghiles/Research/Writing/src/setup"
 	],
 	"file_history":
 	[
+		"/home/aghiles/Aghiles/Research/Writing/src/setup/nomenclature.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/00_abstract.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/paper.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/setup/commands.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/01_introduction.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/05_experimentation.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/04_approach.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/02_related.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/setup/setup.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/References/iotbis.bib",
+		"/home/aghiles/Aghiles/Research/Writing/bin/paper.pdf",
+		"/home/aghiles/Aghiles/Research/Redaction/src/paper.tex",
+		"/home/aghiles/Aghiles/Research/Redaction/src/setup/setup.tex",
 		"/home/aghiles/Aghiles/Redaction/src/paper.tex",
 		"/home/aghiles/Aghiles/Redaction/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/01_introduction.tex",
 		"/home/aghiles/Aghiles/Redaction/src/setup/commands.tex",
@@ -318,20 +332,7 @@
 		"/home/aghiles/Aghiles/Redaction/paper/src/C/table.tex",
 		"/home/aghiles/Aghiles/Redaction/paper/src/0_0_authors.tex",
 		"/home/aghiles/Aghiles/Redaction/setup/sig-alternate.cls",
-		"/home/aghiles/Aghiles/Redaction/paper/src/1_introduction.tex",
-		"/home/aghiles/Aghiles/Redaction/setup/IEEEtran.cls",
-		"/home/aghiles/Aghiles/Redaction/paper/src/2/3_background.tex",
-		"/home/aghiles/Aghiles/Redaction/paper/src/4/6_results.tex",
-		"/home/aghiles/Aghiles/Redaction/paper/src/4/3_background.tex",
-		"/home/aghiles/Aghiles/Redaction/paper/src/94/6_1_table.tex",
-		"/home/aghiles/Aghiles/Redaction/setup/lib/main.bib",
-		"/home/aghiles/Aghiles/Redaction/setup/lib/iot/translators/Better BibLaTeX.js",
-		"/home/aghiles/Better BibLaTeX.js",
-		"/home/aghiles/Aghiles/Latex/res/translators/BibLaTeX.js",
-		"/home/aghiles/Aghiles/Latex/res/translators/BibTeX.js",
-		"/home/aghiles/Aghiles/Latex/res/translators/Better BibTeX.js",
-		"/home/aghiles/Aghiles/Latex/res/translators/Better BibLaTeX.js",
-		"/home/aghiles/Aghiles/Latex/src/1/main1.bib"
+		"/home/aghiles/Aghiles/Redaction/paper/src/1_introduction.tex"
 	],
 	"find":
 	{
@@ -351,6 +352,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"caption",
+			"Figure",
+			":",
+			"bold",
 			"Figure",
 			"Figyre",
 			"mathit",
@@ -433,7 +438,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 24.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -478,7 +483,7 @@
 	"project": "paper.sublime-project",
 	"replace":
 	{
-		"height": 44.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":

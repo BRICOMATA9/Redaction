@@ -82,10 +82,10 @@
       <file>paper.bcf</file>
     </requires>
     <requires type="editable">
-      <file>/home/aghiles/Aghiles/Redaction/lib/iot.bib</file>
-      <file>/home/aghiles/Aghiles/Redaction/lib/iotbis.bib</file>
-      <file>/home/aghiles/Aghiles/Redaction/lib/privacy.bib</file>
-      <file>/home/aghiles/Aghiles/Redaction/lib/petri.bib</file>
+      <file>References/iot.bib</file>
+      <file>References/iotbis.bib</file>
+      <file>References/privacy.bib</file>
+      <file>References/petri.bib</file>
     </requires>
   </external>
 </requests>

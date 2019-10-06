@@ -26,7 +26,7 @@
       \field{journaltitle}{GitHub}
       \field{month}{8}
       \field{note}{[Online; accessed 13. Aug. 2019]}
-      \field{title}{{CongducPham/LowCostLoRaGw}}
+      \field{title}{https://github.com/CongducPham/LowCostLoRaGw}
       \field{year}{2019}
       \verb{url}
       \verb https://github.com/CongducPham/LowCostLoRaGw
@@ -36,9 +36,10 @@
       \field{sortinit}{2}
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labeltitlesource}{title}
+      \field{abstract}{{LoRaWAN{\ifmmode\circledR\else®\fi} Specification v1.0.3 {$\vert$} LoRa Alliance{\texttrademark}}}
       \field{month}{8}
       \field{note}{[Online; accessed 8. Aug. 2019]}
-      \field{title}{{LoRaWAN{\ifmmode\circledR\else®\fi} Specification v1.0.3 {$\vert$} LoRa Alliance{\texttrademark}}}
+      \field{title}{https://lora-alliance.org/resource-hub/lorawanr-specification-v103}
       \field{year}{2019}
       \verb{url}
       \verb https://lora-alliance.org/resource-hub/lorawanr-specification-v103
