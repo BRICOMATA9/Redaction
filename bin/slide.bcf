@@ -2146,9 +2146,10 @@
     <bcf:citekey order="20">ksentini_enforcing_2017b</bcf:citekey>
     <bcf:citekey order="21">ksentini_enforcing_2017b</bcf:citekey>
     <bcf:citekey order="22">ksentini_enforcing_2017b</bcf:citekey>
-    <bcf:citekey order="23">cattani_experimental_2017</bcf:citekey>
-    <bcf:citekey order="24">dimartino_internet_2018</bcf:citekey>
-    <bcf:citekey order="25">alkhawlani_access_2008a</bcf:citekey>
+    <bcf:citekey order="23">barro_lorawan_2019</bcf:citekey>
+    <bcf:citekey order="24">cattani_experimental_2017</bcf:citekey>
+    <bcf:citekey order="25">dimartino_internet_2018</bcf:citekey>
+    <bcf:citekey order="26">alkhawlani_access_2008a</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>

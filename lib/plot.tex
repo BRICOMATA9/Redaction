@@ -10,7 +10,7 @@
 \usepackage{array}
 \usepackage{stmaryrd}
 \usepackage{amsmath}
-\usepackage{\setup/styles/gantt}
+\usepackage{\LIBPATH/styles/gantt}
 \usepackage{lscape}
 % \usepackage{bookmark}
 \usepackage{etoolbox}
@@ -78,27 +78,22 @@
 	\usepackage{tikz}
 	\usepackage{pgfplots}
 	\pgfplotsset{
-		table/search path={\res/data/},
+		table/search path={\DATAPATH},
 	}
 	\usetikzlibrary{backgrounds}
 	\usetikzlibrary{graphs, graphs.standard, graphdrawing}
 
 
-
-% \def\res{../..}
- \pgfplotsset{
-  table/search path={\res/data/},
- }
 \newcommand\Input[1]{
-  \begin{tikzpicture}[thick,scale=2, every node/.style={scale=2}]
-    \input{#1}
+  \begin{tikzpicture}
+    \input{\PLOTPATH/#1}
   \end{tikzpicture}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% TIKZSET
 \tikzstyle{every picture}+=[remember picture]
 
-\input{\setup/tikzset}
+\input{\LIBPATH/tikzset}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% NEWENVIRONMENT
 \newenvironment{textBox}[1]{%
@@ -342,7 +337,7 @@ child[#1] {#2}
 \newcommand{\varcondenv}{\varrho^\#}
 \newcommand{\simplify}{simplify}
 \newcommand{\valsimplify}{simplify^+}
-\newcommand{\resconstraint}{\tau}
+\newcommand{\RESPATHconstraint}{\tau}
 \newcommand{\nosimplbot}{NoSimp_\bot}
 \newcommand{\nosimpltop}{NoSimp_\top}
 \newcommand{\symb}{s}

@@ -1,10 +1,52 @@
-\BOOKMARK [2][]{Outline0.1}{Genetic Algorithm For LoRa}{}% 1
-\BOOKMARK [3][]{Outline0.1.1.17}{Problem statement}{Outline0.1}% 2
-\BOOKMARK [3][]{Outline0.1.2.19}{Related work}{Outline0.1}% 3
-\BOOKMARK [3][]{Outline0.1.3.20}{Background}{Outline0.1}% 4
-\BOOKMARK [4][]{Outline0.1.3.1.21}{Bandit Algorithm}{Outline0.1.3.20}% 5
-\BOOKMARK [4][]{Outline0.1.3.2.23}{Genetic Algorithm}{Outline0.1.3.20}% 6
-\BOOKMARK [4][]{Outline0.1.3.3.26}{Marcov chain}{Outline0.1.3.20}% 7
-\BOOKMARK [4][]{Outline0.1.3.4.29}{Game theory}{Outline0.1.3.20}% 8
-\BOOKMARK [3][]{Outline0.1.4.31}{Method}{Outline0.1}% 9
-\BOOKMARK [3][]{Outline0.1.5.35}{Experimentation}{Outline0.1}% 10
+\BOOKMARK [2][]{Outline0.1}{Introduction}{}% 1
+\BOOKMARK [2][]{Outline0.2}{State of the art}{}% 2
+\BOOKMARK [3][]{Outline0.2.1.19}{Related work}{Outline0.2}% 3
+\BOOKMARK [3][]{Outline0.2.2.21}{Discussion}{Outline0.2}% 4
+\BOOKMARK [2][]{Outline0.3}{x-Testbed}{}% 5
+\BOOKMARK [3][]{Outline0.3.1.24}{Problem statement}{Outline0.3}% 6
+\BOOKMARK [3][]{Outline0.3.2.26}{Related work}{Outline0.3}% 7
+\BOOKMARK [3][]{Outline0.3.3.29}{Contagion process}{Outline0.3}% 8
+\BOOKMARK [3][]{Outline0.3.4.35}{Experimentation}{Outline0.3}% 9
+\BOOKMARK [3][]{Outline0.3.5.37}{Results exploitation}{Outline0.3}% 10
+\BOOKMARK [3][]{Outline0.3.6.39}{Discussion}{Outline0.3}% 11
+\BOOKMARK [2][]{Outline0.4}{x-Sentilo}{}% 12
+\BOOKMARK [3][]{Outline0.4.1.42}{Problem statement}{Outline0.4}% 13
+\BOOKMARK [3][]{Outline0.4.2.44}{Related work}{Outline0.4}% 14
+\BOOKMARK [3][]{Outline0.4.3.47}{Contagion process}{Outline0.4}% 15
+\BOOKMARK [3][]{Outline0.4.4.52}{Experimentation}{Outline0.4}% 16
+\BOOKMARK [3][]{Outline0.4.5.54}{Results exploitation}{Outline0.4}% 17
+\BOOKMARK [3][]{Outline0.4.6.56}{Discussion}{Outline0.4}% 18
+\BOOKMARK [2][]{Outline0.5}{x-Long paper}{}% 19
+\BOOKMARK [3][]{Outline0.5.1.59}{Problem statement}{Outline0.5}% 20
+\BOOKMARK [3][]{Outline0.5.2.61}{Related work}{Outline0.5}% 21
+\BOOKMARK [3][]{Outline0.5.3.64}{Contagion process}{Outline0.5}% 22
+\BOOKMARK [3][]{Outline0.5.4.70}{Experimentation}{Outline0.5}% 23
+\BOOKMARK [3][]{Outline0.5.5.72}{Results exploitation}{Outline0.5}% 24
+\BOOKMARK [3][]{Outline0.5.6.74}{Discussion}{Outline0.5}% 25
+\BOOKMARK [2][]{Outline0.6}{Genetic Algorithm For LoRa}{}% 26
+\BOOKMARK [3][]{Outline0.6.1.77}{Problem statement}{Outline0.6}% 27
+\BOOKMARK [3][]{Outline0.6.2.79}{Related work}{Outline0.6}% 28
+\BOOKMARK [3][]{Outline0.6.3.80}{Background}{Outline0.6}% 29
+\BOOKMARK [4][]{Outline0.6.3.1.81}{Bandit Algorithm}{Outline0.6.3.80}% 30
+\BOOKMARK [4][]{Outline0.6.3.2.83}{Genetic Algorithm}{Outline0.6.3.80}% 31
+\BOOKMARK [4][]{Outline0.6.3.3.86}{Marcov chain}{Outline0.6.3.80}% 32
+\BOOKMARK [4][]{Outline0.6.3.4.89}{Game theory}{Outline0.6.3.80}% 33
+\BOOKMARK [3][]{Outline0.6.4.91}{Method}{Outline0.6}% 34
+\BOOKMARK [3][]{Outline0.6.5.95}{Experimentation}{Outline0.6}% 35
+\BOOKMARK [3][]{Outline0.6.6.99}{Results}{Outline0.6}% 36
+\BOOKMARK [3][]{Outline0.6.7.101}{Discussion}{Outline0.6}% 37
+\BOOKMARK [2][]{Outline0.7}{Template}{}% 38
+\BOOKMARK [3][]{Outline0.7.1.104}{Problem statement}{Outline0.7}% 39
+\BOOKMARK [3][]{Outline0.7.2.106}{Related work}{Outline0.7}% 40
+\BOOKMARK [3][]{Outline0.7.3.109}{Contagion process}{Outline0.7}% 41
+\BOOKMARK [3][]{Outline0.7.4.115}{Experimentation}{Outline0.7}% 42
+\BOOKMARK [3][]{Outline0.7.5.117}{Results exploitation}{Outline0.7}% 43
+\BOOKMARK [3][]{Outline0.7.6.119}{Discussion}{Outline0.7}% 44
+\BOOKMARK [2][]{Outline0.8}{UTLC}{}% 45
+\BOOKMARK [3][]{Outline0.8.1.122}{Problem statement}{Outline0.8}% 46
+\BOOKMARK [3][]{Outline0.8.2.124}{Related work}{Outline0.8}% 47
+\BOOKMARK [3][]{Outline0.8.3.127}{Contagion process}{Outline0.8}% 48
+\BOOKMARK [3][]{Outline0.8.4.134}{Experimentation}{Outline0.8}% 49
+\BOOKMARK [3][]{Outline0.8.5.136}{Results exploitation}{Outline0.8}% 50
+\BOOKMARK [3][]{Outline0.8.6.138}{Discussion}{Outline0.8}% 51
+\BOOKMARK [2][]{Outline0.9}{Conclusion}{}% 52

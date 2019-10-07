@@ -1,4 +1,4 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016/Debian)  (format=lualatex 2019.4.12)  7 OCT 2019 14:53
+This is LuaTeX, Version 0.95.0 (TeX Live 2016/Debian)  (format=lualatex 2019.4.12)  7 OCT 2019 18:13
  system commands enabled.
 **paper.tex
 (./paper.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.100 seconds
+luaotfload | main : initialization completed in 0.145 seconds
 Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2017/02/22 v2.0g Standard LaTeX package
@@ -2575,7 +2575,644 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip149
 \thanksmargin=\skip150
 \droptitle=\skip151
+)) (../lib/plot.tex (/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 2016/08/01 v2.7 eTeX basic definition package (PEB,DPC)
+
+
+Package etex Warning: Extended allocation already in use.
+(etex)                etex.sty code will not be used.
+(etex)                To force etex package to load, add
+(etex)                \RequirePackage{etex}
+(etex)                at the start of the document.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/multirow/bigstrut.sty
+Package: bigstrut 2016/11/25 v2.2 Provide larger struts in tabulars
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2015/11/12 v1.18 mathematical typesetting tools
+
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count470
+\l_MT_multwidth_dim=\dimen349
+\origjot=\skip152
+\l_MT_shortvdotswithinadjustabove_dim=\dimen350
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen351
+\l_MT_above_intertext_sep=\dimen352
+\l_MT_below_intertext_sep=\dimen353
+\l_MT_above_shortintertext_sep=\dimen354
+\l_MT_below_shortintertext_sep=\dimen355
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count471
+\lst@gtempboxa=\box119
+\lst@token=\toks50
+\lst@length=\count472
+\lst@currlwidth=\dimen356
+\lst@column=\count473
+\lst@pos=\count474
+\lst@lostspace=\dimen357
+\lst@width=\dimen358
+\lst@newlines=\count475
+\lst@lineno=\count476
+\lst@maxwidth=\dimen359
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count477
+\lst@skipnumbers=\count478
+\lst@framebox=\box120
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2016/08/10 v1.14 Data Visualization (1.14)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen360
+\pgffor@skip=\dimen361
+\pgffor@stack=\toks51
+\pgffor@toks=\toks52
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count479
+\pgfplotmarksize=\dimen362
+)
+\tikz@lastx=\dimen363
+\tikz@lasty=\dimen364
+\tikz@lastxsaved=\dimen365
+\tikz@lastysaved=\dimen366
+\tikzleveldistance=\dimen367
+\tikzsiblingdistance=\dimen368
+\tikz@figbox=\box121
+\tikz@figbox@bg=\box122
+\tikz@tempbox=\box123
+\tikz@tempbox@bg=\box124
+\tikztreelevel=\count480
+\tikznumberofchildren=\count481
+\tikznumberofcurrentchild=\count482
+\tikz@fig@count=\count483
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count484
+\pgfmatrixcurrentcolumn=\count485
+\pgf@matrix@numberofcolumns=\count486
+)
+\tikz@expandcount=\count487
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase.sty
+Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
+
+(/usr/share/texlive/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
+Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
+\@catcodetablestackcnt=\count488
+)
+\CatcodeTableOther=\catcodetable6
+\CatcodeTableExpl=\catcodetable7
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+Package pgfplots info on input line 124: Initializing with LUA version Lua 5.2
+\pgfplots@luabackend@table=\catcodetable8
+\t@pgfplots@toka=\toks53
+\t@pgfplots@tokb=\toks54
+\t@pgfplots@tokc=\toks55
+\pgfplots@tmpa=\dimen369
+\c@pgfplots@coordindex=\count489
+\c@pgfplots@scanlineindex=\count490
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code
+.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.t
+ex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
+gfsupp_loader.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex
+)
+Package pgfplots: loading complementary arithmetics for your pgf version...
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
+gfsupp_pgflibraryfpu.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
+gfsupp_pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count491
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/luamath/pgflibraryluam
+ath.code.tex)
+Package pgfplots info on input line 222: luamath library shipped with pgf 3.0.1a
+ is up-to-date
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex
+Package pgfplots info on input line 82: Found new luatex: initializing lua comma
+nds instead of write18 (shell-escape)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotslists
+tructure.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotslists
+tructureext.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray
+.code.tex
+\c@pgfplotsarray@tmp=\count492
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatri
+x.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshare
+d.code.tex
+\c@pgfplotstable@counta=\count493
+\t@pgfplotstable@a=\toks56
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.te
+x
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.co
+de.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.sur
+fshading.code.tex
+\c@pgfplotslibrarysurf@no=\count494
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surf
+shading.pgfsys-luatex.def)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.
+tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.t
+ex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.t
+ex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.cod
+e.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.
+tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.cod
+e.tex
+\pgfdecoratedcompleteddistance=\dimen370
+\pgfdecoratedremainingdistance=\dimen371
+\pgfdecoratedinputsegmentcompleteddistance=\dimen372
+\pgfdecoratedinputsegmentremainingdistance=\dimen373
+\pgf@decorate@distancetomove=\dimen374
+\pgf@decorate@repeatstate=\count495
+\pgfdecorationsegmentamplitude=\dimen375
+\pgfdecorationsegmentlength=\dimen376
+)
+\tikz@lib@dec@box=\box125
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.pathmorphing.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.pathmorphing.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.pathreplacing.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.pathreplacing.code.tex))
+\pgfplots@numplots=\count496
+\pgfplots@xmin@reg=\dimen377
+\pgfplots@xmax@reg=\dimen378
+\pgfplots@ymin@reg=\dimen379
+\pgfplots@ymax@reg=\dimen380
+\pgfplots@zmin@reg=\dimen381
+\pgfplots@zmax@reg=\dimen382
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.co
+de.tex
+File: pgflibraryplotmarks.code.tex 2015/08/03 v3.0.1a (rcs-revision 1.14)
+))) (/usr/share/texlive/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+)
+(/home/aghiles/Aghiles/Research/Writing/bin/../lib/styles/gantt.sty
+
+LaTeX Warning: You have requested package `../lib/styles/gantt',
+               but the package provides `styles/gantt'.
+
+Package: styles/gantt 2011/03/20 Some macros for drawing gantt diagrams using tk
+iz v.1.3
+(/usr/share/texlive/texmf-dist/tex/latex/forloop/forloop.sty
+Package: forloop 2006/09/18 v3.0 For Loops for LaTeX
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2008/01/15 v3.0.1a (rcs-revision 1.2)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibrarypatterns.cod
+e.tex
+File: pgflibrarypatterns.code.tex 2008/03/03 v3.0.1a (rcs-revision 1.13)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.
+tex
+File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
+\arrowsize=\dimen383
+))
+\c@ganttnum=\count497
+\c@ganttwidth=\count498
+\ganttlastx=\skip153
+\nextganttlastx=\skip154
+\gantttmpa=\skip155
+\gantttmpb=\skip156
+\ganttunitlength=\skip157
+\titleunitlength=\skip158
+\c@gantttitlenum=\count499
+\pgf@layerbox@background=\box126
+\pgf@layerboxsaved@background=\box127
+\pgf@layerbox@foreground=\box128
+\pgf@layerboxsaved@foreground=\box129
+) (/usr/share/texlive/texmf-dist/tex/latex/bbding/bbding.sty
+Package: bbding 1999/04/15 v1.01 Dingbats symbols
+)
+(/usr/share/texlive/texmf-dist/tex/latex/cancel/cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+)
+(/usr/share/texlive/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen384
+\c@nlinenum=\count500
+\TeXr@lab=\toks57
+)
+(/usr/share/texlive/texmf-dist/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip159
+\L@UnitsRaiseTextstyle=\skip160
+\L@UnitsRaiseScriptstyle=\skip161
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tikz-timing/tikz-timing.sty
+(/usr/share/texlive/texmf-dist/tex/latex/svn-prov/svn-prov.sty
+Package: svn-prov 2010/04/24 v3.1862 Package Date/Version from SVN Keywords
+)
+Package: tikz-timing 2011/01/09 v0.7d Digital Timing Diagrams using TikZ
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.9)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2013/07/18 v3.0.1a (rcs-revision 1.3)
+)
+\tikztiming@numint=\count501
+\tikztiming@numfrac=\count502
+\tikztiming@xunit=\skip162
+\tikztiming@yunit=\skip163
+\tikztiming@debug=\count503
+\c@tikztiming@nrows=\count504
+\c@tikztimingrows=\count505
+\c@tikztimingtrans=\count506
+\c@tikztimingtranspos=\count507
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgfplots/pgfplotstable.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplotstable 2016/08/10 v1.14 Table typesetting and Pretty-printing (1
+.14)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable.code
+.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable.colt
+ype.code.tex))) (/usr/share/texlive/texmf-dist/tex/latex/wasysym/wasysym.sty
+Package: wasysym 2003/10/30 v2.0 Wasy-2 symbol support package
+\symwasy=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \ocircle on input line 240.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarymindmap.code.tex
+File: tikzlibrarymindmap.code.tex 2013/07/16 v3.0.1a (rcs-revision 1.10)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytrees.code.tex
+File: tikzlibrarytrees.code.tex 2008/02/24 v3.0.1a (rcs-revision 1.2)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrary3d.code.tex
+File: tikzlibrary3d.code.tex 2013/07/17 v3.0.1a (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.
+code.tex
+File: pgflibraryarrows.meta.code.tex 2015/05/13 v3.0.1a (rcs-revision 1.13)
+\pgfarrowinset=\dimen385
+\pgfarrowlength=\dimen386
+\pgfarrowwidth=\dimen387
+\pgfarrowlinewidth=\dimen388
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarysnakes.code.tex
+File: tikzlibrarysnakes.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.7)
+
+
+Package pgf Warning: Snakes have been superseded by decorations. Please use the 
+decoration libraries instead of the snakes library on input line 14.
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.shapes.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.shapes.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/dat
+avisualization/tikzlibrarydatavisualization.code.tex
+File: tikzlibrarydatavisualization.code.tex 2015/05/18 v3.0.1a (rcs-revision 1.4
+8)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledatavisualizati
+on.code.tex
+File: pgfmoduledatavisualization.code.tex 2015/05/18  (rcs-revision 1.50)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleoo.code.tex
+\pgfoo@objectcount=\count508
+\pgfoothis@count=\count509
+\pgfoo@toks=\toks58
+)
+\pgf@lib@dv@cache@count=\count510
+\pgf@lib@dv@cache@count=\count511
+)
+\tikzdvvisualizercounter=\count512
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarymatrix.code.tex
+File: tikzlibrarymatrix.code.tex 2013/07/12 v3.0.1a (rcs-revision 1.4)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2013/07/18 v3.0.1a (rcs-revision 1.5)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2013/09/11 v3.0.1a (rcs-revision 1.6)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.callouts.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.callouts.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.1a (rcs-revision 1.2)
+\pgfnodepartlowerbox=\box130
+\pgfnodeparttwobox=\box131
+\pgfnodepartthreebox=\box132
+\pgfnodepartfourbox=\box133
+\pgfnodeparttwentybox=\box134
+\pgfnodepartnineteenbox=\box135
+\pgfnodeparteighteenbox=\box136
+\pgfnodepartseventeenbox=\box137
+\pgfnodepartsixteenbox=\box138
+\pgfnodepartfifteenbox=\box139
+\pgfnodepartfourteenbox=\box140
+\pgfnodepartthirteenbox=\box141
+\pgfnodeparttwelvebox=\box142
+\pgfnodepartelevenbox=\box143
+\pgfnodeparttenbox=\box144
+\pgfnodepartninebox=\box145
+\pgfnodeparteightbox=\box146
+\pgfnodepartsevenbox=\box147
+\pgfnodepartsixbox=\box148
+\pgfnodepartfivebox=\box149
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryfit.code.tex
+File: tikzlibraryfit.code.tex 2013/07/12 v3.0.1a (rcs-revision 1.5)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2008/01/13 v3.0.1a (rcs-revision 1.3)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2009/11/15 v3.0.1a (rcs-revision 1.2)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code
+.tex
+File: pgflibraryfadings.code.tex 2008/02/07 v3.0.1a (rcs-revision 1.3)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.text.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.text.code.tex
+\pgf@lib@dec@text@box=\box150
+)
+\tikz@lib@dec@te@box=\box151
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hobby/tikzlibraryhobby.code.tex
+(/usr/share/texlive/texmf-dist/tex/latex/hobby/pgflibraryhobby.code.tex
+(/usr/share/texlive/texmf-dist/tex/latex/hobby/hobby.code.tex
+(/usr/share/texlive/texmf-dist/tex/latex/hobby/pml3array.sty
+\l_array_base_int=\count513
+\l_array_top_int=\count514
+\l_array_tmp_int=\count515
+\g_array_base_int=\count516
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbyVersion with sig. '' on line 41.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbyDate with sig. '' on line 45.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \HobbyDisableAux with sig. '' on line 59.
+.................................................
+\l_hobby_npoints_int=\count517
+\l_hobby_draw_int=\count518
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbyinit with sig. 'mmm' on line 669.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbyaddpoint with sig. 'm' on line 699.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbysetparams with sig. 'm' on line 705.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbygenpath with sig. '' on line 721.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbygenifnecpath with sig. 'm' on line 732.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbygenuseifnecpath with sig. 'm' on line 744.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbyusepath with sig. 'm' on line 748.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbysavepath with sig. 'm' on line 751.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbyrestorepath with sig. 'm' on line 756.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbyshowpath with sig. 'm' on line 761.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbygenusepath with sig. '' on line 767.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbyclearpath with sig. '' on line 770.
+.................................................
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarychains.code.tex
+File: tikzlibrarychains.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.6)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryautomata.code.tex
+File: tikzlibraryautomata.code.tex 2008/07/14 v3.0.1a (rcs-revision 1.3)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count519
+\rotFPtop=\skip164
+\rotFPbot=\skip165
+\rot@float@box=\box152
+\rot@mess@toks=\toks59
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.gr
+oupplots.code.tex
+\pgfplots@group@current@plot=\count520
+\pgfplots@group@current@row=\count521
+\pgfplots@group@current@column=\count522
+)
+(/usr/share/texlive/texmf-dist/tex/latex/filecontents/filecontents.sty
+Package: filecontents 2011/10/08 v1.3 Create an external file from within a LaTe
+X document
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.pa
+tchplots.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/gra
+phs/tikzlibrarygraphs.code.tex
+File: tikzlibrarygraphs.code.tex 2015/06/05 v3.0.1a (rcs-revision 1.44)
+\tikz@lib@auto@number=\count523
+\tikz@qnode@count=\count524
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/gra
+phs/tikzlibrarygraphs.standard.code.tex
+File: tikzlibrarygraphs.standard.code.tex 2012/02/27 v3.0.1a (rcs-revision 1.9)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/graphdrawing/tex/tikzlibrarygrap
+hdrawing.code.tex
+File: tikzlibrarygraphdrawing.code.tex 2013/08/05 v3.0.1a (rcs-revision 1.20)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/graphdrawing/tex/pgflibrarygraph
+drawing.code.tex
+File: pgflibrarygraphdrawing.code.tex 2015/06/08 v3.0.1a (rcs-revision 1.39)
+\pgf@gd@parameter@stack@height=\count525
+\pgf@gd@node@box=\box153
+\pgf@gd@edge@box=\box154
+\pgf@gd@prekind@box=\box155
+\pgf@gd@postkind@box=\box156
+)) (../lib/tikzset.tex))
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -2586,101 +3223,110 @@ File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count470
-\@quotereset=\count471
-(/home/aghiles/Aghiles/Research/Writing/bin/paper.aux)
+\@quotelevel=\count526
+\@quotereset=\count527
+(/home/aghiles/Aghiles/Research/Writing/bin/paper.aux
+
+LaTeX Warning: Label `2-tab:OS' multiply defined.
+
+
+LaTeX Warning: Label `5-tab:' multiply defined.
+
+
+LaTeX Warning: Label `11-tab:LPWan_characteristics' multiply defined.
+
+)
 \openout1 = paper.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 17.
-LaTeX Font Info:    Try loading font information for MDA+cmr on input line 17.
-
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdacmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 19.
+LaTeX Font Info:    Try loading font information for MDA+cmr on input line 19.
+ (/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdacmr.fd
 File: mdacmr.fd 
 )
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 17.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 19.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <5> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 17.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <7> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 17.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <8> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 17.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <9> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 17.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <10> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 17.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <11> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <11> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 17.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 17.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <17> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 17.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <20> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 17.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <24> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 17.
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 19.
 
 -- Lines per column: 56 (exact).
 .................................................
 . chemgreek info: "mapping-activated"
 . 
-. Activating mapping `default' on line 17.
+. Activating mapping `default' on line 19.
 .................................................
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count472
-\scratchdimen=\dimen349
-\scratchbox=\box119
-\nofMPsegments=\count473
-\nofMParguments=\count474
-\everyMPshowfont=\toks50
-\MPscratchCnt=\count475
-\MPscratchDim=\dimen350
-\MPnumerator=\count476
-\makeMPintoPDFobject=\count477
-\everyMPtoPDFconversion=\toks51
+\scratchcounter=\count528
+\scratchdimen=\dimen389
+\scratchbox=\box157
+\nofMPsegments=\count529
+\nofMParguments=\count530
+\everyMPshowfont=\toks60
+\MPscratchCnt=\count531
+\MPscratchDim=\dimen390
+\MPnumerator=\count532
+\makeMPintoPDFobject=\count533
+\everyMPtoPDFconversion=\toks61
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -2698,7 +3344,7 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 
 ))
-\AtBeginShipoutBox=\box120
+\AtBeginShipoutBox=\box158
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
@@ -2713,8 +3359,8 @@ Dictionary: translator-basic-dictionary, Language: English
 File: siunitx-abbreviations.cfg 2017/01/01 v2.7a siunitx: Abbreviated units
 )
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 17.
-Package hyperref Info: Link coloring ON on input line 17.
+LaTeX Info: Redefining \selectfont on input line 19.
+Package hyperref Info: Link coloring ON on input line 19.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -2722,11 +3368,11 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count478
+\c@section@level=\count534
 )
-LaTeX Info: Redefining \ref on input line 17.
-LaTeX Info: Redefining \pageref on input line 17.
-LaTeX Info: Redefining \nameref on input line 17.
+LaTeX Info: Redefining \ref on input line 19.
+LaTeX Info: Redefining \pageref on input line 19.
+LaTeX Info: Redefining \nameref on input line 19.
 
 (/home/aghiles/Aghiles/Research/Writing/bin/paper.out)
 (/home/aghiles/Aghiles/Research/Writing/bin/paper.out)
@@ -2734,6 +3380,8 @@ LaTeX Info: Redefining \nameref on input line 17.
 
 \openout8 = paper.out
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package biblatex Info: LuaTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
@@ -2744,9 +3392,143 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'paper.bbl' found.
 
-(/home/aghiles/Aghiles/Research/Writing/bin/paper.bbl)
-Package biblatex Info: Reference section=0 on input line 17.
-Package biblatex Info: Reference segment=0 on input line 17.
+(/home/aghiles/Aghiles/Research/Writing/bin/paper.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 12):
+(biblatex)                _short_2007
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 12):
+(biblatex)                _evaluation_
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 14):
+(biblatex)                yuzehuang_timeaware_2017
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 3):
+(biblatex)                sarwar_iot_
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 3):
+(biblatex)                _rpl2_
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 3):
+(biblatex)                hancke_role_2012
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 3):
+(biblatex)                degante_smart_2014
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 9):
+(biblatex)                STEPHENS1979
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 9):
+(biblatex)                difebbraro_trafficresponsive_2006
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 9):
+(biblatex)                Perera2014
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 9):
+(biblatex)                Routiere2015
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 9):
+(biblatex)                Al-Fuqaha2015
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 9):
+(biblatex)                Chen2017
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 9):
+(biblatex)                chalappuram_development_2016
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 9):
+(biblatex)                Silva2018
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 9):
+(biblatex)                tlig_decentralized_2014
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 9):
+(biblatex)                Dastjerdi2016
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 9):
+(biblatex)                Web0
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 9):
+(biblatex)                rose_internet_2015
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
+Package biblatex Info: Reference section=0 on input line 19.
+Package biblatex Info: Reference segment=0 on input line 19.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
 nary-english.trsl
@@ -2754,114 +3536,1093 @@ File: translations-basic-dictionary-english.trsl (english translation file `tran
 slations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' fo
-r `english'. on input line 17.
-\c__siunitx_mathsf_int=\count479
-LaTeX Font Info:    Try loading font information for OT1+zavm on input line 17.
- (/usr/share/texlive/texmf-dist/tex/latex/arev/ot1zavm.fd
+r `english'. on input line 19.
+\c@lstlisting=\count535
+
+Package pgfplots notification 'compat/show suggested version=true': document has
+ been generated with the most recent feature set (\pgfplotsset{compat=1.14}).
+
+\c__siunitx_mathsf_int=\count536
+LaTeX Font Info:    Try loading font information for OT1+zavm on input line 19.
+(/usr/share/texlive/texmf-dist/tex/latex/arev/ot1zavm.fd
 File: ot1zavm.fd 2006/05/30 Fontinst v1.929 font definitions for OT1/zavm.
 )
-LaTeX Font Info:    Try loading font information for OML+zavm on input line 17.
+LaTeX Font Info:    Try loading font information for OML+zavm on input line 19.
 
 (/usr/share/texlive/texmf-dist/tex/latex/arev/omlzavm.fd
 File: omlzavm.fd 2006/05/30 Fontinst v1.929 font definitions for OML/zavm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zavm on input line 17.
+LaTeX Font Info:    Try loading font information for OMS+zavm on input line 19.
 
 (/usr/share/texlive/texmf-dist/tex/latex/arev/omszavm.fd
 File: omszavm.fd 2006/05/30 Fontinst v1.929 font definitions for OMS/zavm.
 )
-LaTeX Font Info:    Try loading font information for OMX+mdbch on input line 17.
+LaTeX Font Info:    Try loading font information for OMX+mdbch on input line 19.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/omxmdbch.fd
 File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
 )
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 17.
+(Font)              scaled to size 9.60007pt on input line 19.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 7.29605pt on input line 17.
+(Font)              scaled to size 7.29605pt on input line 19.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 17.
-LaTeX Font Info:    Try loading font information for U+msa on input line 17.
+(Font)              scaled to size 5.76004pt on input line 19.
+LaTeX Font Info:    Try loading font information for U+msa on input line 19.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 17.
+LaTeX Font Info:    Try loading font information for U+msb on input line 19.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for MDA+mdbch on input line 17.
+LaTeX Font Info:    Try loading font information for MDA+mdbch on input line 19.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/mdamdbch.fd
 File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
 )
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 9.60007pt on input line 17.
+(Font)              scaled to size 9.60007pt on input line 19.
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 7.29605pt on input line 17.
+(Font)              scaled to size 7.29605pt on input line 19.
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 5.76004pt on input line 17.
-LaTeX Font Info:    Try loading font information for U+zavm on input line 17.
+(Font)              scaled to size 5.76004pt on input line 19.
+LaTeX Font Info:    Try loading font information for U+zavm on input line 19.
 
 (/usr/share/texlive/texmf-dist/tex/latex/arev/uzavm.fd
 File: uzavm.fd 2006/05/30 Fontinst v1.929 font definitions for U/zavm.
 )
-\c__siunitx_mathtt_int=\count480
-LaTeX Font Info:    Try loading font information for T1+fvm on input line 17.
+LaTeX Font Info:    Try loading font information for U+stmry on input line 19.
+
+(/usr/share/texlive/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
+LaTeX Font Info:    Try loading font information for U+wasy on input line 19.
+
+(/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
+File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
+)
+\c__siunitx_mathtt_int=\count537
+LaTeX Font Info:    Try loading font information for T1+fvm on input line 19.
 
 (/usr/share/texlive/texmf-dist/tex/latex/bera/t1fvm.fd
 File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
 )
-\blx@maxsegment@1=\count481
-\blx@sectionciteorder@1=\count482
-Package biblatex Info: Reference section=1 on input line 18.
-Package biblatex Info: Setting label 'refsection:1' on input line 18.
+\blx@maxsegment@1=\count538
+\blx@sectionciteorder@1=\count539
+Package biblatex Info: Reference section=1 on input line 20.
+Package biblatex Info: Setting label 'refsection:1' on input line 20.
 \g__file_internal_ior=\read5
 
-("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/authors.tex"
-)
+(./01-Introduction/authors.tex)
 
-LaTeX Warning: Empty bibliography on input line 64.
+LaTeX Warning: Empty bibliography on input line 29.
 
-Package biblatex Info: Reference section=0 on input line 64.
-\blx@maxsegment@2=\count483
-\blx@sectionciteorder@2=\count484
-Package biblatex Info: Reference section=2 on input line 64.
-Package biblatex Info: Setting label 'refsection:2' on input line 64.
+Package biblatex Info: Reference section=0 on input line 29.
+\blx@maxsegment@2=\count540
+\blx@sectionciteorder@2=\count541
+Package biblatex Info: Reference section=2 on input line 29.
+Package biblatex Info: Setting label 'refsection:2' on input line 29.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 64.
+(Font)              scaled to size 11.52008pt on input line 29.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 8.64006pt on input line 64.
+(Font)              scaled to size 8.64006pt on input line 29.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 6.72005pt on input line 64.
+(Font)              scaled to size 6.72005pt on input line 29.
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 11.52008pt on input line 64.
+(Font)              scaled to size 11.52008pt on input line 29.
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 8.64006pt on input line 64.
+(Font)              scaled to size 8.64006pt on input line 29.
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 6.72005pt on input line 64.
+(Font)              scaled to size 6.72005pt on input line 29.
+(./01-Introduction/00_introduction.tex) ("./02-State of the art/authors.tex")
 
-("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/00_abstract.
-tex"
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 4.80003pt on input line 4.
-LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 4.80003pt on input line 4.
-)
-("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/01_introduct
-ion.tex")
-("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/02_related.t
-ex" [1
+LaTeX Warning: Empty bibliography on input line 31.
+
+Package biblatex Info: Reference section=0 on input line 31.
+[1
 Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 
+]
+\blx@maxsegment@3=\count542
+\blx@sectionciteorder@3=\count543
+Package biblatex Info: Reference section=3 on input line 31.
+Package biblatex Info: Setting label 'refsection:3' on input line 31.
+
+("./02-State of the art/01_usecases.tex"
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\cite' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 1.
+
+<../res/tmp/Picture/application.png, id=982, 1415.2875pt x 1434.35875pt>
+File: ../res/tmp/Picture/application.png Graphic file (type png)
+
+<use ../res/tmp/Picture/application.png>
+Package luatex.def Info: ../res/tmp/Picture/application.png used on input line 1
+0.
+(luatex.def)             Requested size: 201.60077pt x 204.3107pt.
+
+<../res/tmp/Picture/apprequirements.png, id=983, 519.9425pt x 456.70625pt>
+File: ../res/tmp/Picture/apprequirements.png Graphic file (type png)
+
+<use ../res/tmp/Picture/apprequirements.png>
+Package luatex.def Info: ../res/tmp/Picture/apprequirements.png used on input li
+ne 11.
+(luatex.def)             Requested size: 201.60077pt x 177.07637pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<../res/tmp/A-Application/standard.png, id=984, 1290.8225pt x 905.3825pt>
+File: ../res/tmp/A-Application/standard.png Graphic file (type png)
+
+<use ../res/tmp/A-Application/standard.png>
+Package luatex.def Info: ../res/tmp/A-Application/standard.png used on input lin
+e 13.
+(luatex.def)             Requested size: 252.0pt x 176.74919pt.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 22.
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 4.80003pt on input line 22.
+
+Overfull \hbox (11.36852pt too wide) in paragraph at lines 49--50
+[][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (23.41785pt too wide) in paragraph at lines 83--83
+[][]|  
+ []
+
+
+Overfull \hbox (14.0869pt too wide) in paragraph at lines 83--83
+[][]|  
+ []
+
+
+Overfull \hbox (30.03282pt too wide) in paragraph at lines 83--83
+[][]|  
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[1
+
+
+<../res/tmp/Picture/application.png><../res/tmp/Picture/apprequirements.png><../
+res/tmp/A-Application/standard.png>]) ("./02-State of the art/02_sensors.tex"
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 5.
+
+<../res/tmp/Picture/os-timeline.png, id=1011, 594.0594pt x 179.7114pt>
+File: ../res/tmp/Picture/os-timeline.png Graphic file (type png)
+
+<use ../res/tmp/Picture/os-timeline.png>
+Package luatex.def Info: ../res/tmp/Picture/os-timeline.png used on input line 5
+.
+(luatex.def)             Requested size: 252.0pt x 76.23236pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[2
+Missing character: There is no λ (U+03BB) in font ptmb8t!
+Missing character: There is no • (U+2022) in font ptmr8t!
+Missing character: There is no • (U+2022) in font ptmr8t!
+Missing character: There is no • (U+2022) in font ptmr8t!
+Missing character: There is no • (U+2022) in font ptmr8t!
+Missing character: There is no • (U+2022) in font ptmr8t!
+<../res/tmp/Picture/os-timeline.png>]
+<../res/tmp/Framework/contiki.png, id=1023, 406.51875pt x 439.6425pt>
+File: ../res/tmp/Framework/contiki.png Graphic file (type png)
+
+<use ../res/tmp/Framework/contiki.png>
+Package luatex.def Info: ../res/tmp/Framework/contiki.png used on input line 83.
+
+(luatex.def)             Requested size: 201.60077pt x 218.02286pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[3
+Missing character: There is no “ (U+201C) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+Missing character: There is no “ (U+201C) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+Missing character: There is no “ (U+201C) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+Missing character: There is no “ (U+201C) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+<../res/tmp/Framework/contiki.png>]
+Overfull \hbox (2.43307pt too wide) in paragraph at lines 246--246
+ []\T1/ptm/b/n/7 Traf- 
+ []
+
+
+Overfull \hbox (1.78914pt too wide) in paragraph at lines 246--246
+ \T1/ptm/b/n/7 Con- 
+ []
+
+
+Overfull \hbox (0.69202pt too wide) in paragraph at lines 246--246
+ \T1/ptm/m/n/7 tributed| 
+ []
+
+
+Overfull \hbox (5.68098pt too wide) in paragraph at lines 246--246
+ []\T1/ptm/m/n/7 in/out- 
+ []
+
+
+Overfull \hbox (0.62021pt too wide) in paragraph at lines 246--246
+ \T1/ptm/m/n/7 band| 
+ []
+
+
+Overfull \hbox (0.62021pt too wide) in paragraph at lines 246--246
+ \T1/ptm/m/n/7 band| 
+ []
+
+
+Overfull \hbox (0.69202pt too wide) in paragraph at lines 246--246
+ \T1/ptm/m/n/7 tributed| 
+ []
+
+
+Overfull \hbox (0.62021pt too wide) in paragraph at lines 246--246
+ \T1/ptm/m/n/7 band| 
+ []
+
+
+Overfull \hbox (38.31691pt too wide) in paragraph at lines 246--246
+[][] 
+ []
+
+
+Overfull \hbox (0.69202pt too wide) in paragraph at lines 246--246
+ \T1/ptm/m/n/7 tributed| 
+ []
+
+
+Overfull \hbox (0.62021pt too wide) in paragraph at lines 246--246
+ \T1/ptm/m/n/7 band| 
+ []
+
+
+Overfull \hbox (0.69202pt too wide) in paragraph at lines 246--246
+ \T1/ptm/m/n/7 tributed| 
+ []
+
+
+Overfull \hbox (0.62021pt too wide) in paragraph at lines 246--246
+ \T1/ptm/m/n/7 band| 
+ []
+
+
+Overfull \hbox (4.37407pt too wide) in paragraph at lines 246--246
+[]\T1/ptm/b/n/7 TinySDN|  
+ []
+
+
+Overfull \hbox (0.69202pt too wide) in paragraph at lines 246--246
+ \T1/ptm/m/n/7 tributed| 
+ []
+
+
+Overfull \hbox (0.62021pt too wide) in paragraph at lines 246--246
+ \T1/ptm/m/n/7 band| 
+ []
+
+
+Overfull \hbox (0.69202pt too wide) in paragraph at lines 246--246
+ \T1/ptm/m/n/7 tributed| 
+ []
+
+
+Overfull \hbox (0.62021pt too wide) in paragraph at lines 246--246
+ \T1/ptm/m/n/7 band| 
+ []
+
+
+Overfull \hbox (0.69202pt too wide) in paragraph at lines 246--246
+ \T1/ptm/m/n/7 tributed| 
+ []
+
+
+Overfull \hbox (0.62021pt too wide) in paragraph at lines 246--246
+ \T1/ptm/m/n/7 band| 
+ []
+
+
+Overfull \hbox (0.62021pt too wide) in paragraph at lines 246--246
+ \T1/ptm/m/n/7 band| 
+ []
+
+
+Overfull \hbox (0.62021pt too wide) in paragraph at lines 246--246
+ \T1/ptm/m/n/7 band| 
+ []
+
+
+Overfull \hbox (0.62021pt too wide) in paragraph at lines 246--246
+ \T1/ptm/m/n/7 band| 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<../res/tmp/B-CN/sdn-wise.png, id=1052, 1376.14125pt x 588.1975pt>
+File: ../res/tmp/B-CN/sdn-wise.png Graphic file (type png)
+
+<use ../res/tmp/B-CN/sdn-wise.png>
+Package luatex.def Info: ../res/tmp/B-CN/sdn-wise.png used on input line 251.
+(luatex.def)             Requested size: 252.0pt x 107.71088pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
+[]|\T1/ptm/b/n/7 Mem-ory
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
+[]|\T1/ptm/b/n/7 Mem-ory
+ []
+
+
+Overfull \hbox (1.04611pt too wide) in paragraph at lines 286--286
+[]\T1/ptm/m/n/7 uIP/Rime|  
+ []
+
+
+Overfull \hbox (14.00952pt too wide) in paragraph at lines 286--286
+\T1/ptm/m/n/7 ized/semaphores|  
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[4<../res/tmp/B-CN/sdn-wise.png>]
+Overfull \hbox (1.36375pt too wide) in paragraph at lines 418--418
+ \T1/ptm/b/n/7 power| 
+ []
+
+
+Overfull \hbox (1.13802pt too wide) in paragraph at lines 418--418
+ \T1/ptm/b/n/7 power| 
+ []
+
+
+Overfull \hbox (2.2493pt too wide) in paragraph at lines 418--418
+ []\T1/ptm/b/n/7 Chan- 
+ []
+
+
+Overfull \hbox (0.8941pt too wide) in paragraph at lines 418--418
+ \T1/ptm/b/n/7 tance| 
+ []
+
+
+Overfull \hbox (1.66193pt too wide) in paragraph at lines 418--418
+[][]|  
+ []
+
+
+Overfull \hbox (21.03413pt too wide) in paragraph at lines 418--418
+[][]|  
+ []
+
+
+Overfull \hbox (5.83682pt too wide) in paragraph at lines 418--418
+ [][]| 
+ []
+
+
+Overfull \hbox (10.69533pt too wide) in paragraph at lines 418--418
+ [][]| 
+ []
+
+
+Overfull \hbox (7.29916pt too wide) in paragraph at lines 418--418
+ [][]| 
+ []
+
+
+Overfull \hbox (1.66193pt too wide) in paragraph at lines 418--418
+[][]|  
+ []
+
+) ("./02-State of the art/03_protocols.tex"
+Overfull \hbox (98.66759pt too wide) in paragraph at lines 6--16
+[][] 
+ []
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[5
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+]
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[6
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+]
+Overfull \hbox (3.56226pt too wide) in paragraph at lines 251--251
+ []\T1/ptm/m/n/7 Rest- 
+ []
+
+
+Overfull \hbox (4.18353pt too wide) in paragraph at lines 251--251
+ []\T1/ptm/m/n/7 Trans- 
+ []
+
+
+Overfull \hbox (2.57213pt too wide) in paragraph at lines 251--251
+ \T1/ptm/m/n/7 quest/Re- 
+ []
+
+
+Overfull \hbox (2.44592pt too wide) in paragraph at lines 251--251
+ []\T1/ptm/m/n/7 QoS| 
+ []
+
+
+Overfull \hbox (2.37173pt too wide) in paragraph at lines 251--251
+ []\T1/ptm/m/n/7 DTLS| 
+ []
+
+
+Overfull \hbox (2.37173pt too wide) in paragraph at lines 251--251
+ \T1/ptm/m/n/7 DTLS| 
+ []
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[7
+Missing character: There is no ‘ (U+2018) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+Missing character: There is no ‘ (U+2018) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+Missing character: There is no ‘ (U+2018) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+Missing character: There is no “ (U+201C) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+Missing character: There is no “ (U+201C) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+Missing character: There is no ‘ (U+2018) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+Missing character: There is no “ (U+201C) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+Missing character: There is no ‘ (U+2018) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+Missing character: There is no ‘ (U+2018) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+Missing character: There is no ‘ (U+2018) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+Missing character: There is no ‘ (U+2018) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+Missing character: There is no ‘ (U+2018) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+Missing character: There is no ‘ (U+2018) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+]
+Underfull \hbox (badness 1867) in paragraph at lines 365--375
+ \T1/ptm/m/it/10 d) Mesh ad-dress-ing header: [][]\T1/ptm/m/n/10 The Mesh Ad-dr
+ess-ing
+ []
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[8
+Missing character: There is no “ (U+201C) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+Missing character: There is no “ (U+201C) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+Missing character: There is no “ (U+201C) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+Missing character: There is no “ (U+201C) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+Missing character: There is no – (U+2013) in font ptmr8t!
+Missing character: There is no – (U+2013) in font ptmr8t!
+Missing character: There is no – (U+2013) in font ptmr8t!
+]
+Underfull \hbox (badness 10000) in paragraph at lines 530--532
+[]\T1/ptm/m/n/10 A Des-ti-na-tion Ori-ented Di-rected Acyclic Graph
+ []
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[9
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+]) ("./02-State of the art/04_standards.tex"
+<../res/tmp/Framework/riot-network-stack.png, id=1115, 533.995pt x 519.9425pt>
+File: ../res/tmp/Framework/riot-network-stack.png Graphic file (type png)
+
+<use ../res/tmp/Framework/riot-network-stack.png>
+Package luatex.def Info: ../res/tmp/Framework/riot-network-stack.png used on inp
+ut line 4.
+(luatex.def)             Requested size: 126.0pt x 122.67839pt.
+
+<../res/tmp/C-RAN/iot-protocols-overview.png, id=1116, 1219.55624pt x 655.44875
+pt>
+File: ../res/tmp/C-RAN/iot-protocols-overview.png Graphic file (type png)
+ <use ../res/tmp/C-RAN/iot-protocols-overview.png>
+Package luatex.def Info: ../res/tmp/C-RAN/iot-protocols-overview.png used on inp
+ut line 5.
+(luatex.def)             Requested size: 252.0pt x 135.428pt.
+
+<../res/plot/pdf/LPWAN.pdf, id=1117, 499.8424pt x 513.87984pt>
+File: ../res/plot/pdf/LPWAN.pdf Graphic file (type pdf)
+
+<use ../res/plot/pdf/LPWAN.pdf>
+Package luatex.def Info: ../res/plot/pdf/LPWAN.pdf used on input line 6.
+(luatex.def)             Requested size: 252.0pt x 259.07991pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[10<../res/tmp/Framework/riot-network-stack.png><../res/tmp/C-RAN/iot-protocols-
+overview.png><../res/plot/pdf/LPWAN.pdf>]
+<../res/tmp/C-RAN/lora_stack.png, id=1203, 845.1575pt x 597.23125pt>
+File: ../res/tmp/C-RAN/lora_stack.png Graphic file (type png)
+
+<use ../res/tmp/C-RAN/lora_stack.png>
+Package luatex.def Info: ../res/tmp/C-RAN/lora_stack.png used on input line 131.
+
+(luatex.def)             Requested size: 252.0pt x 178.0772pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[11<../res/tmp/C-RAN/lora_stack.png>]
+<../res/tmp/C-RAN/class_a.png, id=1213, 981.6675pt x 209.78375pt>
+File: ../res/tmp/C-RAN/class_a.png Graphic file (type png)
+
+<use ../res/tmp/C-RAN/class_a.png>
+Package luatex.def Info: ../res/tmp/C-RAN/class_a.png used on input line 181.
+(luatex.def)             Requested size: 201.60077pt x 43.07956pt.
+
+<../res/tmp/C-RAN/class_b.png, id=1214, 1025.8325pt x 196.735pt>
+File: ../res/tmp/C-RAN/class_b.png Graphic file (type png)
+
+<use ../res/tmp/C-RAN/class_b.png>
+Package luatex.def Info: ../res/tmp/C-RAN/class_b.png used on input line 220.
+(luatex.def)             Requested size: 252.0pt x 48.32806pt.
+
+<../res/tmp/C-RAN/class_c.png, id=1215, 1028.84375pt x 185.69376pt>
+File: ../res/tmp/C-RAN/class_c.png Graphic file (type png)
+
+<use ../res/tmp/C-RAN/class_c.png>
+Package luatex.def Info: ../res/tmp/C-RAN/class_c.png used on input line 236.
+(luatex.def)             Requested size: 252.0pt x 45.4826pt.
+
+<../res/tmp/C-RAN/lorawan_parameters.png, id=1216, 1027.84pt x 566.115pt>
+File: ../res/tmp/C-RAN/lorawan_parameters.png Graphic file (type png)
+
+<use ../res/tmp/C-RAN/lorawan_parameters.png>
+Package luatex.def Info: ../res/tmp/C-RAN/lorawan_parameters.png used on input l
+ine 243.
+(luatex.def)             Requested size: 252.0pt x 138.79008pt.
+
+<../res/tmp/C-RAN/loraparam.png, id=1217, 1219.55624pt x 638.385pt>
+File: ../res/tmp/C-RAN/loraparam.png Graphic file (type png)
+
+<use ../res/tmp/C-RAN/loraparam.png>
+Package luatex.def Info: ../res/tmp/C-RAN/loraparam.png used on input line 244.
+(luatex.def)             Requested size: 252.0pt x 131.9023pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[12
+Missing character: There is no “ (U+201C) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+<../res/tmp/C-RAN/class_a.png><../res/tmp/C-RAN/class_b.png><../res/tmp/C-RAN/cl
+ass_c.png><../res/tmp/C-RAN/lorawan_parameters.png>]
+<../res/tmp/C-RAN/bw.png, id=1242, 722.7pt x 459.7175pt>
+File: ../res/tmp/C-RAN/bw.png Graphic file (type png)
+
+<use ../res/tmp/C-RAN/bw.png>
+Package luatex.def Info: ../res/tmp/C-RAN/bw.png used on input line 303.
+(luatex.def)             Requested size: 126.0pt x 80.15013pt.
+
+Overfull \hbox (194.81685pt too wide) in paragraph at lines 314--314
+[] 
+ []
+
+
+Overfull \hbox (1.90932pt too wide) in paragraph at lines 324--324
+ []|\T1/ptm/b/n/7 SF|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 324--324
+ []|\T1/ptm/m/n/7 07|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 324--324
+ []|\T1/ptm/m/n/7 08|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 324--324
+ []|\T1/ptm/m/n/7 09|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 324--324
+ []|\T1/ptm/m/n/7 10|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 324--324
+ []|\T1/ptm/m/n/7 11|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 324--324
+ []|\T1/ptm/m/n/7 12|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 324--324
+ []|\T1/ptm/m/n/7 07|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 324--324
+ []|\T1/ptm/m/n/7 08|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 324--324
+ []|\T1/ptm/m/n/7 09|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 324--324
+ []|\T1/ptm/m/n/7 10|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 324--324
+ []|\T1/ptm/m/n/7 11|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 324--324
+ []|\T1/ptm/m/n/7 12|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 324--324
+ []|\T1/ptm/m/n/7 07|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 324--324
+ []|\T1/ptm/m/n/7 08|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 324--324
+ []|\T1/ptm/m/n/7 09|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 324--324
+ []|\T1/ptm/m/n/7 10|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 324--324
+ []|\T1/ptm/m/n/7 11|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 324--324
+ []|\T1/ptm/m/n/7 12|
+ []
+
+
+Overfull \hbox (5.40932pt too wide) in paragraph at lines 325--325
+ []|\T1/ptm/b/n/7 BW|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 326--326
+ []|\T1/ptm/m/n/7 07|
+ []
+
+
+Overfull \hbox (4.24037pt too wide) in paragraph at lines 326--326
+ []|[]|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 327--327
+ []|\T1/ptm/m/n/7 08|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 328--328
+ []|\T1/ptm/m/n/7 09|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 329--329
+ []|\T1/ptm/m/n/7 10|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 330--330
+ []|\T1/ptm/m/n/7 11|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 331--331
+ []|\T1/ptm/m/n/7 12|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 333--333
+ []|\T1/ptm/m/n/7 07|
+ []
+
+
+Overfull \hbox (4.24037pt too wide) in paragraph at lines 333--333
+ []|[]|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 334--334
+ []|\T1/ptm/m/n/7 08|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 335--335
+ []|\T1/ptm/m/n/7 09|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 336--336
+ []|\T1/ptm/m/n/7 10|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 337--337
+ []|\T1/ptm/m/n/7 11|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 338--338
+ []|\T1/ptm/m/n/7 12|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 340--340
+ []|\T1/ptm/m/n/7 07|
+ []
+
+
+Overfull \hbox (4.24037pt too wide) in paragraph at lines 340--340
+ []|[]|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 341--341
+ []|\T1/ptm/m/n/7 08|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 342--342
+ []|\T1/ptm/m/n/7 09|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 343--343
+ []|\T1/ptm/m/n/7 10|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 344--344
+ []|\T1/ptm/m/n/7 11|
+ []
+
+
+Overfull \hbox (0.74037pt too wide) in paragraph at lines 345--345
+ []|\T1/ptm/m/n/7 12|
+ []
+
+
+Overfull \hbox (3.99246pt too wide) in paragraph at lines 322--347
+[][] 
+ []
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[13<../res/tmp/C-RAN/loraparam.png><../res/tmp/C-RAN/bw.png>])
+("./02-State of the art/05_sdn.tex") ("./02-State of the art/06_security.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+) (./03-x-Testbed/authors.tex)
+Package biblatex Info: Reference section=0 on input line 39.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[14]
+\blx@maxsegment@4=\count544
+\blx@sectionciteorder@4=\count545
+Package biblatex Info: Reference section=4 on input line 39.
+Package biblatex Info: Setting label 'refsection:4' on input line 39.
+ (./03-x-Testbed/00_abstract.tex) (./03-x-Testbed/01_introduction.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\cite' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 1.
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[1
+
+
+]) (./03-x-Testbed/02_related.tex) (./03-x-Testbed/03_background.tex
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[2
+Missing character: There is no ∼ (U+223C) in font ptmr8t!
+Missing character: There is no ∼ (U+223C) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+Missing character: There is no • (U+2022) in font ptmr8t!
+Missing character: There is no • (U+2022) in font ptmr8t!
+Missing character: There is no • (U+2022) in font ptmr8t!
+Missing character: There is no • (U+2022) in font ptmr8t!
+Missing character: There is no • (U+2022) in font ptmr8t!
+Missing character: There is no • (U+2022) in font ptmr8t!
+]) (./03-x-Testbed/04_approach.tex
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[3
+Missing character: There is no • (U+2022) in font ptmr8t!
+Missing character: There is no • (U+2022) in font ptmr8t!
+Missing character: There is no • (U+2022) in font ptmr8t!
+Missing character: There is no • (U+2022) in font ptmr8t!
+Missing character: There is no • (U+2022) in font ptmr8t!
+Missing character: There is no • (U+2022) in font ptmr8t!
+Missing character: There is no • (U+2022) in font ptmr8t!
+Missing character: There is no • (U+2022) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+]) (./03-x-Testbed/05_experimentation.tex
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[4
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+Missing character: There is no λ (U+03BB) in font ptmr8t!
+Missing character: There is no λ (U+03BB) in font ptmr8t!
+Missing character: There is no π (U+03C0) in font ptmr8t!
+Missing character: There is no − (U+2212) in font ptmr8t!
+Missing character: There is no λ (U+03BB) in font ptmr8t!
+Missing character: There is no − (U+2212) in font ptmr8t!
+Missing character: There is no − (U+2212) in font ptmr8t!
+Missing character: There is no − (U+2212) in font ptmr8t!
+Missing character: There is no − (U+2212) in font ptmr8t!
+Missing character: There is no − (U+2212) in font ptmr8t!
+]
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[5
+Missing character: There is no ∼ (U+223C) in font ptmr8t!
+Missing character: There is no ∼ (U+223C) in font ptmr8t!
+Missing character: There is no ∼ (U+223C) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+Missing character: There is no − (U+2212) in font ptmr8t!
+Missing character: There is no − (U+2212) in font ptmr8t!
+Missing character: There is no − (U+2212) in font ptmr8t!
+]
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[6
+Missing character: There is no μ (U+03BC) in font ptmr8t!
+Missing character: There is no μ (U+03BC) in font ptmr8t!
+]) (./03-x-Testbed/06_results.tex
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[7
+Missing character: There is no ∼ (U+223C) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+]) (./03-x-Testbed/07_conclusion.tex
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[8
+Missing character: There is no μ (U+03BC) in font ptmr8t!
+]) (./04-x-Sentilo/authors.tex)
+Package biblatex Info: Reference section=0 on input line 48.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[9
+
+]
+\blx@maxsegment@5=\count546
+\blx@sectionciteorder@5=\count547
+Package biblatex Info: Reference section=5 on input line 48.
+Package biblatex Info: Setting label 'refsection:5' on input line 48.
+ (./04-x-Sentilo/00_abstract.tex) (./04-x-Sentilo/01_introduction.tex
+
+LaTeX Warning: Citation 'joseignacio_contiki_2016' on page 1 undefined on input 
+line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\cite' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 1.
+
+) (./04-x-Sentilo/02_related.tex) (./04-x-Sentilo/03_background.tex)
+(./04-x-Sentilo/04_approach.tex
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[1
+
+
+Missing character: There is no “ (U+201C) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+Missing character: There is no “ (U+201C) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+Missing character: There is no “ (U+201C) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+Missing character: There is no “ (U+201C) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+]
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[2]) (./04-x-Sentilo/05_experimentation.tex) (./04-x-Sentilo/06_results.tex)
+(./04-x-Sentilo/07_conclusion.tex
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[3
+Missing character: There is no – (U+2013) in font ptmr8t!
+]) ("./05-x-Long paper/authors.tex")
+
+LaTeX Warning: Empty bibliography on input line 57.
+
+Package biblatex Info: Reference section=0 on input line 57.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[4
+
+]
+\blx@maxsegment@6=\count548
+\blx@sectionciteorder@6=\count549
+Package biblatex Info: Reference section=6 on input line 57.
+Package biblatex Info: Setting label 'refsection:6' on input line 57.
+ ("./05-x-Long paper/00_abstract.tex")
+("./05-x-Long paper/01_introduction.tex") ("./05-x-Long paper/02_related.tex"
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[1
+
+
+]) ("./05-x-Long paper/03_background.tex") ("./05-x-Long paper/04_approach.tex"
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[2]
+
+Package tabulary Warning: No suitable columns! on input line 60.
+
+
+Package tabulary Warning: No suitable columns! on input line 84.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[3
+Missing character: There is no ρ (U+03C1) in font ptmr8t!
+Missing character: There is no − (U+2212) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+]) ("./05-x-Long paper/05_experimentation.tex"
+
+Package tabulary Warning: No suitable columns! on input line 27.
+
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 27.
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 7.68005pt on input line 27.
+(../res/plot/figure1.tex
+PGFPlots: reading {../res/data/figure1.dat}
+PGFPlots: reading {../res/data/figure1.dat}
+PGFPlots: reading {../res/data/figure1.dat}
+PGFPlots: reading {../res/data/figure1.dat}
+) (../res/plot/figure3.tex
+PGFPlots: reading {../res/data/figure3.dat}
+PGFPlots: reading {../res/data/figure3.dat}
+PGFPlots: reading {../res/data/figure3.dat}
+PGFPlots: reading {../res/data/figure3.dat}
+)
+
+LaTeX Warning: Reference `5-fig:local_.png' on page  undefined on input line 36.
+
+
+) ("./05-x-Long paper/06_results.tex"
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[4]) ("./05-x-Long paper/07_conclusion.tex")
+("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/authors.tex"
+)
+Package biblatex Info: Reference section=0 on input line 66.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[5]
+\blx@maxsegment@7=\count550
+\blx@sectionciteorder@7=\count551
+Package biblatex Info: Reference section=7 on input line 66.
+Package biblatex Info: Setting label 'refsection:7' on input line 66.
+
+("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/00_abstract.
+tex")
+("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/01_introduct
+ion.tex")
+("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/02_related.t
+ex"
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[1
+
+
 ])
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/04_approach.
-tex" <../res/plot/genetic.pdf, id=85, 1026.1025pt x 457.04752pt>
+tex" <../res/plot/genetic.pdf, id=1394, 1026.1025pt x 457.04752pt>
 File: ../res/plot/genetic.pdf Graphic file (type pdf)
 
 <use ../res/plot/genetic.pdf>
@@ -2869,14 +4630,14 @@ Package luatex.def Info: ../res/plot/genetic.pdf used on input line 54.
 (luatex.def)             Requested size: 252.0pt x 112.24611pt.
 )
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/05_experimen
-tation.tex" <../res/tmp/Picture/gateway.jpg, id=102, 4625.28pt x 3468.96pt>
+tation.tex" <../res/tmp/Picture/gateway.jpg, id=1411, 4625.28pt x 3468.96pt>
 File: ../res/tmp/Picture/gateway.jpg Graphic file (type jpg)
 
 <use ../res/tmp/Picture/gateway.jpg>
 Package luatex.def Info: ../res/tmp/Picture/gateway.jpg used on input line 15.
 (luatex.def)             Requested size: 120.95892pt x 90.67252pt.
 
-<../res/tmp/Picture/node.jpg, id=103, 4625.28pt x 3468.96pt>
+<../res/tmp/Picture/node.jpg, id=1412, 4625.28pt x 3468.96pt>
 File: ../res/tmp/Picture/node.jpg Graphic file (type jpg)
 
 <use ../res/tmp/Picture/node.jpg>
@@ -2884,13 +4645,823 @@ Package luatex.def Info: ../res/tmp/Picture/node.jpg used on input line 15.
 (luatex.def)             Requested size: 120.95892pt x 90.67252pt.
 )
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/07_conclusio
-n.tex")
-Underfull \hbox (badness 10000) in paragraph at lines 141--141
+n.tex") (./07-Template/authors.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
 []\T1/ptm/m/it/9 Https://lora-alliance.org/resource-hub/lorawanr-specification-
 
  []
 
-Package biblatex Info: Reference section=0 on input line 142.
+Package biblatex Info: Reference section=0 on input line 75.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[2<../res/plot/genetic.pdf><../res/tmp/Picture/gateway.jpg><../res/tmp/Picture/n
+ode.jpg>]
+\blx@maxsegment@8=\count552
+\blx@sectionciteorder@8=\count553
+Package biblatex Info: Reference section=8 on input line 75.
+Package biblatex Info: Setting label 'refsection:8' on input line 75.
+ (./07-Template/00_abstract.tex) (./07-Template/01_introduction.tex
+
+LaTeX Warning: Reference `7-sec:Conclusions' on page  undefined on input line 49
+.
+
+) (./07-Template/02_related.tex) (./07-Template/04_approach.tex)
+(./07-Template/05_experimentation.tex) (./07-Template/06_results.tex)
+(./07-Template/07_conclusion.tex) (./08-UTLC/authors.tex)
+
+LaTeX Warning: Empty bibliography on input line 84.
+
+Package biblatex Info: Reference section=0 on input line 84.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[1
+
+
+]
+\blx@maxsegment@9=\count554
+\blx@sectionciteorder@9=\count555
+Package biblatex Info: Reference section=9 on input line 84.
+Package biblatex Info: Setting label 'refsection:9' on input line 84.
+ (./08-UTLC/00_abstract.tex) (./08-UTLC/01_introduction.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[1
+
+
+]
+
+LaTeX Warning: Reference `8-sec:Use Case and Model Design' on page  undefined on
+ input line 72.
+
+
+LaTeX Warning: Reference `8-sec:Prototyping' on page  undefined on input line 74
+.
+
+) (./08-UTLC/02_related.tex) (./08-UTLC/03_background.tex)
+(./08-UTLC/04_approach.tex
+Package epstopdf Info: Source file: <../res/tmp/Figures/CrossRoadModel_V1.eps>
+(epstopdf)                    date: 2019-10-07 09:08:43
+(epstopdf)                    size: 124569 bytes
+(epstopdf)             Output file: <../res/tmp/Figures/CrossRoadModel_V1-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2019-10-07 09:08:43
+(epstopdf)                    size: 29569 bytes
+(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/CrossRoad
+Model_V1-eps-converted-to.pdf ../res/tmp/Figures/CrossRoadModel_V1.eps>
+(epstopdf)             \includegraphics on input line 29.
+Package epstopdf Info: Output file is already uptodate.
+
+warning  (file ../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.pdf) (pdf i
+nclusion): PDF inclusion: found PDF version '1.7', but at most version '1.5' all
+owed
+
+<../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.pdf, id=1484, 944.52875p
+t x 648.4225pt>
+File: ../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+
+<use ../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.pdf>
+Package luatex.def Info: ../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.p
+df used on input line 29.
+(luatex.def)             Requested size: 252.94499pt x 173.64177pt.
+
+Overfull \hbox (0.94499pt too wide) in paragraph at lines 29--30
+ [][] 
+ []
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[2
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+]
+Package epstopdf Info: Source file: <../res/tmp/Figures/TrafficlightModel.eps>
+(epstopdf)                    date: 2019-10-07 09:08:43
+(epstopdf)                    size: 8506 bytes
+(epstopdf)             Output file: <../res/tmp/Figures/TrafficlightModel-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2019-10-07 09:08:43
+(epstopdf)                    size: 4298 bytes
+(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/Trafficli
+ghtModel-eps-converted-to.pdf ../res/tmp/Figures/TrafficlightModel.eps>
+(epstopdf)             \includegraphics on input line 116.
+Package epstopdf Info: Output file is already uptodate.
+
+warning  (file ../res/tmp/Figures/TrafficlightModel-eps-converted-to.pdf) (pdf i
+nclusion): PDF inclusion: found PDF version '1.7', but at most version '1.5' all
+owed
+
+<../res/tmp/Figures/TrafficlightModel-eps-converted-to.pdf, id=1497, 404.51125p
+t x 152.57pt>
+File: ../res/tmp/Figures/TrafficlightModel-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+ <use ../res/tmp/Figures/TrafficlightModel-eps-converted-to.pdf>
+Package luatex.def Info: ../res/tmp/Figures/TrafficlightModel-eps-converted-to.p
+df used on input line 116.
+(luatex.def)             Requested size: 325.215pt x 122.66377pt.
+Package epstopdf Info: Source file: <../res/tmp/Figures/MiddlewareModel.eps>
+(epstopdf)                    date: 2019-10-07 09:08:43
+(epstopdf)                    size: 17123 bytes
+(epstopdf)             Output file: <../res/tmp/Figures/MiddlewareModel-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2019-10-07 09:08:43
+(epstopdf)                    size: 5168 bytes
+(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/Middlewar
+eModel-eps-converted-to.pdf ../res/tmp/Figures/MiddlewareModel.eps>
+(epstopdf)             \includegraphics on input line 123.
+Package epstopdf Info: Output file is already uptodate.
+
+warning  (file ../res/tmp/Figures/MiddlewareModel-eps-converted-to.pdf) (pdf inc
+lusion): PDF inclusion: found PDF version '1.7', but at most version '1.5' allow
+ed
+
+<../res/tmp/Figures/MiddlewareModel-eps-converted-to.pdf, id=1498, 423.5825pt x
+ 292.09125pt>
+File: ../res/tmp/Figures/MiddlewareModel-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use ../res/tmp/Figures/MiddlewareModel-eps-converted-to.pdf>
+Package luatex.def Info: ../res/tmp/Figures/MiddlewareModel-eps-converted-to.pdf
+ used on input line 123.
+(luatex.def)             Requested size: 289.07999pt x 199.35034pt.
+Package epstopdf Info: Source file: <../res/tmp/Figures/CloudModel.eps>
+(epstopdf)                    date: 2019-10-07 09:08:43
+(epstopdf)                    size: 6424 bytes
+(epstopdf)             Output file: <../res/tmp/Figures/CloudModel-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2019-10-07 09:08:43
+(epstopdf)                    size: 3823 bytes
+(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/CloudMode
+l-eps-converted-to.pdf ../res/tmp/Figures/CloudModel.eps>
+(epstopdf)             \includegraphics on input line 208.
+Package epstopdf Info: Output file is already uptodate.
+
+warning  (file ../res/tmp/Figures/CloudModel-eps-converted-to.pdf) (pdf inclusio
+n): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
+
+<../res/tmp/Figures/CloudModel-eps-converted-to.pdf, id=1506, 294.09875pt x 199
+.74625pt>
+File: ../res/tmp/Figures/CloudModel-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use ../res/tmp/Figures/CloudModel-eps-converted-to.pdf>
+Package luatex.def Info: ../res/tmp/Figures/CloudModel-eps-converted-to.pdf used
+ on input line 208.
+(luatex.def)             Requested size: 231.26378pt x 157.06935pt.
+)
+(./08-UTLC/05_experimentation.tex
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[3<../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <../res/tmp/Figures/ScenarioPaper.eps>
+(epstopdf)                    date: 2019-10-07 09:08:43
+(epstopdf)                    size: 790082 bytes
+(epstopdf)             Output file: <../res/tmp/Figures/ScenarioPaper-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2019-10-07 09:08:43
+(epstopdf)                    size: 79930 bytes
+(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/ScenarioP
+aper-eps-converted-to.pdf ../res/tmp/Figures/ScenarioPaper.eps>
+(epstopdf)             \includegraphics on input line 12.
+Package epstopdf Info: Output file is already uptodate.
+
+warning  (file ../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf) (pdf inclu
+sion): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
+
+
+<../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf, id=1558, 1535.7375pt x 
+604.2575pt>
+File: ../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf Graphic file (type p
+df)
+ <use ../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf>
+Package luatex.def Info: ../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf u
+sed on input line 12.
+(luatex.def)             Requested size: 325.215pt x 127.95815pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[4
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+<../res/tmp/Figures/TrafficlightModel-eps-converted-to.pdf><../res/tmp/Figures/M
+iddlewareModel-eps-converted-to.pdf><../res/tmp/Figures/CloudModel-eps-converted
+-to.pdf>]
+<../res/tmp/Figures/ethernetRouter.png, id=1587, 294.8616pt x 168.1482pt>
+File: ../res/tmp/Figures/ethernetRouter.png Graphic file (type png)
+
+<use ../res/tmp/Figures/ethernetRouter.png>
+Package luatex.def Info: ../res/tmp/Figures/ethernetRouter.png used on input lin
+e 52.
+(luatex.def)             Requested size: 180.67499pt x 103.03206pt.
+
+
+LaTeX Warning: Reference `8-sec:Use Case and Model Design' on page  undefined on
+ input line 58.
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[5
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+<../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf><../res/tmp/Figures/ether
+netRouter.png>]
+Package epstopdf Info: Source file: <../res/tmp/Figures/StackIoTv1.eps>
+(epstopdf)                    date: 2019-10-07 09:08:43
+(epstopdf)                    size: 55400 bytes
+(epstopdf)             Output file: <../res/tmp/Figures/StackIoTv1-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2019-10-07 09:08:43
+(epstopdf)                    size: 18793 bytes
+(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/StackIoTv
+1-eps-converted-to.pdf ../res/tmp/Figures/StackIoTv1.eps>
+(epstopdf)             \includegraphics on input line 233.
+Package epstopdf Info: Output file is already uptodate.
+
+warning  (file ../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf) (pdf inclusio
+n): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
+
+<../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf, id=1649, 298.11375pt x 343
+.2825pt>
+File: ../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use ../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf>
+Package luatex.def Info: ../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf used
+ on input line 233.
+(luatex.def)             Requested size: 144.54pt x 166.43942pt.
+)
+(./08-UTLC/06_results.tex
+Package epstopdf Info: Source file: <../res/tmp/Figures/distributions_v3.eps>
+(epstopdf)                    date: 2019-10-07 09:08:43
+(epstopdf)                    size: 46701 bytes
+(epstopdf)             Output file: <../res/tmp/Figures/distributions_v3-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2019-10-07 09:08:43
+(epstopdf)                    size: 45885 bytes
+(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/distribut
+ions_v3-eps-converted-to.pdf ../res/tmp/Figures/distributions_v3.eps>
+(epstopdf)             \includegraphics on input line 9.
+Package epstopdf Info: Output file is already uptodate.
+
+warning  (file ../res/tmp/Figures/distributions_v3-eps-converted-to.pdf) (pdf in
+clusion): PDF inclusion: found PDF version '1.7', but at most version '1.5' allo
+wed
+
+<../res/tmp/Figures/distributions_v3-eps-converted-to.pdf, id=1650, 752.8125pt 
+x 752.8125pt>
+File: ../res/tmp/Figures/distributions_v3-eps-converted-to.pdf Graphic file (typ
+e pdf)
+ <use ../res/tmp/Figures/distributions_v3-eps-converted-to.pdf>
+Package luatex.def Info: ../res/tmp/Figures/distributions_v3-eps-converted-to.pd
+f used on input line 9.
+(luatex.def)             Requested size: 252.0pt x 252.00134pt.
+Package epstopdf Info: Source file: <../res/tmp/Figures/cdf_v3.eps>
+(epstopdf)                    date: 2019-10-07 09:08:43
+(epstopdf)                    size: 10221 bytes
+(epstopdf)             Output file: <../res/tmp/Figures/cdf_v3-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2019-10-07 09:08:43
+(epstopdf)                    size: 12730 bytes
+(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/cdf_v3-ep
+s-converted-to.pdf ../res/tmp/Figures/cdf_v3.eps>
+(epstopdf)             \includegraphics on input line 57.
+Package epstopdf Info: Output file is already uptodate.
+
+warning  (file ../res/tmp/Figures/cdf_v3-eps-converted-to.pdf) (pdf inclusion): 
+PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
+
+<../res/tmp/Figures/cdf_v3-eps-converted-to.pdf, id=1653, 903.375pt x 617.30624
+pt>
+File: ../res/tmp/Figures/cdf_v3-eps-converted-to.pdf Graphic file (type pdf)
+ <use ../res/tmp/Figures/cdf_v3-eps-converted-to.pdf>
+Package luatex.def Info: ../res/tmp/Figures/cdf_v3-eps-converted-to.pdf used on 
+input line 57.
+(luatex.def)             Requested size: 252.94499pt x 172.84456pt.
+
+Overfull \hbox (0.94499pt too wide) in paragraph at lines 57--58
+ [][] 
+ []
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[6<../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf>])
+(./08-UTLC/07_conclusion.tex) (./09-Conclusion/authors.tex)
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[7
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+Missing character: There is no č (U+010D) in font ptmr8t!
+<../res/tmp/Figures/distributions_v3-eps-converted-to.pdf><../res/tmp/Figures/cd
+f_v3-eps-converted-to.pdf>]
+Underfull \hbox (badness 1472) in paragraph at lines 93--93
+[]\T1/ptm/m/n/9 M. Dotoli and M. P. Fanti, ``An ur-ban traf-fic net-work
+ []
+
+Package biblatex Info: Reference section=0 on input line 93.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[8
+
+]
+\blx@maxsegment@10=\count556
+\blx@sectionciteorder@10=\count557
+Package biblatex Info: Reference section=10 on input line 93.
+Package biblatex Info: Setting label 'refsection:10' on input line 93.
+ (./09-Conclusion/00_conclusion.tex) ("./A-Survey IoT/authors.tex")
+
+LaTeX Warning: Empty bibliography on input line 96.
+
+Package biblatex Info: Reference section=0 on input line 96.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[1
+
+
+]
+\blx@maxsegment@11=\count558
+\blx@sectionciteorder@11=\count559
+Package biblatex Info: Reference section=11 on input line 96.
+Package biblatex Info: Setting label 'refsection:11' on input line 96.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[1
+
+
+
+] ("./A-Survey IoT/00_cloud.tex"
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[2
+
+]) ("./A-Survey IoT/authors.tex")
+
+LaTeX Warning: Empty bibliography on input line 99.
+
+Package biblatex Info: Reference section=0 on input line 99.
+\blx@maxsegment@12=\count560
+\blx@sectionciteorder@12=\count561
+Package biblatex Info: Reference section=12 on input line 99.
+Package biblatex Info: Setting label 'refsection:12' on input line 99.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[1
+
+
+] ("./A-Survey IoT/00_application.tex"
+\height=\dimen391
+\depth=\dimen392
+\totalheight=\dimen393
+\width=\dimen394
+\height=\dimen395
+\depth=\dimen396
+\totalheight=\dimen397
+\width=\dimen398
+\height=\dimen399
+\depth=\dimen400
+\totalheight=\dimen401
+\width=\dimen402
+\height=\dimen403
+\depth=\dimen404
+\totalheight=\dimen405
+\width=\dimen406
+\height=\dimen407
+\depth=\dimen408
+\totalheight=\dimen409
+\width=\dimen410
+\height=\dimen411
+\depth=\dimen412
+\totalheight=\dimen413
+\width=\dimen414
+\height=\dimen415
+\depth=\dimen416
+\totalheight=\dimen417
+\width=\dimen418
+\height=\dimen419
+\depth=\dimen420
+\totalheight=\dimen421
+\width=\dimen422
+\height=\dimen423
+\depth=\dimen424
+\totalheight=\dimen425
+\width=\dimen426
+\height=\dimen427
+\depth=\dimen428
+\totalheight=\dimen429
+\width=\dimen430
+\height=\dimen431
+\depth=\dimen432
+\totalheight=\dimen433
+\width=\dimen434
+\height=\dimen435
+\depth=\dimen436
+\totalheight=\dimen437
+\width=\dimen438
+\height=\dimen439
+\depth=\dimen440
+\totalheight=\dimen441
+\width=\dimen442
+\height=\dimen443
+\depth=\dimen444
+\totalheight=\dimen445
+\width=\dimen446
+\height=\dimen447
+\depth=\dimen448
+\totalheight=\dimen449
+\width=\dimen450
+\height=\dimen451
+\depth=\dimen452
+\totalheight=\dimen453
+\width=\dimen454
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[2
+
+]) ("./A-Survey IoT/00_frame.tex"
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[3]
+\height=\dimen455
+\depth=\dimen456
+\totalheight=\dimen457
+\width=\dimen458
+\height=\dimen459
+\depth=\dimen460
+\totalheight=\dimen461
+\width=\dimen462
+\height=\dimen463
+\depth=\dimen464
+\totalheight=\dimen465
+\width=\dimen466
+\height=\dimen467
+\depth=\dimen468
+\totalheight=\dimen469
+\width=\dimen470
+\height=\dimen471
+\depth=\dimen472
+\totalheight=\dimen473
+\width=\dimen474
+\height=\dimen475
+\depth=\dimen476
+\totalheight=\dimen477
+\width=\dimen478
+\height=\dimen479
+\depth=\dimen480
+\totalheight=\dimen481
+\width=\dimen482
+\height=\dimen483
+\depth=\dimen484
+\totalheight=\dimen485
+\width=\dimen486
+\height=\dimen487
+\depth=\dimen488
+\totalheight=\dimen489
+\width=\dimen490
+\height=\dimen491
+\depth=\dimen492
+\totalheight=\dimen493
+\width=\dimen494
+\height=\dimen495
+\depth=\dimen496
+\totalheight=\dimen497
+\width=\dimen498
+\height=\dimen499
+\depth=\dimen500
+\totalheight=\dimen501
+\width=\dimen502
+\height=\dimen503
+\depth=\dimen504
+\totalheight=\dimen505
+\width=\dimen506
+\height=\dimen507
+\depth=\dimen508
+\totalheight=\dimen509
+\width=\dimen510
+\height=\dimen511
+\depth=\dimen512
+\totalheight=\dimen513
+\width=\dimen514
+\height=\dimen515
+\depth=\dimen516
+\totalheight=\dimen517
+\width=\dimen518
+\height=\dimen519
+\depth=\dimen520
+\totalheight=\dimen521
+\width=\dimen522
+\height=\dimen523
+\depth=\dimen524
+\totalheight=\dimen525
+\width=\dimen526
+\height=\dimen527
+\depth=\dimen528
+\totalheight=\dimen529
+\width=\dimen530
+\height=\dimen531
+\depth=\dimen532
+\totalheight=\dimen533
+\width=\dimen534
+\height=\dimen535
+\depth=\dimen536
+\totalheight=\dimen537
+\width=\dimen538
+\height=\dimen539
+\depth=\dimen540
+\totalheight=\dimen541
+\width=\dimen542
+\height=\dimen543
+\depth=\dimen544
+\totalheight=\dimen545
+\width=\dimen546
+\height=\dimen547
+\depth=\dimen548
+\totalheight=\dimen549
+\width=\dimen550
+\height=\dimen551
+\depth=\dimen552
+\totalheight=\dimen553
+\width=\dimen554
+\height=\dimen555
+\depth=\dimen556
+\totalheight=\dimen557
+\width=\dimen558
+\height=\dimen559
+\depth=\dimen560
+\totalheight=\dimen561
+\width=\dimen562
+\height=\dimen563
+\depth=\dimen564
+\totalheight=\dimen565
+\width=\dimen566
+\height=\dimen567
+\depth=\dimen568
+\totalheight=\dimen569
+\width=\dimen570
+\height=\dimen571
+\depth=\dimen572
+\totalheight=\dimen573
+\width=\dimen574
+\height=\dimen575
+\depth=\dimen576
+\totalheight=\dimen577
+\width=\dimen578
+\height=\dimen579
+\depth=\dimen580
+\totalheight=\dimen581
+\width=\dimen582
+\height=\dimen583
+\depth=\dimen584
+\totalheight=\dimen585
+\width=\dimen586
+\height=\dimen587
+\depth=\dimen588
+\totalheight=\dimen589
+\width=\dimen590
+\height=\dimen591
+\depth=\dimen592
+\totalheight=\dimen593
+\width=\dimen594
+\height=\dimen595
+\depth=\dimen596
+\totalheight=\dimen597
+\width=\dimen598
+\height=\dimen599
+\depth=\dimen600
+\totalheight=\dimen601
+\width=\dimen602
+\height=\dimen603
+\depth=\dimen604
+\totalheight=\dimen605
+\width=\dimen606
+\height=\dimen607
+\depth=\dimen608
+\totalheight=\dimen609
+\width=\dimen610
+\height=\dimen611
+\depth=\dimen612
+\totalheight=\dimen613
+\width=\dimen614
+\height=\dimen615
+\depth=\dimen616
+\totalheight=\dimen617
+\width=\dimen618
+\height=\dimen619
+\depth=\dimen620
+\totalheight=\dimen621
+\width=\dimen622
+\height=\dimen623
+\depth=\dimen624
+\totalheight=\dimen625
+\width=\dimen626
+\height=\dimen627
+\depth=\dimen628
+\totalheight=\dimen629
+\width=\dimen630
+\height=\dimen631
+\depth=\dimen632
+\totalheight=\dimen633
+\width=\dimen634
+\height=\dimen635
+\depth=\dimen636
+\totalheight=\dimen637
+\width=\dimen638
+\height=\dimen639
+\depth=\dimen640
+\totalheight=\dimen641
+\width=\dimen642
+\height=\dimen643
+\depth=\dimen644
+\totalheight=\dimen645
+\width=\dimen646
+\height=\dimen647
+\depth=\dimen648
+\totalheight=\dimen649
+\width=\dimen650
+\height=\dimen651
+\depth=\dimen652
+\totalheight=\dimen653
+\width=\dimen654
+\height=\dimen655
+\depth=\dimen656
+\totalheight=\dimen657
+\width=\dimen658
+\height=\dimen659
+\depth=\dimen660
+\totalheight=\dimen661
+\width=\dimen662
+\height=\dimen663
+\depth=\dimen664
+\totalheight=\dimen665
+\width=\dimen666
+\height=\dimen667
+\depth=\dimen668
+\totalheight=\dimen669
+\width=\dimen670
+\height=\dimen671
+\depth=\dimen672
+\totalheight=\dimen673
+\width=\dimen674
+\height=\dimen675
+\depth=\dimen676
+\totalheight=\dimen677
+\width=\dimen678
+\height=\dimen679
+\depth=\dimen680
+\totalheight=\dimen681
+\width=\dimen682
+\height=\dimen683
+\depth=\dimen684
+\totalheight=\dimen685
+\width=\dimen686
+\height=\dimen687
+\depth=\dimen688
+\totalheight=\dimen689
+\width=\dimen690
+\height=\dimen691
+\depth=\dimen692
+\totalheight=\dimen693
+\width=\dimen694
+\height=\dimen695
+\depth=\dimen696
+\totalheight=\dimen697
+\width=\dimen698
+\height=\dimen699
+\depth=\dimen700
+\totalheight=\dimen701
+\width=\dimen702
+\height=\dimen703
+\depth=\dimen704
+\totalheight=\dimen705
+\width=\dimen706
+\height=\dimen707
+\depth=\dimen708
+\totalheight=\dimen709
+\width=\dimen710
+\height=\dimen711
+\depth=\dimen712
+\totalheight=\dimen713
+\width=\dimen714
+\height=\dimen715
+\depth=\dimen716
+\totalheight=\dimen717
+\width=\dimen718
+\height=\dimen719
+\depth=\dimen720
+\totalheight=\dimen721
+\width=\dimen722
+\height=\dimen723
+\depth=\dimen724
+\totalheight=\dimen725
+\width=\dimen726
+\height=\dimen727
+\depth=\dimen728
+\totalheight=\dimen729
+\width=\dimen730
+
+Overfull \hbox (21.00034pt too wide) in paragraph at lines 19--21
+[][] 
+ []
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[4
+
+]) ("./A-Survey IoT/00_technologies.tex"
+Overfull \hbox (36.89598pt too wide) in alignment at lines 11--33
+ [][][][][][][][] 
+ []
+
+
+Overfull \hbox (36.89598pt too wide) in alignment at lines 33--52
+ [][][][][][][][] 
+ []
+
+
+Overfull \hbox (36.89598pt too wide) in alignment at lines 52--61
+ [][][][][][][][] 
+ []
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[5
+
+
+]
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[6
+
+]
+Overfull \hbox (6.66849pt too wide) in paragraph at lines 187--188
+[][] 
+ []
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[7
+
+Missing character: There is no – (U+2013) in font ptmr8t!
+Missing character: There is no – (U+2013) in font ptmr8t!
+Missing character: There is no – (U+2013) in font ptmr8t!
+Missing character: There is no – (U+2013) in font ptmr8t!
+]
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[8
+
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+]) ("./A-Survey IoT/00_divers.tex"
+
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 101.
+
+
+Underfull \vbox (badness 2600) has occurred while \output is active []
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[9
+
+
+]
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[10]) ("./A-Survey IoT/authors.tex")
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Package biblatex Info: Reference section=0 on input line 105.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[11
+
+]
+\blx@maxsegment@13=\count562
+\blx@sectionciteorder@13=\count563
+Package biblatex Info: Reference section=13 on input line 105.
+Package biblatex Info: Setting label 'refsection:13' on input line 105.
+ ("./A-Survey IoT/00_papers.tex"
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[1
+
+]
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[2
+
+]) ("./A-Survey IoT/authors.tex")
+Package biblatex Info: Reference section=0 on input line 107.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[3
+
+
+
+]
+\blx@maxsegment@14=\count564
+\blx@sectionciteorder@14=\count565
+Package biblatex Info: Reference section=14 on input line 107.
+Package biblatex Info: Setting label 'refsection:14' on input line 107.
+ ("./A-Survey IoT/01_papers.tex"
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[1
+
+
+
+]
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[2
+
+])
+Package biblatex Info: Reference section=0 on input line 141.
+
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -2902,37 +5473,121 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-
-Package caption Warning: Unused \captionsetup[table] on input line 118.
-See the caption package documentation for explanation.
-
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 142.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 142.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[2<../res/plot/genetic.pdf><../res/tmp/Picture/gateway.jpg><../res/tmp/Picture/n
-ode.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 143.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 143.
- (/home/aghiles/Aghiles/Research/Writing/bin/paper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 143.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 143.
+[3
+
+
+
+] (/home/aghiles/Aghiles/Research/Writing/bin/paper.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 142.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 142.
 Package rerunfilecheck Info: File `paper.out' has not changed.
-(rerunfilecheck)             Checksum: C3BE009D51C81C8470A54D4CCFFD1397;375.
+(rerunfilecheck)             Checksum: 3E2C28968CF82575D02BCA41939FB013;15902.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                paper
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'paper.run.xml'.
 
 \openout1 = paper.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 46122 strings out of 494577
- 100000,1648299 words of node,token memory allocated
- 1519 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 102 glue, 1 kern, 65 attribute, 77 glue_spec, 65 at
-tribute_list, 1 write nodes
-   avail lists: 1:4,2:1136,3:249,4:154,5:266,6:5927,7:1255,8:65,9:247,10:22,11:6
-09
- 47969 multiletter control sequences out of 65536+600000
- 275 fonts using 19097967 bytes
- 67i,13n,94p,1930b,1556s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 74618 strings out of 494577
+ 195335,2848258 words of node,token memory allocated
+ 21279 words of node memory still in use:
+   15 hlist, 2 vlist, 10 rule, 2319 glue, 1 kern, 1061 attribute, 77 glue_spec, 
+1061 attribute_list, 1 write, 16 pdf_literal, 16 pdf_colorstack nodes
+   avail lists: 1:23,2:5690,3:5382,4:642,5:992,6:7434,7:4259,8:1665,9:2422,10:25
+,11:753,12:1
+ 73254 multiletter control sequences out of 65536+600000
+ 342 fonts using 23551183 bytes
+ 72i,21n,120p,6071b,2668s stack positions out of 5000i,500n,10000p,200000b,100000s
+
+warning  (pdf backend): unreferenced destination with name 'NDCG'
+
+warning  (pdf backend): unreferenced destination with name 'ROC'
+
+warning  (pdf backend): unreferenced destination with name 'FPR'
+
+warning  (pdf backend): unreferenced destination with name 'TPR'
+
+warning  (pdf backend): unreferenced destination with name 'MAE'
+
+warning  (pdf backend): unreferenced destination with name 'RMSE'
+
+warning  (pdf backend): unreferenced destination with name 'MSE'
+
+warning  (pdf backend): unreferenced destination with name 'Sen'
+
+warning  (pdf backend): unreferenced destination with name 'SC'
+
+warning  (pdf backend): unreferenced destination with name 'Th'
+
+warning  (pdf backend): unreferenced destination with name 'Mob'
+
+warning  (pdf backend): unreferenced destination with name 'ToA'
+
+warning  (pdf backend): unreferenced destination with name 'CCI'
+
+warning  (pdf backend): unreferenced destination with name 'Jit'
+
+warning  (pdf backend): unreferenced destination with name 'SL'
+
+warning  (pdf backend): unreferenced destination with name 'SR'
+
+warning  (pdf backend): unreferenced destination with name 'DC'
+
+warning  (pdf backend): unreferenced destination with name 'TC'
+
+warning  (pdf backend): unreferenced destination with name 'RTT'
+
+warning  (pdf backend): unreferenced destination with name 'PLR'
+
+warning  (pdf backend): unreferenced destination with name 'PDR'
+
+warning  (pdf backend): unreferenced destination with name 'PRR'
+
+warning  (pdf backend): unreferenced destination with name 'PER'
+
+warning  (pdf backend): unreferenced destination with name 'BER'
+
+warning  (pdf backend): unreferenced destination with name 'SIR'
+
+warning  (pdf backend): unreferenced destination with name 'SINR'
+
+warning  (pdf backend): unreferenced destination with name 'PS'
+
+warning  (pdf backend): unreferenced destination with name 'BR'
+
+warning  (pdf backend): unreferenced destination with name 'DR'
+
+warning  (pdf backend): unreferenced destination with name 'UNB'
+
+warning  (pdf backend): unreferenced destination with name 'DSSS'
+
+warning  (pdf backend): unreferenced destination with name 'BS'
+
+warning  (pdf backend): unreferenced destination with name 'LS'
+
+warning  (pdf backend): unreferenced destination with name 'PL'
+
+warning  (pdf backend): unreferenced destination with name 'FEC'
+
+warning  (pdf backend): unreferenced destination with name 'CF'
+
+warning  (pdf backend): unreferenced destination with name 'CSS'
 
 warning  (pdf backend): unreferenced destination with name 'MCDM'
 
@@ -2959,19 +5614,24 @@ warning  (pdf backend): unreferenced destination with name 'NB-IoT'
 warning  (pdf backend): unreferenced destination with name 'LPWAN'
 
 warning  (pdf backend): unreferenced destination with name 'IoT'
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/t
-exmf-dist/fonts/enc/dvips/arev/arevot1.enc}{/usr/share/texlive/texmf-dist/fonts/
-enc/dvips/arev/arevoml.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/are
-v/ArevSans-Oblique.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/arev/Ar
-evSans-Roman.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesign/md
-bch/md-chb7y.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/urw/times/utmri8a.pfb>
-Output written on paper.pdf (2 pages, 5421858 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/arev/arevot1.enc}{/usr/share/texl
+ive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/texmf-dist/fonts/
+enc/dvips/arev/arevoms.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/arev/a
+revoml.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/arev/ArevSans-Bold.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/arev/ArevSans-Oblique.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/arev/ArevSans-Roman.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chb7t.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chb7y.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr7v.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
+w/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on paper.pdf (64 pages, 8944324 bytes).
 
-PDF statistics: 177 PDF objects out of 1000 (max. 8388607)
- 155 compressed objects within 2 object streams
- 36 named destinations out of 1000 (max. 131072)
- 64 words of extra memory for PDF output out of 10000 (max. 10000000)
+PDF statistics: 2126 PDF objects out of 2487 (max. 8388607)
+ 1858 compressed objects within 19 object streams
+ 534 named destinations out of 1000 (max. 131072)
+ 2024 words of extra memory for PDF output out of 10000 (max. 10000000)
 

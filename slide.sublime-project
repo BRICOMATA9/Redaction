@@ -10,10 +10,13 @@
 			"path": "bin"
 		},
 		{
-			"path": "doc"
+			"path": "lib"
 		},
 		{
 			"path": "res"
+		},
+		{
+			"path": "ref"
 		}
 	],
 	"settings": {

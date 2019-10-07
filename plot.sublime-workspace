@@ -195,13 +195,16 @@
 	},
 	"expanded_folders":
 	[
+		"/home/aghiles/Aghiles/Research/Writing/res",
+		"/home/aghiles/Aghiles/Research/Writing/lib"
 	],
 	"file_history":
 	[
+		"/home/aghiles/Aghiles/Research/Writing/lib/plot.tex",
 		"/home/aghiles/Aghiles/Research/Writing/res/plot.tex",
+		"/home/aghiles/Aghiles/Research/Writing/lib/tikzset.tex",
 		"/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/plot.tex",
-		"/home/aghiles/Aghiles/Research/Writing/lib/plot.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/slide.tex",
 		"/home/aghiles/Aghiles/Research/Writing/lib/slide.tex",
 		"/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/graphs/tikzlibrarygraphs.standard.code.tex",
@@ -324,12 +327,11 @@
 		"/home/aghiles/Aghiles/Redaction/setup/lib/privacy.bib",
 		"/home/aghiles/Downloads/Weatherlklk.bib",
 		"/home/aghiles/Downloads/Measurement.bib",
-		"/home/aghiles/Aghiles/Redaction/0/paper/paper.tex",
-		"/home/aghiles/Aghiles/Redaction/0/paper/src/B/application.tex"
+		"/home/aghiles/Aghiles/Redaction/0/paper/paper.tex"
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -343,6 +345,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Input"
 		],
 		"highlight": true,
 		"in_selection": false,

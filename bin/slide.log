@@ -1,4 +1,4 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016/Debian)  (format=lualatex 2019.4.12)  7 OCT 2019 14:30
+This is LuaTeX, Version 0.95.0 (TeX Live 2016/Debian)  (format=lualatex 2019.4.12)  7 OCT 2019 18:27
  system commands enabled.
 **slide.tex
 (./slide.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.102 seconds
+luaotfload | main : initialization completed in 0.129 seconds
 Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2017/01/22 v3.40 A class for typesetting presentations
@@ -3497,7 +3497,119 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count557
 \@quotereset=\count558
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.aux)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.aux
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+
+LaTeX Warning: Label `tab:Tableju' multiply defined.
+
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+
+LaTeX Warning: Label `tab:Tablej' multiply defined.
+
+
+LaTeX Warning: Label `tab:Tableju' multiply defined.
+
+
+LaTeX Warning: Label `tab:' multiply defined.
+
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+
+LaTeX Warning: Label `tab:Tablej' multiply defined.
+
+
+LaTeX Warning: Label `tab:Tableju' multiply defined.
+
+
+LaTeX Warning: Label `tab:' multiply defined.
+
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+
+LaTeX Warning: Label `tab:' multiply defined.
+
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+
+LaTeX Warning: Label `tab:Tablej' multiply defined.
+
+
+LaTeX Warning: Label `tab:Tableju' multiply defined.
+
+
+LaTeX Warning: Label `tab:' multiply defined.
+
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+
+LaTeX Warning: Label `tab:Tablej' multiply defined.
+
+
+LaTeX Warning: Label `tab:Tableju' multiply defined.
+
+
+LaTeX Warning: Label `tab:' multiply defined.
+
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+)
 \openout1 = slide.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
@@ -3518,8 +3630,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 20.
 LaTeX Font Info:    Try loading font information for MDA+cmr on input line 20.
-
-(/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdacmr.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdacmr.fd
 File: mdacmr.fd 
 )
 LaTeX Font Info:    ... okay on input line 20.
@@ -3831,7 +3942,7 @@ LaTeX Font Info:    Try loading font information for T1+pcr on input line 20.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-<../res/tmp/Picture/wsn-IoT.png, id=78, 1060.96375pt x 381.425pt>
+<../res/tmp/Picture/wsn-IoT.png, id=247, 1060.96375pt x 381.425pt>
 File: ../res/tmp/Picture/wsn-IoT.png Graphic file (type png)
 
 <use ../res/tmp/Picture/wsn-IoT.png>
@@ -3841,25 +3952,30 @@ Package luatex.def Info: ../res/tmp/Picture/wsn-IoT.png used on input line 22.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<../res/tmp/Picture/wsn-IoT.p
 ng>]
-\g__file_internal_ior=\read5
-
-(./01-Introduction/10_introduction.tex [2
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [2
 
 ]
-<../res/tmp/Picture/devices1.png, id=94, 1881.0275pt x 693.59125pt>
+\g__file_internal_ior=\read5
+
+(./01-Introduction/10_introduction.tex [3
+
+]
+<../res/tmp/Picture/devices1.png, id=290, 1881.0275pt x 693.59125pt>
 File: ../res/tmp/Picture/devices1.png Graphic file (type png)
 
 <use ../res/tmp/Picture/devices1.png>
 Package luatex.def Info: ../res/tmp/Picture/devices1.png used on input line 17.
 (luatex.def)             Requested size: 320.57364pt x 118.20528pt.
 
-<../res/tmp/Picture/devices.png, id=95, 1871.99374pt x 324.21124pt>
+<../res/tmp/Picture/devices.png, id=291, 1871.99374pt x 324.21124pt>
 File: ../res/tmp/Picture/devices.png Graphic file (type png)
 
 <use ../res/tmp/Picture/devices.png>
 Package luatex.def Info: ../res/tmp/Picture/devices.png used on input line 17.
 (luatex.def)             Requested size: 356.19536pt x 61.68982pt.
- [3
+ [4
 
 <../res/tmp/Picture/devices1.png><../res/tmp/Picture/devices.png>]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <5.00003> not available
@@ -3890,16 +4006,16 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <3.79999> not available
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <3.00005> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 41.
 
-<../res/tmp/Picture/application.png, id=112, 1415.2875pt x 1434.35875pt>
+<../res/tmp/Picture/application.png, id=309, 1415.2875pt x 1434.35875pt>
 File: ../res/tmp/Picture/application.png Graphic file (type png)
 
 <use ../res/tmp/Picture/application.png>
 Package luatex.def Info: ../res/tmp/Picture/application.png used on input line 4
 1.
 (luatex.def)             Requested size: 142.47597pt x 144.38539pt.
- [4
+ [5
 
-<../res/tmp/Picture/application.png>] <../res/tmp/Picture/context.png, id=123, 
+<../res/tmp/Picture/application.png>] <../res/tmp/Picture/context.png, id=321, 
 853.1875pt x 348.30125pt>
 File: ../res/tmp/Picture/context.png Graphic file (type png)
 
@@ -3907,7 +4023,7 @@ File: ../res/tmp/Picture/context.png Graphic file (type png)
 Package luatex.def Info: ../res/tmp/Picture/context.png used on input line 48.
 (luatex.def)             Requested size: 284.95737pt x 116.3322pt.
 
-<../res/tmp/Picture/iotChallenges.png, id=124, 1733.47626pt x 336.25626pt>
+<../res/tmp/Picture/iotChallenges.png, id=322, 1733.47626pt x 336.25626pt>
 File: ../res/tmp/Picture/iotChallenges.png Graphic file (type png)
 
 <use ../res/tmp/Picture/iotChallenges.png>
@@ -3918,53 +4034,53 @@ Package luatex.def Info: ../res/tmp/Picture/iotChallenges.png used on input line
 Overfull \vbox (18.47548pt too high) detected at line 48
  []
 
-[5
-
-<../res/tmp/Picture/context.png><../res/tmp/Picture/iotChallenges.png>]
 [6
 
-] <../res/tmp/Picture/speaking.png, id=145, 786.94pt x 936.49875pt>
+<../res/tmp/Picture/context.png><../res/tmp/Picture/iotChallenges.png>]
+[7
+
+] <../res/tmp/Picture/speaking.png, id=346, 786.94pt x 936.49875pt>
 File: ../res/tmp/Picture/speaking.png Graphic file (type png)
 
 <use ../res/tmp/Picture/speaking.png>
 Package luatex.def Info: ../res/tmp/Picture/speaking.png used on input line 94.
 (luatex.def)             Requested size: 142.47597pt x 169.5485pt.
 
-<../res/tmp/C-RAN/snr.png, id=146, 1706.375pt x 529.98pt>
+<../res/tmp/C-RAN/snr.png, id=347, 1706.375pt x 529.98pt>
 File: ../res/tmp/C-RAN/snr.png Graphic file (type png)
 
 <use ../res/tmp/C-RAN/snr.png>
 Package luatex.def Info: ../res/tmp/C-RAN/snr.png used on input line 94.
 (luatex.def)             Requested size: 213.71938pt x 66.37672pt.
 
-<../res/tmp/C-RAN/ToA.png, id=147, 1643.13875pt x 434.62375pt>
+<../res/tmp/C-RAN/ToA.png, id=348, 1643.13875pt x 434.62375pt>
 File: ../res/tmp/C-RAN/ToA.png Graphic file (type png)
 
 <use ../res/tmp/C-RAN/ToA.png>
 Package luatex.def Info: ../res/tmp/C-RAN/ToA.png used on input line 94.
 (luatex.def)             Requested size: 213.71938pt x 56.52959pt.
- [7
+ [8
 
 <../res/tmp/Picture/speaking.png><../res/tmp/C-RAN/snr.png><../res/tmp/C-RAN/ToA
 .png>]
-<../res/tmp/C-RAN/LPWAN.png, id=159, 727.71875pt x 326.21875pt>
+<../res/tmp/C-RAN/LPWAN.png, id=362, 727.71875pt x 326.21875pt>
 File: ../res/tmp/C-RAN/LPWAN.png Graphic file (type png)
 
 <use ../res/tmp/C-RAN/LPWAN.png>
 Package luatex.def Info: ../res/tmp/C-RAN/LPWAN.png used on input line 102.
 (luatex.def)             Requested size: 213.71938pt x 95.8056pt.
 
-<../res/tmp/C-RAN/lora_stack.png, id=160, 845.1575pt x 597.23125pt>
+<../res/tmp/C-RAN/lora_stack.png, id=363, 845.1575pt x 597.23125pt>
 File: ../res/tmp/C-RAN/lora_stack.png Graphic file (type png)
 
 <use ../res/tmp/C-RAN/lora_stack.png>
 Package luatex.def Info: ../res/tmp/C-RAN/lora_stack.png used on input line 102.
 
 (luatex.def)             Requested size: 142.47597pt x 100.68045pt.
- [8
+ [9
 
 <../res/tmp/C-RAN/LPWAN.png><../res/tmp/C-RAN/lora_stack.png>]
-<../res/tmp/C-RAN/slicing.png, id=170, 771.88374pt x 764.8575pt>
+<../res/tmp/C-RAN/slicing.png, id=375, 771.88374pt x 764.8575pt>
 File: ../res/tmp/C-RAN/slicing.png Graphic file (type png)
 
 <use ../res/tmp/C-RAN/slicing.png>
@@ -3974,7 +4090,7 @@ Package luatex.def Info: ../res/tmp/C-RAN/slicing.png used on input line 113.
 Overfull \vbox (25.91493pt too high) detected at line 113
  []
 
-[9
+[10
 
 <../res/tmp/C-RAN/slicing.png>]
 File: ../res/tmp/C-RAN/slicing.png Graphic file (type png)
@@ -3985,21 +4101,21 @@ Package luatex.def Info: ../res/tmp/C-RAN/slicing.png used on input line 113.
 Overfull \vbox (25.91493pt too high) detected at line 113
  []
 
-[10
+[11
 
 ]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <7.5> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 130.
- [11
+ [12
 
-] <../res/tmp/C-RAN/slicing4.png, id=196, 1027.84pt x 517.935pt>
+] <../res/tmp/C-RAN/slicing4.png, id=406, 1027.84pt x 517.935pt>
 File: ../res/tmp/C-RAN/slicing4.png Graphic file (type png)
 
 <use ../res/tmp/C-RAN/slicing4.png>
 Package luatex.def Info: ../res/tmp/C-RAN/slicing4.png used on input line 141.
 (luatex.def)             Requested size: 178.09767pt x 89.73903pt.
 
-<../res/tmp/C-RAN/4G_slicing.png, id=199, 1890.06125pt x 394.47375pt>
+<../res/tmp/C-RAN/4G_slicing.png, id=409, 1890.06125pt x 394.47375pt>
 File: ../res/tmp/C-RAN/4G_slicing.png Graphic file (type png)
 
 <use ../res/tmp/C-RAN/4G_slicing.png>
@@ -4007,18 +4123,18 @@ Package luatex.def Info: ../res/tmp/C-RAN/4G_slicing.png used on input line 141.
 
 (luatex.def)             Requested size: 178.09767pt x 37.16841pt.
 
-<../res/tmp/C-RAN/5G_slicing.png, id=200, 1887.05pt x 680.5425pt>
+<../res/tmp/C-RAN/5G_slicing.png, id=410, 1887.05pt x 680.5425pt>
 File: ../res/tmp/C-RAN/5G_slicing.png Graphic file (type png)
 
 <use ../res/tmp/C-RAN/5G_slicing.png>
 Package luatex.def Info: ../res/tmp/C-RAN/5G_slicing.png used on input line 141.
 
 (luatex.def)             Requested size: 178.09767pt x 64.22646pt.
- [12
+ [13
 
 <../res/tmp/C-RAN/slicing4.png><../res/tmp/C-RAN/4G_slicing.png><../res/tmp/C-RA
 N/5G_slicing.png>]
-<../res/tmp/C-RAN/slicing2.png, id=220, 1126.2075pt x 904.37875pt>
+<../res/tmp/C-RAN/slicing2.png, id=430, 1126.2075pt x 904.37875pt>
 File: ../res/tmp/C-RAN/slicing2.png Graphic file (type png)
 
 <use ../res/tmp/C-RAN/slicing2.png>
@@ -4028,7 +4144,7 @@ Package luatex.def Info: ../res/tmp/C-RAN/slicing2.png used on input line 148.
 Overfull \vbox (14.36852pt too high) detected at line 148
  []
 
-[13
+[14
 
 <../res/tmp/C-RAN/slicing2.png>]
 File: ../res/tmp/C-RAN/slicing2.png Graphic file (type png)
@@ -4039,19 +4155,388 @@ Package luatex.def Info: ../res/tmp/C-RAN/slicing2.png used on input line 148.
 Overfull \vbox (14.36852pt too high) detected at line 148
  []
 
-[14
+[15
 
-] [15
+] [16
 
 ]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [16
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [17
+
+]
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [18
+
+]
+("./02-State of the art/12_related.tex"
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [19
+
+]
+LaTeX Font Info:    Calculating math sizes for size <3.75> on input line 73.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 3.44998pt on input line 73.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 2.62196pt on input line 73.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 2.07pt on input line 73.
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 3.60002pt on input line 73.
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 2.736pt on input line 73.
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 2.16002pt on input line 73.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 3.44998pt on input line 73.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 2.62196pt on input line 73.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 2.07pt on input line 73.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <3.75> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 73.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <2.84998> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 73.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <2.25002> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 73.
+ [20
+
+])
+("./02-State of the art/16_discussion.tex"
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [21
+
+]
+<../res/icon/mail.png, id=544, 845.0772pt x 597.9138pt>
+File: ../res/icon/mail.png Graphic file (type png)
+
+<use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 13.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+ [22
+
+<../res/icon/mail.png>])
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [23
+
+]
+(./03-x-Testbed/11_introduction.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [24
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+
+<use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 13.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[25
+
+]) (./03-x-Testbed/12_related.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [26
+
+] [27
+
+]
+warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
+u'
+[28
+
+]) (./03-x-Testbed/13_method.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [29
+
+] [30
+
+] [31
+
+] [32
+
+]
+[33
+
+]
+
+Package tabulary Warning: No suitable columns! on input line 83.
+
+[34
+
+]) (./03-x-Testbed/14_experimentation.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [35
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+
+<use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 12.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[36
+
+]) (./03-x-Testbed/15_results.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [37
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+
+<use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 12.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[38
+
+]) (./03-x-Testbed/16_discussion.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [39
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+
+<use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 13.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[40
+
+]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [41
+
+]
+(./04-x-Sentilo/11_introduction.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [42
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+
+<use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 12.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[43
+
+]) (./04-x-Sentilo/12_related.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [44
+
+]
+warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
+'
+[45
+
+]
+warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
+u'
+[46
+
+]) (./04-x-Sentilo/13_method.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [47
+
+] [48
+
+] [49
+
+] [50
+
+]
+
+Package tabulary Warning: No suitable columns! on input line 77.
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'tab:'
+[51
+
+]) (./04-x-Sentilo/14_experimentation.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [52
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+
+<use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 12.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[53
+
+]) (./04-x-Sentilo/15_results.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [54
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+
+<use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 12.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[55
+
+]) (./04-x-Sentilo/16_discussion.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [56
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+
+<use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 13.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[57
+
+]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [58
+
+]
+("./05-x-Long paper/11_introduction.tex"
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [59
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+
+<use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 12.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[60
+
+]) ("./05-x-Long paper/12_related.tex"
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [61
+
+]
+warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
+'
+[62
+
+]
+warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
+u'
+[63
+
+]) ("./05-x-Long paper/13_method.tex"
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [64
+
+] [65
+
+] [66
+
+] [67
+
+]
+[68
+
+]
+
+Package tabulary Warning: No suitable columns! on input line 83.
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'tab:'
+[69
+
+]) ("./05-x-Long paper/14_experimentation.tex"
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [70
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+
+<use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 12.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[71
+
+]) ("./05-x-Long paper/15_results.tex"
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [72
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+
+<use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 12.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[73
+
+]) ("./05-x-Long paper/16_discussion.tex"
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [74
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+
+<use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 13.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[75
+
+]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [76
 
 ]
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/11_introduct
 ion.tex" (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [17
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [77
 
 ]
 Overfull \hbox (7.32465pt too wide) in paragraph at lines 42--42
@@ -4098,31 +4583,8 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5.20123> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 42.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <4.10631> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 42.
-LaTeX Font Info:    Calculating math sizes for size <3.75> on input line 42.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 3.44998pt on input line 42.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 2.62196pt on input line 42.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 2.07pt on input line 42.
-LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 3.60002pt on input line 42.
-LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 2.736pt on input line 42.
-LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 2.16002pt on input line 42.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 3.44998pt on input line 42.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 2.62196pt on input line 42.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 2.07pt on input line 42.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <3.75> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 42.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <2.84998> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 42.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <2.25002> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 42.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'tab:'
 LaTeX Font Info:    Calculating math sizes for size <6.25008> on input line 42.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
 (Font)              scaled to size 5.75005pt on input line 42.
@@ -4148,53 +4610,53 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <4.75002> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 42.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <3.75008> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 42.
-[18
+[78
 
 ])
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/12_related.t
 ex" (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [19
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [79
 
 ])
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/13_backgroun
 d.tex" (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [20
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [80
 
 ]
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [21
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [81
 
-] [22
+] [82
 
 ]
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [23
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [83
 
 ]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <6.25008> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 30.
- [24
+ [84
 
-] [25
+] [85
 
 ]
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [26
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [86
 
 ]
 LaTeX Font Info:    Try loading font information for T1+ppl on input line 101.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
-) [27
+) [87
 
 ]
-<../res/tmp/Model//markov.png, id=448, 917.4275pt x 533.995pt>
+<../res/tmp/Model//markov.png, id=1579, 917.4275pt x 533.995pt>
 File: ../res/tmp/Model//markov.png Graphic file (type png)
 
 <use ../res/tmp/Model//markov.png>
@@ -4204,54 +4666,322 @@ Package luatex.def Info: ../res/tmp/Model//markov.png used on input line 105.
 Overfull \vbox (12.47716pt too high) detected at line 105
  []
 
-[28
+[88
 
 <../res/tmp/Model//markov.png>]
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [29
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [89
 
-] [30
+] [90
 
 ])
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/14_method.te
 x" (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [31
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [91
 
 ]
-<../res/plot/genetic.pdf, id=497, 1026.1025pt x 457.04752pt>
+<../res/plot/genetic.pdf, id=1649, 1026.1025pt x 457.04752pt>
 File: ../res/plot/genetic.pdf Graphic file (type pdf)
 
 <use ../res/plot/genetic.pdf>
 Package luatex.def Info: ../res/plot/genetic.pdf used on input line 50.
 (luatex.def)             Requested size: 356.19536pt x 158.65094pt.
- [32
+ [92
 
-<../res/plot/genetic.pdf>] [33
+<../res/plot/genetic.pdf>] [93
 
-] [34
+] [94
 
 ])
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/15_experimen
 tation.tex" (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [35
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [95
 
-] [36
+] [96
 
-] [37
+] [97
 
 ]
-<../res/icon/mail.png, id=573, 845.0772pt x 597.9138pt>
 File: ../res/icon/mail.png Graphic file (type png)
 
 <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png used on input line 118.
 (luatex.def)             Requested size: 124.67055pt x 88.2052pt.
- [38
 
-<../res/icon/mail.png>])
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[98
+
+])
+("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/16_results.t
+ex" (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [99
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+
+<use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 12.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[100
+
+])
+("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/17_discussio
+n.tex" (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [101
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+
+<use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 13.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[102
+
+]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [103
+
+]
+(./07-Template/11_introduction.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [104
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+
+<use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 12.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[105
+
+]) (./07-Template/12_related.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [106
+
+]
+warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
+'
+[107
+
+]
+warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
+u'
+[108
+
+]) (./07-Template/13_method.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [109
+
+] [110
+
+] [111
+
+]
+[112
+
+] [113
+
+]
+
+Package tabulary Warning: No suitable columns! on input line 83.
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'tab:'
+[114
+
+]) (./07-Template/14_experimentation.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [115
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+
+<use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 12.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[116
+
+]) (./07-Template/15_results.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [117
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+
+<use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 12.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[118
+
+]) (./07-Template/16_discussion.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [119
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+
+<use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 13.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[120
+
+]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [121
+
+]
+(./08-UTLC/11_introduction.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [122
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+
+<use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 12.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[123
+
+]) (./08-UTLC/12_related.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [124
+
+]
+warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
+'
+[125
+
+]
+warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
+u'
+[126
+
+]) (./08-UTLC/13_method.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [127
+
+] [128
+
+] [129
+
+]
+[130
+
+] [131
+
+]
+
+Package tabulary Warning: No suitable columns! on input line 83.
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'tab:'
+[132
+
+]
+
+Package multimedia Warning: The movie file ``movie.mp4'' could not be found in t
+he current directory, where it must reside for viewing. on input line 87.
+
+
+Overfull \vbox (1.0pt too high) detected at line 87
+ []
+
+[133
+
+]) (./08-UTLC/14_experimentation.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [134
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+
+<use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 12.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[135
+
+]) (./08-UTLC/15_results.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [136
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+
+<use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 12.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[137
+
+]) (./08-UTLC/16_discussion.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [138
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+
+<use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 13.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[139
+
+]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [140
+
+]
+(./09-Conclusion/10_conclusion.tex [141
+
+] [142
+
+])
 \c@framenumberappendix=\count569
 LaTeX Font Info:    Calculating math sizes for size <3.65002> on input line 99.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
@@ -4278,7 +5008,7 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <2.77399> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 99.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <2.19003> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 99.
- [39
+ [143
 
 ]
 \tf@nav=\write10
@@ -4297,24 +5027,28 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 100.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 100.
 Package rerunfilecheck Info: File `slide.out' has not changed.
-(rerunfilecheck)             Checksum: D97E0E25C55C79AC2E48455A3A00D3C8;656.
+(rerunfilecheck)             Checksum: 84F9843F12E2C13311EA911BD99718DE;3265.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package logreq Info: Writing requests to 'slide.run.xml'.
 
 \openout1 = slide.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 76276 strings out of 494577
- 100000,2848258 words of node,token memory allocated
- 36685 words of node memory still in use:
-   61 hlist, 10 vlist, 15 rule, 1 mark, 157 disc, 12 local_par, 4 math, 2267 glu
-e, 161 kern, 114 penalty, 1802 glyph, 1291 attribute, 69 glue_spec, 1291 attribu
-te_list, 7 write, 16 pdf_literal, 2 pdf_start_link, 2 pdf_end_link, 10 pdf_dest,
- 2 pdf_action, 128 pdf_colorstack nodes
-   avail lists: 1:13,2:203,3:566,4:382,5:182,6:1870,7:524,8:668,9:993,10:36,11:1
-58
- 75834 multiletter control sequences out of 65536+600000
- 543 fonts using 36951463 bytes
+ 78581 strings out of 494577
+ 125006,2848258 words of node,token memory allocated
+ 75364 words of node memory still in use:
+   65 hlist, 10 vlist, 15 rule, 1 mark, 175 disc, 13 local_par, 4 math, 6521 glu
+e, 176 kern, 122 penalty, 1967 glyph, 3172 attribute, 69 glue_spec, 3172 attribu
+te_list, 7 write, 16 pdf_literal, 2 pdf_start_link, 2 pdf_end_link, 11 pdf_dest,
+ 2 pdf_action, 138 pdf_colorstack nodes
+   avail lists: 1:19,2:98,3:564,4:513,5:197,6:2035,7:530,8:667,9:989,10:36,11:17
+7
+ 76190 multiletter control sequences out of 65536+600000
+ 549 fonts using 37434031 bytes
  74i,17n,123p,1606b,2281s stack positions out of 5000i,500n,10000p,200000b,100000s
 
 warning  (pdf backend): unreferenced destination with name 'PktL'
@@ -4346,10 +5080,10 @@ xlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-d
 ist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/zapfd
 ing/uzdr.pfb>
-Output written on slide.pdf (39 pages, 5937191 bytes).
+Output written on slide.pdf (143 pages, 6061215 bytes).
 
-PDF statistics: 646 PDF objects out of 1000 (max. 8388607)
- 516 compressed objects within 6 object streams
- 131 named destinations out of 1000 (max. 131072)
- 229 words of extra memory for PDF output out of 10000 (max. 10000000)
+PDF statistics: 2423 PDF objects out of 2487 (max. 8388607)
+ 2173 compressed objects within 22 object streams
+ 384 named destinations out of 1000 (max. 131072)
+ 570 words of extra memory for PDF output out of 10000 (max. 10000000)
 

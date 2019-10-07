@@ -17,12 +17,12 @@
 
 
 %% Path %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\def\references{../ref}
-\def\setup{../lib}
-\def\res{../res}
-\def\plot{\res/tikz}
-\input{\setup/rgb}
-
+\def\LIBPATH{../lib}
+\def\REFPATH{../ref}
+\def\RESPATH{../res}
+\def\PLOTPATH{../res/plot}
+\def\DATAPATH{../res/data}
+\input{\LIBPATH/rgb}
 
 
 
@@ -111,7 +111,7 @@
 
 % Figures %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{graphicx}
-	\graphicspath{{\res/plot/}{\res/icon/}{\res/tmp/}{\res/tmp/1-social/}{\res/tmp/2-utlc/}{\res/tmp/A-Application/}{\res/tmp/B-CN/}{\res/tmp/C-RAN/}{\res/tmp/Framework/}{\res/tmp/Model//}{\res/tmp/Picture/}}
+	\graphicspath{{\RESPATH/plot/}{\RESPATH/icon/}{\RESPATH/tmp/}{\RESPATH/tmp/1-social/}{\RESPATH/tmp/2-utlc/}{\RESPATH/tmp/A-Application/}{\RESPATH/tmp/B-CN/}{\RESPATH/tmp/C-RAN/}{\RESPATH/tmp/Framework/}{\RESPATH/tmp/Model//}{\RESPATH/tmp/Picture/}{\RESPATH/plot/bin/}{\RESPATH/plot/pdf/}}
 \usepackage{subcaption}
 \usepackage[labelsep=period]{caption}
 	\captionsetup{justification=centering}
@@ -145,15 +145,15 @@
 
 % Bibliography %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage[sorting=none,backref=false,backend=biber, doi=false,url=false,isbn=false, style=ieee]{biblatex}%sorting=nyt, sorting=rasha
-	\addbibresource{\references/iot.bib}%
-	\addbibresource{\references/iotbis.bib}%
-	\addbibresource{\references/privacy.bib}%
-	\addbibresource{\references/petri.bib}%
+	\addbibresource{\REFPATH/iot.bib}%
+	\addbibresource{\REFPATH/iotbis.bib}%
+	\addbibresource{\REFPATH/privacy.bib}%
+	\addbibresource{\REFPATH/petri.bib}%
 	\def\bibfont{\small}
 
 
-\input{\setup/commands}
-\input{\setup/nomenclature}
+\input{\LIBPATH/commands}
+\input{\LIBPATH/nomenclature}
 
 
 %\usepackage[draft]{todonotes}
@@ -162,10 +162,10 @@
 %\begin{figure}
 %\begin{center}
 %\begin{tabular}{cc}
-%\resizebox{60mm}{!}{\includegraphics{gateway}} &
-%\resizebox{60mm}{!}{\includegraphics{gateway}} \\
-%\resizebox{60mm}{!}{\includegraphics{gateway}} &
-%\resizebox{60mm}{!}{\includegraphics{gateway}} \\
+%\RESPATHizebox{60mm}{!}{\includegraphics{gateway}} &
+%\RESPATHizebox{60mm}{!}{\includegraphics{gateway}} \\
+%\RESPATHizebox{60mm}{!}{\includegraphics{gateway}} &
+%\RESPATHizebox{60mm}{!}{\includegraphics{gateway}} \\
 %\end{tabular}
 %\caption{This is sample figures.}
 %\label{test4}

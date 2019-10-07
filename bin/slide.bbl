@@ -414,6 +414,34 @@
       \verb http://ieeexplore.ieee.org/document/7946928/
       \endverb
     \endentry
+    \entry{barro_lorawan_2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=87c143b1132120824fb12864e3340cca}{%
+           family={Barro},
+           familyi={B\bibinitperiod},
+           given={Pape\bibnamedelima Abdoulaye},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{87c143b1132120824fb12864e3340cca}
+      \strng{fullhash}{87c143b1132120824fb12864e3340cca}
+      \strng{authornamehash}{87c143b1132120824fb12864e3340cca}
+      \strng{authorfullhash}{87c143b1132120824fb12864e3340cca}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Despite the inaccessibility or intermittency of Internet in developing countries, it remains one of the key elements in the ﬁeld of IoT and the smart city. Most cities experiencing these diﬃculties can, therefore, use stand-alone LoRaWAN base station solutions and provide good coverage of the area. Leftovers can claim to have access to acceptable connectivity, and therefore cheaper wireless communication, giving direct access to Internet from the collection node, will be required for data transmission: Wi-Fi can attain these objectives. In this article, we ﬁrst examine the existing tools to ensure a good coverage study of the LoRaWAN network and, thus, perform a testBed. After, we oﬀer a multi-optional architectural model that supports LoRaWAN and Wi-Fi protocols and that is ﬂexible for other options. A gateway (Wi-IoT) capable of both providing Wi-Fi access and at the same time the ability to collect, process and monitor data as a mini-server will be proposed as proof of concept. From the node to the gateway, the data is compressed and sent securely and a user who connects to the gateway can, then, have access to the data.}
+      \field{langid}{english}
+      \field{note}{00000}
+      \field{title}{A {{LoRaWAN}} Coverage {{testBed}} and a Multi-Optional Communication Architecture for Smart City Feasibility in Developing Countries}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{12}
+      \range{pages}{1}
+      \verb{file}
+      \verb Barro - A LoRaWAN coverage testBed and a multi-optional co.pdf:/home/aghiles/Aghiles/Redaction/lib/iot/storage/VYEHBWHL/Barro - A LoRaWAN coverage testBed and a multi-optional co.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{cattani_experimental_2017}{article}{}
       \name{author}{3}{}{%
         {{hash=5580c2793a5997f0ca044894909252ca}{%

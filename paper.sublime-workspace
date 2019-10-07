@@ -199,17 +199,32 @@
 	},
 	"expanded_folders":
 	[
+		"/home/aghiles/Aghiles/Research/Writing/src",
+		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection",
+		"/home/aghiles/Aghiles/Research/Writing/src/07-Template"
 	],
 	"file_history":
 	[
+		"/home/aghiles/Aghiles/Research/Writing/src/07-Template/07_conclusion.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/07-Template/01_introduction.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/07-Template/00_abstract.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/paper.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/Disaster",
+		"/home/aghiles/Aghiles/Research/Writing/src/A-Survey IoT/00_technologies.tex",
+		"/home/aghiles/Aghiles/Research/Writing/lib/paper.tex",
+		"/home/aghiles/Aghiles/Research/Writing/lib/plot.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/04_approach.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/05-x-Long paper/05_experimentation.tex",
+		"/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/graphs/tikzlibrarygraphs.standard.code.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/08-UTLC/05_experimentation.tex",
 		"/home/aghiles/Aghiles/Research/Writing/lib/setup.tex",
+		"/home/aghiles/Aghiles/Research/Writing/lib/these.tex",
+		"/home/aghiles/Aghiles/Research/Writing/res/tikz/figure1.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/00_abstract.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/05_experimentation.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/01_introduction.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/07_conclusion.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/06_results.tex",
-		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/05_experimentation.tex",
-		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/00_abstract.tex",
-		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/01_introduction.tex",
-		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/04_approach.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/setup/nomenclature.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/setup/commands.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/02_related.tex",
@@ -317,19 +332,7 @@
 		"/home/aghiles/Aghiles/Redaction/setup/lib/main1.bib",
 		"/home/aghiles/Aghiles/Redaction/setup/lib/main2.bib",
 		"/home/aghiles/Aghiles/Redaction/res/accronyme/accronyme.tex",
-		"/home/aghiles/Aghiles/Redaction/paper/src/91/4_approach.tex",
-		"/home/aghiles/Aghiles/Administration/2-Job_Search/Search_network/aghiles/sample.bib",
-		"/home/aghiles/Aghiles/Tool/config/subrid/Packages/LaTeXSmartQuotes/LaTeXSmartQuotes.sublime-settings",
-		"/run/user/1000/gvfs/mtp:host=%5Busb%3A001%2C046%5D/Stockage téléphone/com.facebook.katana/fb_temp/.nomedia",
-		"/home/aghiles/Aghiles/Redaction/setup/setup_paper.tex",
-		"/home/aghiles/Aghiles/Redaction/paper/src/94/table.tex",
-		"/home/aghiles/Aghiles/Redaction/setup/setup_these.tex",
-		"/home/aghiles/Aghiles/Redaction/setup/nomenclature.tex",
-		"/home/aghiles/Aghiles/Redaction/paper/src/B/divers.tex",
-		"/home/aghiles/Aghiles/Redaction/paper/src/2/1_introduction.tex",
-		"/home/aghiles/Aghiles/Redaction/paper/src/2/4_approach.tex",
-		"/home/aghiles/Aghiles/Redaction/paper/src/92/3_background.tex",
-		"/home/aghiles/Aghiles/Redaction/paper/src/C/table.tex"
+		"/home/aghiles/Aghiles/Redaction/paper/src/91/4_approach.tex"
 	],
 	"find":
 	{
@@ -349,6 +352,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"res",
 			" }",
 			"% Conclusion",
 			"caption",
@@ -476,7 +480,7 @@
 	},
 	"output.latextools":
 	{
-		"height": 205.0
+		"height": 325.0
 	},
 	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
 	"project": "paper.sublime-project",
@@ -532,7 +536,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 296.0,
+	"side_bar_width": 208.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
