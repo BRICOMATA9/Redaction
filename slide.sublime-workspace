@@ -15,6 +15,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "src/slide.tex",
+			"settings":
+			{
+				"buffer_size": 2804,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
 	"build_system_choices":
@@ -195,8 +204,6 @@
 	},
 	"expanded_folders":
 	[
-		"/home/aghiles/Aghiles/Redaction/src",
-		"/home/aghiles/Aghiles/Redaction/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection"
 	],
 	"file_history":
 	[
@@ -331,7 +338,7 @@
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 29.0
 	},
 	"find_in_files":
 	{
@@ -381,14 +388,43 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/slide.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 24.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -433,7 +469,7 @@
 	"project": "slide.sublime-project",
 	"replace":
 	{
-		"height": 44.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
