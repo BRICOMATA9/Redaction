@@ -1,4 +1,4 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016/Debian)  (format=lualatex 2019.4.2)  7 OCT 2019 00:22
+This is LuaTeX, Version 0.95.0 (TeX Live 2016/Debian)  (format=lualatex 2019.4.12)  7 OCT 2019 14:53
  system commands enabled.
 **paper.tex
 (./paper.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.096 seconds
+luaotfload | main : initialization completed in 0.100 seconds
 Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2017/02/22 v2.0g Standard LaTeX package
@@ -47,9 +47,10 @@ LaTeX Font Info:    Try loading font information for OT1+lmr on input line 105.
 
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)) (./setup/styles/IEEEtran.cls
+))
+(/home/aghiles/Aghiles/Research/Writing/bin/../lib/styles/IEEEtran.cls
 
-LaTeX Warning: You have requested document class `setup/styles/IEEEtran',
+LaTeX Warning: You have requested document class `../lib/styles/IEEEtran',
                but the document class provides `IEEEtran'.
 
 Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
@@ -147,10 +148,11 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 \IEEEPARstartletwidth=\dimen125
 \c@IEEEbiography=\count93
 \@IEEEtranrubishbin=\box27
-) (./setup/setup.tex (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+) (../lib/setup.tex (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
+
 
 Package inputenc Warning: inputenc package ignored with utf8 based engines.
 
@@ -172,86 +174,86 @@ Package: babel 2016/04/23 3.9r The Babel package
 (/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
 \l@dumylang=\language1
 \l@nohyphenation=\language2
-\l@occitan=\language3
-\l@nynorsk=\language4
-\l@german=\language5
-\l@indonesian=\language6
-\l@lithuanian=\language7
-\l@latvian=\language8
-\l@hungarian=\language9
-\l@latin=\language10
-\l@dutch=\language11
-\l@churchslavonic=\language12
-\l@ukrainian=\language13
-\l@uppersorbian=\language14
-\l@ngerman=\language15
-\l@friulan=\language16
-\l@hindi=\language17
-\l@ibycus=\language18
-\l@portuguese=\language19
-\l@kurmanji=\language20
-\l@danish=\language21
-\l@sanskrit=\language22
-\l@polish=\language23
-\l@pinyin=\language24
-\l@irish=\language25
-\l@croatian=\language26
-\l@malayalam=\language27
-\l@italian=\language28
-\l@telugu=\language29
-\l@afrikaans=\language30
-\l@mongolianlmc=\language31
-\l@tamil=\language32
-\l@serbian=\language33
-\l@swedish=\language34
-\l@czech=\language35
-\l@icelandic=\language36
-\l@slovak=\language37
-\l@basque=\language38
-\l@kannada=\language39
-\l@panjabi=\language40
-\l@classiclatin=\language41
-\l@ethiopic=\language42
-\l@ngerman-x-2014-05-21=\language43
-\l@welsh=\language44
-\l@bengali=\language45
-\l@bokmal=\language46
-\l@liturgicallatin=\language47
-\l@assamese=\language48
-\l@farsi=\language49
-\l@piedmontese=\language50
-\l@ukenglish=\language51
-\l@turkmen=\language52
-\l@russian=\language53
-\l@usenglishmax=\language54
-\l@armenian=\language55
-\l@bulgarian=\language56
-\l@german-x-2014-05-21=\language57
-\l@esperanto=\language58
-\l@interlingua=\language59
-\l@romansh=\language60
-\l@french=\language61
-\l@mongolian=\language62
-\l@greek=\language63
-\l@marathi=\language64
-\l@spanish=\language65
-\l@slovenian=\language66
-\l@thai=\language67
+\l@czech=\language3
+\l@italian=\language4
+\l@hungarian=\language5
+\l@basque=\language6
+\l@irish=\language7
+\l@piedmontese=\language8
+\l@lithuanian=\language9
+\l@mongolian=\language10
+\l@telugu=\language11
+\l@gujarati=\language12
+\l@dutch=\language13
+\l@german=\language14
+\l@bengali=\language15
+\l@romansh=\language16
+\l@friulan=\language17
+\l@slovak=\language18
+\l@armenian=\language19
+\l@bokmal=\language20
+\l@panjabi=\language21
+\l@indonesian=\language22
+\l@serbian=\language23
+\l@ethiopic=\language24
+\l@oriya=\language25
+\l@thai=\language26
+\l@nynorsk=\language27
+\l@greek=\language28
+\l@ngerman-x-2014-05-21=\language29
+\l@serbianc=\language30
+\l@assamese=\language31
+\l@latvian=\language32
+\l@malayalam=\language33
+\l@french=\language34
+\l@finnish=\language35
+\l@welsh=\language36
+\l@sanskrit=\language37
+\l@turkish=\language38
+\l@portuguese=\language39
+\l@monogreek=\language40
+\l@esperanto=\language41
+\l@galician=\language42
+\l@slovenian=\language43
+\l@ukrainian=\language44
+\l@polish=\language45
+\l@coptic=\language46
+\l@russian=\language47
+\l@ukenglish=\language48
+\l@croatian=\language49
+\l@catalan=\language50
+\l@ngerman=\language51
+\l@interlingua=\language52
+\l@german-x-2014-05-21=\language53
+\l@churchslavonic=\language54
+\l@ibycus=\language55
+\l@arabic=\language56
+\l@tamil=\language57
+\l@kurmanji=\language58
+\l@kannada=\language59
+\l@afrikaans=\language60
+\l@spanish=\language61
+\l@estonian=\language62
+\l@uppersorbian=\language63
+\l@latin=\language64
+\l@mongolianlmc=\language65
+\l@hindi=\language66
+\l@bulgarian=\language67
 \l@swissgerman=\language68
-\l@gujarati=\language69
-\l@estonian=\language70
-\l@catalan=\language71
-\l@ancientgreek=\language72
-\l@coptic=\language73
-\l@romanian=\language74
-\l@georgian=\language75
-\l@serbianc=\language76
-\l@arabic=\language77
-\l@oriya=\language78
-\l@turkish=\language79
-\l@monogreek=\language80
-\l@galician=\language81
-\l@finnish=\language82
+\l@usenglishmax=\language69
+\l@swedish=\language70
+\l@turkmen=\language71
+\l@danish=\language72
+\l@occitan=\language73
+\l@liturgicallatin=\language74
+\l@pinyin=\language75
+\l@ancientgreek=\language76
+\l@georgian=\language77
+\l@romanian=\language78
+\l@classiclatin=\language79
+\l@marathi=\language80
+\l@farsi=\language81
+\l@icelandic=\language82
 )
 (/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2012/08/20 v3.3p English support from the babel system
@@ -917,8 +919,7 @@ LaTeX Font Info:    Redeclaring math symbol \varPi on input line 183.
 LaTeX Font Info:    Redeclaring math symbol \varSigma on input line 184.
 LaTeX Font Info:    Redeclaring math symbol \varPhi on input line 185.
 LaTeX Font Info:    Redeclaring math symbol \varnothing on input line 204.
-)
-(./setup/rgb.tex (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+) (../lib/rgb.tex (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -1846,11 +1847,11 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip113
 )
-Package hyperref Info: Option `pdftoolbar' set `true' on input line 106.
-Package hyperref Info: Option `pdfmenubar' set `true' on input line 106.
-Package hyperref Info: Option `pdffitwindow' set `true' on input line 106.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 106.
-Package hyperref Info: Option `colorlinks' set `true' on input line 106.
+Package hyperref Info: Option `pdftoolbar' set `true' on input line 109.
+Package hyperref Info: Option `pdfmenubar' set `true' on input line 109.
+Package hyperref Info: Option `pdffitwindow' set `true' on input line 109.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 109.
+Package hyperref Info: Option `colorlinks' set `true' on input line 109.
 
 (/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
@@ -2131,7 +2132,7 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 ))
-(./setup/commands.tex
+(../lib/commands.tex
 (/usr/share/texlive/texmf-dist/tex/latex/bytefield/bytefield.sty
 Package: bytefield 2015/10/28 v2.3 Network protocol diagrams
 \bytefield@height=\skip129
@@ -2562,7 +2563,7 @@ Package scrlfile, 2016/06/14 v3.21 KOMA-Script package (loading files)
 . 
 . Defining command \acfplike with sig. 'smm' on line 4303.
 .................................................
-)) (./setup/nomenclature.tex)) (./setup/paper.tex
+)) (../lib/nomenclature.tex)) (../lib/paper.tex
 \c@subparagraph=\count468
 \c@part=\count469
 
@@ -2860,25 +2861,26 @@ Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ])
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/04_approach.
-tex" <genetic.pdf, id=91, 513.55263pt x 229.42613pt>
-File: genetic.pdf Graphic file (type pdf)
- <use genetic.pdf>
-Package luatex.def Info: genetic.pdf used on input line 119.
-(luatex.def)             Requested size: 252.0pt x 112.5773pt.
+tex" <../res/plot/genetic.pdf, id=85, 1026.1025pt x 457.04752pt>
+File: ../res/plot/genetic.pdf Graphic file (type pdf)
+
+<use ../res/plot/genetic.pdf>
+Package luatex.def Info: ../res/plot/genetic.pdf used on input line 54.
+(luatex.def)             Requested size: 252.0pt x 112.24611pt.
 )
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/05_experimen
-tation.tex" <../res/tmp/Picture/gateway.jpg, id=103, 4625.28pt x 3468.96pt>
+tation.tex" <../res/tmp/Picture/gateway.jpg, id=102, 4625.28pt x 3468.96pt>
 File: ../res/tmp/Picture/gateway.jpg Graphic file (type jpg)
 
 <use ../res/tmp/Picture/gateway.jpg>
-Package luatex.def Info: ../res/tmp/Picture/gateway.jpg used on input line 13.
+Package luatex.def Info: ../res/tmp/Picture/gateway.jpg used on input line 15.
 (luatex.def)             Requested size: 120.95892pt x 90.67252pt.
 
-<../res/tmp/Picture/node.jpg, id=104, 4625.28pt x 3468.96pt>
+<../res/tmp/Picture/node.jpg, id=103, 4625.28pt x 3468.96pt>
 File: ../res/tmp/Picture/node.jpg Graphic file (type jpg)
 
 <use ../res/tmp/Picture/node.jpg>
-Package luatex.def Info: ../res/tmp/Picture/node.jpg used on input line 13.
+Package luatex.def Info: ../res/tmp/Picture/node.jpg used on input line 15.
 (luatex.def)             Requested size: 120.95892pt x 90.67252pt.
 )
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/07_conclusio
@@ -2888,9 +2890,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 141--141
 
  []
 
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[2<./genetic.pdf><../res/tmp/Picture/gateway.jpg><../res/tmp/Picture/node.jpg>]
 Package biblatex Info: Reference section=0 on input line 142.
 
 ** Conference Paper **
@@ -2904,42 +2903,42 @@ Before submitting the final camera ready copy, remember to:
  process uses the appropriate paper size.
 
 
-Package caption Warning: Unused \captionsetup[table] on input line 115.
+Package caption Warning: Unused \captionsetup[table] on input line 118.
 See the caption package documentation for explanation.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 143.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 143.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[3
-
-] (/home/aghiles/Aghiles/Research/Writing/bin/paper.aux)
+[2<../res/plot/genetic.pdf><../res/tmp/Picture/gateway.jpg><../res/tmp/Picture/n
+ode.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 143.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 143.
+ (/home/aghiles/Aghiles/Research/Writing/bin/paper.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 143.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 143.
 Package rerunfilecheck Info: File `paper.out' has not changed.
-(rerunfilecheck)             Checksum: <no file>.
+(rerunfilecheck)             Checksum: C3BE009D51C81C8470A54D4CCFFD1397;375.
 Package logreq Info: Writing requests to 'paper.run.xml'.
 
 \openout1 = paper.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 46119 strings out of 494577
+ 46122 strings out of 494577
  100000,1648299 words of node,token memory allocated
- 1494 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 99 glue, 1 kern, 64 attribute, 77 glue_spec, 64 att
-ribute_list, 1 write nodes
-   avail lists: 1:5,2:1128,3:245,4:144,5:274,6:6309,7:1304,8:65,9:249,10:22,11:6
-54
+ 1519 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 102 glue, 1 kern, 65 attribute, 77 glue_spec, 65 at
+tribute_list, 1 write nodes
+   avail lists: 1:4,2:1136,3:249,4:154,5:266,6:5927,7:1255,8:65,9:247,10:22,11:6
+09
  47969 multiletter control sequences out of 65536+600000
  275 fonts using 19097967 bytes
- 67i,13n,94p,1930b,1760s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 67i,13n,94p,1930b,1556s stack positions out of 5000i,500n,10000p,200000b,100000s
+
+warning  (pdf backend): unreferenced destination with name 'MCDM'
 
 warning  (pdf backend): unreferenced destination with name 'FL'
 
 warning  (pdf backend): unreferenced destination with name 'GA'
-
-warning  (pdf backend): unreferenced destination with name 'MCDM'
 
 warning  (pdf backend): unreferenced destination with name 'RSSI'
 
@@ -2955,8 +2954,6 @@ warning  (pdf backend): unreferenced destination with name 'Tx'
 
 warning  (pdf backend): unreferenced destination with name 'SF'
 
-warning  (pdf backend): unreferenced destination with name 'CSS'
-
 warning  (pdf backend): unreferenced destination with name 'NB-IoT'
 
 warning  (pdf backend): unreferenced destination with name 'LPWAN'
@@ -2971,10 +2968,10 @@ bch/md-chb7y.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/times/utmri8a.pfb>
-Output written on paper.pdf (3 pages, 5422031 bytes).
+Output written on paper.pdf (2 pages, 5421858 bytes).
 
-PDF statistics: 181 PDF objects out of 1000 (max. 8388607)
- 158 compressed objects within 2 object streams
- 37 named destinations out of 1000 (max. 131072)
+PDF statistics: 177 PDF objects out of 1000 (max. 8388607)
+ 155 compressed objects within 2 object streams
+ 36 named destinations out of 1000 (max. 131072)
  64 words of extra memory for PDF output out of 10000 (max. 10000000)
 

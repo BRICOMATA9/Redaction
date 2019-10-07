@@ -15,15 +15,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "src/slide.tex",
-			"settings":
-			{
-				"buffer_size": 2804,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
 	"build_system_choices":
@@ -207,6 +198,11 @@
 	],
 	"file_history":
 	[
+		"/home/aghiles/Aghiles/Research/Writing/src/slide.tex",
+		"/home/aghiles/Aghiles/Research/Writing/lib/setup.tex",
+		"/home/aghiles/Aghiles/Research/Writing/lib/slide.tex",
+		"/home/aghiles/Aghiles/Research/Writing/lib/plot.tex",
+		"/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/graphs/tikzlibrarygraphs.standard.code.tex",
 		"/home/aghiles/Aghiles/Redaction/src/slide.tex",
 		"/home/aghiles/Downloads/calcursem/src/calcurse",
 		"/home/aghiles/.config/mutt/.cache/tmp/mutt-dell-1000-32431-5918117606302234234",
@@ -329,16 +325,11 @@
 		"/home/aghiles/Aghiles/Redaction/0/paper/paper.tex",
 		"/home/aghiles/Aghiles/Redaction/0/paper/src/B/application.tex",
 		"/home/aghiles/Aghiles/Redaction/0/paper/src/B/frame.tex",
-		"/home/aghiles/Aghiles/Redaction/0/paper/src/B/divers.tex",
-		"/home/aghiles/Aghiles/Redaction/0/paper/src/B/review.tex",
-		"/home/aghiles/Aghiles/Redaction/0/paper/src/4/2_related.tex",
-		"/home/aghiles/Aghiles/Redaction/0/paper/src/1/4_approach.tex",
-		"/home/aghiles/Aghiles/Redaction/0/paper/src/2/0_abstract.tex",
-		"/home/aghiles/Aghiles/Redaction/0/paper/src/6/1_introduction.tex"
+		"/home/aghiles/Aghiles/Redaction/0/paper/src/B/divers.tex"
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -352,6 +343,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"setup",
+			"frameBi",
+			"setup",
+			"setup/",
 			"ac",
 			"note",
 			"transparent",
@@ -388,37 +383,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "src/slide.tex",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2804,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],

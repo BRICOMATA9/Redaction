@@ -3,7 +3,7 @@
 	[
 		{
 			"name": "plot",
-			"path": "src",
+			"path": "res",
 			"file_exclude_patterns": ["poster.tex","poster.pdf","slide.tex","slide.pdf","paper.tex","paper.pdf"],
 			"follow_symlinks": true
 		},
@@ -18,7 +18,7 @@
 		}
 	],
 	"settings": {
-			"TEXroot": "src/plot.tex",
+			"TEXroot": "res/plot.tex",
 			"builder_settings": {
 					"program": "lualatex",
 					"options": "--shell-escape"

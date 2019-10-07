@@ -15,14 +15,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "src/plot.tex",
-			"settings":
-			{
-				"buffer_size": 709,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
 	"build_system_choices":
@@ -84,16 +76,16 @@
 		"selected_items":
 		[
 			[
-				"inst",
-				"Package Control: Install Package"
-			],
-			[
 				"lan",
 				"LanguageTool: Change Language"
 			],
 			[
 				"prv",
 				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
 			],
 			[
 				"my cu",
@@ -206,58 +198,65 @@
 	],
 	"file_history":
 	[
-		"/home/aghiles/Aghiles/Redaction/src/plot.tex",
-		"/home/aghiles/.mutt/tmp/mutt-dell-1000-7343-15560977147596524043",
-		"/home/aghiles/Mail/djaghiles/INBOX/cur/1569768103_7.7621.dell,U=4130,FMD5=7e33429f656f1e6e9d79b29c3f82c57e:2,S",
-		"/home/aghiles/.config/mutt/tmp/mutt-dell-1000-17035-2297733189843199890",
-		"/home/aghiles/.config/mutt/tmp/mutt-dell-1000-16698-6819143321775365964",
-		"/home/aghiles/.config/mutt/tmp/mutt-dell-1000-1134-8719432707634480816",
-		"/home/aghiles/.config/mutt/tmp/mutt-dell-1000-1134-16918585226325047019",
-		"/home/aghiles/.config/mutt/tmp/mutt-dell-1000-11510-9843912674036056044",
-		"/tmp/mutt-dell-1000-6659-3113382148077728413",
-		"/home/aghiles/Aghiles/Redaction/src/setup/plot/genetic.tex",
-		"/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex",
+		"/home/aghiles/Aghiles/Research/Writing/res/plot.tex",
+		"/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/plot.tex",
+		"/home/aghiles/Aghiles/Research/Writing/lib/plot.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/slide.tex",
+		"/home/aghiles/Aghiles/Research/Writing/lib/slide.tex",
+		"/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/graphs/tikzlibrarygraphs.standard.code.tex",
+		"/home/aghiles/Aghiles/Redaction/src/slide.tex",
+		"/home/aghiles/Downloads/calcursem/src/calcurse",
+		"/home/aghiles/.config/mutt/.cache/tmp/mutt-dell-1000-32431-5918117606302234234",
+		"/home/aghiles/.config/mutt/.cache/tmp/mutt-dell-1000-32431-3957175536653635214",
+		"/home/aghiles/Aghiles/Redaction/src/poster.tex",
+		"/home/aghiles/Downloads/IEEE_CS_Latex/bare_conf.tex",
+		"/home/aghiles/Downloads/IEEE_CS_Latex/bibtemplate.tex",
+		"/home/aghiles/Aghiles/Redaction/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/12_related.tex",
+		"/home/aghiles/Aghiles/Redaction/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/13_background.tex",
+		"/home/aghiles/Aghiles/Redaction/src/09-Conclusion/10_conclusion.tex",
+		"/home/aghiles/Aghiles/Redaction/src/01-Introduction/10_introduction.tex",
+		"/home/aghiles/Aghiles/Redaction/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/14_experimentation.tex",
+		"/home/aghiles/Aghiles/Redaction/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/15_results.tex",
+		"/home/aghiles/Aghiles/Redaction/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/13_method.tex",
+		"/home/aghiles/Aghiles/Redaction/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/11_introduction.tex",
+		"/home/aghiles/Aghiles/Redaction/src/08-UTLC/13_method.tex",
+		"/home/aghiles/Aghiles/Redaction/src/02-State of the art/16_discussion.tex",
+		"/home/aghiles/Aghiles/Redaction/src/99-PSE1/11_introduction.tex",
+		"/home/aghiles/Aghiles/Redaction/src/setup/setup_slide.tex",
 		"/home/aghiles/Aghiles/Redaction/src/setup/setup_tikz.tex",
-		"/home/aghiles/Aghiles/Redaction/src/setup/tikzset.tex",
-		"/home/aghiles/t/bertrandmasson.free.fr/biblatexmichu5fe2.pdf.tmp",
-		"/home/aghiles/Downloads/untitled.tex",
-		"/home/aghiles/Aghiles/Redaction/plot/plot.tex",
+		"/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex",
+		"/home/aghiles/Aghiles/Redaction/src/setup/setup_command.tex",
+		"/home/aghiles/Aghiles/Redaction/src/02-State of the art/12_related.tex",
+		"/home/aghiles/untitled.tex",
+		"/home/aghiles/Aghiles/Redaction/src/05-x-Long paper/11_introduction.tex",
+		"/home/aghiles/Aghiles/Redaction/src/05-x-Long paper/12_related.tex",
+		"/home/aghiles/Aghiles/Redaction/src/03-x-Testbed/11_introduction.tex",
+		"/home/aghiles/Aghiles/Redaction/src/08-UTLC/14_experimentation.tex",
+		"/home/aghiles/Aghiles/Redaction/src/11-Privacy Framework/13_method.tex",
+		"/home/aghiles/Aghiles/Redaction/slide.tex",
+		"/home/aghiles/Aghiles/Redaction/slide/slide.tex",
+		"/home/aghiles/Aghiles/Redaction/slide/src/1/3_0_method.tex",
 		"/home/aghiles/Aghiles/Redaction/common/setup/setup_tikz.tex",
-		"/home/aghiles/Aghiles/Redaction/plot/src/genetic.tex",
-		"/home/aghiles/Aghiles/Redaction/plot/src/que2.tex",
-		"/home/aghiles/Aghiles/Redaction/plot/src/que.tex",
-		"/home/aghiles/Aghiles/Redaction/plot/src/tree_chalenges.tex",
-		"/home/aghiles/Aghiles/Redaction/common/setup/setup.tex",
-		"/home/aghiles/Aghiles/Redaction/plot/plot/plot.tex",
-		"/home/aghiles/Aghiles/Redaction/res/plot/plot.tex",
-		"/home/aghiles/Aghiles/Redaction/res/plot/src/LPWAN.tex",
-		"/home/aghiles/Aghiles/Redaction/res/plot/src/methodology.tex",
-		"/home/aghiles/Aghiles/Redaction/res/plot/src/statistics.tex",
-		"/home/aghiles/Aghiles/Redaction/res/plot/src/tree_chalenges.tex",
-		"/home/aghiles/Aghiles/Redaction/res/plot/src/graph2.tex",
-		"/home/aghiles/Aghiles/Redaction/res/plot/src/graph1.tex",
-		"/home/aghiles/Aghiles/Redaction/res/plot/src/graph0.tex",
-		"/home/aghiles/Aghiles/Redaction/res/plot/src/figure4.tex",
-		"/home/aghiles/Aghiles/Redaction/res/plot/src/figure1.tex",
-		"/home/aghiles/Aghiles/Redaction/res/plot/src/figure2.tex",
-		"/home/aghiles/Aghiles/Redaction/res/plot/src/figure3.tex",
-		"/home/aghiles/Aghiles/Redaction/setup/setup_tikz.tex",
-		"/home/aghiles/Aghiles/Redaction/res/plot/0.tex",
-		"/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty",
-		"/home/aghiles/Aghiles/Redaction/plot.sublime-project",
+		"/home/aghiles/Aghiles/Redaction/setup/setup.tex",
+		"/home/aghiles/Aghiles/Redaction/slide/src/11/3_method.tex",
+		"/home/aghiles/Aghiles/Redaction/res/accronyme/nomenclature.tex",
+		"/home/aghiles/Aghiles/Redaction/slide/src/1_introduction.tex",
+		"/home/aghiles/Aghiles/Redaction/slide/src/11/1_introduction.tex",
+		"/home/aghiles/Aghiles/Redaction/slide/src/1/2_0_related.tex",
+		"/home/aghiles/Aghiles/Redaction/slide/src/11/7_conclusion.tex",
+		"/home/aghiles/Aghiles/Redaction/slide/src/11/5_results.tex",
+		"/home/aghiles/Aghiles/Redaction/slide/src/11/2_related.tex",
+		"/home/aghiles/Aghiles/Redaction/slide/bin/slide.vrb",
+		"/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex",
 		"/home/aghiles/Aghiles/Redaction/paper/paper.tex",
-		"/home/aghiles/Aghiles/Tool/config/common/Local Storage/leveldb/002321.ldb",
-		"/home/aghiles/Aghiles/Tool/config/common/Local Storage/leveldb/002303.ldb",
-		"/home/aghiles/Aghiles/Tool/config/common/Local Storage/leveldb/MANIFEST-000001",
-		"/home/aghiles/Aghiles/Tool/config/common/Local Storage/leveldb/000005.ldb",
 		"/home/aghiles/Aghiles/Redaction/paper/src/4/1_introduction.tex",
 		"/home/aghiles/Aghiles/Redaction/paper/src/4/4_approach.tex",
 		"/home/aghiles/Aghiles/Redaction/paper/src/4/2_related.tex",
-		"/home/aghiles/Aghiles/Redaction/setup/setup.tex",
 		"/home/aghiles/Aghiles/Redaction/paper/src/4/7_conclusion.tex",
 		"/home/aghiles/Aghiles/Redaction/paper/src/4/0_abstract.tex",
-		"/home/aghiles/Aghiles/Redaction/res/accronyme/nomenclature.tex",
 		"/home/aghiles/Aghiles/Redaction/paper/src/4/5_experimentation.tex",
+		"/home/aghiles/Aghiles/Redaction/setup/setup_tikz.tex",
 		"/home/aghiles/Aghiles/Tool/config/subrid/Packages/LaTeXTools/LaTeXTools.sublime-settings",
 		"/home/aghiles/Aghiles/Redaction/setup/lib/main1.bib",
 		"/home/aghiles/Aghiles/Redaction/setup/lib/main2.bib",
@@ -326,14 +325,7 @@
 		"/home/aghiles/Downloads/Weatherlklk.bib",
 		"/home/aghiles/Downloads/Measurement.bib",
 		"/home/aghiles/Aghiles/Redaction/0/paper/paper.tex",
-		"/home/aghiles/Aghiles/Redaction/0/paper/src/B/application.tex",
-		"/home/aghiles/Aghiles/Redaction/0/paper/src/B/frame.tex",
-		"/home/aghiles/Aghiles/Redaction/0/paper/src/B/divers.tex",
-		"/home/aghiles/Aghiles/Redaction/0/paper/src/B/review.tex",
-		"/home/aghiles/Aghiles/Redaction/0/paper/src/4/2_related.tex",
-		"/home/aghiles/Aghiles/Redaction/0/paper/src/1/4_approach.tex",
-		"/home/aghiles/Aghiles/Redaction/0/paper/src/2/0_abstract.tex",
-		"/home/aghiles/Aghiles/Redaction/0/paper/src/6/1_introduction.tex"
+		"/home/aghiles/Aghiles/Redaction/0/paper/src/B/application.tex"
 	],
 	"find":
 	{
@@ -348,32 +340,16 @@
 	},
 	"find_state":
 	{
-		"case_sensitive": true,
+		"case_sensitive": false,
 		"find_history":
 		[
-			"Labe",
-			" \\\\ \\\\ \\\\ \\\\",
-			"\t\\\\State",
-			"\t\\State",
-			"red, ",
-			"5",
-			"},\\n",
-			".*\\.style.*\\n",
-			"box",
-			"imagewidth",
-			"tikz",
-			"aghiles/Aghiles",
-			"span",
-			"mysha",
-			"imagewidth"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": true,
+		"regex": false,
 		"replace_history":
 		[
-			""
 		],
 		"reverse": false,
 		"show_context": true,
@@ -384,37 +360,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "src/plot.tex",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 709,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -453,13 +400,9 @@
 	{
 		"height": 0.0
 	},
-	"output.languagetool":
-	{
-		"height": 104.0
-	},
 	"output.latextools":
 	{
-		"height": 399.0
+		"height": 379.0
 	},
 	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
 	"project": "plot.sublime-project",
@@ -515,7 +458,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 296.0,
+	"side_bar_width": 211.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

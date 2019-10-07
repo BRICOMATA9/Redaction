@@ -1,0 +1,9 @@
+[0] Config.pm:354> INFO - This is Biber 2.7 (beta)
+[0] Config.pm:357> INFO - Logfile is 'tikz/bin/genetic.blg'
+[27] biber:303> INFO - === Mon Oct  7, 2019, 14:27:45
+[39] Biber.pm:360> INFO - Reading 'tikz/bin/genetic.bcf'
+[102] Biber.pm:836> INFO - Found 0 citekeys in bib section 0
+[107] Utils.pm:164> WARN - The file 'tikz/bin/genetic.bcf' does not contain any citations!
+[112] bbl.pm:608> INFO - Writing 'tikz/bin/genetic.bbl' with encoding 'UTF-8'
+[112] bbl.pm:712> INFO - Output to tikz/bin/genetic.bbl
+[112] Biber.pm:110> INFO - WARNINGS: 1
