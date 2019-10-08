@@ -37,17 +37,17 @@
 \usepackage{bytefield}
   \newcommand{\y}[2]{\bitbox{#1}{#2}}
 
-\usepackage{xparse}
-	\ExplSyntaxOn
-		\NewDocumentCommand{\xinput}{m}{%
-			\azimut_xinput:n { #1 }
-		}
-		\ior_new:N \g_azimut_xinput_stream
-		\cs_new_protected:Nn \azimut_xinput:n{
-			\ior_open:Nn \g_azimut_xinput_stream { "|ls ~ #1" }
-			\ior_map_inline:Nn \g_azimut_xinput_stream { \file_input:n { \tl_trim_spaces:n {##1} } }
-		}
-	\ExplSyntaxOff
+% \usepackage{xparse}
+% 	\ExplSyntaxOn
+% 		\NewDocumentCommand{\xinput}{m}{%
+% 			\azimut_xinput:n { #1 }
+% 		}
+% 		\ior_new:N \g_azimut_xinput_stream
+% 		\cs_new_protected:Nn \azimut_xinput:n{
+% 			\ior_open:Nn \g_azimut_xinput_stream { "|ls ~ #1" }
+% 			\ior_map_inline:Nn \g_azimut_xinput_stream { \file_input:n { \tl_trim_spaces:n {##1} } }
+% 		}
+% 	\ExplSyntaxOff
 
 
 %todo

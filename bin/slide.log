@@ -1,4 +1,4 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016/Debian)  (format=lualatex 2019.4.12)  7 OCT 2019 18:27
+This is LuaTeX, Version 0.95.0 (TeX Live 2016/Debian)  (format=lualatex 2019.4.2)  8 OCT 2019 06:37
  system commands enabled.
 **slide.tex
 (./slide.tex
@@ -34,9 +34,9 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.129 seconds
+luaotfload | main : initialization completed in 0.088 seconds
 Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
+(../lib/slide.tex (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2017/01/22 v3.40 A class for typesetting presentations
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
@@ -711,86 +711,86 @@ Package: babel 2016/04/23 3.9r The Babel package
 (/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
 \l@dumylang=\language1
 \l@nohyphenation=\language2
-\l@czech=\language3
-\l@italian=\language4
-\l@hungarian=\language5
-\l@basque=\language6
-\l@irish=\language7
-\l@piedmontese=\language8
-\l@lithuanian=\language9
-\l@mongolian=\language10
-\l@telugu=\language11
-\l@gujarati=\language12
-\l@dutch=\language13
-\l@german=\language14
-\l@bengali=\language15
-\l@romansh=\language16
-\l@friulan=\language17
-\l@slovak=\language18
-\l@armenian=\language19
-\l@bokmal=\language20
-\l@panjabi=\language21
-\l@indonesian=\language22
-\l@serbian=\language23
-\l@ethiopic=\language24
-\l@oriya=\language25
-\l@thai=\language26
-\l@nynorsk=\language27
-\l@greek=\language28
-\l@ngerman-x-2014-05-21=\language29
-\l@serbianc=\language30
-\l@assamese=\language31
-\l@latvian=\language32
-\l@malayalam=\language33
-\l@french=\language34
-\l@finnish=\language35
-\l@welsh=\language36
-\l@sanskrit=\language37
-\l@turkish=\language38
-\l@portuguese=\language39
-\l@monogreek=\language40
-\l@esperanto=\language41
-\l@galician=\language42
-\l@slovenian=\language43
-\l@ukrainian=\language44
-\l@polish=\language45
-\l@coptic=\language46
-\l@russian=\language47
-\l@ukenglish=\language48
-\l@croatian=\language49
-\l@catalan=\language50
-\l@ngerman=\language51
-\l@interlingua=\language52
-\l@german-x-2014-05-21=\language53
-\l@churchslavonic=\language54
-\l@ibycus=\language55
-\l@arabic=\language56
-\l@tamil=\language57
-\l@kurmanji=\language58
-\l@kannada=\language59
-\l@afrikaans=\language60
-\l@spanish=\language61
-\l@estonian=\language62
-\l@uppersorbian=\language63
-\l@latin=\language64
-\l@mongolianlmc=\language65
-\l@hindi=\language66
-\l@bulgarian=\language67
+\l@occitan=\language3
+\l@nynorsk=\language4
+\l@german=\language5
+\l@indonesian=\language6
+\l@lithuanian=\language7
+\l@latvian=\language8
+\l@hungarian=\language9
+\l@latin=\language10
+\l@dutch=\language11
+\l@churchslavonic=\language12
+\l@ukrainian=\language13
+\l@uppersorbian=\language14
+\l@ngerman=\language15
+\l@friulan=\language16
+\l@hindi=\language17
+\l@ibycus=\language18
+\l@portuguese=\language19
+\l@kurmanji=\language20
+\l@danish=\language21
+\l@sanskrit=\language22
+\l@polish=\language23
+\l@pinyin=\language24
+\l@irish=\language25
+\l@croatian=\language26
+\l@malayalam=\language27
+\l@italian=\language28
+\l@telugu=\language29
+\l@afrikaans=\language30
+\l@mongolianlmc=\language31
+\l@tamil=\language32
+\l@serbian=\language33
+\l@swedish=\language34
+\l@czech=\language35
+\l@icelandic=\language36
+\l@slovak=\language37
+\l@basque=\language38
+\l@kannada=\language39
+\l@panjabi=\language40
+\l@classiclatin=\language41
+\l@ethiopic=\language42
+\l@ngerman-x-2014-05-21=\language43
+\l@welsh=\language44
+\l@bengali=\language45
+\l@bokmal=\language46
+\l@liturgicallatin=\language47
+\l@assamese=\language48
+\l@farsi=\language49
+\l@piedmontese=\language50
+\l@ukenglish=\language51
+\l@turkmen=\language52
+\l@russian=\language53
+\l@usenglishmax=\language54
+\l@armenian=\language55
+\l@bulgarian=\language56
+\l@german-x-2014-05-21=\language57
+\l@esperanto=\language58
+\l@interlingua=\language59
+\l@romansh=\language60
+\l@french=\language61
+\l@mongolian=\language62
+\l@greek=\language63
+\l@marathi=\language64
+\l@spanish=\language65
+\l@slovenian=\language66
+\l@thai=\language67
 \l@swissgerman=\language68
-\l@usenglishmax=\language69
-\l@swedish=\language70
-\l@turkmen=\language71
-\l@danish=\language72
-\l@occitan=\language73
-\l@liturgicallatin=\language74
-\l@pinyin=\language75
-\l@ancientgreek=\language76
-\l@georgian=\language77
-\l@romanian=\language78
-\l@classiclatin=\language79
-\l@marathi=\language80
-\l@farsi=\language81
-\l@icelandic=\language82
+\l@gujarati=\language69
+\l@estonian=\language70
+\l@catalan=\language71
+\l@ancientgreek=\language72
+\l@coptic=\language73
+\l@romanian=\language74
+\l@georgian=\language75
+\l@serbianc=\language76
+\l@arabic=\language77
+\l@oriya=\language78
+\l@turkish=\language79
+\l@monogreek=\language80
+\l@galician=\language81
+\l@finnish=\language82
 )
 (/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2012/08/20 v3.3p English support from the babel system
@@ -1382,19 +1382,363 @@ Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 )
 \everycr=\toks47
 \minrowclearance=\skip78
-))
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
-Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
-LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+)) (../lib/plot.tex
+(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 2016/08/01 v2.7 eTeX basic definition package (PEB,DPC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/upzd.fd
-File: upzd.fd 2001/06/04 font definitions for U/pzd.
+
+Package etex Warning: Extended allocation already in use.
+(etex)                etex.sty code will not be used.
+(etex)                To force etex package to load, add
+(etex)                \RequirePackage{etex}
+(etex)                at the start of the document.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/multirow/bigstrut.sty
+Package: bigstrut 2016/11/25 v2.2 Provide larger struts in tabulars
+\bigstrutjot=\dimen284
 )
-LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2015/11/12 v1.18 mathematical typesetting tools
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/upsy.fd
-File: upsy.fd 2001/06/04 font definitions for U/psy.
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count297
+\l_MT_multwidth_dim=\dimen285
+\origjot=\skip79
+\l_MT_shortvdotswithinadjustabove_dim=\dimen286
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen287
+\l_MT_above_intertext_sep=\dimen288
+\l_MT_below_intertext_sep=\dimen289
+\l_MT_above_shortintertext_sep=\dimen290
+\l_MT_below_shortintertext_sep=\dimen291
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2016/11/18 version 3.96 text color boxes
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box69
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen292
+\pgf@nodesepend=\dimen293
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+)) (/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks48
+\verbatim@line=\toks49
+\verbatim@in@stream=\read2
+)
+(/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
+\tcb@titlebox=\box70
+\tcb@upperbox=\box71
+\tcb@lowerbox=\box72
+\tcb@phantombox=\box73
+\c@tcbbreakpart=\count298
+\c@tcblayer=\count299
+\tcolorbox@number=\count300
+\tcb@temp=\box74
+\tcb@temp=\box75
+\tcb@temp=\box76
+\tcb@temp=\box77
+\tcb@out=\write5
+\tcb@record@out=\write6
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count301
+\lst@gtempboxa=\box78
+\lst@token=\toks50
+\lst@length=\count302
+\lst@currlwidth=\dimen294
+\lst@column=\count303
+\lst@pos=\count304
+\lst@lostspace=\dimen295
+\lst@width=\dimen296
+\lst@newlines=\count305
+\lst@lineno=\count306
+\lst@maxwidth=\dimen297
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count307
+\lst@skipnumbers=\count308
+\lst@framebox=\box79
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2016/08/10 v1.14 Data Visualization (1.14)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen298
+\pgffor@skip=\dimen299
+\pgffor@stack=\toks51
+\pgffor@toks=\toks52
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count309
+\pgfplotmarksize=\dimen300
+)
+\tikz@lastx=\dimen301
+\tikz@lasty=\dimen302
+\tikz@lastxsaved=\dimen303
+\tikz@lastysaved=\dimen304
+\tikzleveldistance=\dimen305
+\tikzsiblingdistance=\dimen306
+\tikz@figbox=\box80
+\tikz@figbox@bg=\box81
+\tikz@tempbox=\box82
+\tikz@tempbox@bg=\box83
+\tikztreelevel=\count310
+\tikznumberofchildren=\count311
+\tikznumberofcurrentchild=\count312
+\tikz@fig@count=\count313
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count314
+\pgfmatrixcurrentcolumn=\count315
+\pgf@matrix@numberofcolumns=\count316
+)
+\tikz@expandcount=\count317
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase.sty
+Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
+
+(/usr/share/texlive/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
+Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
+\@catcodetablestackcnt=\count318
+)
+\CatcodeTableOther=\catcodetable6
+\CatcodeTableExpl=\catcodetable7
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+Package pgfplots info on input line 124: Initializing with LUA version Lua 5.2
+\pgfplots@luabackend@table=\catcodetable8
+\t@pgfplots@toka=\toks53
+\t@pgfplots@tokb=\toks54
+\t@pgfplots@tokc=\toks55
+\pgfplots@tmpa=\dimen307
+\c@pgfplots@coordindex=\count319
+\c@pgfplots@scanlineindex=\count320
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code
+.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.t
+ex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
+gfsupp_loader.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex
+)
+Package pgfplots: loading complementary arithmetics for your pgf version...
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
+gfsupp_pgflibraryfpu.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
+gfsupp_pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count321
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/luamath/pgflibraryluam
+ath.code.tex)
+Package pgfplots info on input line 222: luamath library shipped with pgf 3.0.1a
+ is up-to-date
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex
+Package pgfplots info on input line 82: Found new luatex: initializing lua comma
+nds instead of write18 (shell-escape)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotslists
+tructure.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotslists
+tructureext.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray
+.code.tex
+\c@pgfplotsarray@tmp=\count322
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatri
+x.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshare
+d.code.tex
+\c@pgfplotstable@counta=\count323
+\t@pgfplotstable@a=\toks56
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.te
+x
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.co
+de.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.sur
+fshading.code.tex
+\c@pgfplotslibrarysurf@no=\count324
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surf
+shading.pgfsys-luatex.def)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.
+tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.t
+ex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.t
+ex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.cod
+e.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.
+tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.cod
+e.tex
+\pgfdecoratedcompleteddistance=\dimen308
+\pgfdecoratedremainingdistance=\dimen309
+\pgfdecoratedinputsegmentcompleteddistance=\dimen310
+\pgfdecoratedinputsegmentremainingdistance=\dimen311
+\pgf@decorate@distancetomove=\dimen312
+\pgf@decorate@repeatstate=\count325
+\pgfdecorationsegmentamplitude=\dimen313
+\pgfdecorationsegmentlength=\dimen314
+)
+\tikz@lib@dec@box=\box84
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.pathmorphing.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.pathmorphing.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.pathreplacing.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.pathreplacing.code.tex))
+\pgfplots@numplots=\count326
+\pgfplots@xmin@reg=\dimen315
+\pgfplots@xmax@reg=\dimen316
+\pgfplots@ymin@reg=\dimen317
+\pgfplots@ymax@reg=\dimen318
+\pgfplots@zmin@reg=\dimen319
+\pgfplots@zmax@reg=\dimen320
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.co
+de.tex
+File: pgflibraryplotmarks.code.tex 2015/08/03 v3.0.1a (rcs-revision 1.14)
+))) (/usr/share/texlive/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+)
+(/home/aghiles/Aghiles/Research/Writing/bin/../lib/styles/gantt.sty
+
+LaTeX Warning: You have requested package `../lib/styles/gantt',
+               but the package provides `styles/gantt'.
+
+Package: styles/gantt 2011/03/20 Some macros for drawing gantt diagrams using tk
+iz v.1.3
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks57
+\XKV@tempa@toks=\toks58
+)
+\XKV@depth=\count327
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/forloop/forloop.sty
+Package: forloop 2006/09/18 v3.0 For Loops for LaTeX
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2008/01/15 v3.0.1a (rcs-revision 1.2)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibrarypatterns.cod
+e.tex
+File: pgflibrarypatterns.code.tex 2008/03/03 v3.0.1a (rcs-revision 1.13)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.
+tex
+File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
+\arrowsize=\dimen321
+))
+\c@ganttnum=\count328
+\c@ganttwidth=\count329
+\ganttlastx=\skip80
+\nextganttlastx=\skip81
+\gantttmpa=\skip82
+\gantttmpb=\skip83
+\ganttunitlength=\skip84
+\titleunitlength=\skip85
+\c@gantttitlenum=\count330
+\pgf@layerbox@background=\box85
+\pgf@layerboxsaved@background=\box86
+\pgf@layerbox@foreground=\box87
+\pgf@layerboxsaved@foreground=\box88
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
 (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2017/02/22 v2.0g Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
@@ -1476,113 +1820,487 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
+(/usr/share/texlive/texmf-dist/tex/latex/bbding/bbding.sty
+Package: bbding 1999/04/15 v1.01 Dingbats symbols
+)
+(/usr/share/texlive/texmf-dist/tex/latex/cancel/cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+)
+(/usr/share/texlive/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen322
+\c@nlinenum=\count331
+\TeXr@lab=\toks59
+)
+(/usr/share/texlive/texmf-dist/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip86
+\L@UnitsRaiseTextstyle=\skip87
+\L@UnitsRaiseScriptstyle=\skip88
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/tikz-timing/tikz-timing.sty
+(/usr/share/texlive/texmf-dist/tex/latex/svn-prov/svn-prov.sty
+Package: svn-prov 2010/04/24 v3.1862 Package Date/Version from SVN Keywords
+)
+Package: tikz-timing 2011/01/09 v0.7d Digital Timing Diagrams using TikZ
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.9)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2013/07/18 v3.0.1a (rcs-revision 1.3)
+)
+\tikztiming@numint=\count332
+\tikztiming@numfrac=\count333
+\tikztiming@xunit=\skip89
+\tikztiming@yunit=\skip90
+\tikztiming@debug=\count334
+\c@tikztiming@nrows=\count335
+\c@tikztimingrows=\count336
+\c@tikztimingtrans=\count337
+\c@tikztimingtranspos=\count338
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgfplots/pgfplotstable.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplotstable 2016/08/10 v1.14 Table typesetting and Pretty-printing (1
+.14)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable.code
+.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable.colt
+ype.code.tex))) (/usr/share/texlive/texmf-dist/tex/latex/wasysym/wasysym.sty
+Package: wasysym 2003/10/30 v2.0 Wasy-2 symbol support package
+\symwasy=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \ocircle on input line 240.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarymindmap.code.tex
+File: tikzlibrarymindmap.code.tex 2013/07/16 v3.0.1a (rcs-revision 1.10)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytrees.code.tex
+File: tikzlibrarytrees.code.tex 2008/02/24 v3.0.1a (rcs-revision 1.2)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrary3d.code.tex
+File: tikzlibrary3d.code.tex 2013/07/17 v3.0.1a (rcs-revision 1.2)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.
+code.tex
+File: pgflibraryarrows.meta.code.tex 2015/05/13 v3.0.1a (rcs-revision 1.13)
+\pgfarrowinset=\dimen323
+\pgfarrowlength=\dimen324
+\pgfarrowwidth=\dimen325
+\pgfarrowlinewidth=\dimen326
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarysnakes.code.tex
+File: tikzlibrarysnakes.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.7)
+
+
+Package pgf Warning: Snakes have been superseded by decorations. Please use the 
+decoration libraries instead of the snakes library on input line 14.
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.shapes.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.shapes.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/dat
+avisualization/tikzlibrarydatavisualization.code.tex
+File: tikzlibrarydatavisualization.code.tex 2015/05/18 v3.0.1a (rcs-revision 1.4
+8)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledatavisualizati
+on.code.tex
+File: pgfmoduledatavisualization.code.tex 2015/05/18  (rcs-revision 1.50)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleoo.code.tex
+\pgfoo@objectcount=\count339
+\pgfoothis@count=\count340
+\pgfoo@toks=\toks60
+)
+\pgf@lib@dv@cache@count=\count341
+\pgf@lib@dv@cache@count=\count342
+)
+\tikzdvvisualizercounter=\count343
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarymatrix.code.tex
+File: tikzlibrarymatrix.code.tex 2013/07/12 v3.0.1a (rcs-revision 1.4)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2013/07/18 v3.0.1a (rcs-revision 1.5)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2013/09/11 v3.0.1a (rcs-revision 1.6)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.callouts.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.callouts.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.1a (rcs-revision 1.2)
+\pgfnodepartlowerbox=\box89
+\pgfnodeparttwobox=\box90
+\pgfnodepartthreebox=\box91
+\pgfnodepartfourbox=\box92
+\pgfnodeparttwentybox=\box93
+\pgfnodepartnineteenbox=\box94
+\pgfnodeparteighteenbox=\box95
+\pgfnodepartseventeenbox=\box96
+\pgfnodepartsixteenbox=\box97
+\pgfnodepartfifteenbox=\box98
+\pgfnodepartfourteenbox=\box99
+\pgfnodepartthirteenbox=\box100
+\pgfnodeparttwelvebox=\box101
+\pgfnodepartelevenbox=\box102
+\pgfnodeparttenbox=\box103
+\pgfnodepartninebox=\box104
+\pgfnodeparteightbox=\box105
+\pgfnodepartsevenbox=\box106
+\pgfnodepartsixbox=\box107
+\pgfnodepartfivebox=\box108
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryfit.code.tex
+File: tikzlibraryfit.code.tex 2013/07/12 v3.0.1a (rcs-revision 1.5)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2008/01/13 v3.0.1a (rcs-revision 1.3)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2009/11/15 v3.0.1a (rcs-revision 1.2)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code
+.tex
+File: pgflibraryfadings.code.tex 2008/02/07 v3.0.1a (rcs-revision 1.3)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarydecorations.text.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
+decorations.text.code.tex
+\pgf@lib@dec@text@box=\box109
+)
+\tikz@lib@dec@te@box=\box110
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hobby/tikzlibraryhobby.code.tex
+(/usr/share/texlive/texmf-dist/tex/latex/hobby/pgflibraryhobby.code.tex
+(/usr/share/texlive/texmf-dist/tex/latex/hobby/hobby.code.tex
+(/usr/share/texlive/texmf-dist/tex/latex/hobby/pml3array.sty
+\l_array_base_int=\count344
+\l_array_top_int=\count345
+\l_array_tmp_int=\count346
+\g_array_base_int=\count347
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbyVersion with sig. '' on line 41.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbyDate with sig. '' on line 45.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \HobbyDisableAux with sig. '' on line 59.
+.................................................
+\l_hobby_npoints_int=\count348
+\l_hobby_draw_int=\count349
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbyinit with sig. 'mmm' on line 669.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbyaddpoint with sig. 'm' on line 699.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbysetparams with sig. 'm' on line 705.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbygenpath with sig. '' on line 721.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbygenifnecpath with sig. 'm' on line 732.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbygenuseifnecpath with sig. 'm' on line 744.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbyusepath with sig. 'm' on line 748.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbysavepath with sig. 'm' on line 751.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbyrestorepath with sig. 'm' on line 756.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbyshowpath with sig. 'm' on line 761.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbygenusepath with sig. '' on line 767.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \hobbyclearpath with sig. '' on line 770.
+.................................................
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarychains.code.tex
+File: tikzlibrarychains.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.6)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryautomata.code.tex
+File: tikzlibraryautomata.code.tex 2008/07/14 v3.0.1a (rcs-revision 1.3)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen327
+\captionmargin@=\dimen328
+\captionwidth=\dimen329
+\caption@tempdima=\dimen330
+\caption@indent=\dimen331
+\caption@parindent=\dimen332
+\caption@hangindent=\dimen333
+)
+\c@ContinuedFloat=\count350
+Package caption Info: beamer document class.
+Package caption Info: hyperref package is loaded.
+Package caption Info: Hyperref support is turned off
+(caption)             because hyperref has stopped early.
+Package caption Info: listings package is loaded.
+)
+\c@subfigure=\count351
+\c@subtable=\count352
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/01/14 v0.5h Insert pages of external PDF documents (AM)
+\AM@pagewidth=\dimen334
+\AM@pageheight=\dimen335
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppluatex.def
+File: ppluatex.def 2017/01/14 v0.5h Pdfpages driver for LuaTeX (AM)
+)
+\AM@pagebox=\box111
+\AM@global@opts=\toks61
+\AM@toc@title=\toks62
+\c@AM@survey=\count353
+\AM@templatesizebox=\box112
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count354
+\rotFPtop=\skip91
+\rotFPbot=\skip92
+\rot@float@box=\box113
+\rot@mess@toks=\toks63
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.gr
+oupplots.code.tex
+\pgfplots@group@current@plot=\count355
+\pgfplots@group@current@row=\count356
+\pgfplots@group@current@column=\count357
+)
+(/usr/share/texlive/texmf-dist/tex/latex/filecontents/filecontents.sty
+Package: filecontents 2011/10/08 v1.3 Create an external file from within a LaTe
+X document
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.pa
+tchplots.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/gra
+phs/tikzlibrarygraphs.code.tex
+File: tikzlibrarygraphs.code.tex 2015/06/05 v3.0.1a (rcs-revision 1.44)
+\tikz@lib@auto@number=\count358
+\tikz@qnode@count=\count359
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/gra
+phs/tikzlibrarygraphs.standard.code.tex
+File: tikzlibrarygraphs.standard.code.tex 2012/02/27 v3.0.1a (rcs-revision 1.9)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/graphdrawing/tex/tikzlibrarygrap
+hdrawing.code.tex
+File: tikzlibrarygraphdrawing.code.tex 2013/08/05 v3.0.1a (rcs-revision 1.20)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/graphdrawing/tex/pgflibrarygraph
+drawing.code.tex
+File: pgflibrarygraphdrawing.code.tex 2015/06/08 v3.0.1a (rcs-revision 1.39)
+\pgf@gd@parameter@stack@height=\count360
+\pgf@gd@node@box=\box114
+\pgf@gd@edge@box=\box115
+\pgf@gd@prekind@box=\box116
+\pgf@gd@postkind@box=\box117
+)) (../lib/tikzset.tex))
 (/usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
 \langwohyphens=\language83
 LaTeX Info: Redefining \_ on input line 43.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
-)
 (/usr/share/texlive/texmf-dist/tex/latex/import/import.sty
 Package: import 2009/03/23  v 5.1
-)
-(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-Package: pdfpages 2017/01/14 v0.5h Insert pages of external PDF documents (AM)
-\AM@pagewidth=\dimen284
-\AM@pageheight=\dimen285
-
-(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppluatex.def
-File: ppluatex.def 2017/01/14 v0.5h Pdfpages driver for LuaTeX (AM)
-)
-\AM@pagebox=\box69
-\AM@global@opts=\toks48
-\AM@toc@title=\toks49
-\c@AM@survey=\count297
-\AM@templatesizebox=\box70
 )
 (/usr/share/texlive/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
 Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2016/04/07 v1.8p multicolumn formatting (FMi)
-\c@tracingmulticols=\count298
-\mult@box=\box71
-\multicol@leftmargin=\dimen286
-\c@unbalance=\count299
-\c@collectmore=\count300
-\doublecol@number=\count301
-\multicoltolerance=\count302
-\multicolpretolerance=\count303
-\full@width=\dimen287
-\page@free=\dimen288
-\premulticols=\dimen289
-\postmulticols=\dimen290
-\multicolsep=\skip79
-\multicolbaselineskip=\skip80
-\partial@page=\box72
-\last@line=\box73
-\maxbalancingoverflow=\dimen291
-\mult@rightbox=\box74
-\mult@grightbox=\box75
-\mult@gfirstbox=\box76
-\mult@firstbox=\box77
-\@tempa=\box78
-\@tempa=\box79
-\@tempa=\box80
-\@tempa=\box81
-\@tempa=\box82
-\@tempa=\box83
-\@tempa=\box84
-\@tempa=\box85
-\@tempa=\box86
-\@tempa=\box87
-\@tempa=\box88
-\@tempa=\box89
-\@tempa=\box90
-\@tempa=\box91
-\@tempa=\box92
-\@tempa=\box93
-\@tempa=\box94
-\c@columnbadness=\count304
-\c@finalcolumnbadness=\count305
-\last@try=\dimen292
-\multicolovershoot=\dimen293
-\multicolundershoot=\dimen294
-\mult@nat@firstbox=\box95
-\colbreak@box=\box96
-\mc@col@check@num=\count306
+\c@tracingmulticols=\count361
+\mult@box=\box118
+\multicol@leftmargin=\dimen336
+\c@unbalance=\count362
+\c@collectmore=\count363
+\doublecol@number=\count364
+\multicoltolerance=\count365
+\multicolpretolerance=\count366
+\full@width=\dimen337
+\page@free=\dimen338
+\premulticols=\dimen339
+\postmulticols=\dimen340
+\multicolsep=\skip93
+\multicolbaselineskip=\skip94
+\partial@page=\box119
+\last@line=\box120
+\maxbalancingoverflow=\dimen341
+\mult@rightbox=\box121
+\mult@grightbox=\box122
+\mult@gfirstbox=\box123
+\mult@firstbox=\box124
+\@tempa=\box125
+\@tempa=\box126
+\@tempa=\box127
+\@tempa=\box128
+\@tempa=\box129
+\@tempa=\box130
+\@tempa=\box131
+\@tempa=\box132
+\@tempa=\box133
+\@tempa=\box134
+\@tempa=\box135
+\@tempa=\box136
+\@tempa=\box137
+\@tempa=\box138
+\@tempa=\box139
+\@tempa=\box140
+\@tempa=\box141
+\c@columnbadness=\count367
+\c@finalcolumnbadness=\count368
+\last@try=\dimen342
+\multicolovershoot=\dimen343
+\multicolundershoot=\dimen344
+\mult@nat@firstbox=\box142
+\colbreak@box=\box143
+\mc@col@check@num=\count369
 )
 (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen295
-\WF@size=\dimen296
-\c@WF@wrappedlines=\count307
-\WF@box=\box97
-\WF@everypar=\toks50
+\wrapoverhang=\dimen345
+\WF@size=\dimen346
+\c@WF@wrappedlines=\count370
+\WF@box=\box144
+\WF@everypar=\toks64
 Package: wrapfig 2003/01/31  v 3.6
 )
 (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count308
-\float@exts=\toks51
-\float@box=\box98
-\@float@everytoks=\toks52
-\@floatcapt=\box99
+\c@float@type=\count371
+\float@exts=\toks65
+\float@box=\box145
+\@float@everytoks=\toks66
+\@floatcapt=\box146
 )
 (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
 Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
 
-(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks53
-\XKV@tempa@toks=\toks54
-)
-\XKV@depth=\count309
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
 (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-
 ends (calc, etex, pgfmath)
@@ -1592,95 +2310,77 @@ Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
 
 (/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
 Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
-\collectedbox=\box100
+\collectedbox=\box147
 )
-\tc@llx=\dimen297
-\tc@lly=\dimen298
-\tc@urx=\dimen299
-\tc@ury=\dimen300
+\tc@llx=\dimen347
+\tc@lly=\dimen348
+\tc@urx=\dimen349
+\tc@ury=\dimen350
 
 (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pgf.def
 File: tc-pgf.def 2012/05/13 v1.0 trimclip fall-back clipping driver using PGF
-
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box101
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
-.sty
-Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen301
-\pgf@nodesepend=\dimen302
-)
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
-.sty
-Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
-)))
 Package trimclip Info: No clipping driver 'tc-luatex.def' available.
 (trimclip)             Using fall-back PGF driver.
 )
-\adjbox@Width=\dimen303
-\adjbox@Height=\dimen304
-\adjbox@Depth=\dimen305
-\adjbox@Totalheight=\dimen306
- (/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+\adjbox@Width=\dimen351
+\adjbox@Height=\dimen352
+\adjbox@Depth=\dimen353
+\adjbox@Totalheight=\dimen354
+
+(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count310
+\c@checkoddpage=\count372
 )
 (/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box102
-\sift@deathcycles=\count311
-\@vwid@loff=\dimen307
-\@vwid@roff=\dimen308
+\@vwid@box=\box148
+\sift@deathcycles=\count373
+\@vwid@loff=\dimen355
+\@vwid@roff=\dimen356
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
 Package: siunitx 2017/01/01 v2.7a A comprehensive (SI) units package
-\l__siunitx_tmp_box=\box103
-\l__siunitx_tmp_dim=\dimen309
-\l__siunitx_tmp_int=\count312
-\l__siunitx_number_mantissa_length_int=\count313
-\l__siunitx_number_uncert_length_int=\count314
-\l__siunitx_round_int=\count315
-\l__siunitx_process_decimal_int=\count316
-\l__siunitx_process_uncertainty_int=\count317
-\l__siunitx_process_fixed_int=\count318
-\l__siunitx_process_integer_min_int=\count319
-\l__siunitx_process_precision_int=\count320
-\l__siunitx_group_min_int=\count321
-\l__siunitx_angle_marker_box=\box104
-\l__siunitx_angle_unit_box=\box105
-\l__siunitx_angle_marker_dim=\dimen310
-\l__siunitx_angle_unit_dim=\dimen311
-\l__siunitx_unit_int=\count322
-\l__siunitx_unit_denominator_int=\count323
-\l__siunitx_unit_numerator_int=\count324
-\l__siunitx_unit_prefix_int=\count325
-\l__siunitx_unit_prefix_base_int=\count326
-\l__siunitx_unit_prefix_gram_int=\count327
-\l__siunitx_number_product_int=\count328
-\c__siunitx_one_fill_skip=\skip81
-\l__siunitx_table_unit_align_skip=\skip82
-\l__siunitx_table_exponent_dim=\dimen312
-\l__siunitx_table_integer_dim=\dimen313
-\l__siunitx_table_mantissa_dim=\dimen314
-\l__siunitx_table_marker_dim=\dimen315
-\l__siunitx_table_result_dim=\dimen316
-\l__siunitx_table_uncert_dim=\dimen317
-\l__siunitx_table_fill_pre_dim=\dimen318
-\l__siunitx_table_fill_post_dim=\dimen319
-\l__siunitx_table_fill_mid_dim=\dimen320
-\l__siunitx_table_pre_box=\box106
-\l__siunitx_table_post_box=\box107
-\l__siunitx_table_mantissa_box=\box108
-\l__siunitx_table_result_box=\box109
-\l__siunitx_table_number_align_skip=\skip83
-\l__siunitx_table_text_align_skip=\skip84
+\l__siunitx_tmp_box=\box149
+\l__siunitx_tmp_dim=\dimen357
+\l__siunitx_tmp_int=\count374
+\l__siunitx_number_mantissa_length_int=\count375
+\l__siunitx_number_uncert_length_int=\count376
+\l__siunitx_round_int=\count377
+\l__siunitx_process_decimal_int=\count378
+\l__siunitx_process_uncertainty_int=\count379
+\l__siunitx_process_fixed_int=\count380
+\l__siunitx_process_integer_min_int=\count381
+\l__siunitx_process_precision_int=\count382
+\l__siunitx_group_min_int=\count383
+\l__siunitx_angle_marker_box=\box150
+\l__siunitx_angle_unit_box=\box151
+\l__siunitx_angle_marker_dim=\dimen358
+\l__siunitx_angle_unit_dim=\dimen359
+\l__siunitx_unit_int=\count384
+\l__siunitx_unit_denominator_int=\count385
+\l__siunitx_unit_numerator_int=\count386
+\l__siunitx_unit_prefix_int=\count387
+\l__siunitx_unit_prefix_base_int=\count388
+\l__siunitx_unit_prefix_gram_int=\count389
+\l__siunitx_number_product_int=\count390
+\c__siunitx_one_fill_skip=\skip95
+\l__siunitx_table_unit_align_skip=\skip96
+\l__siunitx_table_exponent_dim=\dimen360
+\l__siunitx_table_integer_dim=\dimen361
+\l__siunitx_table_mantissa_dim=\dimen362
+\l__siunitx_table_marker_dim=\dimen363
+\l__siunitx_table_result_dim=\dimen364
+\l__siunitx_table_uncert_dim=\dimen365
+\l__siunitx_table_fill_pre_dim=\dimen366
+\l__siunitx_table_fill_post_dim=\dimen367
+\l__siunitx_table_fill_mid_dim=\dimen368
+\l__siunitx_table_pre_box=\box152
+\l__siunitx_table_post_box=\box153
+\l__siunitx_table_mantissa_box=\box154
+\l__siunitx_table_result_box=\box155
+\l__siunitx_table_number_align_skip=\skip97
+\l__siunitx_table_text_align_skip=\skip98
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -1798,26 +2498,23 @@ Package: siunitx 2017/01/01 v2.7a A comprehensive (SI) units package
 . 
 . Defining command \__siunitx_bookmark_si:w with sig. 'om' on line 7431.
 .................................................
-\g__file_internal_ior=\read2
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
-Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+\g__file_internal_ior=\read3
 )
 (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
-\c@lips@count=\count329
+\c@lips@count=\count391
 )
 (/usr/share/texlive/texmf-dist/tex/latex/everypage/everypage.sty
 Package: everypage 2007/06/20 1.1 Hooks to run on every page
 )
 (/usr/share/texlive/texmf-dist/tex/latex/eurosym/eurosym.sty
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
-\@eurobox=\box110
+\@eurobox=\box156
 )
 (/usr/share/texlive/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
 Package: algorithm2e 2013/01/06 v5.00 algorithms environments
-\c@AlgoLine=\count330
-\algocf@hangindent=\skip85
+\c@AlgoLine=\count392
+\algocf@hangindent=\skip99
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
@@ -1832,106 +2529,105 @@ Package `algorithm2e' Release 5.1 -- october 19 2015 --
 subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
 - Author: Christophe Fiorio (christophe.fiorio@umontpellier.fr)
 ********************************************************
-\skiptotal=\skip86
-\skiplinenumber=\skip87
-\skiprule=\skip88
-\skiphlne=\skip89
-\skiptext=\skip90
-\skiplength=\skip91
-\algomargin=\skip92
-\skipalgocfslide=\skip93
-\algowidth=\dimen321
-\inoutsize=\dimen322
-\inoutindent=\dimen323
-\interspacetitleruled=\dimen324
-\interspacealgoruled=\dimen325
-\interspacetitleboxruled=\dimen326
-\algocf@ruledwidth=\skip94
-\algocf@inoutbox=\box111
-\algocf@inputbox=\box112
-\AlCapSkip=\skip95
-\AlCapHSkip=\skip96
-\algoskipindent=\skip97
-\algocf@nlbox=\box113
-\algocf@hangingbox=\box114
-\algocf@untilbox=\box115
-\algocf@skipuntil=\skip98
-\algocf@capbox=\box116
-\algoheightruledefault=\skip99
-\algoheightrule=\skip100
-\algotitleheightruledefault=\skip101
-\algotitleheightrule=\skip102
-\c@algocfline=\count331
-\c@algocfproc=\count332
-\c@algocf=\count333
-\algocf@algoframe=\box117
-\algocf@algobox=\box118
+\skiptotal=\skip100
+\skiplinenumber=\skip101
+\skiprule=\skip102
+\skiphlne=\skip103
+\skiptext=\skip104
+\skiplength=\skip105
+\algomargin=\skip106
+\skipalgocfslide=\skip107
+\algowidth=\dimen369
+\inoutsize=\dimen370
+\inoutindent=\dimen371
+\interspacetitleruled=\dimen372
+\interspacealgoruled=\dimen373
+\interspacetitleboxruled=\dimen374
+\algocf@ruledwidth=\skip108
+\algocf@inoutbox=\box157
+\algocf@inputbox=\box158
+\AlCapSkip=\skip109
+\AlCapHSkip=\skip110
+\algoskipindent=\skip111
+\algocf@nlbox=\box159
+\algocf@hangingbox=\box160
+\algocf@untilbox=\box161
+\algocf@skipuntil=\skip112
+\algocf@capbox=\box162
+\algoheightruledefault=\skip113
+\algoheightrule=\skip114
+\algotitleheightruledefault=\skip115
+\algotitleheightrule=\skip116
+\c@algocfline=\count393
+\c@algocfproc=\count394
+\c@algocf=\count395
+\algocf@algoframe=\box163
+\algocf@algobox=\box164
 ) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
-\multirow@colwidth=\skip103
-\multirow@cntb=\count334
-\multirow@dima=\skip104
-\bigstrutjot=\dimen327
+\multirow@colwidth=\skip117
+\multirow@cntb=\count396
+\multirow@dima=\skip118
 )
 (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2016/04/27 v1.618033 publication quality tables
-\heavyrulewidth=\dimen328
-\lightrulewidth=\dimen329
-\cmidrulewidth=\dimen330
-\belowrulesep=\dimen331
-\belowbottomsep=\dimen332
-\aboverulesep=\dimen333
-\abovetopsep=\dimen334
-\cmidrulesep=\dimen335
-\cmidrulekern=\dimen336
-\defaultaddspace=\dimen337
-\@cmidla=\count335
-\@cmidlb=\count336
-\@aboverulesep=\dimen338
-\@belowrulesep=\dimen339
-\@thisruleclass=\count337
-\@lastruleclass=\count338
-\@thisrulewidth=\dimen340
+\heavyrulewidth=\dimen375
+\lightrulewidth=\dimen376
+\cmidrulewidth=\dimen377
+\belowrulesep=\dimen378
+\belowbottomsep=\dimen379
+\aboverulesep=\dimen380
+\abovetopsep=\dimen381
+\cmidrulesep=\dimen382
+\cmidrulekern=\dimen383
+\defaultaddspace=\dimen384
+\@cmidla=\count397
+\@cmidlb=\count398
+\@aboverulesep=\dimen385
+\@belowrulesep=\dimen386
+\@thisruleclass=\count399
+\@lastruleclass=\count400
+\@thisrulewidth=\dimen387
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip105
-\LTright=\skip106
-\LTpre=\skip107
-\LTpost=\skip108
-\LTchunksize=\count339
-\LTcapwidth=\dimen341
-\LT@head=\box119
-\LT@firsthead=\box120
-\LT@foot=\box121
-\LT@lastfoot=\box122
-\LT@cols=\count340
-\LT@rows=\count341
-\c@LT@tables=\count342
-\c@LT@chunks=\count343
-\LT@p@ftn=\toks55
+\LTleft=\skip119
+\LTright=\skip120
+\LTpre=\skip121
+\LTpost=\skip122
+\LTchunksize=\count401
+\LTcapwidth=\dimen388
+\LT@head=\box165
+\LT@firsthead=\box166
+\LT@foot=\box167
+\LT@lastfoot=\box168
+\LT@cols=\count402
+\LT@rows=\count403
+\c@LT@tables=\count404
+\c@LT@chunks=\count405
+\LT@p@ftn=\toks67
 )
 (/usr/share/texlive/texmf-dist/tex/latex/threeparttable/threeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box123
+\@tempboxb=\box169
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tabulary/tabulary.sty
 Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
-\TY@count=\count344
-\TY@linewidth=\dimen342
-\tymin=\dimen343
-\tymax=\dimen344
-\TY@tablewidth=\dimen345
+\TY@count=\count406
+\TY@linewidth=\dimen389
+\tymin=\dimen390
+\tymax=\dimen391
+\TY@tablewidth=\dimen392
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
-\TX@col@width=\dimen346
-\TX@old@table=\dimen347
-\TX@old@col=\dimen348
-\TX@target=\dimen349
-\TX@delta=\dimen350
-\TX@cols=\count345
-\TX@ftn=\toks56
+\TX@col@width=\dimen393
+\TX@old@table=\dimen394
+\TX@old@col=\dimen395
+\TX@target=\dimen396
+\TX@delta=\dimen397
+\TX@cols=\count407
+\TX@ftn=\toks68
 )
 (/usr/share/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
@@ -1939,20 +2635,20 @@ Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 (/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
-\CenteringLeftskip=\skip109
-\RaggedLeftLeftskip=\skip110
-\RaggedRightLeftskip=\skip111
-\CenteringRightskip=\skip112
-\RaggedLeftRightskip=\skip113
-\RaggedRightRightskip=\skip114
-\CenteringParfillskip=\skip115
-\RaggedLeftParfillskip=\skip116
-\RaggedRightParfillskip=\skip117
-\JustifyingParfillskip=\skip118
-\CenteringParindent=\skip119
-\RaggedLeftParindent=\skip120
-\RaggedRightParindent=\skip121
-\JustifyingParindent=\skip122
+\CenteringLeftskip=\skip123
+\RaggedLeftLeftskip=\skip124
+\RaggedRightLeftskip=\skip125
+\CenteringRightskip=\skip126
+\RaggedLeftRightskip=\skip127
+\RaggedRightRightskip=\skip128
+\CenteringParfillskip=\skip129
+\RaggedLeftParfillskip=\skip130
+\RaggedRightParfillskip=\skip131
+\JustifyingParfillskip=\skip132
+\CenteringParindent=\skip133
+\RaggedLeftParindent=\skip134
+\RaggedRightParindent=\skip135
+\JustifyingParindent=\skip136
 )
 Package hyperref Info: Option `pdftoolbar' set `true' on input line 109.
 Package hyperref Info: Option `pdfmenubar' set `true' on input line 109.
@@ -1960,117 +2656,83 @@ Package hyperref Info: Option `pdffitwindow' set `true' on input line 109.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 109.
 Package hyperref Info: Option `colorlinks' set `true' on input line 109.
 
-(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
-Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen351
-\captionmargin@=\dimen352
-\captionwidth=\dimen353
-\caption@tempdima=\dimen354
-\caption@indent=\dimen355
-\caption@parindent=\dimen356
-\caption@hangindent=\dimen357
-)
-\c@ContinuedFloat=\count346
-Package caption Info: beamer document class.
-Package caption Info: float package is loaded.
-Package caption Info: hyperref package is loaded.
-Package caption Info: Hyperref support is turned off
-(caption)             because hyperref has stopped early.
-Package caption Info: longtable package is loaded.
-
-(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
-Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
-)
-Package caption Info: threeparttable package is loaded.
-Package caption Info: wrapfig package is loaded.
-)
-\c@subfigure=\count347
-\c@subtable=\count348
-)
 (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip123
-\enit@outerparindent=\dimen358
-\enit@toks=\toks57
-\enit@inbox=\box124
-\enitdp@description=\count349
+\labelindent=\skip137
+\enit@outerparindent=\dimen398
+\enit@toks=\toks69
+\enit@inbox=\box170
+\enitdp@description=\count408
 )
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2016/12/05 v3.7 programmable bibliographies (PK/JW/AB)
 
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count350
+\lrq@indent=\count409
 
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
 (/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
-\@xs@message=\write5
-\integerpart=\count351
-\decimalpart=\count352
+\@xs@message=\write7
+\integerpart=\count410
+\decimalpart=\count411
 )
 Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 )
-\c@tabx@nest=\count353
-\c@listtotal=\count354
-\c@listcount=\count355
-\c@liststart=\count356
-\c@liststop=\count357
-\c@citecount=\count358
-\c@citetotal=\count359
-\c@multicitecount=\count360
-\c@multicitetotal=\count361
-\c@instcount=\count362
-\c@maxnames=\count363
-\c@minnames=\count364
-\c@maxitems=\count365
-\c@minitems=\count366
-\c@citecounter=\count367
-\c@savedcitecounter=\count368
-\c@uniquelist=\count369
-\c@uniquename=\count370
-\c@refsection=\count371
-\c@refsegment=\count372
-\c@maxextratitle=\count373
-\c@maxextratitleyear=\count374
-\c@maxextrayear=\count375
-\c@maxextraalpha=\count376
-\c@abbrvpenalty=\count377
-\c@highnamepenalty=\count378
-\c@lownamepenalty=\count379
-\c@maxparens=\count380
-\c@parenlevel=\count381
-\blx@tempcnta=\count382
-\blx@tempcntb=\count383
-\blx@tempcntc=\count384
-\blx@maxsection=\count385
-\blx@maxsegment@0=\count386
-\blx@notetype=\count387
-\blx@parenlevel@text=\count388
-\blx@parenlevel@foot=\count389
-\blx@sectionciteorder@0=\count390
-\labelnumberwidth=\skip124
-\labelalphawidth=\skip125
-\biblabelsep=\skip126
-\bibitemsep=\skip127
-\bibnamesep=\skip128
-\bibinitsep=\skip129
-\bibparsep=\skip130
-\bibhang=\skip131
-\blx@bcfin=\read3
-\blx@bcfout=\write6
-\c@mincomprange=\count391
-\c@maxcomprange=\count392
-\c@mincompwidth=\count393
+\c@tabx@nest=\count412
+\c@listtotal=\count413
+\c@listcount=\count414
+\c@liststart=\count415
+\c@liststop=\count416
+\c@citecount=\count417
+\c@citetotal=\count418
+\c@multicitecount=\count419
+\c@multicitetotal=\count420
+\c@instcount=\count421
+\c@maxnames=\count422
+\c@minnames=\count423
+\c@maxitems=\count424
+\c@minitems=\count425
+\c@citecounter=\count426
+\c@savedcitecounter=\count427
+\c@uniquelist=\count428
+\c@uniquename=\count429
+\c@refsection=\count430
+\c@refsegment=\count431
+\c@maxextratitle=\count432
+\c@maxextratitleyear=\count433
+\c@maxextrayear=\count434
+\c@maxextraalpha=\count435
+\c@abbrvpenalty=\count436
+\c@highnamepenalty=\count437
+\c@lownamepenalty=\count438
+\c@maxparens=\count439
+\c@parenlevel=\count440
+\blx@tempcnta=\count441
+\blx@tempcntb=\count442
+\blx@tempcntc=\count443
+\blx@maxsection=\count444
+\blx@maxsegment@0=\count445
+\blx@notetype=\count446
+\blx@parenlevel@text=\count447
+\blx@parenlevel@foot=\count448
+\blx@sectionciteorder@0=\count449
+\labelnumberwidth=\skip138
+\labelalphawidth=\skip139
+\biblabelsep=\skip140
+\bibitemsep=\skip141
+\bibnamesep=\skip142
+\bibinitsep=\skip143
+\bibparsep=\skip144
+\bibhang=\skip145
+\blx@bcfin=\read4
+\blx@bcfout=\write8
+\c@mincomprange=\count450
+\c@maxcomprange=\count451
+\c@mincompwidth=\count452
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -2079,78 +2741,78 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'ieee.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count394
-\c@savedafterword=\count395
-\c@annotator=\count396
-\c@savedannotator=\count397
-\c@author=\count398
-\c@savedauthor=\count399
-\c@bookauthor=\count400
-\c@savedbookauthor=\count401
-\c@commentator=\count402
-\c@savedcommentator=\count403
-\c@editor=\count404
-\c@savededitor=\count405
-\c@editora=\count406
-\c@savededitora=\count407
-\c@editorb=\count408
-\c@savededitorb=\count409
-\c@editorc=\count410
-\c@savededitorc=\count411
-\c@foreword=\count412
-\c@savedforeword=\count413
-\c@holder=\count414
-\c@savedholder=\count415
-\c@introduction=\count416
-\c@savedintroduction=\count417
-\c@namea=\count418
-\c@savednamea=\count419
-\c@nameb=\count420
-\c@savednameb=\count421
-\c@namec=\count422
-\c@savednamec=\count423
-\c@translator=\count424
-\c@savedtranslator=\count425
-\c@shortauthor=\count426
-\c@savedshortauthor=\count427
-\c@shorteditor=\count428
-\c@savedshorteditor=\count429
-\c@labelname=\count430
-\c@savedlabelname=\count431
-\c@institution=\count432
-\c@savedinstitution=\count433
-\c@lista=\count434
-\c@savedlista=\count435
-\c@listb=\count436
-\c@savedlistb=\count437
-\c@listc=\count438
-\c@savedlistc=\count439
-\c@listd=\count440
-\c@savedlistd=\count441
-\c@liste=\count442
-\c@savedliste=\count443
-\c@listf=\count444
-\c@savedlistf=\count445
-\c@location=\count446
-\c@savedlocation=\count447
-\c@organization=\count448
-\c@savedorganization=\count449
-\c@origlocation=\count450
-\c@savedoriglocation=\count451
-\c@origpublisher=\count452
-\c@savedorigpublisher=\count453
-\c@publisher=\count454
-\c@savedpublisher=\count455
-\c@language=\count456
-\c@savedlanguage=\count457
-\c@pageref=\count458
-\c@savedpageref=\count459
-\shorthandwidth=\skip132
-\shortjournalwidth=\skip133
-\shortserieswidth=\skip134
-\shorttitlewidth=\skip135
-\shortauthorwidth=\skip136
-\shorteditorwidth=\skip137
+\c@afterword=\count453
+\c@savedafterword=\count454
+\c@annotator=\count455
+\c@savedannotator=\count456
+\c@author=\count457
+\c@savedauthor=\count458
+\c@bookauthor=\count459
+\c@savedbookauthor=\count460
+\c@commentator=\count461
+\c@savedcommentator=\count462
+\c@editor=\count463
+\c@savededitor=\count464
+\c@editora=\count465
+\c@savededitora=\count466
+\c@editorb=\count467
+\c@savededitorb=\count468
+\c@editorc=\count469
+\c@savededitorc=\count470
+\c@foreword=\count471
+\c@savedforeword=\count472
+\c@holder=\count473
+\c@savedholder=\count474
+\c@introduction=\count475
+\c@savedintroduction=\count476
+\c@namea=\count477
+\c@savednamea=\count478
+\c@nameb=\count479
+\c@savednameb=\count480
+\c@namec=\count481
+\c@savednamec=\count482
+\c@translator=\count483
+\c@savedtranslator=\count484
+\c@shortauthor=\count485
+\c@savedshortauthor=\count486
+\c@shorteditor=\count487
+\c@savedshorteditor=\count488
+\c@labelname=\count489
+\c@savedlabelname=\count490
+\c@institution=\count491
+\c@savedinstitution=\count492
+\c@lista=\count493
+\c@savedlista=\count494
+\c@listb=\count495
+\c@savedlistb=\count496
+\c@listc=\count497
+\c@savedlistc=\count498
+\c@listd=\count499
+\c@savedlistd=\count500
+\c@liste=\count501
+\c@savedliste=\count502
+\c@listf=\count503
+\c@savedlistf=\count504
+\c@location=\count505
+\c@savedlocation=\count506
+\c@organization=\count507
+\c@savedorganization=\count508
+\c@origlocation=\count509
+\c@savedoriglocation=\count510
+\c@origpublisher=\count511
+\c@savedorigpublisher=\count512
+\c@publisher=\count513
+\c@savedpublisher=\count514
+\c@language=\count515
+\c@savedlanguage=\count516
+\c@pageref=\count517
+\c@savedpageref=\count518
+\shorthandwidth=\skip146
+\shortjournalwidth=\skip147
+\shortserieswidth=\skip148
+\shorttitlewidth=\skip149
+\shortauthorwidth=\skip150
+\shorteditorwidth=\skip151
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -2162,13 +2824,13 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2016/12/05 v3.7 biblatex compatibility (PK/JW/AB)
-\c@textcitecount=\count460
-\c@textcitetotal=\count461
-\c@textcitemaxnames=\count462
-\c@biburlnumpenalty=\count463
-\c@biburlucpenalty=\count464
-\c@biburllcpenalty=\count465
-\c@smartand=\count466
+\c@textcitecount=\count519
+\c@textcitetotal=\count520
+\c@textcitemaxnames=\count521
+\c@biburlnumpenalty=\count522
+\c@biburlucpenalty=\count523
+\c@biburllcpenalty=\count524
+\c@smartand=\count525
 )
 Package biblatex Info: Trying to load bibliography style 'ieee'...
 Package biblatex Info: ... file 'ieee.bbx' found.
@@ -2190,8 +2852,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count467
-\c@bbx:relatedtotal=\count468
+\c@bbx:relatedcount=\count526
+\c@bbx:relatedtotal=\count527
 ))))
 Package biblatex Info: Trying to load citation style 'ieee'...
 Package biblatex Info: ... file 'ieee.cbx' found.
@@ -2203,8 +2865,8 @@ Package biblatex Info: ... file 'numeric-comp.cbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
 File: numeric-comp.cbx 2016/12/05 v3.7 biblatex citation style (PK/JW/AB)
-\c@cbx@tempcnta=\count469
-\c@cbx@tempcntb=\count470
+\c@cbx@tempcnta=\count528
+\c@cbx@tempcntb=\count529
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -2229,89 +2891,55 @@ File: biblatex.cfg
 (../lib/commands.tex
 (/usr/share/texlive/texmf-dist/tex/latex/bytefield/bytefield.sty
 Package: bytefield 2015/10/28 v2.3 Network protocol diagrams
-\bytefield@height=\skip138
-\bytefield@height@increment=\skip139
-\entire@bytefield@picture=\box125
-\bf@bitwidth=\skip140
-\bf@bitheight=\skip141
-\units@wide=\skip142
-\units@tall=\skip143
-\units@high=\skip144
-\header@xpos=\skip145
-\c@header@val=\count471
-\c@max@header@val=\count472
-\curly@box=\box126
-\wordlabelr@start=\skip146
-\wordlabelr@end=\skip147
-\wordlabell@start=\skip148
-\wordlabell@end=\skip149
-\total@lbox@width=\skip150
-\label@box@width=\skip151
-\label@box@height=\skip152
-\word@label@box=\box127
+\bytefield@height=\skip152
+\bytefield@height@increment=\skip153
+\entire@bytefield@picture=\box171
+\bf@bitwidth=\skip154
+\bf@bitheight=\skip155
+\units@wide=\skip156
+\units@tall=\skip157
+\units@high=\skip158
+\header@xpos=\skip159
+\c@header@val=\count530
+\c@max@header@val=\count531
+\curly@box=\box172
+\wordlabelr@start=\skip160
+\wordlabelr@end=\skip161
+\wordlabell@start=\skip162
+\wordlabell@end=\skip163
+\total@lbox@width=\skip164
+\label@box@width=\skip165
+\label@box@height=\skip166
+\word@label@box=\box173
 )
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \xinput with sig. 'm' on line 44.
-.................................................
-\c@todo=\count473
+\c@todo=\count532
 
-(/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
-Package: tcolorbox 2016/11/18 version 3.96 text color boxes
-
-(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
-Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks58
-\verbatim@line=\toks59
-\verbatim@in@stream=\read4
-)
-(/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
-Package: environ 2014/05/04 v0.3 A new way to define environments
-
-(/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
-Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
-))
-\tcb@titlebox=\box128
-\tcb@upperbox=\box129
-\tcb@lowerbox=\box130
-\tcb@phantombox=\box131
-\c@tcbbreakpart=\count474
-\c@tcblayer=\count475
-\tcolorbox@number=\count476
-\tcb@temp=\box132
-\tcb@temp=\box133
-\tcb@temp=\box134
-\tcb@temp=\box135
-\tcb@out=\write7
-\tcb@record@out=\write8
-)
 (/usr/share/texlive/texmf-dist/tex/latex/acro/acro.sty
 (/usr/share/texlive/texmf-dist/tex/latex/l3experimental/l3sort/l3sort.sty
 Package: l3sort 2016/11/21 v6760 L3 Experimental sorting functions
-\l__sort_length_int=\count477
-\l__sort_block_int=\count478
-\l__sort_begin_int=\count479
-\l__sort_end_int=\count480
-\l__sort_A_int=\count481
-\l__sort_B_int=\count482
-\l__sort_C_int=\count483
+\l__sort_length_int=\count533
+\l__sort_block_int=\count534
+\l__sort_begin_int=\count535
+\l__sort_end_int=\count536
+\l__sort_A_int=\count537
+\l__sort_B_int=\count538
+\l__sort_C_int=\count539
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
 Package: xtemplate 2016/11/21 v6760 L3 Experimental prototype document functions
 
-\l__xtemplate_tmp_dim=\dimen359
-\l__xtemplate_tmp_int=\count484
+\l__xtemplate_tmp_dim=\dimen399
+\l__xtemplate_tmp_int=\count540
 \l__xtemplate_tmp_muskip=\muskip18
-\l__xtemplate_tmp_skip=\skip153
+\l__xtemplate_tmp_skip=\skip167
 )
 Package: acro 2017/01/22 v2.7 Typeset Acronyms
-\l__acro_tmpa_int=\count485
-\l__acro_tmpb_int=\count486
-\l__acro_tmpc_int=\count487
-\l__acro_tmpd_int=\count488
-\l__acro_page_space_skip=\skip154
-\l__acro_short_width_dim=\dimen360
+\l__acro_tmpa_int=\count541
+\l__acro_tmpb_int=\count542
+\l__acro_tmpc_int=\count543
+\l__acro_tmpd_int=\count544
+\l__acro_page_space_skip=\skip168
+\l__acro_short_width_dim=\dimen400
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -2352,7 +2980,7 @@ Package zref Info: New property list: main on input line 759.
 Package zref Info: New property: default on input line 760.
 Package zref Info: New property: page on input line 761.
 )
-\c@abspage=\count489
+\c@abspage=\count545
 Package zref Info: New property: abspage on input line 62.
 )
 .................................................
@@ -2430,7 +3058,7 @@ Package zref Info: New property: abspage on input line 62.
 . 
 . Defining command \acuse with sig. '>{\SplitList {,}}m' on line 3112.
 .................................................
-\g__acro_barrier_int=\count490
+\g__acro_barrier_int=\count546
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -2467,18 +3095,15 @@ Package: cnltx-base 2015/08/17 v0.13 LaTeX tools and documenting facilities (CN)
 
 (/usr/share/texlive/texmf-dist/tex/latex/pgfopts/pgfopts.sty
 Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
-
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
-\pgfopts@list@add@a@toks=\toks60
-\pgfopts@list@add@b@toks=\toks61
+\pgfopts@list@add@a@toks=\toks70
+\pgfopts@list@add@b@toks=\toks71
 )
-\c@cnltx@tmpa=\count491
-\c@cnltx@tmpb=\count492
-\c@cnltx@tmpc=\count493
-\cnltx@tmpa@length=\skip155
-\cnltx@tmpb@length=\skip156
-\cnltx@tmpc@length=\skip157
+\c@cnltx@tmpa=\count547
+\c@cnltx@tmpb=\count548
+\c@cnltx@tmpc=\count549
+\cnltx@tmpa@length=\skip169
+\cnltx@tmpb@length=\skip170
+\cnltx@tmpc@length=\skip171
 )
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
 Package: scrlfile 2016/06/14 v3.21 KOMA-Script package (loading files)
@@ -2662,7 +3287,7 @@ line 102.
 . Defining command \acfplike with sig. 'smm' on line 4303.
 .................................................
 ))
-(../lib/nomenclature.tex)) (../lib/slide.tex
+(../lib/nomenclature.tex))
 (/usr/share/texlive/texmf-dist/tex/latex/fourier/fourier.sty
 Package: fourier 2005/01/01 1.4 fourier-GUTenberg package
 
@@ -2696,7 +3321,7 @@ LaTeX Font Info:    Encoding `OML' has changed to `FML' for symbol font
 (Font)              `letters' in the math version `bold' on input line 59.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
 (Font)                  OML/zavm/b/it --> FML/futmi/m/it on input line 59.
-\symotherletters=\mathgroup9
+\symotherletters=\mathgroup11
 LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
 (Font)                  FML/futmi/m/it --> FML/futmi/b/it on input line 61.
 LaTeX Font Info:    Overwriting symbol font `otherletters' in version `bold'
@@ -2774,6 +3399,8 @@ LaTeX Font Info:    Redeclaring math symbol \curvearrowright on input line 155.
 LaTeX Font Info:    Redeclaring math symbol \blacksquare on input line 156.
 LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 186.
 LaTeX Font Info:    Redeclaring math symbol \varvarrho on input line 187.
+LaTeX Font Info:    Redeclaring math delimiter \llbracket on input line 201.
+LaTeX Font Info:    Redeclaring math delimiter \rrbracket on input line 202.
 LaTeX Font Info:    Redeclaring math delimiter \Vert on input line 210.
 LaTeX Font Info:    Redeclaring math delimiter \vert on input line 215.
 LaTeX Font Info:    Redeclaring math delimiter \lvert on input line 217.
@@ -2801,11 +3428,17 @@ LaTeX Font Info:    Redeclaring math accent \hat on input line 254.
 LaTeX Font Info:    Redeclaring math accent \dot on input line 255.
 LaTeX Font Info:    Redeclaring math accent \mathring on input line 256.
 LaTeX Font Info:    Redeclaring math accent \wideparen on input line 257.
-\symUfutm=\mathgroup10
+\symUfutm=\mathgroup12
 )
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \xinput with sig. 'm' on line 14.
+.................................................
+
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/multimedia/multimedia.sty
 Package: multimedia 2012/05/02 ver 0.02
-\mm@movie=\count494
+\mm@movie=\count550
 )
 (/usr/share/texlive/texmf-dist/tex/generic/luatex85/luatex85.sty
 Package: luatex85 2016/06/15 v1.4 pdftex aliases for luatex
@@ -2829,658 +3462,21 @@ Package scrextend Info: patch seems to be successfull on input line 1407.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfpages.sty
 Package: pgfpages 2011/01/05 ver 0.02
-\pgf@logicalpages=\count495
-\pgf@firstshipout=\count496
-\pgf@lastshipout=\count497
-\pgf@currentshipout=\count498
-\pgf@cpn=\count499
-\pgf@shipoutnextto=\count500
-\pgfphysicalheight=\dimen361
-\pgfphysicalwidth=\dimen362
-\pgfpages@shipoutbox=\box136
+\pgf@logicalpages=\count551
+\pgf@firstshipout=\count552
+\pgf@lastshipout=\count553
+\pgf@currentshipout=\count554
+\pgf@cpn=\count555
+\pgf@shipoutnextto=\count556
+\pgfphysicalheight=\dimen401
+\pgfphysicalwidth=\dimen402
+\pgfpages@shipoutbox=\box174
 )
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/palatino.sty
 Package: palatino 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
-Package biblatex Info: Redefining '\supercite' on input line 61.
-) (../lib/plot.tex (/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
-Package: etex 2016/08/01 v2.7 eTeX basic definition package (PEB,DPC)
-
-
-Package etex Warning: Extended allocation already in use.
-(etex)                etex.sty code will not be used.
-(etex)                To force etex package to load, add
-(etex)                \RequirePackage{etex}
-(etex)                at the start of the document.
-
-) (/usr/share/texlive/texmf-dist/tex/latex/multirow/bigstrut.sty
-Package: bigstrut 2016/11/25 v2.2 Provide larger struts in tabulars
+Package biblatex Info: Redefining '\supercite' on input line 79.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
-Package: mathtools 2015/11/12 v1.18 mathematical typesetting tools
-
-(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
-Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
-)
-LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
-LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
-LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
-LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
-\g_MT_multlinerow_int=\count501
-\l_MT_multwidth_dim=\dimen363
-\origjot=\skip158
-\l_MT_shortvdotswithinadjustabove_dim=\dimen364
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen365
-\l_MT_above_intertext_sep=\dimen366
-\l_MT_below_intertext_sep=\dimen367
-\l_MT_above_shortintertext_sep=\dimen368
-\l_MT_below_shortintertext_sep=\dimen369
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count502
-\lst@gtempboxa=\box137
-\lst@token=\toks62
-\lst@length=\count503
-\lst@currlwidth=\dimen370
-\lst@column=\count504
-\lst@pos=\count505
-\lst@lostspace=\dimen371
-\lst@width=\dimen372
-\lst@newlines=\count506
-\lst@lineno=\count507
-\lst@maxwidth=\dimen373
-
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count508
-\lst@skipnumbers=\count509
-\lst@framebox=\box138
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2015/06/04 1.6 listings configuration
-))
-Package: listings 2015/06/04 1.6 (Carsten Heinz)
-
-(/usr/share/texlive/texmf-dist/tex/latex/pgfplots/pgfplots.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
-Package: pgfplots 2016/08/10 v1.14 Data Visualization (1.14)
-
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen374
-\pgffor@skip=\dimen375
-\pgffor@stack=\toks63
-\pgffor@toks=\toks64
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
-.code.tex
-File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count510
-\pgfplotmarksize=\dimen376
-)
-\tikz@lastx=\dimen377
-\tikz@lasty=\dimen378
-\tikz@lastxsaved=\dimen379
-\tikz@lastysaved=\dimen380
-\tikzleveldistance=\dimen381
-\tikzsiblingdistance=\dimen382
-\tikz@figbox=\box139
-\tikz@figbox@bg=\box140
-\tikz@tempbox=\box141
-\tikz@tempbox@bg=\box142
-\tikztreelevel=\count511
-\tikznumberofchildren=\count512
-\tikznumberofcurrentchild=\count513
-\tikz@fig@count=\count514
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count515
-\pgfmatrixcurrentcolumn=\count516
-\pgf@matrix@numberofcolumns=\count517
-)
-\tikz@expandcount=\count518
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
-)))
-(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase.sty
-Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
-
-(/usr/share/texlive/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
-Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
-\@catcodetablestackcnt=\count519
-)
-\CatcodeTableOther=\catcodetable6
-\CatcodeTableExpl=\catcodetable7
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
-Package pgfplots info on input line 124: Initializing with LUA version Lua 5.2
-\pgfplots@luabackend@table=\catcodetable8
-\t@pgfplots@toka=\toks65
-\t@pgfplots@tokb=\toks66
-\t@pgfplots@tokc=\toks67
-\pgfplots@tmpa=\dimen383
-\c@pgfplots@coordindex=\count520
-\c@pgfplots@scanlineindex=\count521
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code
-.tex))
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.t
-ex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
-gfsupp_loader.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex
-)
-Package pgfplots: loading complementary arithmetics for your pgf version...
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
-gfsupp_pgflibraryfpu.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
-gfsupp_pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count522
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/luamath/pgflibraryluam
-ath.code.tex)
-Package pgfplots info on input line 222: luamath library shipped with pgf 3.0.1a
- is up-to-date
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex
-Package pgfplots info on input line 82: Found new luatex: initializing lua comma
-nds instead of write18 (shell-escape)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotslists
-tructure.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotslists
-tructureext.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray
-.code.tex
-\c@pgfplotsarray@tmp=\count523
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatri
-x.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshare
-d.code.tex
-\c@pgfplotstable@counta=\count524
-\t@pgfplotstable@a=\toks68
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque
-.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.te
-x
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.co
-de.tex))
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code
-.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.sur
-fshading.code.tex
-\c@pgfplotslibrarysurf@no=\count525
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surf
-shading.pgfsys-luatex.def)))
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.
-tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.t
-ex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.t
-ex
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.cod
-e.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.
-tex)))
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.cod
-e.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex
-) (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex
-) (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrarydecorations.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.cod
-e.tex
-\pgfdecoratedcompleteddistance=\dimen384
-\pgfdecoratedremainingdistance=\dimen385
-\pgfdecoratedinputsegmentcompleteddistance=\dimen386
-\pgfdecoratedinputsegmentremainingdistance=\dimen387
-\pgf@decorate@distancetomove=\dimen388
-\pgf@decorate@repeatstate=\count526
-\pgfdecorationsegmentamplitude=\dimen389
-\pgfdecorationsegmentlength=\dimen390
-)
-\tikz@lib@dec@box=\box143
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrarydecorations.pathmorphing.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
-decorations.pathmorphing.code.tex))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrarydecorations.pathreplacing.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
-decorations.pathreplacing.code.tex))
-\pgfplots@numplots=\count527
-\pgfplots@xmin@reg=\dimen391
-\pgfplots@xmax@reg=\dimen392
-\pgfplots@ymin@reg=\dimen393
-\pgfplots@ymax@reg=\dimen394
-\pgfplots@zmin@reg=\dimen395
-\pgfplots@zmax@reg=\dimen396
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibraryplotmarks.code.tex
-File: tikzlibraryplotmarks.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.co
-de.tex
-File: pgflibraryplotmarks.code.tex 2015/08/03 v3.0.1a (rcs-revision 1.14)
-))) (/usr/share/texlive/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty
-Package: stmaryrd 1994/03/03 St Mary's Road symbol package
-\symstmry=\mathgroup11
-LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
-(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
-)
-(/home/aghiles/Aghiles/Research/Writing/bin/../lib/styles/gantt.sty
-
-LaTeX Warning: You have requested package `../lib/styles/gantt',
-               but the package provides `styles/gantt'.
-
-Package: styles/gantt 2011/03/20 Some macros for drawing gantt diagrams using tk
-iz v.1.3
-(/usr/share/texlive/texmf-dist/tex/latex/forloop/forloop.sty
-Package: forloop 2006/09/18 v3.0 For Loops for LaTeX
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrarypatterns.code.tex
-File: tikzlibrarypatterns.code.tex 2008/01/15 v3.0.1a (rcs-revision 1.2)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibrarypatterns.cod
-e.tex
-File: pgflibrarypatterns.code.tex 2008/03/03 v3.0.1a (rcs-revision 1.13)
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibraryarrows.code.tex
-File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.
-tex
-File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
-\arrowsize=\dimen397
-))
-\c@ganttnum=\count528
-\c@ganttwidth=\count529
-\ganttlastx=\skip159
-\nextganttlastx=\skip160
-\gantttmpa=\skip161
-\gantttmpb=\skip162
-\ganttunitlength=\skip163
-\titleunitlength=\skip164
-\c@gantttitlenum=\count530
-\pgf@layerbox@background=\box144
-\pgf@layerboxsaved@background=\box145
-\pgf@layerbox@foreground=\box146
-\pgf@layerboxsaved@foreground=\box147
-) (/usr/share/texlive/texmf-dist/tex/latex/bbding/bbding.sty
-Package: bbding 1999/04/15 v1.01 Dingbats symbols
-)
-(/usr/share/texlive/texmf-dist/tex/latex/cancel/cancel.sty
-Package: cancel 2013/04/12 v2.2 Cancel math terms
-)
-(/usr/share/texlive/texmf-dist/tex/latex/makecell/makecell.sty
-Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
-\rotheadsize=\dimen398
-\c@nlinenum=\count531
-\TeXr@lab=\toks69
-)
-(/usr/share/texlive/texmf-dist/tex/latex/units/nicefrac.sty
-Package: nicefrac 1998/08/04 v0.9b Nice fractions
-\L@UnitsRaiseDisplaystyle=\skip165
-\L@UnitsRaiseTextstyle=\skip166
-\L@UnitsRaiseScriptstyle=\skip167
-)
-(/usr/share/texlive/texmf-dist/tex/latex/tikz-timing/tikz-timing.sty
-(/usr/share/texlive/texmf-dist/tex/latex/svn-prov/svn-prov.sty
-Package: svn-prov 2010/04/24 v3.1862 Package Date/Version from SVN Keywords
-)
-Package: tikz-timing 2011/01/09 v0.7d Digital Timing Diagrams using TikZ
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrarycalc.code.tex
-File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.9)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrarybackgrounds.code.tex
-File: tikzlibrarybackgrounds.code.tex 2013/07/18 v3.0.1a (rcs-revision 1.3)
-)
-\tikztiming@numint=\count532
-\tikztiming@numfrac=\count533
-\tikztiming@xunit=\skip168
-\tikztiming@yunit=\skip169
-\tikztiming@debug=\count534
-\c@tikztiming@nrows=\count535
-\c@tikztimingrows=\count536
-\c@tikztimingtrans=\count537
-\c@tikztimingtranspos=\count538
-)
-(/usr/share/texlive/texmf-dist/tex/latex/pgfplots/pgfplotstable.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
-Package: pgfplotstable 2016/08/10 v1.14 Table typesetting and Pretty-printing (1
-.14)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable.code
-.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable.colt
-ype.code.tex))) (/usr/share/texlive/texmf-dist/tex/latex/wasysym/wasysym.sty
-Package: wasysym 2003/10/30 v2.0 Wasy-2 symbol support package
-\symwasy=\mathgroup12
-LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
-(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 90.
-LaTeX Font Info:    Redeclaring math symbol \ocircle on input line 240.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrarymindmap.code.tex
-File: tikzlibrarymindmap.code.tex 2013/07/16 v3.0.1a (rcs-revision 1.10)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrarytrees.code.tex
-File: tikzlibrarytrees.code.tex 2008/02/24 v3.0.1a (rcs-revision 1.2)
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrary3d.code.tex
-File: tikzlibrary3d.code.tex 2013/07/17 v3.0.1a (rcs-revision 1.2)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.
-code.tex
-File: pgflibraryarrows.meta.code.tex 2015/05/13 v3.0.1a (rcs-revision 1.13)
-\pgfarrowinset=\dimen399
-\pgfarrowlength=\dimen400
-\pgfarrowwidth=\dimen401
-\pgfarrowlinewidth=\dimen402
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrarysnakes.code.tex
-File: tikzlibrarysnakes.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.7)
-
-
-Package pgf Warning: Snakes have been superseded by decorations. Please use the 
-decoration libraries instead of the snakes library on input line 14.
-
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrarydecorations.shapes.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
-decorations.shapes.code.tex)))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/dat
-avisualization/tikzlibrarydatavisualization.code.tex
-File: tikzlibrarydatavisualization.code.tex 2015/05/18 v3.0.1a (rcs-revision 1.4
-8)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledatavisualizati
-on.code.tex
-File: pgfmoduledatavisualization.code.tex 2015/05/18  (rcs-revision 1.50)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleoo.code.tex
-\pgfoo@objectcount=\count539
-\pgfoothis@count=\count540
-\pgfoo@toks=\toks70
-)
-\pgf@lib@dv@cache@count=\count541
-\pgf@lib@dv@cache@count=\count542
-)
-\tikzdvvisualizercounter=\count543
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrarymatrix.code.tex
-File: tikzlibrarymatrix.code.tex 2013/07/12 v3.0.1a (rcs-revision 1.4)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibraryshapes.code.tex
-File: tikzlibraryshapes.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibraryshapes.geometric.code.tex
-File: tikzlibraryshapes.geometric.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
-
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
-s.geometric.code.tex
-File: pgflibraryshapes.geometric.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibraryshapes.misc.code.tex
-File: tikzlibraryshapes.misc.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
-s.misc.code.tex
-File: pgflibraryshapes.misc.code.tex 2013/07/18 v3.0.1a (rcs-revision 1.5)
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibraryshapes.symbols.code.tex
-File: tikzlibraryshapes.symbols.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
-s.symbols.code.tex
-File: pgflibraryshapes.symbols.code.tex 2013/09/11 v3.0.1a (rcs-revision 1.6)
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibraryshapes.arrows.code.tex
-File: tikzlibraryshapes.arrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
-s.arrows.code.tex
-File: pgflibraryshapes.arrows.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibraryshapes.callouts.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
-s.callouts.code.tex))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibraryshapes.multipart.code.tex
-File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
-
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
-s.multipart.code.tex
-File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.1a (rcs-revision 1.2)
-\pgfnodepartlowerbox=\box148
-\pgfnodeparttwobox=\box149
-\pgfnodepartthreebox=\box150
-\pgfnodepartfourbox=\box151
-\pgfnodeparttwentybox=\box152
-\pgfnodepartnineteenbox=\box153
-\pgfnodeparteighteenbox=\box154
-\pgfnodepartseventeenbox=\box155
-\pgfnodepartsixteenbox=\box156
-\pgfnodepartfifteenbox=\box157
-\pgfnodepartfourteenbox=\box158
-\pgfnodepartthirteenbox=\box159
-\pgfnodeparttwelvebox=\box160
-\pgfnodepartelevenbox=\box161
-\pgfnodeparttenbox=\box162
-\pgfnodepartninebox=\box163
-\pgfnodeparteightbox=\box164
-\pgfnodepartsevenbox=\box165
-\pgfnodepartsixbox=\box166
-\pgfnodepartfivebox=\box167
-)))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibraryfit.code.tex
-File: tikzlibraryfit.code.tex 2013/07/12 v3.0.1a (rcs-revision 1.5)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibraryshadows.code.tex
-File: tikzlibraryshadows.code.tex 2008/01/13 v3.0.1a (rcs-revision 1.3)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibraryfadings.code.tex
-File: tikzlibraryfadings.code.tex 2009/11/15 v3.0.1a (rcs-revision 1.2)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code
-.tex
-File: pgflibraryfadings.code.tex 2008/02/07 v3.0.1a (rcs-revision 1.3)
-)))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrarypositioning.code.tex
-File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrarydecorations.text.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrary
-decorations.text.code.tex
-\pgf@lib@dec@text@box=\box168
-)
-\tikz@lib@dec@te@box=\box169
-)
-(/usr/share/texlive/texmf-dist/tex/latex/hobby/tikzlibraryhobby.code.tex
-(/usr/share/texlive/texmf-dist/tex/latex/hobby/pgflibraryhobby.code.tex
-(/usr/share/texlive/texmf-dist/tex/latex/hobby/hobby.code.tex
-(/usr/share/texlive/texmf-dist/tex/latex/hobby/pml3array.sty
-\l_array_base_int=\count544
-\l_array_top_int=\count545
-\l_array_tmp_int=\count546
-\g_array_base_int=\count547
-)
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \hobbyVersion with sig. '' on line 41.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \hobbyDate with sig. '' on line 45.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \HobbyDisableAux with sig. '' on line 59.
-.................................................
-\l_hobby_npoints_int=\count548
-\l_hobby_draw_int=\count549
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \hobbyinit with sig. 'mmm' on line 669.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \hobbyaddpoint with sig. 'm' on line 699.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \hobbysetparams with sig. 'm' on line 705.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \hobbygenpath with sig. '' on line 721.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \hobbygenifnecpath with sig. 'm' on line 732.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \hobbygenuseifnecpath with sig. 'm' on line 744.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \hobbyusepath with sig. 'm' on line 748.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \hobbysavepath with sig. 'm' on line 751.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \hobbyrestorepath with sig. 'm' on line 756.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \hobbyshowpath with sig. 'm' on line 761.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \hobbygenusepath with sig. '' on line 767.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \hobbyclearpath with sig. '' on line 770.
-.................................................
-)))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrarychains.code.tex
-File: tikzlibrarychains.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.6)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibraryautomata.code.tex
-File: tikzlibraryautomata.code.tex 2008/07/14 v3.0.1a (rcs-revision 1.3)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
-Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
-\c@r@tfl@t=\count550
-\rotFPtop=\skip170
-\rotFPbot=\skip171
-\rot@float@box=\box170
-\rot@mess@toks=\toks71
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.gr
-oupplots.code.tex
-\pgfplots@group@current@plot=\count551
-\pgfplots@group@current@row=\count552
-\pgfplots@group@current@column=\count553
-)
-(/usr/share/texlive/texmf-dist/tex/latex/filecontents/filecontents.sty
-Package: filecontents 2011/10/08 v1.3 Create an external file from within a LaTe
-X document
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.pa
-tchplots.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/gra
-phs/tikzlibrarygraphs.code.tex
-File: tikzlibrarygraphs.code.tex 2015/06/05 v3.0.1a (rcs-revision 1.44)
-\tikz@lib@auto@number=\count554
-\tikz@qnode@count=\count555
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/gra
-phs/tikzlibrarygraphs.standard.code.tex
-File: tikzlibrarygraphs.standard.code.tex 2012/02/27 v3.0.1a (rcs-revision 1.9)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/graphdrawing/tex/tikzlibrarygrap
-hdrawing.code.tex
-File: tikzlibrarygraphdrawing.code.tex 2013/08/05 v3.0.1a (rcs-revision 1.20)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/graphdrawing/tex/pgflibrarygraph
-drawing.code.tex
-File: pgflibrarygraphdrawing.code.tex 2015/06/08 v3.0.1a (rcs-revision 1.39)
-\pgf@gd@parameter@stack@height=\count556
-\pgf@gd@node@box=\box171
-\pgf@gd@edge@box=\box172
-\pgf@gd@prekind@box=\box173
-\pgf@gd@postkind@box=\box174
-)) (../lib/tikzset.tex))
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -3609,60 +3605,81 @@ LaTeX Warning: Label `fig:mail.png' multiply defined.
 
 LaTeX Warning: Label `fig:mail.png' multiply defined.
 
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+
+LaTeX Warning: Label `tab:Tablej' multiply defined.
+
+
+LaTeX Warning: Label `tab:Tableju' multiply defined.
+
+
+LaTeX Warning: Label `tab:' multiply defined.
+
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
+
+LaTeX Warning: Label `fig:mail.png' multiply defined.
+
 )
 \openout1 = slide.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 20.
-LaTeX Font Info:    Try loading font information for MDA+cmr on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 18.
+LaTeX Font Info:    Try loading font information for MDA+cmr on input line 18.
  (/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdacmr.fd
 File: mdacmr.fd 
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 20.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 20.
-LaTeX Font Info:    Try loading font information for FML+futm on input line 20.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 18.
+LaTeX Font Info:    Try loading font information for FML+futm on input line 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmlfutm.fd
 File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 20.
-LaTeX Font Info:    Try loading font information for FMS+futm on input line 20.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 18.
+LaTeX Font Info:    Try loading font information for FMS+futm on input line 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmsfutm.fd
 File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 20.
-LaTeX Font Info:    Try loading font information for FMX+futm on input line 20.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 18.
+LaTeX Font Info:    Try loading font information for FMX+futm on input line 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmxfutm.fd
 File: fmxfutm.fd futm-extension
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 20.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
@@ -3733,7 +3750,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box176
-Package hyperref Info: Link coloring ON on input line 20.
+Package hyperref Info: Link coloring ON on input line 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -3743,9 +3760,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count565
 )
-LaTeX Info: Redefining \ref on input line 20.
-LaTeX Info: Redefining \pageref on input line 20.
-LaTeX Info: Redefining \nameref on input line 20.
+LaTeX Info: Redefining \ref on input line 18.
+LaTeX Info: Redefining \pageref on input line 18.
+LaTeX Info: Redefining \nameref on input line 18.
 
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.out)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.out)
@@ -3753,47 +3770,47 @@ LaTeX Info: Redefining \nameref on input line 20.
 
 \openout9 = slide.out
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 20.
+(Font)              `operators' in the math version `normal' on input line 18.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  T1/futs/m/n --> OT1/cmss/m/n on input line 20.
+(Font)                  T1/futs/m/n --> OT1/cmss/m/n on input line 18.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 20.
+(Font)              `operators' in the math version `bold' on input line 18.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  T1/futs/b/n --> OT1/cmss/bx/n on input line 20.
+(Font)                  T1/futs/b/n --> OT1/cmss/bx/n on input line 18.
 \symnumbers=\mathgroup13
 \sympureletters=\mathgroup14
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  T1/futs/m/n --> T1/ppl/m/n on input line 20.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 20.
+(Font)                  T1/futs/m/n --> T1/ppl/m/n on input line 18.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  T1/futs/bx/n --> T1/phv/bx/n on input line 20.
+(Font)                  T1/futs/bx/n --> T1/phv/bx/n on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/futs/bx/n --> T1/phv/bx/n on input line 20.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 20.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 20.
+(Font)                  T1/futs/bx/n --> T1/phv/bx/n on input line 18.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 18.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  T1/futs/m/it --> T1/phv/m/it on input line 20.
+(Font)                  T1/futs/m/it --> T1/phv/m/it on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/futs/m/it --> T1/phv/m/it on input line 20.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 20.
+(Font)                  T1/futs/m/it --> T1/phv/m/it on input line 18.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  T1/fvm/m/n --> T1/pcr/m/n on input line 20.
+(Font)                  T1/fvm/m/n --> T1/pcr/m/n on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/fvm/b/n --> T1/pcr/m/n on input line 20.
+(Font)                  T1/fvm/b/n --> T1/pcr/m/n on input line 18.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 20.
+(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 18.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 20.
+(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  T1/futs/m/n --> T1/ppl/bx/n on input line 20.
+(Font)                  T1/futs/m/n --> T1/ppl/bx/n on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/phv/bx/n --> T1/phv/bx/n on input line 20.
+(Font)                  T1/phv/bx/n --> T1/phv/bx/n on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 20.
+(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 20.
+(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 18.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/pcr/m/n --> T1/pcr/bx/n on input line 20.
+(Font)                  T1/pcr/m/n --> T1/pcr/bx/n on input line 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-bas
 ic-dictionary/translator-basic-dictionary-English.dict
@@ -3819,12 +3836,27 @@ Dictionary: translator-numbers-dictionary, Language: English
 orem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 20.
+LaTeX Info: Redefining \includegraphics on input line 18.
 .................................................
 . chemgreek info: "mapping-activated"
 . 
-. Activating mapping `fourier' on line 20.
+. Activating mapping `fourier' on line 18.
 .................................................
+\c@lstlisting=\count566
+
+Package pgfplots notification 'compat/show suggested version=true': document has
+ been generated with the most recent feature set (\pgfplotsset{compat=1.14}).
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+Package caption Info: threeparttable package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
@@ -3834,17 +3866,13 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 File: siunitx-abbreviations.cfg 2017/01/01 v2.7a siunitx: Abbreviated units
 )
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 20.
-Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: listings package is loaded.
-Package caption Info: rotating package is loaded.
-Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \selectfont on input line 18.
 Package biblatex Info: LuaTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
 
-\openout6 = slide.bcf
+\openout8 = slide.bcf
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'slide.bbl' found.
 
@@ -3857,8 +3885,8 @@ Package biblatex Warning: The following entry could not be found
 (biblatex)                LaTeX afterwards.
 
 )
-Package biblatex Info: Reference section=0 on input line 20.
-Package biblatex Info: Reference segment=0 on input line 20.
+Package biblatex Info: Reference section=0 on input line 18.
+Package biblatex Info: Reference segment=0 on input line 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
 nary-english.trsl
@@ -3866,87 +3894,82 @@ File: translations-basic-dictionary-english.trsl (english translation file `tran
 slations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' fo
-r `english'. on input line 20.
-\c@lstlisting=\count566
-
-Package pgfplots notification 'compat/show suggested version=true': document has
- been generated with the most recent feature set (\pgfplotsset{compat=1.14}).
-
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.nav)
+r `english'. on input line 18.
+ (/home/aghiles/Aghiles/Research/Writing/bin/slide.nav)
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <3.75> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 20.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 18.
 \c__siunitx_mathsf_int=\count567
-LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 20.
-LaTeX Font Info:    Try loading font information for FML+futmi on input line 20.
+LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 18.
+LaTeX Font Info:    Try loading font information for FML+futmi on input line 18.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmlfutmi.fd
 File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
 )
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.89998pt on input line 20.
+(Font)              scaled to size 6.89998pt on input line 18.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.24394pt on input line 20.
+(Font)              scaled to size 5.24394pt on input line 18.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 4.14003pt on input line 20.
-LaTeX Font Info:    Try loading font information for U+msa on input line 20.
+(Font)              scaled to size 4.14003pt on input line 18.
+LaTeX Font Info:    Try loading font information for U+msa on input line 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 20.
+LaTeX Font Info:    Try loading font information for U+msb on input line 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for MDA+mdbch on input line 20.
+LaTeX Font Info:    Try loading font information for MDA+mdbch on input line 18.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/mdamdbch.fd
 File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
 )
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 7.20004pt on input line 20.
+(Font)              scaled to size 7.20004pt on input line 18.
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 5.47198pt on input line 20.
+(Font)              scaled to size 5.47198pt on input line 18.
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 4.32007pt on input line 20.
-LaTeX Font Info:    Try loading font information for U+zavm on input line 20.
+(Font)              scaled to size 4.32007pt on input line 18.
+LaTeX Font Info:    Try loading font information for U+zavm on input line 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/arev/uzavm.fd
 File: uzavm.fd 2006/05/30 Fontinst v1.929 font definitions for U/zavm.
 )
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.89998pt on input line 20.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.24394pt on input line 20.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 4.14003pt on input line 20.
-LaTeX Font Info:    Try loading font information for U+stmry on input line 20.
+LaTeX Font Info:    Try loading font information for U+stmry on input line 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
-LaTeX Font Info:    Try loading font information for U+wasy on input line 20.
+LaTeX Font Info:    Try loading font information for U+wasy on input line 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 )
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.89998pt on input line 18.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 5.24394pt on input line 18.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 4.14003pt on input line 18.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7.5> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 20.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 18.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5.69995> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 20.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 18.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <4.50005> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 20.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 18.
 \c__siunitx_mathtt_int=\count568
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 20.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-<../res/tmp/Picture/wsn-IoT.png, id=247, 1060.96375pt x 381.425pt>
+<../res/tmp/Picture/wsn-IoT.png, id=287, 1060.96375pt x 381.425pt>
 File: ../res/tmp/Picture/wsn-IoT.png Graphic file (type png)
 
 <use ../res/tmp/Picture/wsn-IoT.png>
-Package luatex.def Info: ../res/tmp/Picture/wsn-IoT.png used on input line 22.
+Package luatex.def Info: ../res/tmp/Picture/wsn-IoT.png used on input line 20.
 (luatex.def)             Requested size: 170.71652pt x 61.37262pt.
  [1
 
@@ -3954,22 +3977,25 @@ Package luatex.def Info: ../res/tmp/Picture/wsn-IoT.png used on input line 22.
 ng>]
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [2
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 21
+ []
+
+[2
 
 ]
 \g__file_internal_ior=\read5
-
-(./01-Introduction/10_introduction.tex [3
+ (./01-Introduction/10_introduction.tex [3
 
 ]
-<../res/tmp/Picture/devices1.png, id=290, 1881.0275pt x 693.59125pt>
+<../res/tmp/Picture/devices1.png, id=339, 1881.0275pt x 693.59125pt>
 File: ../res/tmp/Picture/devices1.png Graphic file (type png)
 
 <use ../res/tmp/Picture/devices1.png>
 Package luatex.def Info: ../res/tmp/Picture/devices1.png used on input line 17.
 (luatex.def)             Requested size: 320.57364pt x 118.20528pt.
 
-<../res/tmp/Picture/devices.png, id=291, 1871.99374pt x 324.21124pt>
+<../res/tmp/Picture/devices.png, id=340, 1871.99374pt x 324.21124pt>
 File: ../res/tmp/Picture/devices.png Graphic file (type png)
 
 <use ../res/tmp/Picture/devices.png>
@@ -4006,7 +4032,7 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <3.79999> not available
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <3.00005> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 41.
 
-<../res/tmp/Picture/application.png, id=309, 1415.2875pt x 1434.35875pt>
+<../res/tmp/Picture/application.png, id=358, 1415.2875pt x 1434.35875pt>
 File: ../res/tmp/Picture/application.png Graphic file (type png)
 
 <use ../res/tmp/Picture/application.png>
@@ -4015,7 +4041,7 @@ Package luatex.def Info: ../res/tmp/Picture/application.png used on input line 4
 (luatex.def)             Requested size: 142.47597pt x 144.38539pt.
  [5
 
-<../res/tmp/Picture/application.png>] <../res/tmp/Picture/context.png, id=321, 
+<../res/tmp/Picture/application.png>] <../res/tmp/Picture/context.png, id=370, 
 853.1875pt x 348.30125pt>
 File: ../res/tmp/Picture/context.png Graphic file (type png)
 
@@ -4023,7 +4049,7 @@ File: ../res/tmp/Picture/context.png Graphic file (type png)
 Package luatex.def Info: ../res/tmp/Picture/context.png used on input line 48.
 (luatex.def)             Requested size: 284.95737pt x 116.3322pt.
 
-<../res/tmp/Picture/iotChallenges.png, id=322, 1733.47626pt x 336.25626pt>
+<../res/tmp/Picture/iotChallenges.png, id=371, 1733.47626pt x 336.25626pt>
 File: ../res/tmp/Picture/iotChallenges.png Graphic file (type png)
 
 <use ../res/tmp/Picture/iotChallenges.png>
@@ -4039,21 +4065,21 @@ Overfull \vbox (18.47548pt too high) detected at line 48
 <../res/tmp/Picture/context.png><../res/tmp/Picture/iotChallenges.png>]
 [7
 
-] <../res/tmp/Picture/speaking.png, id=346, 786.94pt x 936.49875pt>
+] <../res/tmp/Picture/speaking.png, id=396, 786.94pt x 936.49875pt>
 File: ../res/tmp/Picture/speaking.png Graphic file (type png)
 
 <use ../res/tmp/Picture/speaking.png>
 Package luatex.def Info: ../res/tmp/Picture/speaking.png used on input line 94.
 (luatex.def)             Requested size: 142.47597pt x 169.5485pt.
 
-<../res/tmp/C-RAN/snr.png, id=347, 1706.375pt x 529.98pt>
+<../res/tmp/C-RAN/snr.png, id=397, 1706.375pt x 529.98pt>
 File: ../res/tmp/C-RAN/snr.png Graphic file (type png)
 
 <use ../res/tmp/C-RAN/snr.png>
 Package luatex.def Info: ../res/tmp/C-RAN/snr.png used on input line 94.
 (luatex.def)             Requested size: 213.71938pt x 66.37672pt.
 
-<../res/tmp/C-RAN/ToA.png, id=348, 1643.13875pt x 434.62375pt>
+<../res/tmp/C-RAN/ToA.png, id=398, 1643.13875pt x 434.62375pt>
 File: ../res/tmp/C-RAN/ToA.png Graphic file (type png)
 
 <use ../res/tmp/C-RAN/ToA.png>
@@ -4063,14 +4089,14 @@ Package luatex.def Info: ../res/tmp/C-RAN/ToA.png used on input line 94.
 
 <../res/tmp/Picture/speaking.png><../res/tmp/C-RAN/snr.png><../res/tmp/C-RAN/ToA
 .png>]
-<../res/tmp/C-RAN/LPWAN.png, id=362, 727.71875pt x 326.21875pt>
+<../res/tmp/C-RAN/LPWAN.png, id=412, 727.71875pt x 326.21875pt>
 File: ../res/tmp/C-RAN/LPWAN.png Graphic file (type png)
 
 <use ../res/tmp/C-RAN/LPWAN.png>
 Package luatex.def Info: ../res/tmp/C-RAN/LPWAN.png used on input line 102.
 (luatex.def)             Requested size: 213.71938pt x 95.8056pt.
 
-<../res/tmp/C-RAN/lora_stack.png, id=363, 845.1575pt x 597.23125pt>
+<../res/tmp/C-RAN/lora_stack.png, id=413, 845.1575pt x 597.23125pt>
 File: ../res/tmp/C-RAN/lora_stack.png Graphic file (type png)
 
 <use ../res/tmp/C-RAN/lora_stack.png>
@@ -4080,7 +4106,7 @@ Package luatex.def Info: ../res/tmp/C-RAN/lora_stack.png used on input line 102.
  [9
 
 <../res/tmp/C-RAN/LPWAN.png><../res/tmp/C-RAN/lora_stack.png>]
-<../res/tmp/C-RAN/slicing.png, id=375, 771.88374pt x 764.8575pt>
+<../res/tmp/C-RAN/slicing.png, id=425, 771.88374pt x 764.8575pt>
 File: ../res/tmp/C-RAN/slicing.png Graphic file (type png)
 
 <use ../res/tmp/C-RAN/slicing.png>
@@ -4108,14 +4134,14 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <7.5> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 130.
  [12
 
-] <../res/tmp/C-RAN/slicing4.png, id=406, 1027.84pt x 517.935pt>
+] <../res/tmp/C-RAN/slicing4.png, id=455, 1027.84pt x 517.935pt>
 File: ../res/tmp/C-RAN/slicing4.png Graphic file (type png)
 
 <use ../res/tmp/C-RAN/slicing4.png>
 Package luatex.def Info: ../res/tmp/C-RAN/slicing4.png used on input line 141.
 (luatex.def)             Requested size: 178.09767pt x 89.73903pt.
 
-<../res/tmp/C-RAN/4G_slicing.png, id=409, 1890.06125pt x 394.47375pt>
+<../res/tmp/C-RAN/4G_slicing.png, id=458, 1890.06125pt x 394.47375pt>
 File: ../res/tmp/C-RAN/4G_slicing.png Graphic file (type png)
 
 <use ../res/tmp/C-RAN/4G_slicing.png>
@@ -4123,7 +4149,7 @@ Package luatex.def Info: ../res/tmp/C-RAN/4G_slicing.png used on input line 141.
 
 (luatex.def)             Requested size: 178.09767pt x 37.16841pt.
 
-<../res/tmp/C-RAN/5G_slicing.png, id=410, 1887.05pt x 680.5425pt>
+<../res/tmp/C-RAN/5G_slicing.png, id=459, 1887.05pt x 680.5425pt>
 File: ../res/tmp/C-RAN/5G_slicing.png Graphic file (type png)
 
 <use ../res/tmp/C-RAN/5G_slicing.png>
@@ -4134,7 +4160,7 @@ Package luatex.def Info: ../res/tmp/C-RAN/5G_slicing.png used on input line 141.
 
 <../res/tmp/C-RAN/slicing4.png><../res/tmp/C-RAN/4G_slicing.png><../res/tmp/C-RA
 N/5G_slicing.png>]
-<../res/tmp/C-RAN/slicing2.png, id=430, 1126.2075pt x 904.37875pt>
+<../res/tmp/C-RAN/slicing2.png, id=479, 1126.2075pt x 904.37875pt>
 File: ../res/tmp/C-RAN/slicing2.png Graphic file (type png)
 
 <use ../res/tmp/C-RAN/slicing2.png>
@@ -4161,18 +4187,20 @@ Overfull \vbox (14.36852pt too high) detected at line 148
 
 ]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [17
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 22
+ []
 
-]
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [18
+[17
 
-]
-("./02-State of the art/12_related.tex"
+] ("./02-State of the art/12_related.tex"
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [19
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[18
 
 ]
 LaTeX Font Info:    Calculating math sizes for size <3.75> on input line 73.
@@ -4200,61 +4228,79 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <2.84998> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 73.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <2.25002> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 73.
- [20
+ [19
 
-])
-("./02-State of the art/16_discussion.tex"
+]) ("./02-State of the art/16_discussion.tex"
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [21
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
 
-]
-<../res/icon/mail.png, id=544, 845.0772pt x 597.9138pt>
+[20
+
+] <../res/icon/mail.png, id=590, 845.0772pt x 597.9138pt>
 File: ../res/icon/mail.png Graphic file (type png)
 
 <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png used on input line 13.
 (luatex.def)             Requested size: 124.67055pt x 88.2052pt.
- [22
+ [21
 
 <../res/icon/mail.png>])
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [23
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 23
+ []
 
-]
-(./03-x-Testbed/11_introduction.tex
+[22
+
+] (./03-x-Testbed/11_introduction.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [24
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[23
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
-
-<use ../res/icon/mail.png>
+ <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png used on input line 13.
 (luatex.def)             Requested size: 124.67055pt x 88.2052pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[25
+[24
 
 ]) (./03-x-Testbed/12_related.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [26
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
 
-] [27
+[25
+
+] [26
 
 ]
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
 u'
-[28
+[27
 
 ]) (./03-x-Testbed/13_method.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [29
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[28
+
+] [29
 
 ] [30
 
@@ -4263,108 +4309,128 @@ u'
 ] [32
 
 ]
-[33
-
-]
 
 Package tabulary Warning: No suitable columns! on input line 83.
 
-[34
+[33
 
 ]) (./03-x-Testbed/14_experimentation.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [35
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[34
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
-
-<use ../res/icon/mail.png>
+ <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png used on input line 12.
 (luatex.def)             Requested size: 124.67055pt x 88.2052pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[36
+[35
 
 ]) (./03-x-Testbed/15_results.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [37
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[36
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
-
-<use ../res/icon/mail.png>
+ <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png used on input line 12.
 (luatex.def)             Requested size: 124.67055pt x 88.2052pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[38
+[37
 
 ]) (./03-x-Testbed/16_discussion.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [39
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[38
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
-
-<use ../res/icon/mail.png>
+ <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png used on input line 13.
 (luatex.def)             Requested size: 124.67055pt x 88.2052pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[40
+[39
 
 ]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [41
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 24
+ []
 
-]
-(./04-x-Sentilo/11_introduction.tex
+[40
+
+] (./04-x-Sentilo/11_introduction.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [42
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[41
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
-
-<use ../res/icon/mail.png>
+ <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png used on input line 12.
 (luatex.def)             Requested size: 124.67055pt x 88.2052pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[43
+[42
 
 ]) (./04-x-Sentilo/12_related.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [44
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[43
 
 ]
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
 '
-[45
+[44
 
 ]
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
 u'
-[46
+[45
 
 ]) (./04-x-Sentilo/13_method.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [47
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[46
+
+] [47
 
 ] [48
 
 ] [49
-
-] [50
 
 ]
 
@@ -4372,96 +4438,121 @@ Package tabulary Warning: No suitable columns! on input line 77.
 
 
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:'
-[51
+[50
 
 ]) (./04-x-Sentilo/14_experimentation.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [52
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[51
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
-
-<use ../res/icon/mail.png>
+ <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png used on input line 12.
 (luatex.def)             Requested size: 124.67055pt x 88.2052pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[53
+[52
 
 ]) (./04-x-Sentilo/15_results.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [54
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[53
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
-
-<use ../res/icon/mail.png>
+ <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png used on input line 12.
 (luatex.def)             Requested size: 124.67055pt x 88.2052pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[55
+[54
 
 ]) (./04-x-Sentilo/16_discussion.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [56
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[55
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
-
-<use ../res/icon/mail.png>
+ <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png used on input line 13.
 (luatex.def)             Requested size: 124.67055pt x 88.2052pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[57
+[56
 
 ]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [58
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 25
+ []
 
-]
-("./05-x-Long paper/11_introduction.tex"
+[57
+
+] ("./05-x-Long paper/11_introduction.tex"
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [59
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[58
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
-
-<use ../res/icon/mail.png>
+ <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png used on input line 12.
 (luatex.def)             Requested size: 124.67055pt x 88.2052pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[60
+[59
 
 ]) ("./05-x-Long paper/12_related.tex"
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [61
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[60
 
 ]
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
 '
-[62
+[61
 
 ]
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
 u'
-[63
+[62
 
 ]) ("./05-x-Long paper/13_method.tex"
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [64
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[63
+
+] [64
 
 ] [65
 
@@ -4470,73 +4561,87 @@ u'
 ] [67
 
 ]
-[68
-
-]
 
 Package tabulary Warning: No suitable columns! on input line 83.
 
 
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:'
-[69
+[68
 
 ]) ("./05-x-Long paper/14_experimentation.tex"
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [70
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[69
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
-
-<use ../res/icon/mail.png>
+ <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png used on input line 12.
 (luatex.def)             Requested size: 124.67055pt x 88.2052pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[71
+[70
 
 ]) ("./05-x-Long paper/15_results.tex"
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [72
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[71
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
-
-<use ../res/icon/mail.png>
+ <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png used on input line 12.
 (luatex.def)             Requested size: 124.67055pt x 88.2052pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[73
+[72
 
 ]) ("./05-x-Long paper/16_discussion.tex"
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [74
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[73
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
-
-<use ../res/icon/mail.png>
+ <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png used on input line 13.
 (luatex.def)             Requested size: 124.67055pt x 88.2052pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[75
+[74
 
 ]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [76
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 26
+ []
+
+[75
 
 ]
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/11_introduct
 ion.tex" (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [77
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[76
 
 ]
 Overfull \hbox (7.32465pt too wide) in paragraph at lines 42--42
@@ -4610,53 +4715,69 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <4.75002> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 42.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <3.75008> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 42.
-[78
+[77
 
 ])
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/12_related.t
 ex" (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [79
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[78
 
 ])
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/13_backgroun
 d.tex" (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [80
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
 
-]
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [81
+[79
 
-] [82
+] (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 3
+ []
 
-]
+[80
+
+] [81
+
+] (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [83
+Overfull \vbox (19.18971pt too high) detected at line 18
+ []
+
+[82
 
 ]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <6.25008> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 30.
- [84
+ [83
 
-] [85
+] [84
 
-]
+] (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [86
+Overfull \vbox (19.18971pt too high) detected at line 71
+ []
+
+[85
 
 ]
 LaTeX Font Info:    Try loading font information for T1+ppl on input line 101.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ppl.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
-) [87
+) [86
 
 ]
-<../res/tmp/Model//markov.png, id=1579, 917.4275pt x 533.995pt>
+<../res/tmp/Model//markov.png, id=1782, 917.4275pt x 533.995pt>
 File: ../res/tmp/Model//markov.png Graphic file (type png)
 
 <use ../res/tmp/Model//markov.png>
@@ -4666,138 +4787,167 @@ Package luatex.def Info: ../res/tmp/Model//markov.png used on input line 105.
 Overfull \vbox (12.47716pt too high) detected at line 105
  []
 
-[88
+[87
 
 <../res/tmp/Model//markov.png>]
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [89
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 108
+ []
 
-] [90
+[88
+
+] [89
 
 ])
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/14_method.te
 x" (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [91
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
 
-]
-<../res/plot/genetic.pdf, id=1649, 1026.1025pt x 457.04752pt>
+[90
+
+] <../res/plot/genetic.pdf, id=1865, 1026.1025pt x 457.04752pt>
 File: ../res/plot/genetic.pdf Graphic file (type pdf)
 
 <use ../res/plot/genetic.pdf>
 Package luatex.def Info: ../res/plot/genetic.pdf used on input line 50.
 (luatex.def)             Requested size: 356.19536pt x 158.65094pt.
- [92
+ [91
 
-<../res/plot/genetic.pdf>] [93
+<../res/plot/genetic.pdf>] [92
 
-] [94
+] [93
 
 ])
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/15_experimen
 tation.tex" (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [95
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[94
+
+] [95
 
 ] [96
 
-] [97
-
 ]
 File: ../res/icon/mail.png Graphic file (type png)
-
-<use ../res/icon/mail.png>
+ <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png used on input line 118.
 (luatex.def)             Requested size: 124.67055pt x 88.2052pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[98
+[97
 
 ])
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/16_results.t
 ex" (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [99
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[98
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
-
-<use ../res/icon/mail.png>
+ <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png used on input line 12.
 (luatex.def)             Requested size: 124.67055pt x 88.2052pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[100
+[99
 
 ])
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/17_discussio
 n.tex" (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [101
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[100
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
-
-<use ../res/icon/mail.png>
+ <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png used on input line 13.
 (luatex.def)             Requested size: 124.67055pt x 88.2052pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[102
+[101
 
 ]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [103
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 27
+ []
 
-]
-(./07-Template/11_introduction.tex
+[102
+
+] (./21-Disaster/11_introduction.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [104
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[103
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
-
-<use ../res/icon/mail.png>
+ <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png used on input line 12.
 (luatex.def)             Requested size: 124.67055pt x 88.2052pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[105
+[104
 
-]) (./07-Template/12_related.tex
+]) (./21-Disaster/12_related.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [106
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[105
 
 ]
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
 '
-[107
+[106
 
 ]
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
 u'
+[107
+
+]) (./21-Disaster/13_method.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
 [108
 
-]) (./07-Template/13_method.tex
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [109
+] [109
 
 ] [110
 
 ] [111
 
-]
-[112
-
-] [113
+] [112
 
 ]
 
@@ -4805,105 +4955,127 @@ Package tabulary Warning: No suitable columns! on input line 83.
 
 
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:'
+[113
+
+]) (./21-Disaster/14_experimentation.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
 [114
 
-]) (./07-Template/14_experimentation.tex
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [115
-
 ]
 File: ../res/icon/mail.png Graphic file (type png)
-
-<use ../res/icon/mail.png>
+ <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png used on input line 12.
 (luatex.def)             Requested size: 124.67055pt x 88.2052pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
+[115
+
+]) (./21-Disaster/15_results.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
 [116
 
-]) (./07-Template/15_results.tex
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [117
-
 ]
 File: ../res/icon/mail.png Graphic file (type png)
-
-<use ../res/icon/mail.png>
+ <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png used on input line 12.
 (luatex.def)             Requested size: 124.67055pt x 88.2052pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[118
+[117
 
-]) (./07-Template/16_discussion.tex
+]) (./21-Disaster/16_discussion.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [119
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[118
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
-
-<use ../res/icon/mail.png>
+ <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png used on input line 13.
 (luatex.def)             Requested size: 124.67055pt x 88.2052pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[120
+[119
 
 ]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [121
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 28
+ []
 
-]
-(./08-UTLC/11_introduction.tex
+[120
+
+] (./07-Template/11_introduction.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [122
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[121
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
-
-<use ../res/icon/mail.png>
+ <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png used on input line 12.
 (luatex.def)             Requested size: 124.67055pt x 88.2052pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[123
+[122
 
-]) (./08-UTLC/12_related.tex
+]) (./07-Template/12_related.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [124
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[123
 
 ]
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
 '
-[125
+[124
 
 ]
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
 u'
+[125
+
+]) (./07-Template/13_method.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
 [126
 
-]) (./08-UTLC/13_method.tex
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [127
+] [127
 
 ] [128
 
 ] [129
 
-]
-[130
-
-] [131
+] [130
 
 ]
 
@@ -4911,7 +5083,135 @@ Package tabulary Warning: No suitable columns! on input line 83.
 
 
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:'
+[131
+
+]) (./07-Template/14_experimentation.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
 [132
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+ <use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 12.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[133
+
+]) (./07-Template/15_results.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[134
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+ <use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 12.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[135
+
+]) (./07-Template/16_discussion.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[136
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+ <use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 13.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[137
+
+]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 29
+ []
+
+[138
+
+] (./08-UTLC/11_introduction.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[139
+
+]
+File: ../res/icon/mail.png Graphic file (type png)
+ <use ../res/icon/mail.png>
+Package luatex.def Info: ../res/icon/mail.png used on input line 12.
+(luatex.def)             Requested size: 124.67055pt x 88.2052pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
+ng'
+[140
+
+]) (./08-UTLC/12_related.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[141
+
+]
+warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
+'
+[142
+
+]
+warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
+u'
+[143
+
+]) (./08-UTLC/13_method.tex
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[144
+
+] [145
+
+] [146
+
+] [147
+
+] [148
+
+]
+
+Package tabulary Warning: No suitable columns! on input line 83.
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'tab:'
+[149
 
 ]
 
@@ -4922,95 +5222,154 @@ he current directory, where it must reside for viewing. on input line 87.
 Overfull \vbox (1.0pt too high) detected at line 87
  []
 
-[133
+[150
 
 ]) (./08-UTLC/14_experimentation.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [134
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[151
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
-
-<use ../res/icon/mail.png>
+ <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png used on input line 12.
 (luatex.def)             Requested size: 124.67055pt x 88.2052pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[135
+[152
 
 ]) (./08-UTLC/15_results.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [136
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[153
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
-
-<use ../res/icon/mail.png>
+ <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png used on input line 12.
 (luatex.def)             Requested size: 124.67055pt x 88.2052pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[137
+[154
 
 ]) (./08-UTLC/16_discussion.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [138
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 1
+ []
+
+[155
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
-
-<use ../res/icon/mail.png>
+ <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png used on input line 13.
 (luatex.def)             Requested size: 124.67055pt x 88.2052pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[139
+[156
 
 ]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [140
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 30
+ []
 
-]
-(./09-Conclusion/10_conclusion.tex [141
+[157
 
-] [142
+] (./09-Conclusion/10_conclusion.tex [158
+
+] [159
 
 ])
-\c@framenumberappendix=\count569
-LaTeX Font Info:    Calculating math sizes for size <3.65002> on input line 99.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 3.358pt on input line 99.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 2.55205pt on input line 99.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 2.01482pt on input line 99.
-LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 3.50404pt on input line 99.
-LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 2.66304pt on input line 99.
-LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 2.10243pt on input line 99.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 3.358pt on input line 99.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 2.55205pt on input line 99.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 2.01482pt on input line 99.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <3.65002> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 99.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <2.77399> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 99.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <2.19003> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 99.
- [143
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 33
+ []
+
+[160
+
+] (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 34
+ []
+
+
+Overfull \hbox (14.30983pt too wide) in paragraph at lines 33--34
+[][][][][][]         [][][]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [161
 
 ]
+[162] (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+Overfull \vbox (19.18971pt too high) detected at line 35
+ []
+
+
+Overfull \hbox (14.30983pt too wide) in paragraph at lines 34--35
+[][][][][][]         [][][]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [163
+
+]
+[164]
+\c@framenumberappendix=\count569
+LaTeX Font Info:    Calculating math sizes for size <3.65002> on input line 39.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 3.358pt on input line 39.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 2.55205pt on input line 39.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 2.01482pt on input line 39.
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 3.50404pt on input line 39.
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 2.66304pt on input line 39.
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 2.10243pt on input line 39.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 3.358pt on input line 39.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 2.55205pt on input line 39.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 2.01482pt on input line 39.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <3.65002> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 39.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <2.77399> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 39.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <2.19003> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 39.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [165
+
+]
+[166]
 \tf@nav=\write10
 
 \openout10 = slide.nav
@@ -5020,14 +5379,13 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <2.19003> not available
 \tf@snm=\write12
 
 \openout12 = slide.snm
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
-
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 100.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 100.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 40.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 40.
+ (/home/aghiles/Aghiles/Research/Writing/bin/slide.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 40.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 40.
 Package rerunfilecheck Info: File `slide.out' has not changed.
-(rerunfilecheck)             Checksum: 84F9843F12E2C13311EA911BD99718DE;3265.
+(rerunfilecheck)             Checksum: EC4536E595B1311D107F66EABD6E5A17;3860.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -5038,18 +5396,18 @@ Package logreq Info: Writing requests to 'slide.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 78581 strings out of 494577
- 125006,2848258 words of node,token memory allocated
- 75364 words of node memory still in use:
-   65 hlist, 10 vlist, 15 rule, 1 mark, 175 disc, 13 local_par, 4 math, 6521 glu
-e, 176 kern, 122 penalty, 1967 glyph, 3172 attribute, 69 glue_spec, 3172 attribu
+ 78648 strings out of 494577
+ 125007,2848258 words of node,token memory allocated
+ 83552 words of node memory still in use:
+   65 hlist, 10 vlist, 15 rule, 1 mark, 175 disc, 13 local_par, 4 math, 7361 glu
+e, 176 kern, 122 penalty, 1967 glyph, 3620 attribute, 69 glue_spec, 3620 attribu
 te_list, 7 write, 16 pdf_literal, 2 pdf_start_link, 2 pdf_end_link, 11 pdf_dest,
- 2 pdf_action, 138 pdf_colorstack nodes
-   avail lists: 1:19,2:98,3:564,4:513,5:197,6:2035,7:530,8:667,9:989,10:36,11:17
-7
- 76190 multiletter control sequences out of 65536+600000
+ 88 pdf_action, 138 pdf_colorstack nodes
+   avail lists: 1:14,2:509,3:560,4:609,5:206,6:2238,7:616,8:667,9:989,10:36,11:1
+99
+ 76082 multiletter control sequences out of 65536+600000
  549 fonts using 37434031 bytes
- 74i,17n,123p,1606b,2281s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 81i,17n,126p,1606b,2281s stack positions out of 5000i,500n,10000p,200000b,100000s
 
 warning  (pdf backend): unreferenced destination with name 'PktL'
 
@@ -5080,10 +5438,10 @@ xlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-d
 ist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/zapfd
 ing/uzdr.pfb>
-Output written on slide.pdf (143 pages, 6061215 bytes).
+Output written on slide.pdf (166 pages, 6102620 bytes).
 
-PDF statistics: 2423 PDF objects out of 2487 (max. 8388607)
- 2173 compressed objects within 22 object streams
- 384 named destinations out of 1000 (max. 131072)
- 570 words of extra memory for PDF output out of 10000 (max. 10000000)
+PDF statistics: 3109 PDF objects out of 3580 (max. 8388607)
+ 2829 compressed objects within 29 object streams
+ 440 named destinations out of 1000 (max. 131072)
+ 650 words of extra memory for PDF output out of 10000 (max. 10000000)
 

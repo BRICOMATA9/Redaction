@@ -9,6 +9,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/luatex/lualibs/lualibs-extended.lua
 INPUT /usr/share/texlive/texmf-dist/tex/luatex/lualibs/lualibs-extended-merged.lua
 OUTPUT /home/aghiles/.texlive2016/texmf-var/m_t_x_t_e_s_t.tmp
 INPUT /usr/share/texlive/texmf-dist/tex/luatex/luaotfload/luaotfload-characters.lua
+INPUT /home/aghiles/Aghiles/Research/Writing/bin/../lib/paper.tex
+INPUT ../lib/paper.tex
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.def
@@ -237,60 +239,20 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/upzd.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/upzd.fd
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/upsy.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/upsy.fd
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT /home/aghiles/Aghiles/Research/Writing/bin/../lib/plot.tex
+INPUT ../lib/plot.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/multirow/bigstrut.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/multirow/bigstrut.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/import/import.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/import/import.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppluatex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppluatex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-INPUT /usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pgf.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pgf.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
@@ -304,6 +266,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
@@ -356,169 +320,20 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-
 INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/translator/translator.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/translator/translator.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/translator/translator.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/translator/translator-language-mappings.tex
-INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/translator/translator-language-mappings.tex
-INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/everypage/everypage.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/everypage/everypage.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/eurosym/eurosym.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/eurosym/eurosym.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/threeparttable/threeparttable.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/threeparttable/threeparttable.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tabulary/tabulary.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tabulary/tabulary.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
-INPUT /usr/share/texlive/texmf-dist/scripts/oberdiek/oberdiek.luatex.lua
-INPUT /usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/unicode-data/UnicodeData.txt
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
-INPUT /home/aghiles/Aghiles/Research/Writing/bin/../lib/commands.tex
-INPUT ../lib/commands.tex
-INPUT /usr/share/texlive/texmf-dist/tex/latex/bytefield/bytefield.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/bytefield/bytefield.sty
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/acro/acro.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/acro/acro.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3experimental/l3sort/l3sort.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3experimental/l3sort/l3sort.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-base.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-base.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/translations/translations.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/translations/translations.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cnltx/cnltx-base.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cnltx/cnltx-base.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/pgfopts/pgfopts.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/pgfopts/pgfopts.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
-INPUT /home/aghiles/Aghiles/Research/Writing/bin/../lib/nomenclature.tex
-INPUT ../lib/nomenclature.tex
-INPUT /home/aghiles/Aghiles/Research/Writing/bin/../lib/paper.tex
-INPUT ../lib/paper.tex
-INPUT /usr/share/texlive/texmf-dist/tex/latex/chngcntr/chngcntr.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/chngcntr/chngcntr.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/titling/titling.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/titling/titling.sty
-INPUT /home/aghiles/Aghiles/Research/Writing/bin/../lib/plot.tex
-INPUT ../lib/plot.tex
-INPUT /usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/multirow/bigstrut.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/multirow/bigstrut.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
@@ -534,6 +349,10 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
@@ -609,6 +428,10 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/../lib/styles/gantt.sty
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/../lib/styles/gantt.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 INPUT /usr/share/texlive/texmf-dist/tex/latex/forloop/forloop.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/forloop/forloop.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypatterns.code.tex
@@ -619,6 +442,12 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/bbding/bbding.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/bbding/bbding.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/cancel/cancel.sty
@@ -627,6 +456,14 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/makecell/makecell.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/makecell/makecell.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/units/nicefrac.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/units/nicefrac.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/upzd.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/upzd.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/upsy.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/upsy.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tikz-timing/tikz-timing.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tikz-timing/tikz-timing.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/svn-prov/svn-prov.sty
@@ -717,6 +554,16 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarychains.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryautomata.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryautomata.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppluatex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppluatex.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.groupplots.code.tex
@@ -735,6 +582,157 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/graphdrawing/tex/pgflibraryg
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/graphdrawing/tex/pgflibrarygraphdrawing.code.tex
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/../lib/tikzset.tex
 INPUT ../lib/tikzset.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/import/import.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/import/import.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pgf.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pgf.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/translator/translator.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/translator/translator.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/translator/translator.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/translator/translator-language-mappings.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/translator/translator-language-mappings.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/everypage/everypage.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/everypage/everypage.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/eurosym/eurosym.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/eurosym/eurosym.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tabulary/tabulary.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tabulary/tabulary.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT /usr/share/texlive/texmf-dist/scripts/oberdiek/oberdiek.luatex.lua
+INPUT /usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/unicode-data/UnicodeData.txt
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.bbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+INPUT /home/aghiles/Aghiles/Research/Writing/bin/../lib/commands.tex
+INPUT ../lib/commands.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/bytefield/bytefield.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/bytefield/bytefield.sty
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf
+INPUT /usr/share/texlive/texmf-dist/tex/latex/acro/acro.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/acro/acro.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3experimental/l3sort/l3sort.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3experimental/l3sort/l3sort.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/zref-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/translations/translations.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/translations/translations.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/cnltx/cnltx-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/cnltx/cnltx-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgfopts/pgfopts.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgfopts/pgfopts.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT /home/aghiles/Aghiles/Research/Writing/bin/../lib/nomenclature.tex
+INPUT ../lib/nomenclature.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/titling/titling.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/titling/titling.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/paper.aux
@@ -832,6 +830,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-basic-dictionary/translator-basic-dictionary-English.dict
@@ -1042,8 +1042,8 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/stmaryrd/stmary7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/wasy/wasy10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/wasy/wasy9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/wasy/wasy7.tfm
-INPUT ls 01*/00_introduction.tex
-INPUT ls 01*/00_introduction.tex
+INPUT ls 01*/0*.tex
+INPUT ls 01*/0*.tex
 INPUT ./01-Introduction/00_introduction.tex
 INPUT ./01-Introduction/00_introduction.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmrc8t.tfm
@@ -1052,8 +1052,8 @@ INPUT ls 02*/authors.tex
 INPUT ls 02*/authors.tex
 INPUT ./02-State of the art/authors.tex
 INPUT ./02-State of the art/authors.tex
-INPUT ls 02*/01_usecases.tex
-INPUT ls 02*/01_usecases.tex
+INPUT ls 02*/0*.tex
+INPUT ls 02*/0*.tex
 INPUT ./02-State of the art/01_usecases.tex
 INPUT ./02-State of the art/01_usecases.tex
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/Picture/application.png
@@ -1092,8 +1092,6 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chbma.t
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/mathdesign/mdbch/md-chb8y.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/stmaryrd/stmary5.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/wasy/wasy5.tfm
-INPUT ls 02*/02_sensors.tex
-INPUT ls 02*/02_sensors.tex
 INPUT ./02-State of the art/02_sensors.tex
 INPUT ./02-State of the art/02_sensors.tex
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/Picture/os-timeline.png
@@ -1106,12 +1104,8 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/B-CN/sdn-wise.png
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/B-CN/sdn-wise.png
 INPUT ../res/tmp/B-CN/sdn-wise.png
-INPUT ls 02*/03_protocols.tex
-INPUT ls 02*/03_protocols.tex
 INPUT ./02-State of the art/03_protocols.tex
 INPUT ./02-State of the art/03_protocols.tex
-INPUT ls 02*/04_standards.tex
-INPUT ls 02*/04_standards.tex
 INPUT ./02-State of the art/04_standards.tex
 INPUT ./02-State of the art/04_standards.tex
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/Framework/riot-network-stack.png
@@ -1156,112 +1150,70 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
-INPUT ls 02*/05_sdn.tex
-INPUT ls 02*/05_sdn.tex
 INPUT ./02-State of the art/05_sdn.tex
 INPUT ./02-State of the art/05_sdn.tex
-INPUT ls 02*/06_security.tex
-INPUT ls 02*/06_security.tex
 INPUT ./02-State of the art/06_security.tex
 INPUT ./02-State of the art/06_security.tex
 INPUT ls 03*/authors.tex
 INPUT ls 03*/authors.tex
 INPUT ./03-x-Testbed/authors.tex
 INPUT ./03-x-Testbed/authors.tex
-INPUT ls 03*/00_abstract.tex
-INPUT ls 03*/00_abstract.tex
+INPUT ls 03*/0*.tex
+INPUT ls 03*/0*.tex
 INPUT ./03-x-Testbed/00_abstract.tex
 INPUT ./03-x-Testbed/00_abstract.tex
-INPUT ls 03*/01_introduction.tex
-INPUT ls 03*/01_introduction.tex
 INPUT ./03-x-Testbed/01_introduction.tex
 INPUT ./03-x-Testbed/01_introduction.tex
-INPUT ls 03*/02_related.tex
-INPUT ls 03*/02_related.tex
 INPUT ./03-x-Testbed/02_related.tex
 INPUT ./03-x-Testbed/02_related.tex
-INPUT ls 03*/03_background.tex
-INPUT ls 03*/03_background.tex
 INPUT ./03-x-Testbed/03_background.tex
 INPUT ./03-x-Testbed/03_background.tex
-INPUT ls 03*/04_approach.tex
-INPUT ls 03*/04_approach.tex
 INPUT ./03-x-Testbed/04_approach.tex
 INPUT ./03-x-Testbed/04_approach.tex
-INPUT ls 03*/05_experimentation.tex
-INPUT ls 03*/05_experimentation.tex
 INPUT ./03-x-Testbed/05_experimentation.tex
 INPUT ./03-x-Testbed/05_experimentation.tex
-INPUT ls 03*/06_results.tex
-INPUT ls 03*/06_results.tex
 INPUT ./03-x-Testbed/06_results.tex
 INPUT ./03-x-Testbed/06_results.tex
-INPUT ls 03*/07_conclusion.tex
-INPUT ls 03*/07_conclusion.tex
 INPUT ./03-x-Testbed/07_conclusion.tex
 INPUT ./03-x-Testbed/07_conclusion.tex
 INPUT ls 04*/authors.tex
 INPUT ls 04*/authors.tex
 INPUT ./04-x-Sentilo/authors.tex
 INPUT ./04-x-Sentilo/authors.tex
-INPUT ls 04*/00_abstract.tex
-INPUT ls 04*/00_abstract.tex
+INPUT ls 04*/0*.tex
+INPUT ls 04*/0*.tex
 INPUT ./04-x-Sentilo/00_abstract.tex
 INPUT ./04-x-Sentilo/00_abstract.tex
-INPUT ls 04*/01_introduction.tex
-INPUT ls 04*/01_introduction.tex
 INPUT ./04-x-Sentilo/01_introduction.tex
 INPUT ./04-x-Sentilo/01_introduction.tex
-INPUT ls 04*/02_related.tex
-INPUT ls 04*/02_related.tex
 INPUT ./04-x-Sentilo/02_related.tex
 INPUT ./04-x-Sentilo/02_related.tex
-INPUT ls 04*/03_background.tex
-INPUT ls 04*/03_background.tex
 INPUT ./04-x-Sentilo/03_background.tex
 INPUT ./04-x-Sentilo/03_background.tex
-INPUT ls 04*/04_approach.tex
-INPUT ls 04*/04_approach.tex
 INPUT ./04-x-Sentilo/04_approach.tex
 INPUT ./04-x-Sentilo/04_approach.tex
-INPUT ls 04*/05_experimentation.tex
-INPUT ls 04*/05_experimentation.tex
 INPUT ./04-x-Sentilo/05_experimentation.tex
 INPUT ./04-x-Sentilo/05_experimentation.tex
-INPUT ls 04*/06_results.tex
-INPUT ls 04*/06_results.tex
 INPUT ./04-x-Sentilo/06_results.tex
 INPUT ./04-x-Sentilo/06_results.tex
-INPUT ls 04*/07_conclusion.tex
-INPUT ls 04*/07_conclusion.tex
 INPUT ./04-x-Sentilo/07_conclusion.tex
 INPUT ./04-x-Sentilo/07_conclusion.tex
 INPUT ls 05*/authors.tex
 INPUT ls 05*/authors.tex
 INPUT ./05-x-Long paper/authors.tex
 INPUT ./05-x-Long paper/authors.tex
-INPUT ls 05*/00_abstract.tex
-INPUT ls 05*/00_abstract.tex
+INPUT ls 05*/0*.tex
+INPUT ls 05*/0*.tex
 INPUT ./05-x-Long paper/00_abstract.tex
 INPUT ./05-x-Long paper/00_abstract.tex
-INPUT ls 05*/01_introduction.tex
-INPUT ls 05*/01_introduction.tex
 INPUT ./05-x-Long paper/01_introduction.tex
 INPUT ./05-x-Long paper/01_introduction.tex
-INPUT ls 05*/02_related.tex
-INPUT ls 05*/02_related.tex
 INPUT ./05-x-Long paper/02_related.tex
 INPUT ./05-x-Long paper/02_related.tex
-INPUT ls 05*/03_background.tex
-INPUT ls 05*/03_background.tex
 INPUT ./05-x-Long paper/03_background.tex
 INPUT ./05-x-Long paper/03_background.tex
-INPUT ls 05*/04_approach.tex
-INPUT ls 05*/04_approach.tex
 INPUT ./05-x-Long paper/04_approach.tex
 INPUT ./05-x-Long paper/04_approach.tex
-INPUT ls 05*/05_experimentation.tex
-INPUT ls 05*/05_experimentation.tex
 INPUT ./05-x-Long paper/05_experimentation.tex
 INPUT ./05-x-Long paper/05_experimentation.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/zavmr7t.tfm
@@ -1301,39 +1253,29 @@ INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/data/figure3.dat
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/data/figure3.dat
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/data/figure3.dat
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/data/figure3.dat
-INPUT ls 05*/06_results.tex
-INPUT ls 05*/06_results.tex
 INPUT ./05-x-Long paper/06_results.tex
 INPUT ./05-x-Long paper/06_results.tex
-INPUT ls 05*/07_conclusion.tex
-INPUT ls 05*/07_conclusion.tex
 INPUT ./05-x-Long paper/07_conclusion.tex
 INPUT ./05-x-Long paper/07_conclusion.tex
 INPUT ls 06*/authors.tex
 INPUT ls 06*/authors.tex
 INPUT ./06-Genetic Algorithm For LoRa Transmission Parameter Selection/authors.tex
 INPUT ./06-Genetic Algorithm For LoRa Transmission Parameter Selection/authors.tex
-INPUT ls 06*/00_abstract.tex
-INPUT ls 06*/00_abstract.tex
+INPUT ls 06*/0*.tex
+INPUT ls 06*/0*.tex
 INPUT ./06-Genetic Algorithm For LoRa Transmission Parameter Selection/00_abstract.tex
 INPUT ./06-Genetic Algorithm For LoRa Transmission Parameter Selection/00_abstract.tex
-INPUT ls 06*/01_introduction.tex
-INPUT ls 06*/01_introduction.tex
 INPUT ./06-Genetic Algorithm For LoRa Transmission Parameter Selection/01_introduction.tex
 INPUT ./06-Genetic Algorithm For LoRa Transmission Parameter Selection/01_introduction.tex
-INPUT ls 06*/02_related.tex
-INPUT ls 06*/02_related.tex
 INPUT ./06-Genetic Algorithm For LoRa Transmission Parameter Selection/02_related.tex
 INPUT ./06-Genetic Algorithm For LoRa Transmission Parameter Selection/02_related.tex
-INPUT ls 06*/04_approach.tex
-INPUT ls 06*/04_approach.tex
+INPUT ./06-Genetic Algorithm For LoRa Transmission Parameter Selection/03_background.tex
+INPUT ./06-Genetic Algorithm For LoRa Transmission Parameter Selection/03_background.tex
 INPUT ./06-Genetic Algorithm For LoRa Transmission Parameter Selection/04_approach.tex
 INPUT ./06-Genetic Algorithm For LoRa Transmission Parameter Selection/04_approach.tex
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/plot/genetic.pdf
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/plot/genetic.pdf
 INPUT ../res/plot/genetic.pdf
-INPUT ls 06*/05_experimentation.tex
-INPUT ls 06*/05_experimentation.tex
 INPUT ./06-Genetic Algorithm For LoRa Transmission Parameter Selection/05_experimentation.tex
 INPUT ./06-Genetic Algorithm For LoRa Transmission Parameter Selection/05_experimentation.tex
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/Picture/gateway.jpg
@@ -1342,64 +1284,68 @@ INPUT ../res/tmp/Picture/gateway.jpg
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/Picture/node.jpg
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/Picture/node.jpg
 INPUT ../res/tmp/Picture/node.jpg
-INPUT ls 06*/07_conclusion.tex
-INPUT ls 06*/07_conclusion.tex
+INPUT ./06-Genetic Algorithm For LoRa Transmission Parameter Selection/06_results.tex
+INPUT ./06-Genetic Algorithm For LoRa Transmission Parameter Selection/06_results.tex
 INPUT ./06-Genetic Algorithm For LoRa Transmission Parameter Selection/07_conclusion.tex
 INPUT ./06-Genetic Algorithm For LoRa Transmission Parameter Selection/07_conclusion.tex
+INPUT ls 21*/authors.tex
+INPUT ls 21*/authors.tex
+INPUT ./21-Disaster/authors.tex
+INPUT ./21-Disaster/authors.tex
+INPUT ls 21*/0*.tex
+INPUT ls 21*/0*.tex
+INPUT ./21-Disaster/00_abstract.tex
+INPUT ./21-Disaster/00_abstract.tex
+INPUT ./21-Disaster/01_introduction.tex
+INPUT ./21-Disaster/01_introduction.tex
+INPUT ./21-Disaster/02_related.tex
+INPUT ./21-Disaster/02_related.tex
+INPUT ./21-Disaster/03_background.tex
+INPUT ./21-Disaster/03_background.tex
+INPUT ./21-Disaster/04_approach.tex
+INPUT ./21-Disaster/04_approach.tex
+INPUT ./21-Disaster/05_experimentation.tex
+INPUT ./21-Disaster/05_experimentation.tex
+INPUT ./21-Disaster/06_results.tex
+INPUT ./21-Disaster/06_results.tex
+INPUT ./21-Disaster/07_conclusion.tex
+INPUT ./21-Disaster/07_conclusion.tex
 INPUT ls 07*/authors.tex
 INPUT ls 07*/authors.tex
 INPUT ./07-Template/authors.tex
 INPUT ./07-Template/authors.tex
-INPUT ls 07*/00_abstract.tex
-INPUT ls 07*/00_abstract.tex
+INPUT ls 07*/0*.tex
+INPUT ls 07*/0*.tex
 INPUT ./07-Template/00_abstract.tex
 INPUT ./07-Template/00_abstract.tex
-INPUT ls 07*/01_introduction.tex
-INPUT ls 07*/01_introduction.tex
 INPUT ./07-Template/01_introduction.tex
 INPUT ./07-Template/01_introduction.tex
-INPUT ls 07*/02_related.tex
-INPUT ls 07*/02_related.tex
 INPUT ./07-Template/02_related.tex
 INPUT ./07-Template/02_related.tex
-INPUT ls 07*/04_approach.tex
-INPUT ls 07*/04_approach.tex
+INPUT ./07-Template/03_background.tex
+INPUT ./07-Template/03_background.tex
 INPUT ./07-Template/04_approach.tex
 INPUT ./07-Template/04_approach.tex
-INPUT ls 07*/05_experimentation.tex
-INPUT ls 07*/05_experimentation.tex
 INPUT ./07-Template/05_experimentation.tex
 INPUT ./07-Template/05_experimentation.tex
-INPUT ls 07*/06_results.tex
-INPUT ls 07*/06_results.tex
 INPUT ./07-Template/06_results.tex
 INPUT ./07-Template/06_results.tex
-INPUT ls 07*/07_conclusion.tex
-INPUT ls 07*/07_conclusion.tex
 INPUT ./07-Template/07_conclusion.tex
 INPUT ./07-Template/07_conclusion.tex
-INPUT ls 08**/authors.tex
-INPUT ls 08**/authors.tex
+INPUT ls 08*/authors.tex
+INPUT ls 08*/authors.tex
 INPUT ./08-UTLC/authors.tex
 INPUT ./08-UTLC/authors.tex
-INPUT ls 08*/00_abstract.tex
-INPUT ls 08*/00_abstract.tex
+INPUT ls 08*/0*.tex
+INPUT ls 08*/0*.tex
 INPUT ./08-UTLC/00_abstract.tex
 INPUT ./08-UTLC/00_abstract.tex
-INPUT ls 08*/01_introduction.tex
-INPUT ls 08*/01_introduction.tex
 INPUT ./08-UTLC/01_introduction.tex
 INPUT ./08-UTLC/01_introduction.tex
-INPUT ls 08*/02_related.tex
-INPUT ls 08*/02_related.tex
 INPUT ./08-UTLC/02_related.tex
 INPUT ./08-UTLC/02_related.tex
-INPUT ls 08*/03_background.tex
-INPUT ls 08*/03_background.tex
 INPUT ./08-UTLC/03_background.tex
 INPUT ./08-UTLC/03_background.tex
-INPUT ls 08*/04_approach.tex
-INPUT ls 08*/04_approach.tex
 INPUT ./08-UTLC/04_approach.tex
 INPUT ./08-UTLC/04_approach.tex
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/Figures/CrossRoadModel_V1.eps
@@ -1414,8 +1360,6 @@ INPUT ../res/tmp/Figures/MiddlewareModel-eps-converted-to.pdf
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/Figures/CloudModel.eps
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/Figures/CloudModel-eps-converted-to.pdf
 INPUT ../res/tmp/Figures/CloudModel-eps-converted-to.pdf
-INPUT ls 08*/05_experimentation.tex
-INPUT ls 08*/05_experimentation.tex
 INPUT ./08-UTLC/05_experimentation.tex
 INPUT ./08-UTLC/05_experimentation.tex
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/Figures/ScenarioPaper.eps
@@ -1427,8 +1371,6 @@ INPUT ../res/tmp/Figures/ethernetRouter.png
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/Figures/StackIoTv1.eps
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf
 INPUT ../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf
-INPUT ls 08*/06_results.tex
-INPUT ls 08*/06_results.tex
 INPUT ./08-UTLC/06_results.tex
 INPUT ./08-UTLC/06_results.tex
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/Figures/distributions_v3.eps
@@ -1437,78 +1379,65 @@ INPUT ../res/tmp/Figures/distributions_v3-eps-converted-to.pdf
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/Figures/cdf_v3.eps
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/Figures/cdf_v3-eps-converted-to.pdf
 INPUT ../res/tmp/Figures/cdf_v3-eps-converted-to.pdf
-INPUT ls 08*/07_conclusion.tex
-INPUT ls 08*/07_conclusion.tex
 INPUT ./08-UTLC/07_conclusion.tex
 INPUT ./08-UTLC/07_conclusion.tex
 INPUT ls 09*/authors.tex
 INPUT ls 09*/authors.tex
 INPUT ./09-Conclusion/authors.tex
 INPUT ./09-Conclusion/authors.tex
-INPUT ls 09*/00_conclusion.tex
-INPUT ls 09*/00_conclusion.tex
+INPUT ls 09*/0*.tex
+INPUT ls 09*/0*.tex
 INPUT ./09-Conclusion/00_conclusion.tex
 INPUT ./09-Conclusion/00_conclusion.tex
 INPUT ls A*/authors.tex
 INPUT ls A*/authors.tex
 INPUT ./A-Survey IoT/authors.tex
 INPUT ./A-Survey IoT/authors.tex
-INPUT ls A*/00_cloud.tex
-INPUT ls A*/00_cloud.tex
-INPUT ./A-Survey IoT/00_cloud.tex
-INPUT ./A-Survey IoT/00_cloud.tex
-INPUT ls A*/authors.tex
-INPUT ls A*/authors.tex
-INPUT ./A-Survey IoT/authors.tex
-INPUT ./A-Survey IoT/authors.tex
-INPUT ls A*/00_application.tex
-INPUT ls A*/00_application.tex
+INPUT ls A*/0*.tex
+INPUT ls A*/0*.tex
 INPUT ./A-Survey IoT/00_application.tex
 INPUT ./A-Survey IoT/00_application.tex
-INPUT ls A*/00_frame.tex
-INPUT ls A*/00_frame.tex
-INPUT ./A-Survey IoT/00_frame.tex
-INPUT ./A-Survey IoT/00_frame.tex
-INPUT ls A*/00_technologies.tex
-INPUT ls A*/00_technologies.tex
-INPUT ./A-Survey IoT/00_technologies.tex
-INPUT ./A-Survey IoT/00_technologies.tex
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/zavmb7t.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/arev/zavmb7t.vf
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/favmb7t.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/zavmb7t.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/arev/zavmb7t.vf
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/favmb7t.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/zavmb7t.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/arev/zavmb7t.vf
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/favmb7t.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/zavmb7t.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/arev/zavmb7t.vf
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/favmb7t.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/zavmb7t.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/arev/zavmb7t.vf
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/favmb7t.tfm
-INPUT ls A*/00_divers.tex
-INPUT ls A*/00_divers.tex
+INPUT ./A-Survey IoT/00_cloud.tex
+INPUT ./A-Survey IoT/00_cloud.tex
 INPUT ./A-Survey IoT/00_divers.tex
 INPUT ./A-Survey IoT/00_divers.tex
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/zavmb7t.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/arev/zavmb7t.vf
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/favmb7t.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy5.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
-INPUT ls A*/authors.tex
-INPUT ls A*/authors.tex
-INPUT ./A-Survey IoT/authors.tex
-INPUT ./A-Survey IoT/authors.tex
+INPUT ./A-Survey IoT/00_frame.tex
+INPUT ./A-Survey IoT/00_frame.tex
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy7.tfm
+INPUT ./A-Survey IoT/00_papers.tex
+INPUT ./A-Survey IoT/00_papers.tex
+INPUT ./A-Survey IoT/00_technologies.tex
+INPUT ./A-Survey IoT/00_technologies.tex
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/zavmb7t.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/arev/zavmb7t.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/favmb7t.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/zavmb7t.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/arev/zavmb7t.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/favmb7t.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/zavmb7t.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/arev/zavmb7t.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/favmb7t.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/zavmb7t.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/arev/zavmb7t.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/favmb7t.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/zavmb7t.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/arev/zavmb7t.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/favmb7t.tfm
+INPUT ./A-Survey IoT/01_papers.tex
+INPUT ./A-Survey IoT/01_papers.tex
+INPUT ls 10*/authors.tex
+INPUT ls 10*/authors.tex
+INPUT ./10-Social privacy score through vulnerability contagion process/authors.tex
+INPUT ./10-Social privacy score through vulnerability contagion process/authors.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/zavmb7t.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/arev/zavmb7t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/favmb7t.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy7.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmri8c.tfm
@@ -1517,18 +1446,48 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/zavmb7t.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/arev/zavmb7t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/favmb7t.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT ls A*/00_papers.tex
-INPUT ls A*/00_papers.tex
-INPUT ./A-Survey IoT/00_papers.tex
-INPUT ./A-Survey IoT/00_papers.tex
-INPUT ls A*/authors.tex
-INPUT ls A*/authors.tex
-INPUT ./A-Survey IoT/authors.tex
-INPUT ./A-Survey IoT/authors.tex
-INPUT ls A*/01_papers.tex
-INPUT ls A*/01_papers.tex
-INPUT ./A-Survey IoT/01_papers.tex
-INPUT ./A-Survey IoT/01_papers.tex
+INPUT ls 10*/0*.tex
+INPUT ls 10*/0*.tex
+INPUT ./10-Social privacy score through vulnerability contagion process/00_abstract.tex
+INPUT ./10-Social privacy score through vulnerability contagion process/00_abstract.tex
+INPUT ./10-Social privacy score through vulnerability contagion process/01_introduction.tex
+INPUT ./10-Social privacy score through vulnerability contagion process/01_introduction.tex
+INPUT ./10-Social privacy score through vulnerability contagion process/02_related.tex
+INPUT ./10-Social privacy score through vulnerability contagion process/02_related.tex
+INPUT ./10-Social privacy score through vulnerability contagion process/03_background.tex
+INPUT ./10-Social privacy score through vulnerability contagion process/03_background.tex
+INPUT ./10-Social privacy score through vulnerability contagion process/04_approach.tex
+INPUT ./10-Social privacy score through vulnerability contagion process/04_approach.tex
+INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/1-social/p_trust.png
+INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/1-social/p_trust.png
+INPUT ../res/tmp/1-social/p_trust.png
+INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/1-social/p_infection.png
+INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/1-social/p_infection.png
+INPUT ../res/tmp/1-social/p_infection.png
+INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/1-social/contagion2.png
+INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/1-social/contagion2.png
+INPUT ../res/tmp/1-social/contagion2.png
+INPUT ./10-Social privacy score through vulnerability contagion process/05_experimentation.tex
+INPUT ./10-Social privacy score through vulnerability contagion process/05_experimentation.tex
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/zavmb7t.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/arev/zavmb7t.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/arev/favmb7t.tfm
+INPUT ./10-Social privacy score through vulnerability contagion process/06_results.tex
+INPUT ./10-Social privacy score through vulnerability contagion process/06_results.tex
+INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/1-social/cdf.png
+INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/1-social/cdf.png
+INPUT ../res/tmp/1-social/cdf.png
+INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/1-social/contagion.png
+INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/1-social/contagion.png
+INPUT ../res/tmp/1-social/contagion.png
+INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/1-social/local_.png
+INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/1-social/local_.png
+INPUT ../res/tmp/1-social/local_.png
+INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/1-social/social_.png
+INPUT /home/aghiles/Aghiles/Research/Writing/bin/../res/tmp/1-social/social_.png
+INPUT ../res/tmp/1-social/social_.png
+INPUT ./10-Social privacy score through vulnerability contagion process/07_conclusion.tex
+INPUT ./10-Social privacy score through vulnerability contagion process/07_conclusion.tex
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/paper.aux
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/paper.out
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/paper.run.xml

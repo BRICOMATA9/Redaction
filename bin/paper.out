@@ -185,51 +185,72 @@
 \BOOKMARK [1][-]{section.6.3}{Proposed Framework}{part.6}% 185
 \BOOKMARK [1][-]{section.6.4}{Experimentation}{part.6}% 186
 \BOOKMARK [1][-]{section.6.5}{Discussion}{part.6}% 187
-\BOOKMARK [0][-]{part.7}{7 Template}{}% 188
+\BOOKMARK [0][-]{part.7}{7 Disaster}{}% 188
 \BOOKMARK [1][-]{section.7.1}{Introduction}{part.7}% 189
-\BOOKMARK [2][-]{subsection.7.1.1}{Problem Statement}{section.7.1}% 190
-\BOOKMARK [2][-]{subsection.7.1.2}{Background}{section.7.1}% 191
-\BOOKMARK [2][-]{subsection.7.1.3}{Purpose \(Goal\)}{section.7.1}% 192
-\BOOKMARK [2][-]{subsection.7.1.4}{Limitations}{section.7.1}% 193
-\BOOKMARK [2][-]{subsection.7.1.5}{Method}{section.7.1}% 194
-\BOOKMARK [1][-]{section.7.2}{Related work}{part.7}% 195
-\BOOKMARK [1][-]{section.7.3}{Approach}{part.7}% 196
-\BOOKMARK [1][-]{section.7.4}{Experimentation}{part.7}% 197
-\BOOKMARK [1][-]{section.7.5}{Results exploitation}{part.7}% 198
-\BOOKMARK [2][-]{subsection.7.5.1}{Range}{section.7.5}% 199
-\BOOKMARK [2][-]{subsection.7.5.2}{Response time}{section.7.5}% 200
-\BOOKMARK [2][-]{subsection.7.5.3}{Connection speed}{section.7.5}% 201
-\BOOKMARK [2][-]{subsection.7.5.4}{Power consumption}{section.7.5}% 202
-\BOOKMARK [1][-]{section.7.6}{Conclusion}{part.7}% 203
-\BOOKMARK [0][-]{part.8}{8 UTLC}{}% 204
+\BOOKMARK [1][-]{section.7.2}{Related work}{part.7}% 190
+\BOOKMARK [1][-]{section.7.3}{Background}{part.7}% 191
+\BOOKMARK [2][-]{subsection.7.3.1}{Hardware}{section.7.3}% 192
+\BOOKMARK [2][-]{subsection.7.3.2}{Operating system}{section.7.3}% 193
+\BOOKMARK [2][-]{subsection.7.3.3}{Communication protocol}{section.7.3}% 194
+\BOOKMARK [2][-]{subsection.7.3.4}{Workspace and tools}{section.7.3}% 195
+\BOOKMARK [1][-]{section.7.4}{Approach}{part.7}% 196
+\BOOKMARK [1][-]{section.7.5}{Experimentation}{part.7}% 197
+\BOOKMARK [1][-]{section.7.6}{Results exploitation}{part.7}% 198
+\BOOKMARK [2][-]{subsection.7.6.1}{Range}{section.7.6}% 199
+\BOOKMARK [2][-]{subsection.7.6.2}{Response time}{section.7.6}% 200
+\BOOKMARK [2][-]{subsection.7.6.3}{Connection speed}{section.7.6}% 201
+\BOOKMARK [2][-]{subsection.7.6.4}{Power consumption}{section.7.6}% 202
+\BOOKMARK [1][-]{section.7.7}{Conclusion}{part.7}% 203
+\BOOKMARK [0][-]{part.8}{8 Template}{}% 204
 \BOOKMARK [1][-]{section.8.1}{Introduction}{part.8}% 205
 \BOOKMARK [1][-]{section.8.2}{Related work}{part.8}% 206
-\BOOKMARK [1][-]{section.8.3}{Related work}{part.8}% 207
-\BOOKMARK [1][-]{section.8.4}{Use Case and Model Design}{part.8}% 208
-\BOOKMARK [2][-]{subsection.8.4.1}{Use case}{section.8.4}% 209
-\BOOKMARK [2][-]{subsection.8.4.2}{Design Model}{section.8.4}% 210
-\BOOKMARK [1][-]{section.8.5}{Prototyping}{part.8}% 211
-\BOOKMARK [2][-]{subsection.8.5.1}{6LoWPAN, Contiki OS, Re-Mote and Border Router}{section.8.5}% 212
-\BOOKMARK [2][-]{subsection.8.5.2}{MQTT and UBIDOTS}{section.8.5}% 213
-\BOOKMARK [1][-]{section.8.6}{Results}{part.8}% 214
-\BOOKMARK [1][-]{section.8.7}{Conclusion}{part.8}% 215
-\BOOKMARK [0][-]{part.9}{9 Conclusion}{}% 216
-\BOOKMARK [1][-]{section.9.1}{Conclusion}{part.9}% 217
-\BOOKMARK [1][-]{section.9.2}{Perspectives}{part.9}% 218
-\BOOKMARK [0][-]{part.10}{10 Survey Platforms}{}% 219
-\BOOKMARK [1][-]{section.10.1}{By Cloud}{part.10}% 220
-\BOOKMARK [0][-]{part.11}{11 Survey Protocols}{}% 221
-\BOOKMARK [1][-]{section.11.1}{By Paquet}{part.11}% 222
-\BOOKMARK [2][-]{subsection.11.1.1}{CoAP}{section.11.1}% 223
-\BOOKMARK [2][-]{subsection.11.1.2}{MQTT}{section.11.1}% 224
-\BOOKMARK [2][-]{subsection.11.1.3}{XMPP}{section.11.1}% 225
-\BOOKMARK [2][-]{subsection.11.1.4}{AMQP}{section.11.1}% 226
-\BOOKMARK [2][-]{subsection.11.1.5}{DDS}{section.11.1}% 227
-\BOOKMARK [2][-]{subsection.11.1.6}{mDNS}{section.11.1}% 228
-\BOOKMARK [2][-]{subsection.11.1.7}{Lora}{section.11.1}% 229
-\BOOKMARK [1][-]{section.11.2}{By Technologies}{part.11}% 230
-\BOOKMARK [1][-]{section.11.3}{Divers}{part.11}% 231
-\BOOKMARK [0][-]{part.12}{12 Survey Papers}{}% 232
-\BOOKMARK [1][-]{section.12.1}{By Papers}{part.12}% 233
-\BOOKMARK [0][-]{part.13}{13 Survey Papers}{}% 234
-\BOOKMARK [1][-]{section.13.1}{Service Orchestration}{part.13}% 235
+\BOOKMARK [1][-]{section.8.3}{Background}{part.8}% 207
+\BOOKMARK [2][-]{subsection.8.3.1}{Hardware}{section.8.3}% 208
+\BOOKMARK [2][-]{subsection.8.3.2}{Operating system}{section.8.3}% 209
+\BOOKMARK [2][-]{subsection.8.3.3}{Communication protocol}{section.8.3}% 210
+\BOOKMARK [2][-]{subsection.8.3.4}{Workspace and tools}{section.8.3}% 211
+\BOOKMARK [1][-]{section.8.4}{Approach}{part.8}% 212
+\BOOKMARK [1][-]{section.8.5}{Experimentation}{part.8}% 213
+\BOOKMARK [1][-]{section.8.6}{Results exploitation}{part.8}% 214
+\BOOKMARK [2][-]{subsection.8.6.1}{Range}{section.8.6}% 215
+\BOOKMARK [2][-]{subsection.8.6.2}{Response time}{section.8.6}% 216
+\BOOKMARK [2][-]{subsection.8.6.3}{Connection speed}{section.8.6}% 217
+\BOOKMARK [2][-]{subsection.8.6.4}{Power consumption}{section.8.6}% 218
+\BOOKMARK [1][-]{section.8.7}{Conclusion}{part.8}% 219
+\BOOKMARK [0][-]{part.9}{9 UTLC}{}% 220
+\BOOKMARK [1][-]{section.9.1}{Introduction}{part.9}% 221
+\BOOKMARK [1][-]{section.9.2}{Related work}{part.9}% 222
+\BOOKMARK [1][-]{section.9.3}{Related work}{part.9}% 223
+\BOOKMARK [1][-]{section.9.4}{Use Case and Model Design}{part.9}% 224
+\BOOKMARK [2][-]{subsection.9.4.1}{Use case}{section.9.4}% 225
+\BOOKMARK [2][-]{subsection.9.4.2}{Design Model}{section.9.4}% 226
+\BOOKMARK [1][-]{section.9.5}{Prototyping}{part.9}% 227
+\BOOKMARK [2][-]{subsection.9.5.1}{6LoWPAN, Contiki OS, Re-Mote and Border Router}{section.9.5}% 228
+\BOOKMARK [2][-]{subsection.9.5.2}{MQTT and UBIDOTS}{section.9.5}% 229
+\BOOKMARK [1][-]{section.9.6}{Results}{part.9}% 230
+\BOOKMARK [1][-]{section.9.7}{Conclusion}{part.9}% 231
+\BOOKMARK [0][-]{part.10}{10 Conclusion}{}% 232
+\BOOKMARK [1][-]{section.10.1}{Conclusion}{part.10}% 233
+\BOOKMARK [1][-]{section.10.2}{Perspectives}{part.10}% 234
+\BOOKMARK [0][-]{part.11}{11 Survey Platforms}{}% 235
+\BOOKMARK [1][-]{section.11.1}{By Paquet}{part.11}% 236
+\BOOKMARK [2][-]{subsection.11.1.1}{CoAP}{section.11.1}% 237
+\BOOKMARK [2][-]{subsection.11.1.2}{MQTT}{section.11.1}% 238
+\BOOKMARK [2][-]{subsection.11.1.3}{XMPP}{section.11.1}% 239
+\BOOKMARK [2][-]{subsection.11.1.4}{AMQP}{section.11.1}% 240
+\BOOKMARK [2][-]{subsection.11.1.5}{DDS}{section.11.1}% 241
+\BOOKMARK [2][-]{subsection.11.1.6}{mDNS}{section.11.1}% 242
+\BOOKMARK [1][-]{section.11.2}{By Cloud}{part.11}% 243
+\BOOKMARK [1][-]{section.11.3}{Divers}{part.11}% 244
+\BOOKMARK [2][-]{subsection.11.3.1}{Lora}{section.11.3}% 245
+\BOOKMARK [1][-]{section.11.4}{By Papers}{part.11}% 246
+\BOOKMARK [1][-]{section.11.5}{By Technologies}{part.11}% 247
+\BOOKMARK [1][-]{section.11.6}{Service Orchestration}{part.11}% 248
+\BOOKMARK [0][-]{part.12}{12 Social privacy score through vulnerability contagion process}{}% 249
+\BOOKMARK [1][-]{section.12.1}{Introduction}{part.12}% 250
+\BOOKMARK [1][-]{section.12.2}{Related work}{part.12}% 251
+\BOOKMARK [1][-]{section.12.3}{Related work}{part.12}% 252
+\BOOKMARK [1][-]{section.12.4}{Approach}{part.12}% 253
+\BOOKMARK [1][-]{section.12.5}{Experimentation}{part.12}% 254
+\BOOKMARK [1][-]{section.12.6}{Results exploitation}{part.12}% 255
+\BOOKMARK [1][-]{section.12.7}{Conclusions}{part.12}% 256

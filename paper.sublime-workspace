@@ -199,16 +199,15 @@
 	},
 	"expanded_folders":
 	[
-		"/home/aghiles/Aghiles/Research/Writing/src",
-		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection",
-		"/home/aghiles/Aghiles/Research/Writing/src/07-Template"
+		"/home/aghiles/Aghiles/Research/Writing/lib"
 	],
 	"file_history":
 	[
+		"/home/aghiles/Aghiles/Research/Writing/src/paper.tex",
+		"/home/aghiles/Aghiles/Research/Writing/lib/slide.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/07-Template/07_conclusion.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/07-Template/01_introduction.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/07-Template/00_abstract.tex",
-		"/home/aghiles/Aghiles/Research/Writing/src/paper.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/Disaster",
 		"/home/aghiles/Aghiles/Research/Writing/src/A-Survey IoT/00_technologies.tex",
 		"/home/aghiles/Aghiles/Research/Writing/lib/paper.tex",
@@ -331,8 +330,7 @@
 		"/home/aghiles/Aghiles/Redaction/paper/src/4/5_experimentation.tex",
 		"/home/aghiles/Aghiles/Redaction/setup/lib/main1.bib",
 		"/home/aghiles/Aghiles/Redaction/setup/lib/main2.bib",
-		"/home/aghiles/Aghiles/Redaction/res/accronyme/accronyme.tex",
-		"/home/aghiles/Aghiles/Redaction/paper/src/91/4_approach.tex"
+		"/home/aghiles/Aghiles/Redaction/res/accronyme/accronyme.tex"
 	],
 	"find":
 	{
@@ -352,6 +350,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"chapter",
 			"res",
 			" }",
 			"% Conclusion",
