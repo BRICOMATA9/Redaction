@@ -49,16 +49,16 @@
 % \medskip
 
 
-The scheme selection process illustrated \red{in \reffig{genetic}} can be described following these five steps:
+The \red{selection process scheme} illustrated \red{in \reffig{genetic}} can be described following these five steps:
 
-\Figure{h}{1}{genetic}{The proposed scheme for LoRa transmission parameters selection based on \ac{GA}, \ac{FL} and \ac{MCDM}}
+\Figure{h}{1}{genetic}{The proposed scheme for LoRa transmission parameters selection based on \ac{GA}, \ac{FL} and Multi-Criteria Decision Making \ac{MCDM}}
 
 \begin{enumerate}
-\item According to the Semtech SX1276 specification\cite{lorasemtech},
+\item According to the Semtech SX1276 \red{LoRa transceiver} \cite{lorasemtech},
 	there \red{are} 6720 possible settings ($s_{1}$, ... , $s_{6720}$) and the framework has to select the most optimal one or to rank them according to their relevance.
 \item The first step of the selection process depends on multiple criteria up to i ($c_{1}$, ... , $c_{i}$).
 	Different type of criteria can be measured from different sources to cover the maximum point of views,
-	as example,
+	as \red{an} example,
 	the network server requirements,
 	the applications requirements and the devices conditions.
 \item The Fuzzy Logic (FL) based subsystem gives an initial score for each configuration that reflects its relevance.
@@ -67,7 +67,7 @@ The different sets of scores ($d_{1}$, ... , $d_{i}$) are sent to the \ac{MCDM} 
 	the \ac{GA} \cite{alkhawlani_access_2008} assigns a suitable weight ($w_{1}$, ..., $w_{i}$) for each initial selection decision,
 	this selection is made according to the objective function that is required by the application.
 	% according to the importance and sensitivities of ANS criteria to the different characteristics of a wireless heterogeneous environment.
-\item Using the initial scores coming from the $3^{rd}$ step and the weights that are assigned using the $4^{th}$ step,
+\item Using the initial scores coming from the $3^{rd}$ step and the weights using the $4^{th}$ step,
 	the multi criteria decision making{} \ac{MCDM} will select the most relevant settings and rank them according to their reward.
 \end{enumerate}
 

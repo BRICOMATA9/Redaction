@@ -1,13 +1,63 @@
-\section{Background}
+\section{Background} \label{sec:Background}
+
+\ac{CSS} \ac{CF} \ac{FEC}  \ac{PL} \ac{LS} \ac{BS} \ac{CSS} \ac{DSSS} \ac{UNB} \ac{DR} \ac{ADR} \ac{CR} \ac{BW}
+
+%\changefontsizes{6pt}
+\begin{tabular}{l|l|l|l}
+	\bf{Characteristics}               & $\ac{CF}_{[Hz]}$ & \bf{6LoWPAN} & \bf{LoRaWAN}     \\\hline
+	\multirow{3}{*}{\bf{Modulation}}   & 2.4G             & O-QPSK       & -                \\
+	\                                  & 915M             & BPSK         & LoRa             \\
+	\                                  & 868M             & BPSK         & LoRa/GFSK        \\\hline
+	\multirow{3}{*}{\bf{Channels}}     & 2.4G             & 16M          & -                \\
+	\                                  & 915M             & 10M          & 64+8\u, 8\d      \\
+	\                                  & 868M             & 1M           & 10               \\\hline
+	\multirow{2}{*}{$\ac{CF}_{[MHz]}$} & 2.4G             & \ko          & -                \\
+	\                                  & 915M             & 902-929      & 902-928          \\
+	\                                  & 868M             & 868-868.6    & 863-870 and 780  \\\hline
+	\multirow{3}{*}{$\ac{BW}_{[Hz]}$}  & 2.4G             & 5M           & -                \\
+	\                                  & 915M             & 2M           & 125K-500K        \\
+	\                                  & 868M             & 600M         & 125K-250K        \\\hline
+	\multirow{3}{*}{$\ac{DR}_{[bps]}$} & 2.4G             & 250M         & -                \\
+	\                                  & 915M             & 40M          & 980-21.9K        \\
+	% \                                  & 868M             & 20M          & LoRa: 0.3K-37.5K \\
+	\                                  &                  &              & FSK:	50K         \\\hline
+	\multirow{3}{*}{$\ac{CR}_{[dBm]}$} & 2.4G             & -85          & -                \\
+	\                                  & 915M             & -92          & \ko              \\
+	\                                  & 868M             & -92          & -137             \\\hline
+	% \multirow{3}{*}{$Chip R_{[chip/s]}$} & 2.4G           &              &                  \\
+	% \                                  & 915M             &              &        	        \\
+	% \                                  & 868M             &              &                  \\\hline
+	% \bf{Range}                         & 2.4G             &              &                  \\
+	% \                                  & 915M             &              &                  \\
+	% \                                  & 868M             & 10-100 m     & 5-15 Km          \\\hline
+	% \bf{Handover}                      & 2.4G             & \ko          & -                \\
+	% \                                  & 915M             & \ko          & \ko              \\
+	% \                                  & 868M             & \ko          & Multi \ac{BS}    \\\hline
+	% \bf{msg/day}                       & 2.4G             & \ko          & -                \\
+	% \                                  & 915M             & \ko          & \ko              \\
+	% \                                  & 868M             & \ko          & Unlimited        \\\hline
+	% \bf{\ac{PL}	B}                     & 2.4G             & \ko          & -                \\
+	% \                                  & 915M             & \ko          & \ko              \\
+	% \                                  & 868M             & \ko          & 243B             \\\hline
+	% \bf{Coding}                        &                  & \ac{DSSS}    & \ac{CSS}         \\\hline
+	% \bf{Proprietary}                   &                  & \ko          & \ko              \\\hline
+	% \bf{Topology}                      & \                & \ko          & Star, Stars      \\\hline
+	% \ac{ADR}                           & \                & \ko          & \ok              \\\hline
+	% \bf{Security}                      & \                & \ko          & AES 128b         \\\hline
+	% \ac{LS}                            & \                & \ko          & \ok              \\\hline
+	% \ac{FEC}                           & \                & \ko          & AES 128b         \\\hline
+	% \bf{Battery}                       & \                & 1-2	years    & <10 years        \\\hline
+	% %	\bf{Uplink}                      & \                &              &                  \\hline
+	% %	\bf{Downlink}                    & \                &              &                  \\hline
+	% \bf{Cost}                          & \                & Free         & 35e              \\\hline
+	% \bf{Standar}                       &                  & IETF         & LoRa	Alliance    \\\hline
+
+% \caption{\label{tab:LPWan_characteristics} LPWAN Characteristics \cite{al-kashoash_comparison_2016}, \cite{lopes_design_2019}, \cite{raza_low_22}}
+\end{tabular}
 
 
-
-\subsection*{Selection of technology}
-
-\subsection{Hardware}
-
-\subsection{Operating system}
-
-\subsection{Communication protocol}
-
-\subsection{Workspace and tools}
+% \subsection*{Selection of technology}
+% \subsection{Hardware}
+% \subsection{Operating system}
+% \subsection{Communication protocol}
+% \subsection{Workspace and tools}
