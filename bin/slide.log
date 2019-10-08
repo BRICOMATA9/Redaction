@@ -1,4 +1,4 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016/Debian)  (format=lualatex 2019.4.2)  8 OCT 2019 06:37
+This is LuaTeX, Version 0.95.0 (TeX Live 2016/Debian)  (format=lualatex 2019.4.2)  8 OCT 2019 06:54
  system commands enabled.
 **slide.tex
 (./slide.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.088 seconds
+luaotfload | main : initialization completed in 0.094 seconds
 Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
 (../lib/slide.tex (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2017/01/22 v3.40 A class for typesetting presentations
@@ -3476,7 +3476,9 @@ Package: pgfpages 2011/01/05 ver 0.02
 Package: palatino 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
 Package biblatex Info: Redefining '\supercite' on input line 79.
-)
+\g__file_internal_ior=\read5
+
+(./00/10_firstpage.tex))
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -3629,57 +3631,57 @@ LaTeX Warning: Label `fig:mail.png' multiply defined.
 )
 \openout1 = slide.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 18.
-LaTeX Font Info:    Try loading font information for MDA+cmr on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 9.
+LaTeX Font Info:    Try loading font information for MDA+cmr on input line 9.
  (/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdacmr.fd
 File: mdacmr.fd 
 )
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 18.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 18.
-LaTeX Font Info:    Try loading font information for FML+futm on input line 18.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 9.
+LaTeX Font Info:    Try loading font information for FML+futm on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmlfutm.fd
 File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
 )
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 18.
-LaTeX Font Info:    Try loading font information for FMS+futm on input line 18.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 9.
+LaTeX Font Info:    Try loading font information for FMS+futm on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmsfutm.fd
 File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
 )
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 18.
-LaTeX Font Info:    Try loading font information for FMX+futm on input line 18.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 9.
+LaTeX Font Info:    Try loading font information for FMX+futm on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmxfutm.fd
 File: fmxfutm.fd futm-extension
 )
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 18.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
@@ -3750,7 +3752,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box176
-Package hyperref Info: Link coloring ON on input line 18.
+Package hyperref Info: Link coloring ON on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -3760,9 +3762,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count565
 )
-LaTeX Info: Redefining \ref on input line 18.
-LaTeX Info: Redefining \pageref on input line 18.
-LaTeX Info: Redefining \nameref on input line 18.
+LaTeX Info: Redefining \ref on input line 9.
+LaTeX Info: Redefining \pageref on input line 9.
+LaTeX Info: Redefining \nameref on input line 9.
 
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.out)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.out)
@@ -3770,47 +3772,47 @@ LaTeX Info: Redefining \nameref on input line 18.
 
 \openout9 = slide.out
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 18.
+(Font)              `operators' in the math version `normal' on input line 9.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  T1/futs/m/n --> OT1/cmss/m/n on input line 18.
+(Font)                  T1/futs/m/n --> OT1/cmss/m/n on input line 9.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 18.
+(Font)              `operators' in the math version `bold' on input line 9.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  T1/futs/b/n --> OT1/cmss/bx/n on input line 18.
+(Font)                  T1/futs/b/n --> OT1/cmss/bx/n on input line 9.
 \symnumbers=\mathgroup13
 \sympureletters=\mathgroup14
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  T1/futs/m/n --> T1/ppl/m/n on input line 18.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 18.
+(Font)                  T1/futs/m/n --> T1/ppl/m/n on input line 9.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 9.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  T1/futs/bx/n --> T1/phv/bx/n on input line 18.
+(Font)                  T1/futs/bx/n --> T1/phv/bx/n on input line 9.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/futs/bx/n --> T1/phv/bx/n on input line 18.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 18.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 18.
+(Font)                  T1/futs/bx/n --> T1/phv/bx/n on input line 9.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 9.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 9.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  T1/futs/m/it --> T1/phv/m/it on input line 18.
+(Font)                  T1/futs/m/it --> T1/phv/m/it on input line 9.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/futs/m/it --> T1/phv/m/it on input line 18.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 18.
+(Font)                  T1/futs/m/it --> T1/phv/m/it on input line 9.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 9.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  T1/fvm/m/n --> T1/pcr/m/n on input line 18.
+(Font)                  T1/fvm/m/n --> T1/pcr/m/n on input line 9.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/fvm/b/n --> T1/pcr/m/n on input line 18.
+(Font)                  T1/fvm/b/n --> T1/pcr/m/n on input line 9.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 18.
+(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 9.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 18.
+(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 9.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  T1/futs/m/n --> T1/ppl/bx/n on input line 18.
+(Font)                  T1/futs/m/n --> T1/ppl/bx/n on input line 9.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/phv/bx/n --> T1/phv/bx/n on input line 18.
+(Font)                  T1/phv/bx/n --> T1/phv/bx/n on input line 9.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 18.
+(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 9.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 18.
+(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 9.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/pcr/m/n --> T1/pcr/bx/n on input line 18.
+(Font)                  T1/pcr/m/n --> T1/pcr/bx/n on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-bas
 ic-dictionary/translator-basic-dictionary-English.dict
@@ -3836,11 +3838,11 @@ Dictionary: translator-numbers-dictionary, Language: English
 orem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 18.
+LaTeX Info: Redefining \includegraphics on input line 9.
 .................................................
 . chemgreek info: "mapping-activated"
 . 
-. Activating mapping `fourier' on line 18.
+. Activating mapping `fourier' on line 9.
 .................................................
 \c@lstlisting=\count566
 
@@ -3866,7 +3868,7 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 File: siunitx-abbreviations.cfg 2017/01/01 v2.7a siunitx: Abbreviated units
 )
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 18.
+LaTeX Info: Redefining \selectfont on input line 9.
 Package biblatex Info: LuaTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
@@ -3885,8 +3887,8 @@ Package biblatex Warning: The following entry could not be found
 (biblatex)                LaTeX afterwards.
 
 )
-Package biblatex Info: Reference section=0 on input line 18.
-Package biblatex Info: Reference segment=0 on input line 18.
+Package biblatex Info: Reference section=0 on input line 9.
+Package biblatex Info: Reference segment=0 on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
 nary-english.trsl
@@ -3894,73 +3896,71 @@ File: translations-basic-dictionary-english.trsl (english translation file `tran
 slations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' fo
-r `english'. on input line 18.
+r `english'. on input line 9.
  (/home/aghiles/Aghiles/Research/Writing/bin/slide.nav)
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <3.75> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 18.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 9.
 \c__siunitx_mathsf_int=\count567
-LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 18.
-LaTeX Font Info:    Try loading font information for FML+futmi on input line 18.
-
+LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 9.
+LaTeX Font Info:    Try loading font information for FML+futmi on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmlfutmi.fd
 File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
 )
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.89998pt on input line 18.
+(Font)              scaled to size 6.89998pt on input line 9.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.24394pt on input line 18.
+(Font)              scaled to size 5.24394pt on input line 9.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 4.14003pt on input line 18.
-LaTeX Font Info:    Try loading font information for U+msa on input line 18.
+(Font)              scaled to size 4.14003pt on input line 9.
+LaTeX Font Info:    Try loading font information for U+msa on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 18.
+LaTeX Font Info:    Try loading font information for U+msb on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for MDA+mdbch on input line 18.
-
+LaTeX Font Info:    Try loading font information for MDA+mdbch on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/mathdesign/mdbch/mdamdbch.fd
 File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
 )
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 7.20004pt on input line 18.
+(Font)              scaled to size 7.20004pt on input line 9.
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 5.47198pt on input line 18.
+(Font)              scaled to size 5.47198pt on input line 9.
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 4.32007pt on input line 18.
-LaTeX Font Info:    Try loading font information for U+zavm on input line 18.
+(Font)              scaled to size 4.32007pt on input line 9.
+LaTeX Font Info:    Try loading font information for U+zavm on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/arev/uzavm.fd
 File: uzavm.fd 2006/05/30 Fontinst v1.929 font definitions for U/zavm.
 )
-LaTeX Font Info:    Try loading font information for U+stmry on input line 18.
+LaTeX Font Info:    Try loading font information for U+stmry on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
-LaTeX Font Info:    Try loading font information for U+wasy on input line 18.
+LaTeX Font Info:    Try loading font information for U+wasy on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 )
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.89998pt on input line 18.
+(Font)              scaled to size 6.89998pt on input line 9.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.24394pt on input line 18.
+(Font)              scaled to size 5.24394pt on input line 9.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 4.14003pt on input line 18.
+(Font)              scaled to size 4.14003pt on input line 9.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7.5> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 18.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 9.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5.69995> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 18.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 9.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <4.50005> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 18.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 9.
 \c__siunitx_mathtt_int=\count568
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 18.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
@@ -3969,7 +3969,7 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 File: ../res/tmp/Picture/wsn-IoT.png Graphic file (type png)
 
 <use ../res/tmp/Picture/wsn-IoT.png>
-Package luatex.def Info: ../res/tmp/Picture/wsn-IoT.png used on input line 20.
+Package luatex.def Info: ../res/tmp/Picture/wsn-IoT.png used on input line 11.
 (luatex.def)             Requested size: 170.71652pt x 61.37262pt.
  [1
 
@@ -3978,14 +3978,12 @@ ng>]
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-Overfull \vbox (19.18971pt too high) detected at line 21
+Overfull \vbox (19.18971pt too high) detected at line 12
  []
 
 [2
 
-]
-\g__file_internal_ior=\read5
- (./01-Introduction/10_introduction.tex [3
+] (./01-Introduction/10_introduction.tex [3
 
 ]
 <../res/tmp/Picture/devices1.png, id=339, 1881.0275pt x 693.59125pt>
@@ -4188,7 +4186,7 @@ Overfull \vbox (14.36852pt too high) detected at line 148
 ]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-Overfull \vbox (19.18971pt too high) detected at line 22
+Overfull \vbox (19.18971pt too high) detected at line 13
  []
 
 [17
@@ -4251,7 +4249,7 @@ Package luatex.def Info: ../res/icon/mail.png used on input line 13.
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-Overfull \vbox (19.18971pt too high) detected at line 23
+Overfull \vbox (19.18971pt too high) detected at line 14
  []
 
 [22
@@ -4374,7 +4372,7 @@ ng'
 ]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-Overfull \vbox (19.18971pt too high) detected at line 24
+Overfull \vbox (19.18971pt too high) detected at line 15
  []
 
 [40
@@ -4500,7 +4498,7 @@ ng'
 ]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-Overfull \vbox (19.18971pt too high) detected at line 25
+Overfull \vbox (19.18971pt too high) detected at line 16
  []
 
 [57
@@ -4628,7 +4626,7 @@ ng'
 ]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-Overfull \vbox (19.18971pt too high) detected at line 26
+Overfull \vbox (19.18971pt too high) detected at line 17
  []
 
 [75
@@ -4889,7 +4887,7 @@ ng'
 ]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-Overfull \vbox (19.18971pt too high) detected at line 27
+Overfull \vbox (19.18971pt too high) detected at line 18
  []
 
 [102
@@ -5017,7 +5015,7 @@ ng'
 ]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-Overfull \vbox (19.18971pt too high) detected at line 28
+Overfull \vbox (19.18971pt too high) detected at line 19
  []
 
 [120
@@ -5145,7 +5143,7 @@ ng'
 ]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-Overfull \vbox (19.18971pt too high) detected at line 29
+Overfull \vbox (19.18971pt too high) detected at line 20
  []
 
 [138
@@ -5284,7 +5282,7 @@ ng'
 ]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-Overfull \vbox (19.18971pt too high) detected at line 30
+Overfull \vbox (19.18971pt too high) detected at line 21
  []
 
 [157
@@ -5297,7 +5295,7 @@ Overfull \vbox (19.18971pt too high) detected at line 30
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-Overfull \vbox (19.18971pt too high) detected at line 33
+Overfull \vbox (19.18971pt too high) detected at line 24
  []
 
 [160
@@ -5305,11 +5303,11 @@ Overfull \vbox (19.18971pt too high) detected at line 33
 ] (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-Overfull \vbox (19.18971pt too high) detected at line 34
+Overfull \vbox (19.18971pt too high) detected at line 25
  []
 
 
-Overfull \hbox (14.30983pt too wide) in paragraph at lines 33--34
+Overfull \hbox (14.30983pt too wide) in paragraph at lines 24--25
 [][][][][][]         [][][]  
  []
 
@@ -5322,11 +5320,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [162] (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-Overfull \vbox (19.18971pt too high) detected at line 35
+Overfull \vbox (19.18971pt too high) detected at line 26
  []
 
 
-Overfull \hbox (14.30983pt too wide) in paragraph at lines 34--35
+Overfull \hbox (14.30983pt too wide) in paragraph at lines 25--26
 [][][][][][]         [][][]  
  []
 
@@ -5338,31 +5336,31 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 [164]
 \c@framenumberappendix=\count569
-LaTeX Font Info:    Calculating math sizes for size <3.65002> on input line 39.
+LaTeX Font Info:    Calculating math sizes for size <3.65002> on input line 30.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 3.358pt on input line 39.
+(Font)              scaled to size 3.358pt on input line 30.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 2.55205pt on input line 39.
+(Font)              scaled to size 2.55205pt on input line 30.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 2.01482pt on input line 39.
+(Font)              scaled to size 2.01482pt on input line 30.
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 3.50404pt on input line 39.
+(Font)              scaled to size 3.50404pt on input line 30.
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 2.66304pt on input line 39.
+(Font)              scaled to size 2.66304pt on input line 30.
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 2.10243pt on input line 39.
+(Font)              scaled to size 2.10243pt on input line 30.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 3.358pt on input line 39.
+(Font)              scaled to size 3.358pt on input line 30.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 2.55205pt on input line 39.
+(Font)              scaled to size 2.55205pt on input line 30.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 2.01482pt on input line 39.
+(Font)              scaled to size 2.01482pt on input line 30.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <3.65002> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 39.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 30.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <2.77399> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 39.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 30.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <2.19003> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 39.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 30.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -5379,11 +5377,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 \tf@snm=\write12
 
 \openout12 = slide.snm
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 40.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 40.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 31.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 31.
  (/home/aghiles/Aghiles/Research/Writing/bin/slide.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 40.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 40.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 31.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 31.
 Package rerunfilecheck Info: File `slide.out' has not changed.
 (rerunfilecheck)             Checksum: EC4536E595B1311D107F66EABD6E5A17;3860.
 
@@ -5396,14 +5394,14 @@ Package logreq Info: Writing requests to 'slide.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 78648 strings out of 494577
+ 78663 strings out of 494577
  125007,2848258 words of node,token memory allocated
  83552 words of node memory still in use:
    65 hlist, 10 vlist, 15 rule, 1 mark, 175 disc, 13 local_par, 4 math, 7361 glu
 e, 176 kern, 122 penalty, 1967 glyph, 3620 attribute, 69 glue_spec, 3620 attribu
 te_list, 7 write, 16 pdf_literal, 2 pdf_start_link, 2 pdf_end_link, 11 pdf_dest,
  88 pdf_action, 138 pdf_colorstack nodes
-   avail lists: 1:14,2:509,3:560,4:609,5:206,6:2238,7:616,8:667,9:989,10:36,11:1
+   avail lists: 1:15,2:509,3:559,4:609,5:206,6:2238,7:616,8:667,9:989,10:36,11:1
 99
  76082 multiletter control sequences out of 65536+600000
  549 fonts using 37434031 bytes

@@ -715,6 +715,10 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfpages.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfpages.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/palatino.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/palatino.sty
+INPUT ls 00*/1*.tex
+INPUT ls 00*/1*.tex
+INPUT ./00/10_firstpage.tex
+INPUT ./00/10_firstpage.tex
 INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 INPUT /home/aghiles/Aghiles/Research/Writing/bin/slide.aux
