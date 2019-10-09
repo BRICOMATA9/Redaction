@@ -508,6 +508,13 @@
   </bcf:datafieldset>
   <!-- SOURCEMAP -->
   <bcf:sourcemap>
+    <bcf:maps datatype="bibtex" level="user">
+      <bcf:map map_overwrite="1">
+        <bcf:map_step map_field_source="groups"/>
+        <bcf:map_step map_field_set="keywords" map_field_value="," map_append="1"/>
+        <bcf:map_step map_field_set="keywords" map_origfieldval="1" map_append="1"/>
+      </bcf:map>
+    </bcf:maps>
     <bcf:maps datatype="bibtex" level="driver">
       <bcf:map>
         <bcf:map_step map_field_set="day" map_null="1"/>
@@ -2145,56 +2152,80 @@
     <bcf:datasource type="file" datatype="bibtex">../ref/petri.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="2">
+    <bcf:citekey order="1">qiu_ergid_2016</bcf:citekey>
+    <bcf:citekey order="2">al-turjman_cognitive_2019</bcf:citekey>
+    <bcf:citekey order="3">lopes_design_2019</bcf:citekey>
+    <bcf:citekey order="4">lopes_design_2019</bcf:citekey>
+    <bcf:citekey order="5">lopes_design_2019</bcf:citekey>
+    <bcf:citekey order="6">raza_low_22</bcf:citekey>
+    <bcf:citekey order="7">al-kashoash_comparison_2016</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 3 -->
-  <bcf:bibdata section="3">
-    <bcf:datasource type="file" datatype="bibtex">../ref/iot.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex">../ref/iotbis.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex">../ref/privacy.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex">../ref/petri.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="3">
-    <bcf:citekey order="1">cuomo_explora_2017</bcf:citekey>
-    <bcf:citekey order="2">duhart_organic_2017</bcf:citekey>
-    <bcf:citekey order="3">yuzehuang_timeaware_2017</bcf:citekey>
-    <bcf:citekey order="4">duhart_organic_2017</bcf:citekey>
-    <bcf:citekey order="5">zarca_enhancing_2018</bcf:citekey>
-    <bcf:citekey order="6">al-kashoash_comparison_2016</bcf:citekey>
-    <bcf:citekey order="7">lopes_design_2019</bcf:citekey>
-    <bcf:citekey order="8">raza_low_22</bcf:citekey>
-    <bcf:citekey order="9">al-kashoash_comparison_2016</bcf:citekey>
-    <bcf:citekey order="10">lopes_design_2019</bcf:citekey>
-    <bcf:citekey order="11">raza_low_22</bcf:citekey>
-    <bcf:citekey order="12">berder_reseaux_2014</bcf:citekey>
-    <bcf:citekey order="13">berder_reseaux_2014</bcf:citekey>
-    <bcf:citekey order="14">raza_low_22</bcf:citekey>
-    <bcf:citekey order="15">raza_low_22</bcf:citekey>
-    <bcf:citekey order="16">al-fuqaha_internet_24</bcf:citekey>
-    <bcf:citekey order="17">al-fuqaha_internet_24</bcf:citekey>
-    <bcf:citekey order="18">sarwar_iot_2015</bcf:citekey>
-    <bcf:citekey order="19">sarwar_iot_2015</bcf:citekey>
-    <bcf:citekey order="20">varsier_capacity_2017</bcf:citekey>
-    <bcf:citekey order="21">loraaliance</bcf:citekey>
-    <bcf:citekey order="22">lorasite</bcf:citekey>
-    <bcf:citekey order="23">_evaluation_</bcf:citekey>
-    <bcf:citekey order="24">_short_2007</bcf:citekey>
-    <bcf:citekey order="25">_short_2007</bcf:citekey>
-    <bcf:citekey order="26">barro_lorawan_2019</bcf:citekey>
-    <bcf:citekey order="27">petajajarvi_coverage_2015</bcf:citekey>
-    <bcf:citekey order="28">bendaoud_network_2019</bcf:citekey>
-    <bcf:citekey order="29">meshinchi_qosaware_2018</bcf:citekey>
-    <bcf:citekey order="30">chowdhury_survey_2018</bcf:citekey>
-    <bcf:citekey order="31">bendaoud_network_2019</bcf:citekey>
-    <bcf:citekey order="32">meshinchi_qosaware_2018</bcf:citekey>
-    <bcf:citekey order="33">chowdhury_survey_2018</bcf:citekey>
-    <bcf:citekey order="34">fakhfakh_deep_2017</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
+  <bcf:sortlist section="1" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
+  <bcf:sortlist section="1" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
+  <bcf:sortlist section="1" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
+  <bcf:sortlist section="1" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
+  <bcf:sortlist section="1" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
+  <bcf:sortlist section="1" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
+  <bcf:sortlist section="1" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
+  <bcf:sortlist section="1" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
+  <bcf:sortlist section="1" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
   <bcf:sortlist section="1" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>
     <bcf:sort order="1">
@@ -2209,7 +2240,63 @@
     </bcf:sort>
   </bcf:sorting>
   </bcf:sortlist>
-  <bcf:sortlist section="3" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sortlist section="2" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
+  <bcf:sortlist section="2" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
+  <bcf:sortlist section="2" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
+  <bcf:sortlist section="2" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
+  <bcf:sortlist section="2" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
+  <bcf:sortlist section="2" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
+  <bcf:sortlist section="2" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
+  <bcf:sortlist section="2" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
+  <bcf:sortlist section="2" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>
     <bcf:sort order="1">
       <bcf:sortitem order="1">citeorder</bcf:sortitem>

@@ -206,9 +206,11 @@
 	"file_history":
 	[
 		"/home/aghiles/Aghiles/Research/Writing/src/21-Disaster/01_introduction.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/21-Disaster/03_background.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/paper.tex",
-		"/home/aghiles/Aghiles/Research/Writing/src/A-Survey IoT/00_technologies.tex",
 		"/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/21-Disaster/04_approach.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/A-Survey IoT/00_technologies.tex",
 		"/home/aghiles/Aghiles/Research/Writing/lib/slide.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/07-Template/07_conclusion.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/07-Template/01_introduction.tex",
@@ -330,9 +332,7 @@
 		"/home/aghiles/Aghiles/Redaction/paper/src/4/2_related.tex",
 		"/home/aghiles/Aghiles/Redaction/paper/src/4/7_conclusion.tex",
 		"/home/aghiles/Aghiles/Redaction/paper/src/4/0_abstract.tex",
-		"/home/aghiles/Aghiles/Redaction/res/accronyme/nomenclature.tex",
-		"/home/aghiles/Aghiles/Redaction/paper/src/4/5_experimentation.tex",
-		"/home/aghiles/Aghiles/Redaction/setup/lib/main1.bib"
+		"/home/aghiles/Aghiles/Redaction/res/accronyme/nomenclature.tex"
 	],
 	"find":
 	{
@@ -481,7 +481,7 @@
 	},
 	"output.latextools":
 	{
-		"height": 325.0
+		"height": 124.0
 	},
 	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
 	"project": "paper.sublime-project",
