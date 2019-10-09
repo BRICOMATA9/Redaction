@@ -205,11 +205,18 @@
 	],
 	"file_history":
 	[
-		"/home/aghiles/Aghiles/Research/Writing/src/21-Disaster/01_introduction.tex",
-		"/home/aghiles/Aghiles/Research/Writing/src/21-Disaster/03_background.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/paper.tex",
-		"/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/21-Disaster/00_abstract.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/21-Disaster/01_introduction.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/21-Disaster/02_related.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/21-Disaster/03_background.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/21-Disaster/04_approach.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/21-Disaster/07_conclusion.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/02_related.tex",
+		"/home/aghiles/Aghiles/Research/Writing/lib/plot.tex",
+		"/home/aghiles/Aghiles/Research/Writing/lib/setup.tex",
+		"/home/aghiles/Aghiles/Research/Writing/lib/rgb.tex",
+		"/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/A-Survey IoT/00_technologies.tex",
 		"/home/aghiles/Aghiles/Research/Writing/lib/slide.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/07-Template/07_conclusion.tex",
@@ -217,12 +224,10 @@
 		"/home/aghiles/Aghiles/Research/Writing/src/07-Template/00_abstract.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/Disaster",
 		"/home/aghiles/Aghiles/Research/Writing/lib/paper.tex",
-		"/home/aghiles/Aghiles/Research/Writing/lib/plot.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/04_approach.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/05-x-Long paper/05_experimentation.tex",
 		"/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/graphs/tikzlibrarygraphs.standard.code.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/08-UTLC/05_experimentation.tex",
-		"/home/aghiles/Aghiles/Research/Writing/lib/setup.tex",
 		"/home/aghiles/Aghiles/Research/Writing/lib/these.tex",
 		"/home/aghiles/Aghiles/Research/Writing/res/tikz/figure1.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/00_abstract.tex",
@@ -327,16 +332,11 @@
 		"/home/aghiles/Aghiles/Tool/config/common/Local Storage/leveldb/002321.ldb",
 		"/home/aghiles/Aghiles/Tool/config/common/Local Storage/leveldb/002303.ldb",
 		"/home/aghiles/Aghiles/Tool/config/common/Local Storage/leveldb/MANIFEST-000001",
-		"/home/aghiles/Aghiles/Tool/config/common/Local Storage/leveldb/000005.ldb",
-		"/home/aghiles/Aghiles/Redaction/paper/src/4/1_introduction.tex",
-		"/home/aghiles/Aghiles/Redaction/paper/src/4/2_related.tex",
-		"/home/aghiles/Aghiles/Redaction/paper/src/4/7_conclusion.tex",
-		"/home/aghiles/Aghiles/Redaction/paper/src/4/0_abstract.tex",
-		"/home/aghiles/Aghiles/Redaction/res/accronyme/nomenclature.tex"
+		"/home/aghiles/Aghiles/Tool/config/common/Local Storage/leveldb/000005.ldb"
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -352,6 +352,17 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"pifont",
+			"amssymb",
+			"pdfpage",
+			"rotating",
+			"ckage{tikz}",
+			"matrix",
+			"3d",
+			"trees",
+			"shad",
+			"tikzset",
+			"tikz",
 			"chapter",
 			"res",
 			" }",

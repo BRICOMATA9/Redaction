@@ -218,6 +218,55 @@
       \endverb
       \keyw{,App-Weather}
     \endentry
+    \entry{al-kashoash_comparison_2016}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0ddf900e7237ab2ba6c7b7e9c8fa2882}{%
+           family={Al-Kashoash},
+           familyi={A\bibinithyphendelim K\bibinitperiod},
+           given={H.\bibnamedelimi A.\bibnamedelimi A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=bdb5d1066ac021de6405bc95a411011d}{%
+           family={Kemp},
+           familyi={K\bibinitperiod},
+           given={Andrew\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{fcc55186686867785c57446dfd8cc2b6}
+      \strng{fullhash}{fcc55186686867785c57446dfd8cc2b6}
+      \strng{authornamehash}{fcc55186686867785c57446dfd8cc2b6}
+      \strng{authorfullhash}{fcc55186686867785c57446dfd8cc2b6}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{By 2020, 50 billion devices (things) are expected to be connected to the Internet to form the Internet of Things (IoT) world. In general, two main categories of networks are used in the IoT: short-range and long-range low-power networks. IPv6 over low-power wireless personal area networks (6LoWPAN) are considered to be a crucial network in short-range low-power networks where 6LoWPAN motes will account for the majority of short-range low-power things. Also, LoRaWAN and SigFox are two major networking landscapes and players in long-range, low-power networks or oftentimes called low-power wide area networks (LPWAN). This paper reviews and compares 6LoWPAN and LPWAN in terms of network architecture, protocol stack, applications and security. In general, LPWAN networks are more demanding in terms of node and link constraints than 6LoWPAN networks (e.g. very low payload size, very low data rate and very limited resources). Also, as yet, LPWAN networks do not have IPv6 addressing capabilities. Each network category has its unique characteristics and strengths and each category has its important role in the IoT world.}
+      \field{issn}{1448-837X, 2205-362X}
+      \field{journaltitle}{Australian Journal of Electrical and Electronics Engineering}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{note}{00010}
+      \field{number}{4}
+      \field{title}{Comparison of {{6LoWPAN}} and {{LPWAN}} for the {{Internet}} of {{Things}}}
+      \field{urlday}{30}
+      \field{urlmonth}{1}
+      \field{urlyear}{2019}
+      \field{volume}{13}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{268\bibrangedash 274}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1080/1448837X.2017.1409920
+      \endverb
+      \verb{file}
+      \verb Al-Kashoash_Kemp_2016_Comparison of 6LoWPAN and LPWAN for the Internet of Things.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/RDCM3GDN/Al-Kashoash_Kemp_2016_Comparison of 6LoWPAN and LPWAN for the Internet of Things.pdf:application/pdf
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/1448837X.2017.1409920
+      \endverb
+      \keyw{,RAN}
+    \endentry
     \entry{raza_low_22}{article}{}
       \name{author}{3}{}{%
         {{hash=e8a69868cd64dc2ff1153e27bfcbb865}{%
@@ -269,55 +318,6 @@
       \endverb
       \verb{url}
       \verb http://ieeexplore.ieee.org/document/7815384/
-      \endverb
-      \keyw{,RAN}
-    \endentry
-    \entry{al-kashoash_comparison_2016}{article}{}
-      \name{author}{2}{}{%
-        {{hash=0ddf900e7237ab2ba6c7b7e9c8fa2882}{%
-           family={Al-Kashoash},
-           familyi={A\bibinithyphendelim K\bibinitperiod},
-           given={H.\bibnamedelimi A.\bibnamedelimi A.},
-           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=bdb5d1066ac021de6405bc95a411011d}{%
-           family={Kemp},
-           familyi={K\bibinitperiod},
-           given={Andrew\bibnamedelima H.},
-           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-      }
-      \strng{namehash}{fcc55186686867785c57446dfd8cc2b6}
-      \strng{fullhash}{fcc55186686867785c57446dfd8cc2b6}
-      \strng{authornamehash}{fcc55186686867785c57446dfd8cc2b6}
-      \strng{authorfullhash}{fcc55186686867785c57446dfd8cc2b6}
-      \field{sortinit}{7}
-      \field{sortinithash}{6ac7fe70cdec8cba8f65694411ce2532}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{By 2020, 50 billion devices (things) are expected to be connected to the Internet to form the Internet of Things (IoT) world. In general, two main categories of networks are used in the IoT: short-range and long-range low-power networks. IPv6 over low-power wireless personal area networks (6LoWPAN) are considered to be a crucial network in short-range low-power networks where 6LoWPAN motes will account for the majority of short-range low-power things. Also, LoRaWAN and SigFox are two major networking landscapes and players in long-range, low-power networks or oftentimes called low-power wide area networks (LPWAN). This paper reviews and compares 6LoWPAN and LPWAN in terms of network architecture, protocol stack, applications and security. In general, LPWAN networks are more demanding in terms of node and link constraints than 6LoWPAN networks (e.g. very low payload size, very low data rate and very limited resources). Also, as yet, LPWAN networks do not have IPv6 addressing capabilities. Each network category has its unique characteristics and strengths and each category has its important role in the IoT world.}
-      \field{issn}{1448-837X, 2205-362X}
-      \field{journaltitle}{Australian Journal of Electrical and Electronics Engineering}
-      \field{langid}{english}
-      \field{month}{10}
-      \field{note}{00010}
-      \field{number}{4}
-      \field{title}{Comparison of {{6LoWPAN}} and {{LPWAN}} for the {{Internet}} of {{Things}}}
-      \field{urlday}{30}
-      \field{urlmonth}{1}
-      \field{urlyear}{2019}
-      \field{volume}{13}
-      \field{year}{2016}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{268\bibrangedash 274}
-      \range{pages}{7}
-      \verb{doi}
-      \verb 10.1080/1448837X.2017.1409920
-      \endverb
-      \verb{file}
-      \verb Al-Kashoash_Kemp_2016_Comparison of 6LoWPAN and LPWAN for the Internet of Things.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/RDCM3GDN/Al-Kashoash_Kemp_2016_Comparison of 6LoWPAN and LPWAN for the Internet of Things.pdf:application/pdf
-      \endverb
-      \verb{url}
-      \verb https://www.tandfonline.com/doi/full/10.1080/1448837X.2017.1409920
       \endverb
       \keyw{,RAN}
     \endentry
