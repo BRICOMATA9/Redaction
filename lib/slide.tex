@@ -394,9 +394,14 @@
 	}
 }
 
-\newcommand{\chapter}[2]{
+\newcommand{\chapter}[2][]{
 	\section{#2}
 	\xinput{#1*/1*}
 }
 
 \xinput{00*/1*}
+
+\def\biblio{
+% \alltableofcontent
+  \frameBibliography
+}

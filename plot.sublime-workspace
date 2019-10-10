@@ -200,8 +200,8 @@
 	],
 	"file_history":
 	[
-		"/home/aghiles/Aghiles/Research/Writing/lib/plot.tex",
 		"/home/aghiles/Aghiles/Research/Writing/res/plot.tex",
+		"/home/aghiles/Aghiles/Research/Writing/lib/plot.tex",
 		"/home/aghiles/Aghiles/Research/Writing/lib/tikzset.tex",
 		"/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/plot.tex",
@@ -331,7 +331,7 @@
 	],
 	"find":
 	{
-		"height": 38.0
+		"height": 29.0
 	},
 	"find_in_files":
 	{
