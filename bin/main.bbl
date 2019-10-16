@@ -17,53 +17,299 @@
 \endgroup
 
 
-\refsection{1}
+\refsection{2}
   \datalist[entry]{none/global//global/global}
-    \entry{cattani_experimental_2017}{article}{}
+    \entry{huang_modular_2014}{article}{}
       \name{author}{3}{}{%
-        {{hash=5580c2793a5997f0ca044894909252ca}{%
-           family={Cattani},
-           familyi={C\bibinitperiod},
-           given={Marco},
+        {{hash=cae9da35ae12a6cbd407d07b86b4e18c}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b53f44320f5f45e4763f84f290f04092}{%
+           family={Weng},
+           familyi={W\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=3edb51e096c6e1b022984c9159c4df2d}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={M.},
            giveni={M\bibinitperiod}}}%
-        {{hash=d01f7b8eb765511050ca03d2cc9f8fb0}{%
-           family={Boano},
-           familyi={B\bibinitperiod},
-           given={Carlo},
-           giveni={C\bibinitperiod}}}%
-        {{hash=2ff4c69dc5158c7a1084771973222290}{%
-           family={Römer},
-           familyi={R\bibinitperiod},
-           given={Kay},
-           giveni={K\bibinitperiod}}}%
       }
-      \strng{namehash}{151cb1ea820c357186ead9d97404adab}
-      \strng{fullhash}{151cb1ea820c357186ead9d97404adab}
-      \strng{bibnamehash}{151cb1ea820c357186ead9d97404adab}
-      \strng{authorbibnamehash}{151cb1ea820c357186ead9d97404adab}
-      \strng{authornamehash}{151cb1ea820c357186ead9d97404adab}
-      \strng{authorfullhash}{151cb1ea820c357186ead9d97404adab}
+      \strng{namehash}{f4aa0dd45710349805eec48f7ce39d94}
+      \strng{fullhash}{f4aa0dd45710349805eec48f7ce39d94}
+      \strng{bibnamehash}{f4aa0dd45710349805eec48f7ce39d94}
+      \strng{authorbibnamehash}{f4aa0dd45710349805eec48f7ce39d94}
+      \strng{authornamehash}{f4aa0dd45710349805eec48f7ce39d94}
+      \strng{authorfullhash}{f4aa0dd45710349805eec48f7ce39d94}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Timed Petri nets (TPNs) have been utilized as visual formalism for the modeling of complex discrete-event dynamic systems. They illuminate the features in describing the properties of causality and concurrency. Moreover, it is well known that a synchronized TPN (STPN) allows us to present all of the concurrent states in a complex TPN. In this paper, we propose a new methodology to design and analyze an urban traffic network control system by using the STPN. In addition, the applications of the STPN to eight-phase, six-phase, and two-phase traffic-light control systems are modularized. The advantage of the proposed approach is the clear presentation of the behaviors of traffic lights in terms of the conditions and events that cause phase alternations. Moreover, the size of the urban traffic network control system can be easily extended with our proposed modular technique. An analysis of the control models is performed via a reachability graph method to demonstrate how the models enforce the transitions of the traffic lights.}
+      \field{issn}{1524-9050}
+      \field{journaltitle}{IEEE Transactions on Intelligent Transportation Systems}
+      \field{month}{4}
+      \field{note}{00050}
+      \field{number}{2}
+      \field{title}{Modular {{Design}} of {{Urban Traffic}}-{{Light Control Systems Based}} on {{Synchronized Timed Petri Nets}}}
+      \field{volume}{15}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{530\bibrangedash 539}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/TITS.2013.2283034
+      \endverb
+      \verb{file}
+      \verb Huang et al_2014_Modular Design of Urban Traffic-Light Control Systems Based on Synchronized.pdf:/home/aghiles/Aghiles/Redaction/lib/iot/storage/J7VXHP34/Huang et al_2014_Modular Design of Urban Traffic-Light Control Systems Based on Synchronized.pdf:application/pdf
+      \endverb
+      \keyw{}
+    \endentry
+    \entry{david_uppaal_2015}{article}{}
+      \name{author}{5}{}{%
+        {{hash=e6abba6779334d14a008ecfff8fcbbeb}{%
+           family={David},
+           familyi={D\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1d74b0c6afa306c62f868ed08f077ddd}{%
+           family={Larsen},
+           familyi={L\bibinitperiod},
+           given={Kim\bibnamedelima G.},
+           giveni={K\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=0fabf3660126ac9e07707dbfb289fd2e}{%
+           family={Legay},
+           familyi={L\bibinitperiod},
+           given={Axel},
+           giveni={A\bibinitperiod}}}%
+        {{hash=258456078217d60ef1b3c72ec2ed2b38}{%
+           family={Mikučionis},
+           familyi={M\bibinitperiod},
+           given={Marius},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3181f61c0c1fdaa845c5069229a57c70}{%
+           family={Poulsen},
+           familyi={P\bibinitperiod},
+           given={Danny\bibnamedelima Bøgsted},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{a478c8f3ec1cb55ca75f1caf81a20326}
+      \strng{fullhash}{a6daa2188cbf02b57d830f219854e4f4}
+      \strng{bibnamehash}{a6daa2188cbf02b57d830f219854e4f4}
+      \strng{authorbibnamehash}{a6daa2188cbf02b57d830f219854e4f4}
+      \strng{authornamehash}{a478c8f3ec1cb55ca75f1caf81a20326}
+      \strng{authorfullhash}{a6daa2188cbf02b57d830f219854e4f4}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This tutorial paper surveys the main features of Uppaal SMC, a model checking approach in Uppaal family that allows us to reason on networks of complex real-timed systems with a stochastic semantic. We demonstrate the modeling features of the tool, new veriﬁcation algorithms and ways of applying them to potentially complex case studies.}
+      \field{issn}{1433-2779, 1433-2787}
+      \field{journaltitle}{International Journal on Software Tools for Technology Transfer}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{note}{00176}
+      \field{number}{4}
+      \field{title}{Uppaal {{SMC}} Tutorial}
+      \field{urlday}{18}
+      \field{urlmonth}{12}
+      \field{urlyear}{2018}
+      \field{volume}{17}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{397\bibrangedash 415}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1007/s10009-014-0361-y
+      \endverb
+      \verb{file}
+      \verb David et al_2015_Uppaal SMC tutorial.pdf:/home/aghiles/Aghiles/Redaction/lib/iot/storage/GKJCG9IV/David et al_2015_Uppaal SMC tutorial.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s10009-014-0361-y
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s10009-014-0361-y
+      \endverb
+      \keyw{}
+    \endentry
+    \entry{febbraro_using_2009}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=e62a4d8f157b94a3ba31674164ecec05}{%
+           family={Febbraro},
+           familyi={F\bibinitperiod},
+           given={A.\bibnamedelimi Di},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=d7ca6c1e9e1d396b97b4b2f69d3c8785}{%
+           family={Sacco},
+           familyi={S\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f3b80a0b9a85868980c2d480339ecd77}{%
+           family={Giglio},
+           familyi={G\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{bccd2d1fc20d22c7abbaadd454ce4ef2}
+      \strng{fullhash}{bccd2d1fc20d22c7abbaadd454ce4ef2}
+      \strng{bibnamehash}{bccd2d1fc20d22c7abbaadd454ce4ef2}
+      \strng{authorbibnamehash}{bccd2d1fc20d22c7abbaadd454ce4ef2}
+      \strng{authornamehash}{bccd2d1fc20d22c7abbaadd454ce4ef2}
+      \strng{authorfullhash}{bccd2d1fc20d22c7abbaadd454ce4ef2}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{A microscopic model of signalized urban areas and its representation by means of stochastic-timed Petri nets are described in this paper, where a traffic-responsive control strategy, whose objective is the optimization of green duration of each stage, is also proposed. The Petri net representation here proposed is the new version of a previously proposed one, which was based on deterministic-timed Petri nets. The motivations of the need of proposing a new version and the differences between the two Petri net representations are clearly described. In addition, some results on the application of the proposed methodology to a single signalized intersection are included in the paper.}
+      \field{booktitle}{2009 12th {{International IEEE Conference}} on {{Intelligent Transportation Systems}}}
+      \field{eventtitle}{2009 12th {{International IEEE Conference}} on {{Intelligent Transportation Systems}}}
+      \field{month}{10}
+      \field{note}{00018}
+      \field{shorttitle}{On Using Petri Nets for Representing and Controlling Signalized Urban Areas}
+      \field{title}{On Using Petri Nets for Representing and Controlling Signalized Urban Areas: {{New}} Model and Results}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/ITSC.2009.5309701
+      \endverb
+      \verb{file}
+      \verb Febbraro et al_2009_On using petri nets for representing and controlling signalized urban areas.pdf:/home/aghiles/Aghiles/Redaction/lib/iot/storage/Z86Z7WXA/Febbraro et al_2009_On using petri nets for representing and controlling signalized urban areas.pdf:application/pdf
+      \endverb
+      \keyw{}
+    \endentry
+    \entry{dotoli_urban_2004}{article}{}
+      \name{author}{2}{}{%
+        {{hash=fb53f10fd8cf919a1ab1add1cc36b5c1}{%
+           family={Dotoli},
+           familyi={D\bibinitperiod},
+           given={Mariagrazia},
+           giveni={M\bibinitperiod}}}%
+        {{hash=464ba9760ea4a12669d1a57725939c86}{%
+           family={Fanti},
+           familyi={F\bibinitperiod},
+           given={Maria\bibnamedelima Pia},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{2f1b34a6cc1c6e37a44bd2c0083344eb}
+      \strng{fullhash}{2f1b34a6cc1c6e37a44bd2c0083344eb}
+      \strng{bibnamehash}{2f1b34a6cc1c6e37a44bd2c0083344eb}
+      \strng{authorbibnamehash}{2f1b34a6cc1c6e37a44bd2c0083344eb}
+      \strng{authornamehash}{2f1b34a6cc1c6e37a44bd2c0083344eb}
+      \strng{authorfullhash}{2f1b34a6cc1c6e37a44bd2c0083344eb}
       \field{sortinit}{1}
       \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Sensor and Actuator Networks}
-      \field{note}{00042}
-      \field{number}{2}
-      \field{title}{An Experimental Evaluation of the Reliability of Lora Long-Range Low-Power Wireless Communication}
-      \field{volume}{6}
-      \field{year}{2017}
+      \field{abstract}{This paper deals with modelling of traffic networks for real time control purposes. A modular framework based on coloured timed Petri nets is proposed to model the dynamics of signalized traffic network systems: places represent link cells and crossing sections, tokens are vehicles and token colours represent the routing of the corresponding vehicle. In addition, an ordinary timed Petri net models the signal timing plan controlling the area. The proposed modelling framework is applied to a real intersection located in Bari, Italy. A discrete event simulation of the controlled intersection validates the model and tests the signal timing plan obtained by an optimization strategy presented in the related literature.}
+      \field{day}{1}
+      \field{issn}{1474-6670}
+      \field{journaltitle}{IFAC Proceedings Volumes}
+      \field{month}{9}
+      \field{note}{00101}
+      \field{number}{18}
+      \field{series}{7th International Workshop on Discrete Event Systems (WODES'04), Reims, France, September 22-24, 2004}
+      \field{shortjournal}{IFAC Proceedings Volumes}
+      \field{title}{An Urban Traffic Network Model via Coloured Timed Petri Nets}
+      \field{urlday}{27}
+      \field{urlmonth}{1}
+      \field{urlyear}{2019}
+      \field{volume}{37}
+      \field{year}{2004}
       \field{dateera}{ce}
-      \field{pages}{7}
-      \range{pages}{1}
-      \verb{file}
-      \verb Cattani et al_2017_An experimental evaluation of the reliability of lora long-range low-power.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/Y4D92FBP/Cattani et al_2017_An experimental evaluation of the reliability of lora long-range low-power.pdf:application/pdf
+      \field{urldateera}{ce}
+      \field{pages}{207\bibrangedash 212}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/S1474-6670(17)30747-4
       \endverb
-      \keyw{,Performance}
+      \verb{file}
+      \verb Dotoli_Fanti_2004_An urban traffic network model via coloured timed petri nets.pdf:/home/aghiles/Aghiles/Redaction/lib/iot/storage/MY2656ZE/Dotoli_Fanti_2004_An urban traffic network model via coloured timed petri nets.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S1474667017307474
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S1474667017307474
+      \endverb
+      \keyw{}
+    \endentry
+    \entry{dossantossoares_modular_2012}{article}{useprefix=true}
+      \name{author}{2}{}{%
+        {{hash=6b6bd5ce408f9db4b5ea76e0409f7596}{%
+           family={Santos\bibnamedelima Soares},
+           familyi={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod},
+           prefix={dos},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=548b51ceb435af1a2f976352203cf8f3}{%
+           family={Vrancken},
+           familyi={V\bibinitperiod},
+           given={Jos},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{036bd742e5712aabd86685b4656f762e}
+      \strng{fullhash}{036bd742e5712aabd86685b4656f762e}
+      \strng{bibnamehash}{036bd742e5712aabd86685b4656f762e}
+      \strng{authorbibnamehash}{036bd742e5712aabd86685b4656f762e}
+      \strng{authornamehash}{036bd742e5712aabd86685b4656f762e}
+      \strng{authorfullhash}{036bd742e5712aabd86685b4656f762e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The dynamic behavior of a group of traffic signals controlling a network of intersections is a complex discrete event system that can be modeled by Petri nets. The approach used in this paper proposes a components-based design, which increases modularity, reduces complexity and is a good practice according to modern Systems Engineering. The main system elements are specified based on the proposed Petri net component with time intervals associated to places. The specified models are simulated through the common token player algorithm, and formal analysis using invariants and theorem proving are applied to verify models' soundness and to reason on specific scenarios.}
+      \field{day}{1}
+      \field{issn}{0967-0661}
+      \field{journaltitle}{Control Engineering Practice}
+      \field{month}{11}
+      \field{note}{00017}
+      \field{number}{11}
+      \field{series}{Special Section: Wiener-Hammerstein System Identification Benchmark}
+      \field{shortjournal}{Control Engineering Practice}
+      \field{title}{A Modular {{Petri}} Net to Modeling and Scenario Analysis of a Network of Road Traffic Signals}
+      \field{urlday}{27}
+      \field{urlmonth}{1}
+      \field{urlyear}{2019}
+      \field{volume}{20}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1183\bibrangedash 1194}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.conengprac.2012.06.005
+      \endverb
+      \verb{file}
+      \verb dos Santos Soares_Vrancken_2012_A modular Petri net to modeling and scenario analysis of a network of road.pdf:/home/aghiles/Aghiles/Redaction/lib/iot/storage/QIMUPH6I/dos Santos Soares_Vrancken_2012_A modular Petri net to modeling and scenario analysis of a network of road.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S096706611200127X
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S096706611200127X
+      \endverb
+      \keyw{}
     \endentry
   \enddatalist
-  \missing{alkhawlani_access_2008a}
-  \missing{dimartino_internet_2018}
+  \missing{Al-Fuqaha2015}
+  \missing{Chen2017}
+  \missing{Dastjerdi2016}
+  \missing{Perera2014}
+  \missing{Routiere2015}
+  \missing{STEPHENS1979}
+  \missing{Silva2018}
+  \missing{Web0}
+  \missing{chalappuram_development_2016}
+  \missing{difebbraro_trafficresponsive_2006}
+  \missing{rose_internet_2015}
+  \missing{tlig_decentralized_2014}
 \endrefsection
 \endinput
 

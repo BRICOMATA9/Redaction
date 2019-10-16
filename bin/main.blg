@@ -1,29 +1,41 @@
 [0] Config.pm:304> INFO - This is Biber 2.12
 [0] Config.pm:307> INFO - Logfile is '/home/aghiles/Aghiles/Research/Writing/bin/main.blg'
-[24] biber:315> INFO - === Tue Oct 15, 2019, 00:24:38
-[45] Biber.pm:371> INFO - Reading '/home/aghiles/Aghiles/Research/Writing/bin/main.bcf'
-[98] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
-[98] Biber.pm:889> INFO - Found 3 citekeys in bib section 1
-[98] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
-[113] Biber.pm:4093> INFO - Processing section 1
-[123] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iot.bib' for section 1
-[177] bibtex.pm:1512> INFO - LaTeX decoding ...
-[1135] bibtex.pm:1329> INFO - Found BibTeX data source '/home/aghiles/Aghiles/Research/Writing/bin/../ref/iot.bib'
-[1172] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iotbis.bib' for section 1
-[1173] bibtex.pm:1512> INFO - LaTeX decoding ...
-[1178] bibtex.pm:1329> INFO - Found BibTeX data source '/home/aghiles/Aghiles/Research/Writing/bin/../ref/iotbis.bib'
-[1179] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/privacy.bib' for section 1
-[1193] bibtex.pm:1512> INFO - LaTeX decoding ...
-[1448] bibtex.pm:1329> INFO - Found BibTeX data source '/home/aghiles/Aghiles/Research/Writing/bin/../ref/privacy.bib'
-[1458] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/petri.bib' for section 1
-[1459] bibtex.pm:1512> INFO - LaTeX decoding ...
-[1478] bibtex.pm:1329> INFO - Found BibTeX data source '/home/aghiles/Aghiles/Research/Writing/bin/../ref/petri.bib'
-[1480] Utils.pm:193> WARN - I didn't find a database entry for 'dimartino_internet_2018' (section 1)
-[1480] Utils.pm:193> WARN - I didn't find a database entry for 'alkhawlani_access_2008a' (section 1)
-[1486] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1486] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1486] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[1486] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
-[1487] bbl.pm:636> INFO - Writing '/home/aghiles/Aghiles/Research/Writing/bin/main.bbl' with encoding 'UTF-8'
-[1488] bbl.pm:739> INFO - Output to /home/aghiles/Aghiles/Research/Writing/bin/main.bbl
-[1488] Biber.pm:110> INFO - WARNINGS: 2
+[23] biber:315> INFO - === Wed Oct 16, 2019, 15:07:58
+[43] Biber.pm:371> INFO - Reading '/home/aghiles/Aghiles/Research/Writing/bin/main.bcf'
+[99] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[99] Biber.pm:889> INFO - Found 0 citekeys in bib section 1
+[100] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[100] Biber.pm:889> INFO - Found 17 citekeys in bib section 2
+[100] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[120] Biber.pm:4093> INFO - Processing section 2
+[131] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iot.bib' for section 2
+[186] bibtex.pm:1512> INFO - LaTeX decoding ...
+[1157] bibtex.pm:1329> INFO - Found BibTeX data source '/home/aghiles/Aghiles/Research/Writing/bin/../ref/iot.bib'
+[1191] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iotbis.bib' for section 2
+[1192] bibtex.pm:1512> INFO - LaTeX decoding ...
+[1198] bibtex.pm:1329> INFO - Found BibTeX data source '/home/aghiles/Aghiles/Research/Writing/bin/../ref/iotbis.bib'
+[1199] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/privacy.bib' for section 2
+[1215] bibtex.pm:1512> INFO - LaTeX decoding ...
+[1478] bibtex.pm:1329> INFO - Found BibTeX data source '/home/aghiles/Aghiles/Research/Writing/bin/../ref/privacy.bib'
+[1488] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/petri.bib' for section 2
+[1490] bibtex.pm:1512> INFO - LaTeX decoding ...
+[1509] bibtex.pm:1329> INFO - Found BibTeX data source '/home/aghiles/Aghiles/Research/Writing/bin/../ref/petri.bib'
+[1537] Utils.pm:193> WARN - I didn't find a database entry for 'Routiere2015' (section 2)
+[1538] Utils.pm:193> WARN - I didn't find a database entry for 'Perera2014' (section 2)
+[1538] Utils.pm:193> WARN - I didn't find a database entry for 'Dastjerdi2016' (section 2)
+[1538] Utils.pm:193> WARN - I didn't find a database entry for 'difebbraro_trafficresponsive_2006' (section 2)
+[1538] Utils.pm:193> WARN - I didn't find a database entry for 'Al-Fuqaha2015' (section 2)
+[1538] Utils.pm:193> WARN - I didn't find a database entry for 'chalappuram_development_2016' (section 2)
+[1538] Utils.pm:193> WARN - I didn't find a database entry for 'Web0' (section 2)
+[1538] Utils.pm:193> WARN - I didn't find a database entry for 'tlig_decentralized_2014' (section 2)
+[1538] Utils.pm:193> WARN - I didn't find a database entry for 'rose_internet_2015' (section 2)
+[1538] Utils.pm:193> WARN - I didn't find a database entry for 'Silva2018' (section 2)
+[1538] Utils.pm:193> WARN - I didn't find a database entry for 'STEPHENS1979' (section 2)
+[1538] Utils.pm:193> WARN - I didn't find a database entry for 'Chen2017' (section 2)
+[1546] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1547] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1547] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[1547] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[1554] bbl.pm:636> INFO - Writing '/home/aghiles/Aghiles/Research/Writing/bin/main.bbl' with encoding 'UTF-8'
+[1557] bbl.pm:739> INFO - Output to /home/aghiles/Aghiles/Research/Writing/bin/main.bbl
+[1557] Biber.pm:110> INFO - WARNINGS: 12
