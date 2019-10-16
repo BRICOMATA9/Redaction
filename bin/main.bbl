@@ -17,337 +17,53 @@
 \endgroup
 
 
-\refsection{2}
+\refsection{1}
   \datalist[entry]{none/global//global/global}
-    \entry{qiu_ergid_2016}{article}{}
-      \name{author}{6}{}{%
-        {{hash=f8943421a003b06fc50de5d963861eca}{%
-           family={Qiu},
-           familyi={Q\bibinitperiod},
-           given={Tie},
-           giveni={T\bibinitperiod}}}%
-        {{hash=1ea903c293b2c3048574804785b91783}{%
-           family={Lv},
-           familyi={L\bibinitperiod},
-           given={Yuan},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=fcc7df98b43603dc06c2a196e5459dd7}{%
-           family={Xia},
-           familyi={X\bibinitperiod},
-           given={Feng},
-           giveni={F\bibinitperiod}}}%
-        {{hash=d78d9f118cf4ab50783df878af0fadb4}{%
-           family={Chen},
+    \entry{cattani_experimental_2017}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5580c2793a5997f0ca044894909252ca}{%
+           family={Cattani},
            familyi={C\bibinitperiod},
-           given={Ning},
-           giveni={N\bibinitperiod}}}%
-        {{hash=75916034f60ced983937f039403ca17f}{%
-           family={Wan},
-           familyi={W\bibinitperiod},
-           given={Jiafu},
-           giveni={J\bibinitperiod}}}%
-        {{hash=e13d7b2fa2538ea0a4244801e1a0837e}{%
-           family={Tolba},
-           familyi={T\bibinitperiod},
-           given={Amr},
-           giveni={A\bibinitperiod}}}%
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d01f7b8eb765511050ca03d2cc9f8fb0}{%
+           family={Boano},
+           familyi={B\bibinitperiod},
+           given={Carlo},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2ff4c69dc5158c7a1084771973222290}{%
+           family={Römer},
+           familyi={R\bibinitperiod},
+           given={Kay},
+           giveni={K\bibinitperiod}}}%
       }
-      \strng{namehash}{78fcc9c290356e34bb0e285c5584b920}
-      \strng{fullhash}{fe02d4d9591b9ad35b326bc2a927a8a9}
-      \strng{bibnamehash}{fe02d4d9591b9ad35b326bc2a927a8a9}
-      \strng{authorbibnamehash}{fe02d4d9591b9ad35b326bc2a927a8a9}
-      \strng{authornamehash}{78fcc9c290356e34bb0e285c5584b920}
-      \strng{authorfullhash}{fe02d4d9591b9ad35b326bc2a927a8a9}
+      \strng{namehash}{151cb1ea820c357186ead9d97404adab}
+      \strng{fullhash}{151cb1ea820c357186ead9d97404adab}
+      \strng{bibnamehash}{151cb1ea820c357186ead9d97404adab}
+      \strng{authorbibnamehash}{151cb1ea820c357186ead9d97404adab}
+      \strng{authornamehash}{151cb1ea820c357186ead9d97404adab}
+      \strng{authorfullhash}{151cb1ea820c357186ead9d97404adab}
       \field{sortinit}{1}
       \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{issn}{10848045}
-      \field{journaltitle}{Journal of Network and Computer Applications}
-      \field{langid}{english}
-      \field{month}{9}
-      \field{note}{00052}
-      \field{shortjournal}{Journal of Network and Computer Applications}
-      \field{shorttitle}{{{ERGID}}}
-      \field{title}{{{ERGID}}: {{An}} Efficient Routing Protocol for Emergency Response {{Internet}} of {{Things}}}
-      \field{urlday}{9}
-      \field{urlmonth}{10}
-      \field{urlyear}{2019}
-      \field{volume}{72}
-      \field{year}{2016}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{104\bibrangedash 112}
-      \range{pages}{9}
-      \verb{doi}
-      \verb 10.1016/j.jnca.2016.06.009
-      \endverb
-      \verb{file}
-      \verb Qiu et al_2016_ERGID.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/GJLHCB4X/Qiu et al_2016_ERGID.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S1084804516301308
-      \endverb
-      \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S1084804516301308
-      \endverb
-      \keyw{,Disaster}
-    \endentry
-    \entry{al-turjman_cognitive_2019}{article}{}
-      \name{author}{1}{}{%
-        {{hash=2877c90c5af5288a8df92b5be52346a4}{%
-           family={Al-Turjman},
-           familyi={A\bibinithyphendelim T\bibinitperiod},
-           given={Fadi},
-           giveni={F\bibinitperiod}}}%
-      }
-      \strng{namehash}{2877c90c5af5288a8df92b5be52346a4}
-      \strng{fullhash}{2877c90c5af5288a8df92b5be52346a4}
-      \strng{bibnamehash}{2877c90c5af5288a8df92b5be52346a4}
-      \strng{authorbibnamehash}{2877c90c5af5288a8df92b5be52346a4}
-      \strng{authornamehash}{2877c90c5af5288a8df92b5be52346a4}
-      \strng{authorfullhash}{2877c90c5af5288a8df92b5be52346a4}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{In this paper, we propose a framework for data delivery in large-scale networks for disaster management, where numerous wireless sensors are distributed over city traffic-infrastructures, shopping-malls’ parking areas, airports’ facilities, etc. In general, our framework caters for energy-efficient applications in the Internet of Things (IoT) where data is propagated via relays from diverse sensornodes towards a gateway connected to a large-scale network such as the Internet. We consider the entire network energy while choosing the next hop for the routed packets in the targeted wireless sensor network. Our delivery approach considers resource limitations in terms of hop count, and remaining-energy levels. Extensive simulations are performed and achieved results confirm the effectiveness of the proposed approach in comparison to other baseline energy-aware routing protocols in the literature.}
-      \field{issn}{0167739X}
-      \field{journaltitle}{Future Generation Computer Systems}
-      \field{langid}{english}
-      \field{month}{3}
-      \field{note}{00050}
-      \field{title}{Cognitive Routing Protocol for Disaster-Inspired {{Internet}} of {{Things}}}
-      \field{urlday}{8}
-      \field{urlmonth}{10}
-      \field{urlyear}{2019}
-      \field{volume}{92}
-      \field{year}{2019}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{1103\bibrangedash 1115}
-      \range{pages}{13}
-      \verb{doi}
-      \verb 10.1016/j.future.2017.03.014
-      \endverb
-      \verb{file}
-      \verb Al-Turjman - 2019 - Cognitive routing protocol for disaster-inspired I.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/ADX9YQW5/Al-Turjman - 2019 - Cognitive routing protocol for disaster-inspired I.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0167739X16307439
-      \endverb
-      \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S0167739X16307439
-      \endverb
-      \keyw{,Disaster}
-    \endentry
-    \entry{lopes_design_2019}{incollection}{}
-      \name{author}{5}{}{%
-        {{hash=0104eb18c78a8db8d96c432154c74d3e}{%
-           family={Lopes},
-           familyi={L\bibinitperiod},
-           given={Sérgio\bibnamedelima I.},
-           giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
-        {{hash=323688f77c8a3d77bb7889c4c73a72a0}{%
-           family={Pereira},
-           familyi={P\bibinitperiod},
-           given={Felisberto},
-           giveni={F\bibinitperiod}}}%
-        {{hash=6acc156390f8383288929befa910db82}{%
-           family={Vieira},
-           familyi={V\bibinitperiod},
-           given={José\bibnamedelimb M.\bibnamedelimi N.},
-           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
-        {{hash=a7a42189678b557957f692273f65e99f}{%
-           family={Carvalho},
-           familyi={C\bibinitperiod},
-           given={Nuno\bibnamedelima B.},
-           giveni={N\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{hash=be581ce96b59e83146ba581f61f92d45}{%
-           family={Curado},
-           familyi={C\bibinitperiod},
-           given={António},
-           giveni={A\bibinitperiod}}}%
-      }
-      \name{editor}{3}{}{%
-        {{hash=dac82144ddce0efde76247fed7e2ebcf}{%
-           family={Afonso},
-           familyi={A\bibinitperiod},
-           given={João\bibnamedelima L.},
-           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=1d7976bcc4c132a79693f9470bc114a5}{%
-           family={Monteiro},
-           familyi={M\bibinitperiod},
-           given={Vítor},
-           giveni={V\bibinitperiod}}}%
-        {{hash=f7d4d7708a33a9f18278123cae9da27a}{%
-           family={Pinto},
-           familyi={P\bibinitperiod},
-           given={José\bibnamedelima Gabriel},
-           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Cham}%
-      }
-      \list{publisher}{1}{%
-        {Springer International Publishing}%
-      }
-      \strng{namehash}{b720c30d41c3e4ccd841424eba1733fc}
-      \strng{fullhash}{a236c0e61ea8b1e91b50c5dc7dde2215}
-      \strng{bibnamehash}{a236c0e61ea8b1e91b50c5dc7dde2215}
-      \strng{authorbibnamehash}{a236c0e61ea8b1e91b50c5dc7dde2215}
-      \strng{authornamehash}{b720c30d41c3e4ccd841424eba1733fc}
-      \strng{authorfullhash}{a236c0e61ea8b1e91b50c5dc7dde2215}
-      \strng{editorbibnamehash}{08805d31961f29431c10cd162304cd46}
-      \strng{editornamehash}{08805d31961f29431c10cd162304cd46}
-      \strng{editorfullhash}{08805d31961f29431c10cd162304cd46}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The use of smart devices in buildings is many times compromised by its form and size. Smart devices are composed of several components including sensors, boards, batteries, processing units, and antennas. However, the form and size of the smart devices are usually limited due to antenna restrictions. In this paper, we propose the architecture of a compact low-cost LoRa smart device designed for easy deployment in smart building applications. The proposed device architecture features a reduced size embedded antenna and an ultra-low-power microcontroller to interface several sensors and actuators. The results obtained have shown that the proposed design can be used for communication, between two compact LoRa devices, in line-of-sight for up to 4.2 km, in urban environments for up to 1.2 km and also for in-building communications for up to 152 m, without compromising the low-power features that LoRa supports.}
-      \field{booktitle}{Green {{Energy}} and {{Networking}}}
-      \field{isbn}{978-3-030-12949-1 978-3-030-12950-7}
-      \field{langid}{english}
-      \field{note}{00000}
-      \field{title}{Design of {{Compact LoRa Devices}} for {{Smart Building Applications}}}
-      \field{urlday}{8}
-      \field{urlmonth}{8}
-      \field{urlyear}{2019}
-      \field{volume}{269}
-      \field{year}{2019}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{142\bibrangedash 153}
-      \range{pages}{12}
-      \verb{doi}
-      \verb 10.1007/978-3-030-12950-7_12
-      \endverb
-      \verb{file}
-      \verb Lopes et al. - 2019 - Design of Compact LoRa Devices for Smart Building:/home/aghiles/Aghiles/Research/Reading/iot/storage/AJP7C5TR/Lopes et al. - 2019 - Design of Compact LoRa Devices for Smart Building:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://link.springer.com/10.1007/978-3-030-12950-7_12
-      \endverb
-      \verb{url}
-      \verb http://link.springer.com/10.1007/978-3-030-12950-7_12
-      \endverb
-      \keyw{,App-Weather}
-    \endentry
-    \entry{al-kashoash_comparison_2016}{article}{}
-      \name{author}{2}{}{%
-        {{hash=e60cb8fa61db391c0f9697c7ee2bfad3}{%
-           family={Al-Kashoash},
-           familyi={A\bibinithyphendelim K\bibinitperiod},
-           given={H.\bibnamedelimi A.\bibnamedelimi A.},
-           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=7ced864d4acf1fdcd851e9d9e4d34d0d}{%
-           family={Kemp},
-           familyi={K\bibinitperiod},
-           given={Andrew\bibnamedelima H.},
-           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-      }
-      \strng{namehash}{061842bc39c59a20626b871b09c21776}
-      \strng{fullhash}{061842bc39c59a20626b871b09c21776}
-      \strng{bibnamehash}{061842bc39c59a20626b871b09c21776}
-      \strng{authorbibnamehash}{061842bc39c59a20626b871b09c21776}
-      \strng{authornamehash}{061842bc39c59a20626b871b09c21776}
-      \strng{authorfullhash}{061842bc39c59a20626b871b09c21776}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{By 2020, 50 billion devices (things) are expected to be connected to the Internet to form the Internet of Things (IoT) world. In general, two main categories of networks are used in the IoT: short-range and long-range low-power networks. IPv6 over low-power wireless personal area networks (6LoWPAN) are considered to be a crucial network in short-range low-power networks where 6LoWPAN motes will account for the majority of short-range low-power things. Also, LoRaWAN and SigFox are two major networking landscapes and players in long-range, low-power networks or oftentimes called low-power wide area networks (LPWAN). This paper reviews and compares 6LoWPAN and LPWAN in terms of network architecture, protocol stack, applications and security. In general, LPWAN networks are more demanding in terms of node and link constraints than 6LoWPAN networks (e.g. very low payload size, very low data rate and very limited resources). Also, as yet, LPWAN networks do not have IPv6 addressing capabilities. Each network category has its unique characteristics and strengths and each category has its important role in the IoT world.}
-      \field{issn}{1448-837X, 2205-362X}
-      \field{journaltitle}{Australian Journal of Electrical and Electronics Engineering}
-      \field{langid}{english}
-      \field{month}{10}
-      \field{note}{00010}
-      \field{number}{4}
-      \field{title}{Comparison of {{6LoWPAN}} and {{LPWAN}} for the {{Internet}} of {{Things}}}
-      \field{urlday}{30}
-      \field{urlmonth}{1}
-      \field{urlyear}{2019}
-      \field{volume}{13}
-      \field{year}{2016}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{268\bibrangedash 274}
-      \range{pages}{7}
-      \verb{doi}
-      \verb 10.1080/1448837X.2017.1409920
-      \endverb
-      \verb{file}
-      \verb Al-Kashoash_Kemp_2016_Comparison of 6LoWPAN and LPWAN for the Internet of Things.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/RDCM3GDN/Al-Kashoash_Kemp_2016_Comparison of 6LoWPAN and LPWAN for the Internet of Things.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.tandfonline.com/doi/full/10.1080/1448837X.2017.1409920
-      \endverb
-      \verb{url}
-      \verb https://www.tandfonline.com/doi/full/10.1080/1448837X.2017.1409920
-      \endverb
-      \keyw{,RAN}
-    \endentry
-    \entry{raza_low_22}{article}{}
-      \name{author}{3}{}{%
-        {{hash=e8a69868cd64dc2ff1153e27bfcbb865}{%
-           family={Raza},
-           familyi={R\bibinitperiod},
-           given={Usman},
-           giveni={U\bibinitperiod}}}%
-        {{hash=1f6b8ad37fa3e7a63956ecb0d4e12bc0}{%
-           family={Kulkarni},
-           familyi={K\bibinitperiod},
-           given={Parag},
-           giveni={P\bibinitperiod}}}%
-        {{hash=10ca98388652034518be980983547475}{%
-           family={Sooriyabandara},
-           familyi={S\bibinitperiod},
-           given={Mahesh},
-           giveni={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{0e3aace85a5ccdbc655184e3c88c301c}
-      \strng{fullhash}{0e3aace85a5ccdbc655184e3c88c301c}
-      \strng{bibnamehash}{0e3aace85a5ccdbc655184e3c88c301c}
-      \strng{authorbibnamehash}{0e3aace85a5ccdbc655184e3c88c301c}
-      \strng{authornamehash}{0e3aace85a5ccdbc655184e3c88c301c}
-      \strng{authorfullhash}{0e3aace85a5ccdbc655184e3c88c301c}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{endyear}{2017}
-      \field{issn}{1553-877X}
-      \field{journaltitle}{IEEE Communications Surveys \& Tutorials}
-      \field{note}{00537}
+      \field{journaltitle}{Journal of Sensor and Actuator Networks}
+      \field{note}{00042}
       \field{number}{2}
-      \field{shorttitle}{Low {{Power Wide Area Networks}}}
-      \field{title}{Low {{Power Wide Area Networks}}: {{An Overview}}}
-      \field{urlday}{13}
-      \field{urlmonth}{5}
-      \field{urlyear}{2019}
-      \field{volume}{19}
-      \field{year}{22}
-      \field{enddateera}{ce}
+      \field{title}{An Experimental Evaluation of the Reliability of Lora Long-Range Low-Power Wireless Communication}
+      \field{volume}{6}
+      \field{year}{2017}
       \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{855\bibrangedash 873}
-      \range{pages}{19}
-      \verb{doi}
-      \verb 10.1109/COMST.2017.2652320
-      \endverb
+      \field{pages}{7}
+      \range{pages}{1}
       \verb{file}
-      \verb Raza et al_2017_Low Power Wide Area Networks.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/2R4L94BG/Raza et al_2017_Low Power Wide Area Networks.pdf:application/pdf
+      \verb Cattani et al_2017_An experimental evaluation of the reliability of lora long-range low-power.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/Y4D92FBP/Cattani et al_2017_An experimental evaluation of the reliability of lora long-range low-power.pdf:application/pdf
       \endverb
-      \verb{urlraw}
-      \verb http://ieeexplore.ieee.org/document/7815384/
-      \endverb
-      \verb{url}
-      \verb http://ieeexplore.ieee.org/document/7815384/
-      \endverb
-      \keyw{,RAN}
+      \keyw{,Performance}
     \endentry
   \enddatalist
+  \missing{alkhawlani_access_2008a}
+  \missing{dimartino_internet_2018}
 \endrefsection
 \endinput
 
