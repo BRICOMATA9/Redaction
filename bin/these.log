@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.07.0 (TeX Live 2019/dev/Debian)  (format=lualatex 2019.10.13)  20 OCT 2019 12:52
+This is LuaTeX, Version 1.07.0 (TeX Live 2019/dev/Debian)  (format=lualatex 2019.10.12)  21 OCT 2019 08:00
  system commands enabled.
 **main.tex
 (./main.tex
@@ -48,7 +48,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.068 seconds
+luaotfload | main : initialization completed in 0.071 seconds
 (../lib/these.tex (/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
@@ -98,88 +98,88 @@ File: switch.def 2018/11/13 3.27 Babel switching mechanism
 \l@dumylang=\language2
 Package babel Info: Non-standard hyphenation setup on input line 114.
 \l@nohyphenation=\language3
-\l@slovak=\language4
-\l@tamil=\language5
-\l@pali=\language6
-\l@romanian=\language7
-\l@finnish=\language8
-\l@serbian=\language9
-\l@french=\language10
-\l@hindi=\language11
-\l@swedish=\language12
-\l@nynorsk=\language13
-\l@farsi=\language14
-\l@romansh=\language15
-\l@monogreek=\language16
-\l@ancientgreek=\language17
-\l@usenglishmax=\language18
-\l@esperanto=\language19
-\l@oriya=\language20
+\l@french=\language4
+\l@interlingua=\language5
+\l@romanian=\language6
+\l@mongolian=\language7
+\l@galician=\language8
+\l@churchslavonic=\language9
+\l@kurmanji=\language10
+\l@malayalam=\language11
+\l@latvian=\language12
+\l@estonian=\language13
+\l@danish=\language14
+\l@greek=\language15
+\l@thai=\language16
+\l@armenian=\language17
+\l@mongolianlmc=\language18
+\l@bokmal=\language19
+\l@ibycus=\language20
 \l@croatian=\language21
-\l@greek=\language22
-\l@friulan=\language23
-\l@basque=\language24
-\l@ukenglish=\language25
-\l@bulgarian=\language26
-\l@uppersorbian=\language27
-\l@ngerman-x-2018-03-31=\language28
-\l@estonian=\language29
-\l@dutch=\language30
-\l@german=\language31
-\l@ibycus=\language32
-\l@arabic=\language33
-\l@serbianc=\language34
-\l@kurmanji=\language35
-\l@pinyin=\language36
-\l@catalan=\language37
-\l@malayalam=\language38
-\l@liturgicallatin=\language39
-\l@hungarian=\language40
-\l@latvian=\language41
-\l@mongolianlmc=\language42
-\l@occitan=\language43
-\l@indonesian=\language44
-\l@gujarati=\language45
-\l@turkmen=\language46
-\l@assamese=\language47
-\l@polish=\language48
-\l@german-x-2018-03-31=\language49
-\l@churchslavonic=\language50
-\l@swissgerman=\language51
-\l@welsh=\language52
-\l@ukrainian=\language53
-\l@mongolian=\language54
-\l@slovenian=\language55
-\l@icelandic=\language56
-\l@ngerman=\language57
-\l@russian=\language58
-\l@bokmal=\language59
-\l@afrikaans=\language60
-\l@belarusian=\language61
-\l@latin=\language62
-\l@sanskrit=\language63
-\l@italian=\language64
-\l@danish=\language65
-\l@portuguese=\language66
-\l@classiclatin=\language67
-\l@telugu=\language68
-\l@irish=\language69
-\l@panjabi=\language70
-\l@thai=\language71
-\l@lithuanian=\language72
-\l@bengali=\language73
-\l@piedmontese=\language74
-\l@interlingua=\language75
-\l@kannada=\language76
-\l@armenian=\language77
-\l@galician=\language78
-\l@georgian=\language79
-\l@spanish=\language80
-\l@coptic=\language81
-\l@turkish=\language82
-\l@ethiopic=\language83
-\l@czech=\language84
-\l@marathi=\language85
+\l@pali=\language22
+\l@georgian=\language23
+\l@usenglishmax=\language24
+\l@dutch=\language25
+\l@romansh=\language26
+\l@ukrainian=\language27
+\l@ancientgreek=\language28
+\l@german=\language29
+\l@panjabi=\language30
+\l@pinyin=\language31
+\l@belarusian=\language32
+\l@liturgicallatin=\language33
+\l@ethiopic=\language34
+\l@portuguese=\language35
+\l@serbianc=\language36
+\l@classiclatin=\language37
+\l@serbian=\language38
+\l@italian=\language39
+\l@welsh=\language40
+\l@basque=\language41
+\l@catalan=\language42
+\l@lithuanian=\language43
+\l@esperanto=\language44
+\l@bengali=\language45
+\l@ukenglish=\language46
+\l@nynorsk=\language47
+\l@monogreek=\language48
+\l@latin=\language49
+\l@coptic=\language50
+\l@slovenian=\language51
+\l@russian=\language52
+\l@turkmen=\language53
+\l@friulan=\language54
+\l@oriya=\language55
+\l@polish=\language56
+\l@swedish=\language57
+\l@uppersorbian=\language58
+\l@czech=\language59
+\l@piedmontese=\language60
+\l@finnish=\language61
+\l@sanskrit=\language62
+\l@spanish=\language63
+\l@kannada=\language64
+\l@swissgerman=\language65
+\l@slovak=\language66
+\l@marathi=\language67
+\l@farsi=\language68
+\l@afrikaans=\language69
+\l@turkish=\language70
+\l@german-x-2018-03-31=\language71
+\l@occitan=\language72
+\l@gujarati=\language73
+\l@assamese=\language74
+\l@hungarian=\language75
+\l@irish=\language76
+\l@bulgarian=\language77
+\l@indonesian=\language78
+\l@tamil=\language79
+\l@telugu=\language80
+\l@ngerman=\language81
+\l@hindi=\language82
+\l@arabic=\language83
+\l@ngerman-x-2018-03-31=\language84
+\l@icelandic=\language85
 )
 (/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
@@ -3948,11 +3948,11 @@ Overfull \hbox (83.73055pt too wide) in paragraph at lines 3--23
 
 ) (./08-UTLC/03_background.tex) (./08-UTLC/04_approach.tex
 Package epstopdf Info: Source file: <../res/tmp/Figures/CrossRoadModel_V1.eps>
-(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    date: 2019-10-12 16:10:00
 (epstopdf)                    size: 124569 bytes
 (epstopdf)             Output file: <../res/tmp/Figures/CrossRoadModel_V1-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    date: 2019-10-12 16:10:00
 (epstopdf)                    size: 29569 bytes
 (epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/CrossRoad
 Model_V1-eps-converted-to.pdf ../res/tmp/Figures/CrossRoadModel_V1.eps>
@@ -3970,11 +3970,11 @@ df  used on input line 29.
 Missing character: There is no ’ (U+2019) in font ec-lmr10!
 ]
 Package epstopdf Info: Source file: <../res/tmp/Figures/TrafficlightModel.eps>
-(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    date: 2019-10-12 16:10:00
 (epstopdf)                    size: 8506 bytes
 (epstopdf)             Output file: <../res/tmp/Figures/TrafficlightModel-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    date: 2019-10-12 16:10:00
 (epstopdf)                    size: 4298 bytes
 (epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/Trafficli
 ghtModel-eps-converted-to.pdf ../res/tmp/Figures/TrafficlightModel.eps>
@@ -3989,11 +3989,11 @@ Package luatex.def Info: ../res/tmp/Figures/TrafficlightModel-eps-converted-to.p
 df  used on input line 116.
 (luatex.def)             Requested size: 325.215pt x 122.66377pt.
 Package epstopdf Info: Source file: <../res/tmp/Figures/MiddlewareModel.eps>
-(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    date: 2019-10-12 16:10:00
 (epstopdf)                    size: 17123 bytes
 (epstopdf)             Output file: <../res/tmp/Figures/MiddlewareModel-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    date: 2019-10-12 16:10:00
 (epstopdf)                    size: 5168 bytes
 (epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/Middlewar
 eModel-eps-converted-to.pdf ../res/tmp/Figures/MiddlewareModel.eps>
@@ -4010,11 +4010,11 @@ Package luatex.def Info: ../res/tmp/Figures/MiddlewareModel-eps-converted-to.pdf
  [64<../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.pdf><../res/tmp/Figur
 es/TrafficlightModel-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <../res/tmp/Figures/CloudModel.eps>
-(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    date: 2019-10-12 16:10:00
 (epstopdf)                    size: 6424 bytes
 (epstopdf)             Output file: <../res/tmp/Figures/CloudModel-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    date: 2019-10-12 16:10:00
 (epstopdf)                    size: 3823 bytes
 (epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/CloudMode
 l-eps-converted-to.pdf ../res/tmp/Figures/CloudModel.eps>
@@ -4035,11 +4035,11 @@ LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
 LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
 (Font)              scaled to size 7.68005pt on input line 4.
 Package epstopdf Info: Source file: <../res/tmp/Figures/ScenarioPaper.eps>
-(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    date: 2019-10-12 16:10:00
 (epstopdf)                    size: 790082 bytes
 (epstopdf)             Output file: <../res/tmp/Figures/ScenarioPaper-eps-conver
 ted-to.pdf>
-(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    date: 2019-10-12 16:10:00
 (epstopdf)                    size: 79930 bytes
 (epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/ScenarioP
 aper-eps-converted-to.pdf ../res/tmp/Figures/ScenarioPaper.eps>
@@ -4072,11 +4072,11 @@ Missing character: There is no ’ (U+2019) in font ec-lmr10!
 <../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf><../res/tmp/Figures/ether
 netRouter.png>]
 Package epstopdf Info: Source file: <../res/tmp/Figures/StackIoTv1.eps>
-(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    date: 2019-10-12 16:10:00
 (epstopdf)                    size: 55400 bytes
 (epstopdf)             Output file: <../res/tmp/Figures/StackIoTv1-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    date: 2019-10-12 16:10:00
 (epstopdf)                    size: 18793 bytes
 (epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/StackIoTv
 1-eps-converted-to.pdf ../res/tmp/Figures/StackIoTv1.eps>
@@ -4093,11 +4093,11 @@ d on input line 233.
 ) (./08-UTLC/06_results.tex [68<../res/tmp/Figures/StackIoTv1-eps-converted-to.p
 df>]
 Package epstopdf Info: Source file: <../res/tmp/Figures/distributions_v3.eps>
-(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    date: 2019-10-12 16:10:00
 (epstopdf)                    size: 46701 bytes
 (epstopdf)             Output file: <../res/tmp/Figures/distributions_v3-eps-con
 verted-to.pdf>
-(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    date: 2019-10-12 16:10:00
 (epstopdf)                    size: 45885 bytes
 (epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/distribut
 ions_v3-eps-converted-to.pdf ../res/tmp/Figures/distributions_v3.eps>
@@ -4116,11 +4116,11 @@ Underfull \vbox (badness 7168) has occurred while \output is active []
 
  [69<../res/tmp/Figures/distributions_v3-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <../res/tmp/Figures/cdf_v3.eps>
-(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    date: 2019-10-12 16:10:00
 (epstopdf)                    size: 10221 bytes
 (epstopdf)             Output file: <../res/tmp/Figures/cdf_v3-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    date: 2019-10-12 16:10:00
 (epstopdf)                    size: 12730 bytes
 (epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/cdf_v3-ep
 s-converted-to.pdf ../res/tmp/Figures/cdf_v3.eps>
@@ -5260,7 +5260,7 @@ ri9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-ch
 b7t.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-ch
 b7y.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-ch
 r7v.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on these.pdf (99 pages, 9431114 bytes).
+Output written on these.pdf (99 pages, 9431106 bytes).
 
 PDF statistics: 3019 PDF objects out of 3580 (max. 8388607)
  2709 compressed objects within 28 object streams
