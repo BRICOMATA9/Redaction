@@ -1,0 +1,460 @@
+\headcommand {\beamer@sectionpages {1}{0}}
+\headcommand {\beamer@subsectionpages {1}{0}}
+\headcommand {\sectionentry {1}{Introduction}{1}{Introduction}{0}}
+\headcommand {\slideentry {1}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {1}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\slideentry {1}{0}{3}{3/3}{}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\slideentry {1}{0}{4}{4/4}{}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\slideentry {1}{0}{5}{5/5}{}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\slideentry {1}{0}{6}{6/6}{}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\slideentry {1}{0}{7}{7/7}{}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\slideentry {1}{0}{8}{8/8}{}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\slideentry {1}{0}{9}{9/10}{}{0}}
+\headcommand {\beamer@framepages {9}{10}}
+\headcommand {\slideentry {1}{0}{10}{11/11}{}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\slideentry {1}{0}{11}{12/12}{}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\slideentry {1}{0}{12}{13/14}{}{0}}
+\headcommand {\beamer@framepages {13}{14}}
+\headcommand {\slideentry {1}{0}{13}{15/15}{}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\beamer@sectionpages {1}{15}}
+\headcommand {\beamer@subsectionpages {1}{15}}
+\headcommand {\sectionentry {2}{State of the art}{16}{State of the art}{0}}
+\headcommand {\slideentry {2}{0}{1}{16/16}{}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\beamer@subsectionpages {16}{16}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{17}{Related work}}
+\headcommand {\slideentry {2}{1}{1}{17/17}{Related work}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\slideentry {2}{1}{2}{18/18}{Related work}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\beamer@subsectionpages {17}{18}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{19}{Discussion}}
+\headcommand {\slideentry {2}{2}{1}{19/19}{Discussion}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\slideentry {2}{2}{2}{20/20}{Discussion}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\beamer@sectionpages {16}{20}}
+\headcommand {\beamer@subsectionpages {19}{20}}
+\headcommand {\sectionentry {3}{x-Testbed}{21}{x-Testbed}{0}}
+\headcommand {\slideentry {3}{0}{1}{21/21}{}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\beamer@subsectionpages {21}{21}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{22}{Problem statement}}
+\headcommand {\slideentry {3}{1}{1}{22/22}{Problem statement}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\slideentry {3}{1}{2}{23/23}{Problem statement}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\beamer@subsectionpages {22}{23}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{24}{Related work}}
+\headcommand {\slideentry {3}{2}{1}{24/24}{Related work}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\slideentry {3}{2}{2}{25/25}{Related work}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\slideentry {3}{2}{3}{26/26}{Related work}{0}}
+\headcommand {\beamer@framepages {26}{26}}
+\headcommand {\beamer@subsectionpages {24}{26}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{27}{Contagion process}}
+\headcommand {\slideentry {3}{3}{1}{27/27}{Contagion process}{0}}
+\headcommand {\beamer@framepages {27}{27}}
+\headcommand {\slideentry {3}{3}{2}{28/28}{Contagion process}{0}}
+\headcommand {\beamer@framepages {28}{28}}
+\headcommand {\slideentry {3}{3}{3}{29/29}{Contagion process}{0}}
+\headcommand {\beamer@framepages {29}{29}}
+\headcommand {\slideentry {3}{3}{4}{30/30}{Contagion process}{0}}
+\headcommand {\beamer@framepages {30}{30}}
+\headcommand {\slideentry {3}{3}{5}{31/31}{Contagion process}{0}}
+\headcommand {\beamer@framepages {31}{31}}
+\headcommand {\slideentry {3}{3}{6}{32/32}{Contagion process}{0}}
+\headcommand {\beamer@framepages {32}{32}}
+\headcommand {\beamer@subsectionpages {27}{32}}
+\headcommand {\beamer@subsectionentry {0}{3}{4}{33}{Experimentation}}
+\headcommand {\slideentry {3}{4}{1}{33/33}{Experimentation}{0}}
+\headcommand {\beamer@framepages {33}{33}}
+\headcommand {\slideentry {3}{4}{2}{34/34}{Experimentation}{0}}
+\headcommand {\beamer@framepages {34}{34}}
+\headcommand {\beamer@subsectionpages {33}{34}}
+\headcommand {\beamer@subsectionentry {0}{3}{5}{35}{Results exploitation}}
+\headcommand {\slideentry {3}{5}{1}{35/35}{Results exploitation}{0}}
+\headcommand {\beamer@framepages {35}{35}}
+\headcommand {\slideentry {3}{5}{2}{36/36}{Results exploitation}{0}}
+\headcommand {\beamer@framepages {36}{36}}
+\headcommand {\beamer@subsectionpages {35}{36}}
+\headcommand {\beamer@subsectionentry {0}{3}{6}{37}{Discussion}}
+\headcommand {\slideentry {3}{6}{1}{37/37}{Discussion}{0}}
+\headcommand {\beamer@framepages {37}{37}}
+\headcommand {\slideentry {3}{6}{2}{38/38}{Discussion}{0}}
+\headcommand {\beamer@framepages {38}{38}}
+\headcommand {\beamer@sectionpages {21}{38}}
+\headcommand {\beamer@subsectionpages {37}{38}}
+\headcommand {\sectionentry {4}{x-Sentilo}{39}{x-Sentilo}{0}}
+\headcommand {\slideentry {4}{0}{1}{39/39}{}{0}}
+\headcommand {\beamer@framepages {39}{39}}
+\headcommand {\beamer@subsectionpages {39}{39}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{40}{Problem statement}}
+\headcommand {\slideentry {4}{1}{1}{40/40}{Problem statement}{0}}
+\headcommand {\beamer@framepages {40}{40}}
+\headcommand {\slideentry {4}{1}{2}{41/41}{Problem statement}{0}}
+\headcommand {\beamer@framepages {41}{41}}
+\headcommand {\beamer@subsectionpages {40}{41}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{42}{Related work}}
+\headcommand {\slideentry {4}{2}{1}{42/42}{Related work}{0}}
+\headcommand {\beamer@framepages {42}{42}}
+\headcommand {\slideentry {4}{2}{2}{43/43}{Related work}{0}}
+\headcommand {\beamer@framepages {43}{43}}
+\headcommand {\slideentry {4}{2}{3}{44/44}{Related work}{0}}
+\headcommand {\beamer@framepages {44}{44}}
+\headcommand {\beamer@subsectionpages {42}{44}}
+\headcommand {\beamer@subsectionentry {0}{4}{3}{45}{Contagion process}}
+\headcommand {\slideentry {4}{3}{1}{45/45}{Contagion process}{0}}
+\headcommand {\beamer@framepages {45}{45}}
+\headcommand {\slideentry {4}{3}{2}{46/46}{Contagion process}{0}}
+\headcommand {\beamer@framepages {46}{46}}
+\headcommand {\slideentry {4}{3}{3}{47/47}{Contagion process}{0}}
+\headcommand {\beamer@framepages {47}{47}}
+\headcommand {\slideentry {4}{3}{4}{48/48}{Contagion process}{0}}
+\headcommand {\beamer@framepages {48}{48}}
+\headcommand {\slideentry {4}{3}{5}{49/49}{Contagion process}{0}}
+\headcommand {\beamer@framepages {49}{49}}
+\headcommand {\beamer@subsectionpages {45}{49}}
+\headcommand {\beamer@subsectionentry {0}{4}{4}{50}{Experimentation}}
+\headcommand {\slideentry {4}{4}{1}{50/50}{Experimentation}{0}}
+\headcommand {\beamer@framepages {50}{50}}
+\headcommand {\slideentry {4}{4}{2}{51/51}{Experimentation}{0}}
+\headcommand {\beamer@framepages {51}{51}}
+\headcommand {\beamer@subsectionpages {50}{51}}
+\headcommand {\beamer@subsectionentry {0}{4}{5}{52}{Results exploitation}}
+\headcommand {\slideentry {4}{5}{1}{52/52}{Results exploitation}{0}}
+\headcommand {\beamer@framepages {52}{52}}
+\headcommand {\slideentry {4}{5}{2}{53/53}{Results exploitation}{0}}
+\headcommand {\beamer@framepages {53}{53}}
+\headcommand {\beamer@subsectionpages {52}{53}}
+\headcommand {\beamer@subsectionentry {0}{4}{6}{54}{Discussion}}
+\headcommand {\slideentry {4}{6}{1}{54/54}{Discussion}{0}}
+\headcommand {\beamer@framepages {54}{54}}
+\headcommand {\slideentry {4}{6}{2}{55/55}{Discussion}{0}}
+\headcommand {\beamer@framepages {55}{55}}
+\headcommand {\beamer@sectionpages {39}{55}}
+\headcommand {\beamer@subsectionpages {54}{55}}
+\headcommand {\sectionentry {5}{x-Long paper}{56}{x-Long paper}{0}}
+\headcommand {\slideentry {5}{0}{1}{56/56}{}{0}}
+\headcommand {\beamer@framepages {56}{56}}
+\headcommand {\beamer@subsectionpages {56}{56}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{57}{Problem statement}}
+\headcommand {\slideentry {5}{1}{1}{57/57}{Problem statement}{0}}
+\headcommand {\beamer@framepages {57}{57}}
+\headcommand {\slideentry {5}{1}{2}{58/58}{Problem statement}{0}}
+\headcommand {\beamer@framepages {58}{58}}
+\headcommand {\beamer@subsectionpages {57}{58}}
+\headcommand {\beamer@subsectionentry {0}{5}{2}{59}{Related work}}
+\headcommand {\slideentry {5}{2}{1}{59/59}{Related work}{0}}
+\headcommand {\beamer@framepages {59}{59}}
+\headcommand {\slideentry {5}{2}{2}{60/60}{Related work}{0}}
+\headcommand {\beamer@framepages {60}{60}}
+\headcommand {\slideentry {5}{2}{3}{61/61}{Related work}{0}}
+\headcommand {\beamer@framepages {61}{61}}
+\headcommand {\beamer@subsectionpages {59}{61}}
+\headcommand {\beamer@subsectionentry {0}{5}{3}{62}{Contagion process}}
+\headcommand {\slideentry {5}{3}{1}{62/62}{Contagion process}{0}}
+\headcommand {\beamer@framepages {62}{62}}
+\headcommand {\slideentry {5}{3}{2}{63/63}{Contagion process}{0}}
+\headcommand {\beamer@framepages {63}{63}}
+\headcommand {\slideentry {5}{3}{3}{64/64}{Contagion process}{0}}
+\headcommand {\beamer@framepages {64}{64}}
+\headcommand {\slideentry {5}{3}{4}{65/65}{Contagion process}{0}}
+\headcommand {\beamer@framepages {65}{65}}
+\headcommand {\slideentry {5}{3}{5}{66/66}{Contagion process}{0}}
+\headcommand {\beamer@framepages {66}{66}}
+\headcommand {\slideentry {5}{3}{6}{67/67}{Contagion process}{0}}
+\headcommand {\beamer@framepages {67}{67}}
+\headcommand {\beamer@subsectionpages {62}{67}}
+\headcommand {\beamer@subsectionentry {0}{5}{4}{68}{Experimentation}}
+\headcommand {\slideentry {5}{4}{1}{68/68}{Experimentation}{0}}
+\headcommand {\beamer@framepages {68}{68}}
+\headcommand {\slideentry {5}{4}{2}{69/69}{Experimentation}{0}}
+\headcommand {\beamer@framepages {69}{69}}
+\headcommand {\beamer@subsectionpages {68}{69}}
+\headcommand {\beamer@subsectionentry {0}{5}{5}{70}{Results exploitation}}
+\headcommand {\slideentry {5}{5}{1}{70/70}{Results exploitation}{0}}
+\headcommand {\beamer@framepages {70}{70}}
+\headcommand {\slideentry {5}{5}{2}{71/71}{Results exploitation}{0}}
+\headcommand {\beamer@framepages {71}{71}}
+\headcommand {\beamer@subsectionpages {70}{71}}
+\headcommand {\beamer@subsectionentry {0}{5}{6}{72}{Discussion}}
+\headcommand {\slideentry {5}{6}{1}{72/72}{Discussion}{0}}
+\headcommand {\beamer@framepages {72}{72}}
+\headcommand {\slideentry {5}{6}{2}{73/73}{Discussion}{0}}
+\headcommand {\beamer@framepages {73}{73}}
+\headcommand {\beamer@sectionpages {56}{73}}
+\headcommand {\beamer@subsectionpages {72}{73}}
+\headcommand {\sectionentry {6}{Genetic Algorithm For LoRa Transmission Parameter Selection}{74}{Genetic Algorithm For LoRa Transmission Parameter Selection}{0}}
+\headcommand {\slideentry {6}{0}{1}{74/74}{}{0}}
+\headcommand {\beamer@framepages {74}{74}}
+\headcommand {\beamer@subsectionpages {74}{74}}
+\headcommand {\beamer@subsectionentry {0}{6}{1}{75}{Problem statement}}
+\headcommand {\slideentry {6}{1}{1}{75/75}{Problem statement}{0}}
+\headcommand {\beamer@framepages {75}{75}}
+\headcommand {\slideentry {6}{1}{2}{76/76}{Problem statement}{0}}
+\headcommand {\beamer@framepages {76}{76}}
+\headcommand {\beamer@subsectionpages {75}{76}}
+\headcommand {\beamer@subsectionentry {0}{6}{2}{77}{Related work}}
+\headcommand {\slideentry {6}{2}{1}{77/77}{Related work}{0}}
+\headcommand {\beamer@framepages {77}{77}}
+\headcommand {\beamer@subsectionpages {77}{77}}
+\headcommand {\beamer@subsectionentry {0}{6}{3}{78}{Background}}
+\headcommand {\slideentry {6}{3}{1}{78/78}{Background}{0}}
+\headcommand {\beamer@framepages {78}{78}}
+\headcommand {\beamer@subsubsectionentry {0}{6}{3}{1}{79}{Bandit Algorithm}}
+\headcommand {\slideentry {6}{3}{2}{79/79}{Background}{0}}
+\headcommand {\beamer@framepages {79}{79}}
+\headcommand {\slideentry {6}{3}{3}{80/80}{Background}{0}}
+\headcommand {\beamer@framepages {80}{80}}
+\headcommand {\beamer@subsubsectionentry {0}{6}{3}{2}{81}{Genetic Algorithm}}
+\headcommand {\slideentry {6}{3}{4}{81/81}{Background}{0}}
+\headcommand {\beamer@framepages {81}{81}}
+\headcommand {\slideentry {6}{3}{5}{82/82}{Background}{0}}
+\headcommand {\beamer@framepages {82}{82}}
+\headcommand {\slideentry {6}{3}{6}{83/83}{Background}{0}}
+\headcommand {\beamer@framepages {83}{83}}
+\headcommand {\beamer@subsubsectionentry {0}{6}{3}{3}{84}{Marcov chain}}
+\headcommand {\slideentry {6}{3}{7}{84/84}{Background}{0}}
+\headcommand {\beamer@framepages {84}{84}}
+\headcommand {\slideentry {6}{3}{8}{85/85}{Background}{0}}
+\headcommand {\beamer@framepages {85}{85}}
+\headcommand {\slideentry {6}{3}{9}{86/86}{Background}{0}}
+\headcommand {\beamer@framepages {86}{86}}
+\headcommand {\beamer@subsubsectionentry {0}{6}{3}{4}{87}{Game theory}}
+\headcommand {\slideentry {6}{3}{10}{87/87}{Background}{0}}
+\headcommand {\beamer@framepages {87}{87}}
+\headcommand {\slideentry {6}{3}{11}{88/88}{Background}{0}}
+\headcommand {\beamer@framepages {88}{88}}
+\headcommand {\beamer@subsectionpages {78}{88}}
+\headcommand {\beamer@subsectionentry {0}{6}{4}{89}{Method}}
+\headcommand {\slideentry {6}{4}{1}{89/89}{Method}{0}}
+\headcommand {\beamer@framepages {89}{89}}
+\headcommand {\slideentry {6}{4}{2}{90/90}{Method}{0}}
+\headcommand {\beamer@framepages {90}{90}}
+\headcommand {\slideentry {6}{4}{3}{91/91}{Method}{0}}
+\headcommand {\beamer@framepages {91}{91}}
+\headcommand {\slideentry {6}{4}{4}{92/92}{Method}{0}}
+\headcommand {\beamer@framepages {92}{92}}
+\headcommand {\beamer@subsectionpages {89}{92}}
+\headcommand {\beamer@subsectionentry {0}{6}{5}{93}{Experimentation}}
+\headcommand {\slideentry {6}{5}{1}{93/93}{Experimentation}{0}}
+\headcommand {\beamer@framepages {93}{93}}
+\headcommand {\slideentry {6}{5}{2}{94/94}{Experimentation}{0}}
+\headcommand {\beamer@framepages {94}{94}}
+\headcommand {\slideentry {6}{5}{3}{95/95}{Experimentation}{0}}
+\headcommand {\beamer@framepages {95}{95}}
+\headcommand {\slideentry {6}{5}{4}{96/96}{Experimentation}{0}}
+\headcommand {\beamer@framepages {96}{96}}
+\headcommand {\beamer@subsectionpages {93}{96}}
+\headcommand {\beamer@subsectionentry {0}{6}{6}{97}{Results}}
+\headcommand {\slideentry {6}{6}{1}{97/97}{Results}{0}}
+\headcommand {\beamer@framepages {97}{97}}
+\headcommand {\slideentry {6}{6}{2}{98/98}{Results}{0}}
+\headcommand {\beamer@framepages {98}{98}}
+\headcommand {\beamer@subsectionpages {97}{98}}
+\headcommand {\beamer@subsectionentry {0}{6}{7}{99}{Discussion}}
+\headcommand {\slideentry {6}{7}{1}{99/99}{Discussion}{0}}
+\headcommand {\beamer@framepages {99}{99}}
+\headcommand {\slideentry {6}{7}{2}{100/100}{Discussion}{0}}
+\headcommand {\beamer@framepages {100}{100}}
+\headcommand {\beamer@sectionpages {74}{100}}
+\headcommand {\beamer@subsectionpages {99}{100}}
+\headcommand {\sectionentry {7}{Emergency Evacuation System With LoRa and IEEE.802.15.4 Technologies in a Disaster Use Case}{101}{Emergency Evacuation System With LoRa and IEEE.802.15.4 Technologies in a Disaster Use Case}{0}}
+\headcommand {\slideentry {7}{0}{1}{101/101}{}{0}}
+\headcommand {\beamer@framepages {101}{101}}
+\headcommand {\beamer@subsectionpages {101}{101}}
+\headcommand {\beamer@subsectionentry {0}{7}{1}{102}{Problem statement}}
+\headcommand {\slideentry {7}{1}{1}{102/102}{Problem statement}{0}}
+\headcommand {\beamer@framepages {102}{102}}
+\headcommand {\slideentry {7}{1}{2}{103/103}{Problem statement}{0}}
+\headcommand {\beamer@framepages {103}{103}}
+\headcommand {\beamer@subsectionpages {102}{103}}
+\headcommand {\beamer@subsectionentry {0}{7}{2}{104}{Related work}}
+\headcommand {\slideentry {7}{2}{1}{104/104}{Related work}{0}}
+\headcommand {\beamer@framepages {104}{104}}
+\headcommand {\slideentry {7}{2}{2}{105/105}{Related work}{0}}
+\headcommand {\beamer@framepages {105}{105}}
+\headcommand {\slideentry {7}{2}{3}{106/106}{Related work}{0}}
+\headcommand {\beamer@framepages {106}{106}}
+\headcommand {\beamer@subsectionpages {104}{106}}
+\headcommand {\beamer@subsectionentry {0}{7}{3}{107}{Contagion process}}
+\headcommand {\slideentry {7}{3}{1}{107/107}{Contagion process}{0}}
+\headcommand {\beamer@framepages {107}{107}}
+\headcommand {\slideentry {7}{3}{2}{108/108}{Contagion process}{0}}
+\headcommand {\beamer@framepages {108}{108}}
+\headcommand {\slideentry {7}{3}{3}{109/109}{Contagion process}{0}}
+\headcommand {\beamer@framepages {109}{109}}
+\headcommand {\slideentry {7}{3}{4}{110/110}{Contagion process}{0}}
+\headcommand {\beamer@framepages {110}{110}}
+\headcommand {\slideentry {7}{3}{5}{111/111}{Contagion process}{0}}
+\headcommand {\beamer@framepages {111}{111}}
+\headcommand {\slideentry {7}{3}{6}{112/112}{Contagion process}{0}}
+\headcommand {\beamer@framepages {112}{112}}
+\headcommand {\beamer@subsectionpages {107}{112}}
+\headcommand {\beamer@subsectionentry {0}{7}{4}{113}{Experimentation}}
+\headcommand {\slideentry {7}{4}{1}{113/113}{Experimentation}{0}}
+\headcommand {\beamer@framepages {113}{113}}
+\headcommand {\slideentry {7}{4}{2}{114/114}{Experimentation}{0}}
+\headcommand {\beamer@framepages {114}{114}}
+\headcommand {\beamer@subsectionpages {113}{114}}
+\headcommand {\beamer@subsectionentry {0}{7}{5}{115}{Results exploitation}}
+\headcommand {\slideentry {7}{5}{1}{115/115}{Results exploitation}{0}}
+\headcommand {\beamer@framepages {115}{115}}
+\headcommand {\slideentry {7}{5}{2}{116/116}{Results exploitation}{0}}
+\headcommand {\beamer@framepages {116}{116}}
+\headcommand {\beamer@subsectionpages {115}{116}}
+\headcommand {\beamer@subsectionentry {0}{7}{6}{117}{Discussion}}
+\headcommand {\slideentry {7}{6}{1}{117/117}{Discussion}{0}}
+\headcommand {\beamer@framepages {117}{117}}
+\headcommand {\slideentry {7}{6}{2}{118/118}{Discussion}{0}}
+\headcommand {\beamer@framepages {118}{118}}
+\headcommand {\beamer@sectionpages {101}{118}}
+\headcommand {\beamer@subsectionpages {117}{118}}
+\headcommand {\sectionentry {8}{Template}{119}{Template}{0}}
+\headcommand {\slideentry {8}{0}{1}{119/119}{}{0}}
+\headcommand {\beamer@framepages {119}{119}}
+\headcommand {\beamer@subsectionpages {119}{119}}
+\headcommand {\beamer@subsectionentry {0}{8}{1}{120}{Problem statement}}
+\headcommand {\slideentry {8}{1}{1}{120/120}{Problem statement}{0}}
+\headcommand {\beamer@framepages {120}{120}}
+\headcommand {\slideentry {8}{1}{2}{121/121}{Problem statement}{0}}
+\headcommand {\beamer@framepages {121}{121}}
+\headcommand {\beamer@subsectionpages {120}{121}}
+\headcommand {\beamer@subsectionentry {0}{8}{2}{122}{Related work}}
+\headcommand {\slideentry {8}{2}{1}{122/122}{Related work}{0}}
+\headcommand {\beamer@framepages {122}{122}}
+\headcommand {\slideentry {8}{2}{2}{123/123}{Related work}{0}}
+\headcommand {\beamer@framepages {123}{123}}
+\headcommand {\slideentry {8}{2}{3}{124/124}{Related work}{0}}
+\headcommand {\beamer@framepages {124}{124}}
+\headcommand {\beamer@subsectionpages {122}{124}}
+\headcommand {\beamer@subsectionentry {0}{8}{3}{125}{Contagion process}}
+\headcommand {\slideentry {8}{3}{1}{125/125}{Contagion process}{0}}
+\headcommand {\beamer@framepages {125}{125}}
+\headcommand {\slideentry {8}{3}{2}{126/126}{Contagion process}{0}}
+\headcommand {\beamer@framepages {126}{126}}
+\headcommand {\slideentry {8}{3}{3}{127/127}{Contagion process}{0}}
+\headcommand {\beamer@framepages {127}{127}}
+\headcommand {\slideentry {8}{3}{4}{128/128}{Contagion process}{0}}
+\headcommand {\beamer@framepages {128}{128}}
+\headcommand {\slideentry {8}{3}{5}{129/129}{Contagion process}{0}}
+\headcommand {\beamer@framepages {129}{129}}
+\headcommand {\slideentry {8}{3}{6}{130/130}{Contagion process}{0}}
+\headcommand {\beamer@framepages {130}{130}}
+\headcommand {\beamer@subsectionpages {125}{130}}
+\headcommand {\beamer@subsectionentry {0}{8}{4}{131}{Experimentation}}
+\headcommand {\slideentry {8}{4}{1}{131/131}{Experimentation}{0}}
+\headcommand {\beamer@framepages {131}{131}}
+\headcommand {\slideentry {8}{4}{2}{132/132}{Experimentation}{0}}
+\headcommand {\beamer@framepages {132}{132}}
+\headcommand {\beamer@subsectionpages {131}{132}}
+\headcommand {\beamer@subsectionentry {0}{8}{5}{133}{Results exploitation}}
+\headcommand {\slideentry {8}{5}{1}{133/133}{Results exploitation}{0}}
+\headcommand {\beamer@framepages {133}{133}}
+\headcommand {\slideentry {8}{5}{2}{134/134}{Results exploitation}{0}}
+\headcommand {\beamer@framepages {134}{134}}
+\headcommand {\beamer@subsectionpages {133}{134}}
+\headcommand {\beamer@subsectionentry {0}{8}{6}{135}{Discussion}}
+\headcommand {\slideentry {8}{6}{1}{135/135}{Discussion}{0}}
+\headcommand {\beamer@framepages {135}{135}}
+\headcommand {\slideentry {8}{6}{2}{136/136}{Discussion}{0}}
+\headcommand {\beamer@framepages {136}{136}}
+\headcommand {\beamer@sectionpages {119}{136}}
+\headcommand {\beamer@subsectionpages {135}{136}}
+\headcommand {\sectionentry {9}{UTLC}{137}{UTLC}{0}}
+\headcommand {\slideentry {9}{0}{1}{137/137}{}{0}}
+\headcommand {\beamer@framepages {137}{137}}
+\headcommand {\beamer@subsectionpages {137}{137}}
+\headcommand {\beamer@subsectionentry {0}{9}{1}{138}{Problem statement}}
+\headcommand {\slideentry {9}{1}{1}{138/138}{Problem statement}{0}}
+\headcommand {\beamer@framepages {138}{138}}
+\headcommand {\slideentry {9}{1}{2}{139/139}{Problem statement}{0}}
+\headcommand {\beamer@framepages {139}{139}}
+\headcommand {\beamer@subsectionpages {138}{139}}
+\headcommand {\beamer@subsectionentry {0}{9}{2}{140}{Related work}}
+\headcommand {\slideentry {9}{2}{1}{140/140}{Related work}{0}}
+\headcommand {\beamer@framepages {140}{140}}
+\headcommand {\slideentry {9}{2}{2}{141/141}{Related work}{0}}
+\headcommand {\beamer@framepages {141}{141}}
+\headcommand {\slideentry {9}{2}{3}{142/142}{Related work}{0}}
+\headcommand {\beamer@framepages {142}{142}}
+\headcommand {\beamer@subsectionpages {140}{142}}
+\headcommand {\beamer@subsectionentry {0}{9}{3}{143}{Contagion process}}
+\headcommand {\slideentry {9}{3}{1}{143/143}{Contagion process}{0}}
+\headcommand {\beamer@framepages {143}{143}}
+\headcommand {\slideentry {9}{3}{2}{144/144}{Contagion process}{0}}
+\headcommand {\beamer@framepages {144}{144}}
+\headcommand {\slideentry {9}{3}{3}{145/145}{Contagion process}{0}}
+\headcommand {\beamer@framepages {145}{145}}
+\headcommand {\slideentry {9}{3}{4}{146/146}{Contagion process}{0}}
+\headcommand {\beamer@framepages {146}{146}}
+\headcommand {\slideentry {9}{3}{5}{147/147}{Contagion process}{0}}
+\headcommand {\beamer@framepages {147}{147}}
+\headcommand {\slideentry {9}{3}{6}{148/148}{Contagion process}{0}}
+\headcommand {\beamer@framepages {148}{148}}
+\headcommand {\slideentry {9}{3}{7}{149/149}{Contagion process}{0}}
+\headcommand {\beamer@framepages {149}{149}}
+\headcommand {\beamer@subsectionpages {143}{149}}
+\headcommand {\beamer@subsectionentry {0}{9}{4}{150}{Experimentation}}
+\headcommand {\slideentry {9}{4}{1}{150/150}{Experimentation}{0}}
+\headcommand {\beamer@framepages {150}{150}}
+\headcommand {\slideentry {9}{4}{2}{151/151}{Experimentation}{0}}
+\headcommand {\beamer@framepages {151}{151}}
+\headcommand {\beamer@subsectionpages {150}{151}}
+\headcommand {\beamer@subsectionentry {0}{9}{5}{152}{Results exploitation}}
+\headcommand {\slideentry {9}{5}{1}{152/152}{Results exploitation}{0}}
+\headcommand {\beamer@framepages {152}{152}}
+\headcommand {\slideentry {9}{5}{2}{153/153}{Results exploitation}{0}}
+\headcommand {\beamer@framepages {153}{153}}
+\headcommand {\beamer@subsectionpages {152}{153}}
+\headcommand {\beamer@subsectionentry {0}{9}{6}{154}{Discussion}}
+\headcommand {\slideentry {9}{6}{1}{154/154}{Discussion}{0}}
+\headcommand {\beamer@framepages {154}{154}}
+\headcommand {\slideentry {9}{6}{2}{155/155}{Discussion}{0}}
+\headcommand {\beamer@framepages {155}{155}}
+\headcommand {\beamer@sectionpages {137}{155}}
+\headcommand {\beamer@subsectionpages {154}{155}}
+\headcommand {\sectionentry {10}{Conclusion}{156}{Conclusion}{0}}
+\headcommand {\slideentry {10}{0}{1}{156/156}{}{0}}
+\headcommand {\beamer@framepages {156}{156}}
+\headcommand {\slideentry {10}{0}{2}{157/157}{}{0}}
+\headcommand {\beamer@framepages {157}{157}}
+\headcommand {\slideentry {10}{0}{3}{158/158}{}{0}}
+\headcommand {\beamer@framepages {158}{158}}
+\headcommand {\beamer@sectionpages {156}{158}}
+\headcommand {\beamer@subsectionpages {156}{158}}
+\headcommand {\sectionentry {11}{Survey Platforms}{159}{Survey Platforms}{0}}
+\headcommand {\slideentry {11}{0}{1}{159/159}{}{0}}
+\headcommand {\beamer@framepages {159}{159}}
+\headcommand {\beamer@sectionpages {159}{159}}
+\headcommand {\beamer@subsectionpages {159}{159}}
+\headcommand {\sectionentry {12}{Management}{160}{Management}{0}}
+\headcommand {\slideentry {12}{0}{1}{160/160}{}{0}}
+\headcommand {\beamer@framepages {160}{160}}
+\headcommand {\beamer@sectionpages {160}{160}}
+\headcommand {\beamer@subsectionpages {160}{160}}
+\headcommand {\sectionentry {13}{Plan d'affaire}{161}{Plan d'affaire}{0}}
+\headcommand {\slideentry {13}{0}{1}{161/161}{}{0}}
+\headcommand {\beamer@framepages {161}{161}}
+\headcommand {\beamer@subsectionpages {161}{161}}
+\headcommand {\beamer@subsectionentry {0}{13}{1}{162}{Others}}
+\headcommand {\slideentry {13}{1}{0}{162/162}{}{0}}
+\headcommand {\beamer@framepages {162}{162}}
+\headcommand {\beamer@partpages {1}{162}}
+\headcommand {\beamer@subsectionpages {1}{162}}
+\headcommand {\beamer@sectionpages {1}{162}}
+\headcommand {\beamer@documentpages {162}}
+\headcommand {\gdef \inserttotalframenumber {96}}

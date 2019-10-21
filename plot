@@ -7,5 +7,5 @@ filename=0
 folder=plot
 
 ty="$folder.sublime-project"
-subl -b --project /home/aghiles/Aghiles/Research/Writing/$ty /home/aghiles/Aghiles/Research/Writing/src/$folder.tex
+subl -b --project $WRITINGPATH/$ty $WRITINGPATH/src/$folder.tex
 

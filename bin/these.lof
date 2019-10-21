@@ -1,0 +1,59 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Introduction}{1}{chapter.1}% 
+\addvspace {10\p@ }
+\contentsline {xchapter}{State of the art}{3}{chapter.2}% 
+\contentsline {figure}{\numberline {1}{\ignorespaces Use cases.\relax }}{4}{figure.caption.7}% 
+\contentsline {figure}{\numberline {2}{\ignorespaces Use cases.\relax }}{5}{figure.caption.8}% 
+\contentsline {figure}{\numberline {3}{\ignorespaces 802.15.4 use cases \cite {sarwar_iot_}.\relax }}{5}{figure.caption.9}% 
+\contentsline {figure}{\numberline {4}{\ignorespaces .\relax }}{6}{figure.caption.13}% 
+\contentsline {figure}{\numberline {5}{\ignorespaces contiki .\relax }}{8}{figure.caption.14}% 
+\contentsline {figure}{\numberline {6}{\ignorespaces LPWAN connectivity.\relax }}{10}{figure.caption.17}% 
+\contentsline {figure}{\numberline {7}{\ignorespaces LPWAN.\relax }}{18}{figure.caption.26}% 
+\contentsline {figure}{\numberline {8}{\ignorespaces LPWAN.\relax }}{19}{figure.caption.27}% 
+\contentsline {figure}{\numberline {9}{\ignorespaces LPWAN.\relax }}{20}{figure.caption.28}% 
+\contentsline {figure}{\numberline {10}{\ignorespaces uhuhuh.\relax }}{21}{figure.caption.29}% 
+\contentsline {figure}{\numberline {11}{\ignorespaces Class A.\relax }}{22}{figure.caption.30}% 
+\contentsline {figure}{\numberline {12}{\ignorespaces Class B.\relax }}{22}{figure.caption.31}% 
+\contentsline {figure}{\numberline {13}{\ignorespaces Class C.\relax }}{23}{figure.caption.32}% 
+\contentsline {figure}{\numberline {14}{\ignorespaces LoraWan Parameters.\relax }}{23}{figure.caption.33}% 
+\contentsline {figure}{\numberline {15}{\ignorespaces .\relax }}{23}{figure.caption.34}% 
+\contentsline {figure}{\numberline {16}{\ignorespaces .\relax }}{24}{figure.caption.35}% 
+\addvspace {10\p@ }
+\contentsline {xchapter}{x-Testbed}{27}{chapter.3}% 
+\addvspace {10\p@ }
+\contentsline {xchapter}{x-Sentilo}{37}{chapter.4}% 
+\addvspace {10\p@ }
+\contentsline {xchapter}{x-Long paper}{43}{chapter.5}% 
+\contentsline {figure}{\numberline {1}{\ignorespaces Cumulative distribution function of infected users.\relax }}{47}{figure.caption.40}% 
+\addvspace {10\p@ }
+\contentsline {xchapter}{Genetic Algorithm For LoRa Transmission Parameter Selection}{51}{chapter.6}% 
+\contentsline {figure}{\numberline {1}{\ignorespaces The proposed scheme for LoRa transmission parameters selection based on \ac {GA}, \ac {FL} and Multi-Criteria Decision Making \ac {MCDM}.\relax }}{53}{figure.caption.41}% 
+\contentsline {figure}{\numberline {2}{\ignorespaces Gateway \& Sensor node.\relax }}{53}{figure.caption.42}% 
+\addvspace {10\p@ }
+\contentsline {xchapter}{Emergency Evacuation System With LoRa and IEEE.802.15.4 Technologies in a Disaster Use Case}{55}{chapter.7}% 
+\contentsline {figure}{\numberline {1}{\ignorespaces IoT architecture.\relax }}{57}{figure.caption.44}% 
+\addvspace {10\p@ }
+\contentsline {xchapter}{Template}{59}{chapter.8}% 
+\addvspace {10\p@ }
+\contentsline {xchapter}{UTLC}{61}{chapter.9}% 
+\contentsline {figure}{\numberline {1}{\ignorespaces Use case illustration\relax }}{64}{figure.caption.45}% 
+\contentsline {figure}{\numberline {2}{\ignorespaces Model of our Traffic Lights in UPPAAL\relax }}{64}{figure.caption.46}% 
+\contentsline {figure}{\numberline {3}{\ignorespaces Model of our Middleware in UPPAAL\relax }}{65}{figure.caption.47}% 
+\contentsline {figure}{\numberline {4}{\ignorespaces Model of our Cloud variables in UPPAAL\relax }}{66}{figure.caption.50}% 
+\contentsline {figure}{\numberline {5}{\ignorespaces Architecture of Iot-UTLC\relax }}{67}{figure.caption.51}% 
+\contentsline {figure}{\numberline {6}{\ignorespaces BR and sink combined on one board\relax }}{67}{figure.caption.52}% 
+\contentsline {figure}{\numberline {7}{\ignorespaces UTLC network layers\relax }}{69}{figure.caption.53}% 
+\contentsline {figure}{\numberline {8}{\ignorespaces Normal, Gamma and Logistic distribution\relax }}{70}{figure.caption.54}% 
+\contentsline {figure}{\numberline {9}{\ignorespaces Cumulative distribution function of RTT delay for two QoS levels\relax }}{70}{figure.caption.56}% 
+\addvspace {10\p@ }
+\contentsline {xchapter}{Conclusion}{73}{chapter.10}% 
+\addvspace {10\p@ }
+\contentsline {xchapter}{A}{77}{appendix.A}% 
+\contentsline {figure}{\numberline {1}{\ignorespaces CoAP Header.\relax }}{85}{figure.caption.63}% 
+\contentsline {figure}{\numberline {2}{\ignorespaces CoAP Header.\relax }}{85}{figure.caption.64}% 
+\addvspace {10\p@ }
+\contentsline {xchapter}{Management}{93}{appendix.B}% 
+\addvspace {10\p@ }
+\contentsline {xchapter}{Plan d'affaire}{95}{appendix.C}% 

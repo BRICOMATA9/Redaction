@@ -195,21 +195,24 @@
 	},
 	"expanded_folders":
 	[
-		"/home/aghiles/Aghiles/Research/Writing/src",
-		"/home/aghiles/Aghiles/Research/Writing/src/21-Disaster",
-		"/home/aghiles/Aghiles/Research/Writing/src/A-Survey IoT",
 		"/home/aghiles/Aghiles/Research/Writing/lib"
 	],
 	"file_history":
 	[
 		"/home/aghiles/Aghiles/Research/Writing/src/main.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/03-x-Testbed/01_introduction.tex",
+		"/home/aghiles/Aghiles/Research/Writing/lib/poster.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/Y-Management/01_introduction.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/Z-Plan/01_plan_affaire.tex",
+		"/home/aghiles/Aghiles/Research/Writing/lib/these.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/Z-Management/01_introduction.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/Z-Management/11_introduction.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/Z-Manaement",
 		"/home/aghiles/Aghiles/Research/Writing/src/A-Survey IoT/02_technologies.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/21-Disaster/03_background.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/21_poster.tex",
 		"/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex",
-		"/home/aghiles/Aghiles/Research/Writing/lib/poster.tex",
 		"/home/aghiles/Aghiles/Research/Writing/lib/slide.tex",
-		"/home/aghiles/Aghiles/Research/Writing/lib/these.tex",
 		"/home/aghiles/Aghiles/Research/Writing/lib/paper.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/15_experimentation.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/slide.tex",
@@ -323,13 +326,7 @@
 		"/media/aghiles/ADATA HD650/Aghiles/Redaction/Redaction1/setup/res_Privacy/translators/BibTeX.js",
 		"/home/aghiles/Downloads/yy.bib",
 		"/home/aghiles/Downloads/Weathervv.bib",
-		"/home/aghiles/Downloads/Weatherhh.bib",
-		"/home/aghiles/Downloads/Weatherzz.bib",
-		"/home/aghiles/Downloads/Weatheraaa.bib",
-		"/home/aghiles/Downloads/Weathernn.bib",
-		"/home/aghiles/Downloads/Weatherpp.bib",
-		"/home/aghiles/Downloads/Weather.bib",
-		"/home/aghiles/Downloads/Mesh.bib"
+		"/home/aghiles/Downloads/Weatherhh.bib"
 	],
 	"find":
 	{
@@ -347,6 +344,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"refsection",
+			"    • ",
+			"subsubsection",
+			"subsection",
+			"titlespacing",
+			"\t\t\\subsubsection{Designation des commenditaires}\n",
+			"kj",
+			"}\n"
 		],
 		"highlight": true,
 		"in_selection": false,
