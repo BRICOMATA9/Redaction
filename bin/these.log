@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.07.0 (TeX Live 2019/dev/Debian)  (format=lualatex 2019.10.13)  20 OCT 2019 12:52
+This is LuaTeX, Version 1.07.0 (TeX Live 2019/dev/Debian)  (format=lualatex 2019.10.13)  21 OCT 2019 12:59
  system commands enabled.
 **main.tex
 (./main.tex
@@ -3141,20 +3141,437 @@ File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
 Package biblatex Info: Reference section=1 on input line 10.
 Package biblatex Info: Setting label 'refsection:1' on input line 10.
 
-Chapter 1.
-Package minitoc Info: I0006
-(minitoc)             these.mtc1 is empty on input line 16.
-\g__file_internal_ior=\read5
-(./01-Introduction/00_introduction.tex) [1
+(./00/01_1_abstract_english.tex) [1
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
 
+] (./00/01_2_abstract_french.tex)
+<00/01_3_abstract_tifinagh.pdf, id=1859, 597.50829pt x 845.0471pt>
+File: 00/01_3_abstract_tifinagh.pdf Graphic file (type pdf)
+<use 00/01_3_abstract_tifinagh.pdf>
+Package luatex.def Info: 00/01_3_abstract_tifinagh.pdf  used on input line 12.
+(luatex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: 00/01_3_abstract_tifinagh.pdf Graphic file (type pdf)
+<use 00/01_3_abstract_tifinagh.pdf>
+Package luatex.def Info: 00/01_3_abstract_tifinagh.pdf  used on input line 12.
+(luatex.def)             Requested size: 597.50682pt x 845.04504pt.
+<00/01_3_abstract_tifinagh.pdf, id=1862, page=1, 597.50829pt x 845.0471pt>
+File: 00/01_3_abstract_tifinagh.pdf Graphic file (type pdf)
+<use 00/01_3_abstract_tifinagh.pdf, page 1>
+Package luatex.def Info: 00/01_3_abstract_tifinagh.pdf , page1 used on input lin
+e 12.
+(luatex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: 00/01_3_abstract_tifinagh.pdf Graphic file (type pdf)
+<use 00/01_3_abstract_tifinagh.pdf, page 1>
+Package luatex.def Info: 00/01_3_abstract_tifinagh.pdf , page1 used on input lin
+e 12.
+(luatex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [3]
+File: 00/01_3_abstract_tifinagh.pdf Graphic file (type pdf)
+<use 00/01_3_abstract_tifinagh.pdf, page 1>
+Package luatex.def Info: 00/01_3_abstract_tifinagh.pdf , page1 used on input lin
+e 12.
+(luatex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: 00/01_3_abstract_tifinagh.pdf Graphic file (type pdf)
+<use 00/01_3_abstract_tifinagh.pdf, page 1>
+Package luatex.def Info: 00/01_3_abstract_tifinagh.pdf , page1 used on input lin
+e 12.
+(luatex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: 00/01_3_abstract_tifinagh.pdf Graphic file (type pdf)
+<use 00/01_3_abstract_tifinagh.pdf, page 1>
+Package luatex.def Info: 00/01_3_abstract_tifinagh.pdf , page1 used on input lin
+e 12.
+(luatex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [4<./00/01_3_abstract_tifinagh.pdf>]
+<00/01_4_abstract_arabic.pdf, id=1891, 597.50829pt x 845.0471pt>
+File: 00/01_4_abstract_arabic.pdf Graphic file (type pdf)
+<use 00/01_4_abstract_arabic.pdf>
+Package luatex.def Info: 00/01_4_abstract_arabic.pdf  used on input line 12.
+(luatex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: 00/01_4_abstract_arabic.pdf Graphic file (type pdf)
+<use 00/01_4_abstract_arabic.pdf>
+Package luatex.def Info: 00/01_4_abstract_arabic.pdf  used on input line 12.
+(luatex.def)             Requested size: 597.50682pt x 845.04504pt.
+<00/01_4_abstract_arabic.pdf, id=1894, page=1, 597.50829pt x 845.0471pt>
+File: 00/01_4_abstract_arabic.pdf Graphic file (type pdf)
+<use 00/01_4_abstract_arabic.pdf, page 1>
+Package luatex.def Info: 00/01_4_abstract_arabic.pdf , page1 used on input line 
+12.
+(luatex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: 00/01_4_abstract_arabic.pdf Graphic file (type pdf)
+<use 00/01_4_abstract_arabic.pdf, page 1>
+Package luatex.def Info: 00/01_4_abstract_arabic.pdf , page1 used on input line 
+12.
+(luatex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: 00/01_4_abstract_arabic.pdf Graphic file (type pdf)
+<use 00/01_4_abstract_arabic.pdf, page 1>
+Package luatex.def Info: 00/01_4_abstract_arabic.pdf , page1 used on input line 
+12.
+(luatex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: 00/01_4_abstract_arabic.pdf Graphic file (type pdf)
+<use 00/01_4_abstract_arabic.pdf, page 1>
+Package luatex.def Info: 00/01_4_abstract_arabic.pdf , page1 used on input line 
+12.
+(luatex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: 00/01_4_abstract_arabic.pdf Graphic file (type pdf)
+<use 00/01_4_abstract_arabic.pdf, page 1>
+Package luatex.def Info: 00/01_4_abstract_arabic.pdf , page1 used on input line 
+12.
+(luatex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [5<./00/01_4_abstract_arabic.pdf>] [6
+
+] (./00/02_acknowledgements.tex)
+[7] [8
+
+] (./00/03_dedication.tex) [9] [10
+
+]
+Package minitoc Info: I0024
+(minitoc)             PREPARING MINITOCS FROM these.toc on input line 13.
+Package minitoc Info: I0033
+(minitoc)             Writing these.mtc1.
+
+\openout7 = these.mtc1
+Package minitoc Info: I0033
+(minitoc)             Writing these.mtc2.
+
+\openout7 = these.mtc2
+Package minitoc Info: I0033
+(minitoc)             Writing these.mtc3.
+
+\openout7 = these.mtc3
+Package minitoc Info: I0033
+(minitoc)             Writing these.mtc4.
+
+\openout7 = these.mtc4
+Package minitoc Info: I0033
+(minitoc)             Writing these.mtc5.
+
+\openout7 = these.mtc5
+Package minitoc Info: I0033
+(minitoc)             Writing these.mtc6.
+
+\openout7 = these.mtc6
+Package minitoc Info: I0033
+(minitoc)             Writing these.mtc7.
+
+\openout7 = these.mtc7
+Package minitoc Info: I0033
+(minitoc)             Writing these.mtc8.
+
+\openout7 = these.mtc8
+Package minitoc Info: I0033
+(minitoc)             Writing these.mtc9.
+
+\openout7 = these.mtc9
+Package minitoc Info: I0033
+(minitoc)             Writing these.mtc10.
+
+\openout7 = these.mtc10
+Package minitoc Info: I0033
+(minitoc)             Writing these.mtc11.
+
+\openout7 = these.mtc11
+Package minitoc Info: I0033
+(minitoc)             Writing these.mtc12.
+
+\openout7 = these.mtc12
+Package minitoc Info: I0033
+(minitoc)             Writing these.mtc13.
+
+\openout7 = these.mtc13
+Package minitoc Info: I0033
+(minitoc)             Writing these.mtc14.
+
+\openout7 = these.mtc14
+Package minitoc Info: I0033
+(minitoc)             Writing these.mtc15.
+
+\openout7 = these.mtc15
+Package minitoc Info: I0033
+(minitoc)             Writing these.mtc16.
+
+\openout7 = these.mtc16
+Package minitoc Info: I0033
+(minitoc)             Writing these.mtc17.
+
+\openout7 = these.mtc17
+Package minitoc Info: I0033
+(minitoc)             Writing these.mtc18.
+
+\openout7 = these.mtc18
+Package minitoc Info: I0033
+(minitoc)             Writing these.mtc19.
+
+\openout7 = these.mtc19
+Package minitoc Info: I0033
+(minitoc)             Writing these.mtc20.
+
+\openout7 = these.mtc20
+Package minitoc Info: I0033
+(minitoc)             Writing these.mtc21.
+
+\openout7 = these.mtc21
+Package minitoc Info: I0033
+(minitoc)             Writing these.mtc22.
+
+\openout7 = these.mtc22
+
+(/home/aghiles/Aghiles/Research/Writing/bin/these.toc [11
+
+]
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[12]
+
+LaTeX Warning: Reference `pba' on page xiii undefined on input line 160.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[13]
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[14]
+
+LaTeX Warning: Reference `pba' on page xv undefined on input line 272.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[15]
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[16]
+
+LaTeX Warning: Reference `pba' on page xvii undefined on input line 387.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[17
+Missing character: There is no œ (U+0153) in font ec-lmr10!
+]
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[18
+Missing character: There is no … (U+2026) in font ec-lmr10!
+Missing character: There is no ’ (U+2019) in font ec-lmr10!
+])
+\tf@toc=\write9
+
+\openout9 = these.toc
+ [19] [20
+
+]
+Package minitoc Info: I0037
+(minitoc)             PREPARING MINILOTS FROM these.lot on input line 13.
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlt1.
+
+\openout7 = these.mlt1
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlt2.
+
+\openout7 = these.mlt2
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlt3.
+
+\openout7 = these.mlt3
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlt4.
+
+\openout7 = these.mlt4
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlt5.
+
+\openout7 = these.mlt5
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlt6.
+
+\openout7 = these.mlt6
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlt7.
+
+\openout7 = these.mlt7
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlt8.
+
+\openout7 = these.mlt8
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlt9.
+
+\openout7 = these.mlt9
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlt10.
+
+\openout7 = these.mlt10
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlt11.
+
+\openout7 = these.mlt11
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlt12.
+
+\openout7 = these.mlt12
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlt13.
+
+\openout7 = these.mlt13
+ (/home/aghiles/Aghiles/Research/Writing/bin/these.lot
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 64.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 4.80003pt on input line 64.
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 7.68005pt on input line 64.
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 4.80003pt on input line 64.
+)
+\tf@lot=\write10
+
+\openout10 = these.lot
+ [21
+
+]
+[22
+
+]
+Package minitoc Info: I0034
+(minitoc)             PREPARING MINILOFS FROM these.lof on input line 13.
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlf1.
+
+\openout7 = these.mlf1
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlf2.
+
+\openout7 = these.mlf2
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlf3.
+
+\openout7 = these.mlf3
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlf4.
+
+\openout7 = these.mlf4
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlf5.
+
+\openout7 = these.mlf5
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlf6.
+
+\openout7 = these.mlf6
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlf7.
+
+\openout7 = these.mlf7
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlf8.
+
+\openout7 = these.mlf8
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlf9.
+
+\openout7 = these.mlf9
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlf10.
+
+\openout7 = these.mlf10
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlf11.
+
+\openout7 = these.mlf11
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlf12.
+
+\openout7 = these.mlf12
+Package minitoc Info: I0033
+(minitoc)             Writing these.mlf13.
+
+\openout7 = these.mlf13
+ (/home/aghiles/Aghiles/Research/Writing/bin/these.lof)
+\tf@lof=\write11
+
+\openout11 = these.lof
+ [23
+
+] [24
+
+] [25
+
+]
+[26
+
+] [27
+
+] [28] (./00/04_publications.tex) [29
+
+
+] [30
+
+]
+Chapter 1.
+
+\openout7 = these.mtc
+
+\openout7 = these.mtc
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 8.64006pt on input line 16.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 16.
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 8.64006pt on input line 16.
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 6.72005pt on input line 16.
+(/home/aghiles/Aghiles/Research/Writing/bin/these.mtc10)
+\g__file_internal_ior=\read5
+
+(./01-Introduction/00_introduction.tex) [1
+
+]
+
+LaTeX Warning: Reference `pba' on page 2 undefined on input line 17.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[2
+
 ]
 Chapter 2.
-Package minitoc Info: I0006
-(minitoc)             these.mtc2 is empty on input line 17.
-("./02-State of the art/01_usecases.tex"
+
+\openout7 = these.mtc
+
+\openout7 = these.mtc
+(/home/aghiles/Aghiles/Research/Writing/bin/these.mtc11 [3]
+
+LaTeX Warning: Reference `pba' on page 4 undefined on input line 112.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[4]) ("./02-State of the art/01_usecases.tex"
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\cite' on input line 1.
@@ -3167,13 +3584,16 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `subscript' on input line 1.
 
-<../res/tmp/Picture/application.png, id=1180, 1415.2875pt x 1434.35875pt>
+<../res/tmp/Picture/application.png, id=2896, 1415.2875pt x 1434.35875pt>
 File: ../res/tmp/Picture/application.png Graphic file (type png)
 <use ../res/tmp/Picture/application.png>
 Package luatex.def Info: ../res/tmp/Picture/application.png  used on input line 
 10.
 (luatex.def)             Requested size: 352.81552pt x 357.56015pt.
-<../res/tmp/Picture/apprequirements.png, id=1181, 519.9425pt x 456.70625pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<../res/tmp/Picture/apprequirements.png, id=2897, 519.9425pt x 456.70625pt>
 File: ../res/tmp/Picture/apprequirements.png Graphic file (type png)
 <use ../res/tmp/Picture/apprequirements.png>
 Package luatex.def Info: ../res/tmp/Picture/apprequirements.png  used on input l
@@ -3182,26 +3602,12 @@ ine 11.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../res/tmp/A-Application/standard.png, id=1182, 1290.8225pt x 905.3825pt>
+<../res/tmp/A-Application/standard.png, id=2898, 1290.8225pt x 905.3825pt>
 File: ../res/tmp/A-Application/standard.png Graphic file (type png)
 <use ../res/tmp/A-Application/standard.png>
 Package luatex.def Info: ../res/tmp/A-Application/standard.png  used on input li
 ne 13.
 (luatex.def)             Requested size: 441.01773pt x 309.318pt.
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 6.72005pt on input line 22.
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 4.80003pt on input line 22.
-LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 6.72005pt on input line 22.
-LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 4.80003pt on input line 22.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 
 Overfull \hbox (3.37332pt too wide) in paragraph at lines 83--83
 [][]|  
@@ -3215,23 +3621,62 @@ Overfull \hbox (11.1508pt too wide) in paragraph at lines 83--83
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3<../res/tmp/Picture/application.png>] [4<../res/tmp/Picture/apprequirements.pn
-g><../res/tmp/A-Application/standard.png>])
-("./02-State of the art/02_sensors.tex"
+
+LaTeX Warning: Reference `pba' on page 5 undefined on input line 99.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[5]
+
+LaTeX Warning: Reference `pba' on page 6 undefined on input line 103.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[6
+Missing character: There is no λ (U+03BB) in font ec-lmbx7!
+<../res/tmp/Picture/application.png>]
+
+LaTeX Warning: Reference `pba' on page 7 undefined on input line 105.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[7<../res/tmp/Picture/apprequirements.png><../res/tmp/A-Application/standard.png
+>]) ("./02-State of the art/02_sensors.tex"
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 5.
 
-<../res/tmp/Picture/os-timeline.png, id=1213, 594.0594pt x 179.7114pt>
+<../res/tmp/Picture/os-timeline.png, id=2933, 594.0594pt x 179.7114pt>
 File: ../res/tmp/Picture/os-timeline.png Graphic file (type png)
 <use ../res/tmp/Picture/os-timeline.png>
 Package luatex.def Info: ../res/tmp/Picture/os-timeline.png  used on input line 
 5.
 (luatex.def)             Requested size: 441.01773pt x 133.41759pt.
-[5
-Missing character: There is no λ (U+03BB) in font ec-lmbx7!
-]
-<../res/tmp/Framework/contiki.png, id=1227, 406.51875pt x 439.6425pt>
+
+LaTeX Warning: Reference `pba' on page 8 undefined on input line 80.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[8
+Missing character: There is no • (U+2022) in font ec-lmr10!
+Missing character: There is no • (U+2022) in font ec-lmr10!
+Missing character: There is no • (U+2022) in font ec-lmr10!
+Missing character: There is no • (U+2022) in font ec-lmr10!
+Missing character: There is no • (U+2022) in font ec-lmr10!
+<../res/tmp/Picture/os-timeline.png>]
+<../res/tmp/Framework/contiki.png, id=2939, 406.51875pt x 439.6425pt>
 File: ../res/tmp/Framework/contiki.png Graphic file (type png)
 <use ../res/tmp/Framework/contiki.png>
 Package luatex.def Info: ../res/tmp/Framework/contiki.png  used on input line 83
@@ -3239,17 +3684,16 @@ Package luatex.def Info: ../res/tmp/Framework/contiki.png  used on input line 83
 (luatex.def)             Requested size: 352.81552pt x 381.57353pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Reference `pba' on page 9 undefined on input line 137.
 
-[6
-Missing character: There is no • (U+2022) in font ec-lmr10!
-Missing character: There is no • (U+2022) in font ec-lmr10!
-Missing character: There is no • (U+2022) in font ec-lmr10!
-Missing character: There is no • (U+2022) in font ec-lmr10!
-Missing character: There is no • (U+2022) in font ec-lmr10!
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[9
 Missing character: There is no “ (U+201C) in font ec-lmr10!
 Missing character: There is no ” (U+201D) in font ec-lmr10!
-<../res/tmp/Picture/os-timeline.png>] [7
 Missing character: There is no “ (U+201C) in font ec-lmr10!
 Missing character: There is no ” (U+201D) in font ec-lmr10!
 Missing character: There is no “ (U+201C) in font ec-lmr10!
@@ -3264,7 +3708,7 @@ Overfull \hbox (32.09471pt too wide) in paragraph at lines 246--246
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<../res/tmp/B-CN/sdn-wise.png, id=1257, 1376.14125pt x 588.1975pt>
+<../res/tmp/B-CN/sdn-wise.png, id=2962, 1376.14125pt x 588.1975pt>
 File: ../res/tmp/B-CN/sdn-wise.png Graphic file (type png)
 <use ../res/tmp/B-CN/sdn-wise.png>
 Package luatex.def Info: ../res/tmp/B-CN/sdn-wise.png  used on input line 251.
@@ -3325,40 +3769,93 @@ Underfull \hbox (badness 6775) in paragraph at lines 286--286
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[8] [9
+
+LaTeX Warning: Reference `pba' on page 10 undefined on input line 293.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[10]
+
+LaTeX Warning: Reference `pba' on page 11 undefined on input line 317.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[11<../res/tmp/B-CN/sdn-wise.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) ("./02-State of the art/03_protocols.tex"
+
+LaTeX Warning: Reference `pba' on page 12 undefined on input line 1.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[12
 Missing character: There is no ’ (U+2019) in font ec-lmr10!
-<../res/tmp/B-CN/sdn-wise.png>]) ("./02-State of the art/03_protocols.tex" [10]
- [11
+]
+
+LaTeX Warning: Reference `pba' on page 13 undefined on input line 1.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[13]
+
+LaTeX Warning: Reference `pba' on page 14 undefined on input line 105.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[14
 Missing character: There is no ’ (U+2019) in font ec-lmr10!
-] [12]
+]
+
+LaTeX Warning: Reference `pba' on page 15 undefined on input line 200.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[15]
 Overfull \hbox (1.87518pt too wide) in paragraph at lines 251--251
  []\T1/lmr/m/n/7 QoS| 
  []
 
-[13
+
+LaTeX Warning: Reference `pba' on page 16 undefined on input line 304.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[16
 Missing character: There is no ‘ (U+2018) in font ec-lmr10!
 Missing character: There is no ’ (U+2019) in font ec-lmr10!
-] [14
-Missing character: There is no ‘ (U+2018) in font ec-lmr10!
-Missing character: There is no ’ (U+2019) in font ec-lmr10!
-Missing character: There is no ‘ (U+2018) in font ec-lmr10!
-Missing character: There is no ’ (U+2019) in font ec-lmr10!
-Missing character: There is no “ (U+201C) in font ec-lmr10!
-Missing character: There is no ” (U+201D) in font ec-lmr10!
-Missing character: There is no “ (U+201C) in font ec-lmr10!
-Missing character: There is no ” (U+201D) in font ec-lmr10!
-Missing character: There is no ‘ (U+2018) in font ec-lmr10!
-Missing character: There is no ’ (U+2019) in font ec-lmr10!
-Missing character: There is no “ (U+201C) in font ec-lmr10!
-Missing character: There is no ” (U+201D) in font ec-lmr10!
-Missing character: There is no ‘ (U+2018) in font ec-lmr10!
-Missing character: There is no ’ (U+2019) in font ec-lmr10!
-Missing character: There is no ‘ (U+2018) in font ec-lmr10!
-Missing character: There is no ’ (U+2019) in font ec-lmr10!
-Missing character: There is no ‘ (U+2018) in font ec-lmr10!
-Missing character: There is no ’ (U+2019) in font ec-lmr10!
-Missing character: There is no ‘ (U+2018) in font ec-lmr10!
-Missing character: There is no ’ (U+2019) in font ec-lmr10!
+]
+
+LaTeX Warning: Reference `pba' on page 17 undefined on input line 362.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[17
 Missing character: There is no ‘ (U+2018) in font ec-lmr10!
 Missing character: There is no ’ (U+2019) in font ec-lmr10!
 Missing character: There is no ‘ (U+2018) in font ec-lmr10!
@@ -3367,102 +3864,198 @@ Missing character: There is no “ (U+201C) in font ec-lmr10!
 Missing character: There is no ” (U+201D) in font ec-lmr10!
 Missing character: There is no “ (U+201C) in font ec-lmr10!
 Missing character: There is no ” (U+201D) in font ec-lmr10!
+Missing character: There is no ‘ (U+2018) in font ec-lmr10!
+Missing character: There is no ’ (U+2019) in font ec-lmr10!
+Missing character: There is no “ (U+201C) in font ec-lmr10!
+Missing character: There is no ” (U+201D) in font ec-lmr10!
+Missing character: There is no ‘ (U+2018) in font ec-lmr10!
+Missing character: There is no ’ (U+2019) in font ec-lmr10!
+Missing character: There is no ‘ (U+2018) in font ec-lmr10!
+Missing character: There is no ’ (U+2019) in font ec-lmr10!
+Missing character: There is no ‘ (U+2018) in font ec-lmr10!
+Missing character: There is no ’ (U+2019) in font ec-lmr10!
+Missing character: There is no ‘ (U+2018) in font ec-lmr10!
+Missing character: There is no ’ (U+2019) in font ec-lmr10!
+Missing character: There is no ‘ (U+2018) in font ec-lmr10!
+Missing character: There is no ’ (U+2019) in font ec-lmr10!
+Missing character: There is no ‘ (U+2018) in font ec-lmr10!
+Missing character: There is no ’ (U+2019) in font ec-lmr10!
 Missing character: There is no “ (U+201C) in font ec-lmr10!
 Missing character: There is no ” (U+201D) in font ec-lmr10!
 Missing character: There is no “ (U+201C) in font ec-lmr10!
 Missing character: There is no ” (U+201D) in font ec-lmr10!
-] [15
+Missing character: There is no “ (U+201C) in font ec-lmr10!
+Missing character: There is no ” (U+201D) in font ec-lmr10!
+Missing character: There is no “ (U+201C) in font ec-lmr10!
+Missing character: There is no ” (U+201D) in font ec-lmr10!
+]
+Overfull \hbox (1.47342pt too wide) in paragraph at lines 441--459
+[] [] |\T1/lmr/bx/n/12 F) Header com-pres-sion Im-proved (draft-hui-6lowpan-hc-
+01)[] \T1/lmr/m/n/10 To pro-vide bet-
+ []
+
+
+LaTeX Warning: Reference `pba' on page 18 undefined on input line 459.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[18
 Missing character: There is no ’ (U+2019) in font ec-lmr10!
 Missing character: There is no ’ (U+2019) in font ec-lmr10!
 Missing character: There is no – (U+2013) in font ec-lmr10!
 Missing character: There is no – (U+2013) in font ec-lmr10!
 Missing character: There is no – (U+2013) in font ec-lmr10!
-] [16
+]
+
+LaTeX Warning: Reference `pba' on page 19 undefined on input line 560.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[19
 Missing character: There is no ’ (U+2019) in font ec-lmr10!
 Missing character: There is no ’ (U+2019) in font ec-lmr10!
 Missing character: There is no ’ (U+2019) in font ec-lmr10!
 ]) ("./02-State of the art/04_standards.tex"
-<../res/tmp/Framework/riot-network-stack.png, id=1325, 533.995pt x 519.9425pt>
+<../res/tmp/Framework/riot-network-stack.png, id=3024, 533.995pt x 519.9425pt>
 File: ../res/tmp/Framework/riot-network-stack.png Graphic file (type png)
 <use ../res/tmp/Framework/riot-network-stack.png>
 Package luatex.def Info: ../res/tmp/Framework/riot-network-stack.png  used on in
 put line 4.
 (luatex.def)             Requested size: 220.50887pt x 214.709pt.
-<../res/tmp/C-RAN/iot-protocols-overview.png, id=1326, 1219.55624pt x 655.44875p
+<../res/tmp/C-RAN/iot-protocols-overview.png, id=3025, 1219.55624pt x 655.44875p
 t>
 File: ../res/tmp/C-RAN/iot-protocols-overview.png Graphic file (type png)
 <use ../res/tmp/C-RAN/iot-protocols-overview.png>
 Package luatex.def Info: ../res/tmp/C-RAN/iot-protocols-overview.png  used on in
 put line 5.
 (luatex.def)             Requested size: 441.01773pt x 237.0215pt.
-<../res/plot/pdf/LPWAN.pdf, id=1327, 499.8424pt x 513.87984pt>
+<../res/plot/pdf/LPWAN.pdf, id=3026, 499.8424pt x 513.87984pt>
 File: ../res/plot/pdf/LPWAN.pdf Graphic file (type pdf)
 <use ../res/plot/pdf/LPWAN.pdf>
 Package luatex.def Info: ../res/plot/pdf/LPWAN.pdf  used on input line 6.
 (luatex.def)             Requested size: 441.01773pt x 453.42319pt.
- [17]
-Underfull \vbox (badness 1087) has occurred while \output is active []
 
- [18<../res/tmp/Framework/riot-network-stack.png><../res/tmp/C-RAN/iot-protocols
--overview.png>] [19<../res/plot/pdf/LPWAN.pdf>]
-<../res/tmp/C-RAN/lora_stack.png, id=1417, 845.1575pt x 597.23125pt>
+
+LaTeX Warning: Reference `pba' on page 20 undefined on input line 34.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[20]
+
+LaTeX Warning: Reference `pba' on page 21 undefined on input line 47.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[21<../res/tmp/Framework/riot-network-stack.png><../res/tmp/C-RAN/iot-protocols-
+overview.png>]
+
+LaTeX Warning: Reference `pba' on page 22 undefined on input line 88.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[22<../res/plot/pdf/LPWAN.pdf>]
+<../res/tmp/C-RAN/lora_stack.png, id=3112, 845.1575pt x 597.23125pt>
 File: ../res/tmp/C-RAN/lora_stack.png Graphic file (type png)
 <use ../res/tmp/C-RAN/lora_stack.png>
 Package luatex.def Info: ../res/tmp/C-RAN/lora_stack.png  used on input line 131
 .
 (luatex.def)             Requested size: 441.01773pt x 311.6556pt.
- [20<../res/tmp/C-RAN/lora_stack.png>]
-<../res/tmp/C-RAN/class_a.png, id=1424, 981.6675pt x 209.78375pt>
+
+
+LaTeX Warning: Reference `pba' on page 23 undefined on input line 139.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[23<../res/tmp/C-RAN/lora_stack.png>]
+<../res/tmp/C-RAN/class_a.png, id=3118, 981.6675pt x 209.78375pt>
 File: ../res/tmp/C-RAN/class_a.png Graphic file (type png)
 <use ../res/tmp/C-RAN/class_a.png>
 Package luatex.def Info: ../res/tmp/C-RAN/class_a.png  used on input line 181.
 (luatex.def)             Requested size: 352.81552pt x 75.39723pt.
-<../res/tmp/C-RAN/class_b.png, id=1425, 1025.8325pt x 196.735pt>
+<../res/tmp/C-RAN/class_b.png, id=3119, 1025.8325pt x 196.735pt>
 File: ../res/tmp/C-RAN/class_b.png Graphic file (type png)
 <use ../res/tmp/C-RAN/class_b.png>
 Package luatex.def Info: ../res/tmp/C-RAN/class_b.png  used on input line 220.
 (luatex.def)             Requested size: 441.01773pt x 84.57938pt.
 
-[21
+
+LaTeX Warning: Reference `pba' on page 24 undefined on input line 228.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[24
 Missing character: There is no “ (U+201C) in font ec-lmr10!
 Missing character: There is no ” (U+201D) in font ec-lmr10!
 <../res/tmp/C-RAN/class_a.png>]
-<../res/tmp/C-RAN/class_c.png, id=1433, 1028.84375pt x 185.69376pt>
+<../res/tmp/C-RAN/class_c.png, id=3125, 1028.84375pt x 185.69376pt>
 File: ../res/tmp/C-RAN/class_c.png Graphic file (type png)
 <use ../res/tmp/C-RAN/class_c.png>
 Package luatex.def Info: ../res/tmp/C-RAN/class_c.png  used on input line 236.
 (luatex.def)             Requested size: 441.01773pt x 79.60023pt.
-<../res/tmp/C-RAN/lorawan_parameters.png, id=1434, 1027.84pt x 566.115pt>
+<../res/tmp/C-RAN/lorawan_parameters.png, id=3126, 1027.84pt x 566.115pt>
 File: ../res/tmp/C-RAN/lorawan_parameters.png Graphic file (type png)
 <use ../res/tmp/C-RAN/lorawan_parameters.png>
 Package luatex.def Info: ../res/tmp/C-RAN/lorawan_parameters.png  used on input 
 line 243.
 (luatex.def)             Requested size: 441.01773pt x 242.9064pt.
-<../res/tmp/C-RAN/loraparam.png, id=1435, 1219.55624pt x 638.385pt>
+<../res/tmp/C-RAN/loraparam.png, id=3127, 1219.55624pt x 638.385pt>
 File: ../res/tmp/C-RAN/loraparam.png Graphic file (type png)
 <use ../res/tmp/C-RAN/loraparam.png>
 Package luatex.def Info: ../res/tmp/C-RAN/loraparam.png  used on input line 244.
 
 (luatex.def)             Requested size: 441.01773pt x 230.85095pt.
-<../res/tmp/C-RAN/bw.png, id=1436, 722.7pt x 459.7175pt>
+
+
+LaTeX Warning: Reference `pba' on page 25 undefined on input line 303.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[25<../res/tmp/C-RAN/class_b.png><../res/tmp/C-RAN/class_c.png><../res/tmp/C-RAN
+/lorawan_parameters.png>]
+<../res/tmp/C-RAN/bw.png, id=3135, 722.7pt x 459.7175pt>
 File: ../res/tmp/C-RAN/bw.png Graphic file (type png)
 <use ../res/tmp/C-RAN/bw.png>
 Package luatex.def Info: ../res/tmp/C-RAN/bw.png  used on input line 303.
 (luatex.def)             Requested size: 220.50887pt x 140.26624pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Reference `pba' on page 26 undefined on input line 303.
 
-[22<../res/tmp/C-RAN/class_b.png><../res/tmp/C-RAN/class_c.png><../res/tmp/C-RAN
-/lorawan_parameters.png>]
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[26<../res/tmp/C-RAN/loraparam.png><../res/tmp/C-RAN/bw.png>]
 Overfull \hbox (10.2504pt too wide) detected at line 314
 []
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [23<../res/tmp/C-RAN/loraparam.png><../res/tmp/C-RAN/bw.png>]
 Overfull \hbox (4.43086pt too wide) in paragraph at lines 324--324
  []|\T1/lmr/bx/n/7 SF|
  []
@@ -3667,18 +4260,36 @@ Overfull \hbox (1.71236pt too wide) in paragraph at lines 345--345
  []|\T1/lmr/m/n/7 12|
  []
 
-) ("./02-State of the art/05_sdn.tex" [24])
-("./02-State of the art/06_security.tex"
+) ("./02-State of the art/05_sdn.tex"
+
+LaTeX Warning: Reference `pba' on page 27 undefined on input line 5.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[27]) ("./02-State of the art/06_security.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 14--16
 
  []
 
-) [25] [26
+)
 
-]
+LaTeX Warning: Reference `pba' on page 28 undefined on input line 18.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[28]
 Chapter 3.
-Package minitoc Info: I0006
-(minitoc)             these.mtc3 is empty on input line 18.
+
+\openout7 = these.mtc
+
+\openout7 = these.mtc
+(/home/aghiles/Aghiles/Research/Writing/bin/these.mtc12)
 (./03-x-Testbed/00_abstract.tex) (./03-x-Testbed/01_introduction.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -3692,12 +4303,46 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `subscript' on input line 1.
 
-[27]) (./03-x-Testbed/02_related.tex) (./03-x-Testbed/03_background.tex
-[28
+[29
+
+]) (./03-x-Testbed/02_related.tex) (./03-x-Testbed/03_background.tex
+
+LaTeX Warning: Reference `pba' on page 30 undefined on input line 15.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[30]
+
+LaTeX Warning: Reference `pba' on page 31 undefined on input line 97.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[31
 Missing character: There is no ∼ (U+223C) in font ec-lmr10!
 Missing character: There is no ∼ (U+223C) in font ec-lmr10!
 Missing character: There is no ’ (U+2019) in font ec-lmr10!
-] [29
+Missing character: There is no • (U+2022) in font ec-lmr10!
+Missing character: There is no • (U+2022) in font ec-lmr10!
+Missing character: There is no • (U+2022) in font ec-lmr10!
+Missing character: There is no • (U+2022) in font ec-lmr10!
+Missing character: There is no • (U+2022) in font ec-lmr10!
+Missing character: There is no • (U+2022) in font ec-lmr10!
+]) (./03-x-Testbed/04_approach.tex
+
+LaTeX Warning: Reference `pba' on page 32 undefined on input line 35.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[32
 Missing character: There is no • (U+2022) in font ec-lmr10!
 Missing character: There is no • (U+2022) in font ec-lmr10!
 Missing character: There is no • (U+2022) in font ec-lmr10!
@@ -3706,14 +4351,17 @@ Missing character: There is no • (U+2022) in font ec-lmr10!
 Missing character: There is no • (U+2022) in font ec-lmr10!
 Missing character: There is no • (U+2022) in font ec-lmr10!
 Missing character: There is no • (U+2022) in font ec-lmr10!
-Missing character: There is no • (U+2022) in font ec-lmr10!
-Missing character: There is no • (U+2022) in font ec-lmr10!
-Missing character: There is no • (U+2022) in font ec-lmr10!
-Missing character: There is no • (U+2022) in font ec-lmr10!
-Missing character: There is no • (U+2022) in font ec-lmr10!
-Missing character: There is no • (U+2022) in font ec-lmr10!
-]) (./03-x-Testbed/04_approach.tex [30
 Missing character: There is no ’ (U+2019) in font ec-lmr10!
+]) (./03-x-Testbed/05_experimentation.tex
+
+LaTeX Warning: Reference `pba' on page 33 undefined on input line 9.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[33
 Missing character: There is no ’ (U+2019) in font ec-lmr10!
 Missing character: There is no ’ (U+2019) in font ec-lmr10!
 Missing character: There is no ’ (U+2019) in font ec-lmr10!
@@ -3721,9 +4369,17 @@ Missing character: There is no ” (U+201D) in font ec-lmr10!
 Missing character: There is no ” (U+201D) in font ec-lmr10!
 Missing character: There is no ” (U+201D) in font ec-lmr10!
 Missing character: There is no ” (U+201D) in font ec-lmr10!
-])
-(./03-x-Testbed/05_experimentation.tex [31
 Missing character: There is no ’ (U+2019) in font ec-lmr10!
+]
+
+LaTeX Warning: Reference `pba' on page 34 undefined on input line 103.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[34
 Missing character: There is no λ (U+03BB) in font ec-lmr10!
 Missing character: There is no λ (U+03BB) in font ec-lmr10!
 Missing character: There is no π (U+03C0) in font ec-lmr10!
@@ -3734,28 +4390,85 @@ Missing character: There is no − (U+2212) in font ec-lmr10!
 Missing character: There is no − (U+2212) in font ec-lmr10!
 Missing character: There is no − (U+2212) in font ec-lmr10!
 Missing character: There is no − (U+2212) in font ec-lmr10!
-] [32
 Missing character: There is no ∼ (U+223C) in font ec-lmr10!
 Missing character: There is no ∼ (U+223C) in font ec-lmr10!
+]
+
+LaTeX Warning: Reference `pba' on page 35 undefined on input line 202.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[35
 Missing character: There is no ∼ (U+223C) in font ec-lmr10!
 Missing character: There is no ’ (U+2019) in font ec-lmr10!
 Missing character: There is no − (U+2212) in font ec-lmr10!
 Missing character: There is no − (U+2212) in font ec-lmr10!
-] [33
 Missing character: There is no − (U+2212) in font ec-lmr10!
+]
+
+LaTeX Warning: Reference `pba' on page 36 undefined on input line 304.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[36
 Missing character: There is no μ (U+03BC) in font ec-lmr10!
+Missing character: There is no μ (U+03BC) in font ec-lmr10!
+]) (./03-x-Testbed/06_results.tex
+
+LaTeX Warning: Reference `pba' on page 37 undefined on input line 87.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[37
+Missing character: There is no ∼ (U+223C) in font ec-lmr10!
+Missing character: There is no ’ (U+2019) in font ec-lmr10!
+]) (./03-x-Testbed/07_conclusion.tex
+
+LaTeX Warning: Reference `pba' on page 38 undefined on input line 41.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[38
 Missing character: There is no μ (U+03BC) in font ec-lmr10!
 ])
-(./03-x-Testbed/06_results.tex [34
-Missing character: There is no ∼ (U+223C) in font ec-lmr10!
-] [35
-Missing character: There is no ’ (U+2019) in font ec-lmr10!
-Missing character: There is no μ (U+03BC) in font ec-lmr10!
-]) (./03-x-Testbed/07_conclusion.tex)
-[36]
+
+LaTeX Warning: Reference `pba' on page 39 undefined on input line 19.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[39]
+
+LaTeX Warning: Reference `pba' on page 40 undefined on input line 19.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[40
+
+]
 Chapter 4.
-Package minitoc Info: I0006
-(minitoc)             these.mtc4 is empty on input line 19.
+
+\openout7 = these.mtc
+
+\openout7 = these.mtc
+(/home/aghiles/Aghiles/Research/Writing/bin/these.mtc13)
 (./04-x-Sentilo/00_abstract.tex) (./04-x-Sentilo/01_introduction.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -3769,42 +4482,113 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `subscript' on input line 1.
 
-) (./04-x-Sentilo/02_related.tex) (./04-x-Sentilo/03_background.tex)
-(./04-x-Sentilo/04_approach.tex [37
+[41
+Missing character: There is no “ (U+201C) in font ec-lmr10!
+Missing character: There is no ” (U+201D) in font ec-lmr10!
+Missing character: There is no “ (U+201C) in font ec-lmr10!
+Missing character: There is no ” (U+201D) in font ec-lmr10!
+Missing character: There is no “ (U+201C) in font ec-lmr10!
+Missing character: There is no ” (U+201D) in font ec-lmr10!
+Missing character: There is no “ (U+201C) in font ec-lmr10!
+Missing character: There is no ” (U+201D) in font ec-lmr10!
+]) (./04-x-Sentilo/02_related.tex) (./04-x-Sentilo/03_background.tex)
+(./04-x-Sentilo/04_approach.tex
 
-Missing character: There is no “ (U+201C) in font ec-lmr10!
-Missing character: There is no ” (U+201D) in font ec-lmr10!
-Missing character: There is no “ (U+201C) in font ec-lmr10!
-Missing character: There is no ” (U+201D) in font ec-lmr10!
-Missing character: There is no “ (U+201C) in font ec-lmr10!
-Missing character: There is no ” (U+201D) in font ec-lmr10!
-Missing character: There is no “ (U+201C) in font ec-lmr10!
-Missing character: There is no ” (U+201D) in font ec-lmr10!
-] [38])
-(./04-x-Sentilo/05_experimentation.tex [39
+LaTeX Warning: Reference `pba' on page 42 undefined on input line 57.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[42]
+
+LaTeX Warning: Reference `pba' on page 43 undefined on input line 169.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[43]) (./04-x-Sentilo/05_experimentation.tex
+
+LaTeX Warning: Reference `pba' on page 44 undefined on input line 67.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[44
 Missing character: There is no – (U+2013) in font ec-lmr10!
-]) (./04-x-Sentilo/06_results.tex)
-(./04-x-Sentilo/07_conclusion.tex [40]) [41] [42
+]) (./04-x-Sentilo/06_results.tex) (./04-x-Sentilo/07_conclusion.tex)
 
-]
-Chapter 5.
-Package minitoc Info: I0006
-(minitoc)             these.mtc5 is empty on input line 20.
-("./05-x-Long paper/00_abstract.tex") ("./05-x-Long paper/01_introduction.tex") ("./05-x-Long paper/02_related.tex" [43] [44])
-("./05-x-Long paper/03_background.tex") ("./05-x-Long paper/04_approach.tex"
+LaTeX Warning: Reference `pba' on page 45 undefined on input line 20.
 
-Package tabulary Warning: No suitable columns! on input line 60.
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
 
 [45]
 
+LaTeX Warning: Reference `pba' on page 46 undefined on input line 20.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[46
+
+]
+Chapter 5.
+
+\openout7 = these.mtc
+
+\openout7 = these.mtc
+(/home/aghiles/Aghiles/Research/Writing/bin/these.mtc14)
+("./05-x-Long paper/00_abstract.tex") ("./05-x-Long paper/01_introduction.tex"
+[47]) ("./05-x-Long paper/02_related.tex"
+
+LaTeX Warning: Reference `pba' on page 48 undefined on input line 99.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[48]) ("./05-x-Long paper/03_background.tex")
+("./05-x-Long paper/04_approach.tex"
+
+LaTeX Warning: Reference `pba' on page 49 undefined on input line 27.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[49]
+
+Package tabulary Warning: No suitable columns! on input line 60.
+
+
 Package tabulary Warning: No suitable columns! on input line 84.
 
-) ("./05-x-Long paper/05_experimentation.tex" [46
+
+LaTeX Warning: Reference `pba' on page 50 undefined on input line 145.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[50
 Missing character: There is no ρ (U+03C1) in font ec-lmr10!
 Missing character: There is no − (U+2212) in font ec-lmr10!
 Missing character: There is no ” (U+201D) in font ec-lmr10!
 Missing character: There is no ” (U+201D) in font ec-lmr10!
-]
+]) ("./05-x-Long paper/05_experimentation.tex"
 
 Package tabulary Warning: No suitable columns! on input line 27.
 
@@ -3820,50 +4604,91 @@ PGFPlots: reading {../res/data/figure3.dat}
 PGFPlots: reading {../res/data/figure3.dat}
 )
 
-LaTeX Warning: Reference `5-fig:local_.png' on page 47 undefined on input line 3
+LaTeX Warning: Reference `5-fig:local_.png' on page 51 undefined on input line 3
 6.
 
-) ("./05-x-Long paper/06_results.tex" [47])
-("./05-x-Long paper/07_conclusion.tex") [48]
+
+LaTeX Warning: Reference `pba' on page 51 undefined on input line 42.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[51]) ("./05-x-Long paper/06_results.tex"
+
+LaTeX Warning: Reference `pba' on page 52 undefined on input line 98.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[52]) ("./05-x-Long paper/07_conclusion.tex")
+
+LaTeX Warning: Reference `pba' on page 53 undefined on input line 21.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[53]
+
+LaTeX Warning: Reference `pba' on page 54 undefined on input line 21.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[54
+
+]
 Chapter 6.
 
 Overfull \hbox (49.94522pt too wide) in paragraph at lines 21--21
 |[]\T1/lmr/bx/n/24.88 Ge-netic Al-go-rithm For LoRa Trans-
  []
 
-Package minitoc Info: I0006
-(minitoc)             these.mtc6 is empty on input line 21.
 
+\openout7 = these.mtc
+
+\openout7 = these.mtc
+(/home/aghiles/Aghiles/Research/Writing/bin/these.mtc15)
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/00_abstract.
 tex")
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/01_introduct
-ion.tex" [49
-
-])
+ion.tex" [55])
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/02_related.t
 ex")
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/03_backgroun
 d.tex")
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/04_approach.
 tex"
-<../res/plot/genetic.pdf, id=1628, 1026.1025pt x 457.04752pt>
+<../res/plot/genetic.pdf, id=3407, 1026.1025pt x 457.04752pt>
 File: ../res/plot/genetic.pdf Graphic file (type pdf)
 <use ../res/plot/genetic.pdf>
 Package luatex.def Info: ../res/plot/genetic.pdf  used on input line 54.
 (luatex.def)             Requested size: 441.01773pt x 196.43594pt.
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 8.64006pt on input line 54.
-LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 8.64006pt on input line 54.
- [50<../res/plot/genetic.pdf>])
+
+
+LaTeX Warning: Reference `pba' on page 56 undefined on input line 59.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[56<../res/plot/genetic.pdf>])
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/05_experimen
 tation.tex"
-<../res/tmp/Picture/gateway.jpg, id=1683, 4625.28pt x 3468.96pt>
+<../res/tmp/Picture/gateway.jpg, id=3453, 4625.28pt x 3468.96pt>
 File: ../res/tmp/Picture/gateway.jpg Graphic file (type jpg)
 <use ../res/tmp/Picture/gateway.jpg>
 Package luatex.def Info: ../res/tmp/Picture/gateway.jpg  used on input line 15.
 (luatex.def)             Requested size: 211.68661pt x 158.74306pt.
-<../res/tmp/Picture/node.jpg, id=1684, 4625.28pt x 3468.96pt>
+<../res/tmp/Picture/node.jpg, id=3454, 4625.28pt x 3468.96pt>
 File: ../res/tmp/Picture/node.jpg Graphic file (type jpg)
 <use ../res/tmp/Picture/node.jpg>
 Package luatex.def Info: ../res/tmp/Picture/node.jpg  used on input line 15.
@@ -3872,20 +4697,46 @@ Package luatex.def Info: ../res/tmp/Picture/node.jpg  used on input line 15.
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/06_results.t
 ex")
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/07_conclusio
-n.tex" [51<../res/tmp/Picture/gateway.jpg><../res/tmp/Picture/node.jpg>])
-[52]
+n.tex"
+
+LaTeX Warning: Reference `pba' on page 57 undefined on input line 1.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[57<../res/tmp/Picture/gateway.jpg><../res/tmp/Picture/node.jpg>])
+
+LaTeX Warning: Reference `pba' on page 58 undefined on input line 22.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[58]
 Chapter 7.
 
 \openout7 = these.mtc
 
 \openout7 = these.mtc
-(/home/aghiles/Aghiles/Research/Writing/bin/these.mtc7)
-(./21-Disaster/00_abstract.tex) (./21-Disaster/01_introduction.tex [53
+(/home/aghiles/Aghiles/Research/Writing/bin/these.mtc16)
+(./21-Disaster/00_abstract.tex) (./21-Disaster/01_introduction.tex [59
 
 ])
 (./21-Disaster/02_related.tex) (./21-Disaster/03_background.tex)
-(./21-Disaster/04_approach.tex [54]
-<../res/tmp/A-Application/iot.png, id=1764, 1702.36pt x 696.6025pt>
+(./21-Disaster/04_approach.tex
+
+LaTeX Warning: Reference `pba' on page 60 undefined on input line 1.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[60]
+<../res/tmp/A-Application/iot.png, id=3531, 1702.36pt x 696.6025pt>
 File: ../res/tmp/A-Application/iot.png Graphic file (type png)
 <use ../res/tmp/A-Application/iot.png>
 Package luatex.def Info: ../res/tmp/A-Application/iot.png  used on input line 13
@@ -3897,56 +4748,92 @@ Overfull \hbox (44.10446pt too wide) in paragraph at lines 13--13
  []
 
 ) (./21-Disaster/05_experimentation.tex) (./21-Disaster/06_results.tex)
-(./21-Disaster/07_conclusion.tex [55<../res/tmp/A-Application/iot.png>])
-[56]
+(./21-Disaster/07_conclusion.tex
+
+LaTeX Warning: Reference `pba' on page 61 undefined on input line 25.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[61<../res/tmp/A-Application/iot.png>])
+
+LaTeX Warning: Reference `pba' on page 62 undefined on input line 23.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[62]
 Chapter 8.
 
 \openout7 = these.mtc
 
 \openout7 = these.mtc
-(/home/aghiles/Aghiles/Research/Writing/bin/these.mtc8 [57
-
-] [58])
+(/home/aghiles/Aghiles/Research/Writing/bin/these.mtc17)
 (./07-Template/00_abstract.tex) (./07-Template/01_introduction.tex
 
-LaTeX Warning: Reference `8-sec:Background' on page 59 undefined on input line 2
+LaTeX Warning: Reference `8-sec:Background' on page 63 undefined on input line 2
 4.
 
 
-LaTeX Warning: Reference `8-sec:Results' on page 59 undefined on input line 28.
+LaTeX Warning: Reference `8-sec:Results' on page 63 undefined on input line 28.
 
-) (./07-Template/02_related.tex) (./07-Template/03_background.tex)
+) (./07-Template/02_related.tex) (./07-Template/03_background.tex [63
+
+])
 (./07-Template/04_approach.tex) (./07-Template/05_experimentation.tex)
-(./07-Template/06_results.tex [59]) (./07-Template/07_conclusion.tex) [60]
+(./07-Template/06_results.tex) (./07-Template/07_conclusion.tex)
+
+LaTeX Warning: Reference `pba' on page 64 undefined on input line 24.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[64]
 Chapter 9.
 
 \openout7 = these.mtc
 
 \openout7 = these.mtc
-(/home/aghiles/Aghiles/Research/Writing/bin/these.mtc9)
-(./08-UTLC/00_abstract.tex [61
+(/home/aghiles/Aghiles/Research/Writing/bin/these.mtc18)
+(./08-UTLC/00_abstract.tex) (./08-UTLC/01_introduction.tex [65
 
-]) (./08-UTLC/01_introduction.tex
+]
 Overfull \hbox (52.39638pt too wide) in paragraph at lines 38--59
 \T1/lmr/m/n/10 a-tions. Num-ber of mod-els based on Petri Nets (PN) have been p
 ro-posed in []
  []
 
 
-LaTeX Warning: Reference `9-sec:Use Case and Model Design' on page 62 undefined 
+LaTeX Warning: Reference `9-sec:Use Case and Model Design' on page 66 undefined 
 on input line 72.
 
 
-LaTeX Warning: Reference `9-sec:Prototyping' on page 62 undefined on input line 
+LaTeX Warning: Reference `9-sec:Prototyping' on page 66 undefined on input line 
 74.
 
-) (./08-UTLC/02_related.tex [62]
+) (./08-UTLC/02_related.tex
 Overfull \hbox (83.73055pt too wide) in paragraph at lines 3--23
 []\T1/lmr/m/n/10 Petri nets (PNs) are widely used for traf-fic light mod-elling
  and con-trol [[][]29[][]]. In [],
  []
 
-) (./08-UTLC/03_background.tex) (./08-UTLC/04_approach.tex
+
+LaTeX Warning: Reference `pba' on page 66 undefined on input line 45.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[66
+Missing character: There is no ’ (U+2019) in font ec-lmr10!
+]) (./08-UTLC/03_background.tex) (./08-UTLC/04_approach.tex
 Package epstopdf Info: Source file: <../res/tmp/Figures/CrossRoadModel_V1.eps>
 (epstopdf)                    date: 2019-10-13 23:13:23
 (epstopdf)                    size: 124569 bytes
@@ -3958,7 +4845,7 @@ nverted-to.pdf>
 Model_V1-eps-converted-to.pdf ../res/tmp/Figures/CrossRoadModel_V1.eps>
 (epstopdf)             \includegraphics on input line 29.
 Package epstopdf Info: Output file is already uptodate.
-<../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.pdf, id=2072, 944.52875pt
+<../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.pdf, id=3618, 944.52875pt
  x 648.4225pt>
 File: ../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.pdf Graphic file (ty
 pe pdf)
@@ -3966,9 +4853,16 @@ pe pdf)
 Package luatex.def Info: ../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.p
 df  used on input line 29.
 (luatex.def)             Requested size: 252.94499pt x 173.64177pt.
- [63
-Missing character: There is no ’ (U+2019) in font ec-lmr10!
-]
+
+
+LaTeX Warning: Reference `pba' on page 67 undefined on input line 59.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[67<../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <../res/tmp/Figures/TrafficlightModel.eps>
 (epstopdf)                    date: 2019-10-13 23:13:23
 (epstopdf)                    size: 8506 bytes
@@ -3980,7 +4874,7 @@ nverted-to.pdf>
 ghtModel-eps-converted-to.pdf ../res/tmp/Figures/TrafficlightModel.eps>
 (epstopdf)             \includegraphics on input line 116.
 Package epstopdf Info: Output file is already uptodate.
-<../res/tmp/Figures/TrafficlightModel-eps-converted-to.pdf, id=2086, 404.51125pt
+<../res/tmp/Figures/TrafficlightModel-eps-converted-to.pdf, id=3649, 404.51125pt
  x 152.57pt>
 File: ../res/tmp/Figures/TrafficlightModel-eps-converted-to.pdf Graphic file (ty
 pe pdf)
@@ -3999,7 +4893,7 @@ erted-to.pdf>
 eModel-eps-converted-to.pdf ../res/tmp/Figures/MiddlewareModel.eps>
 (epstopdf)             \includegraphics on input line 123.
 Package epstopdf Info: Output file is already uptodate.
-<../res/tmp/Figures/MiddlewareModel-eps-converted-to.pdf, id=2087, 423.5825pt x 
+<../res/tmp/Figures/MiddlewareModel-eps-converted-to.pdf, id=3650, 423.5825pt x 
 292.09125pt>
 File: ../res/tmp/Figures/MiddlewareModel-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -4007,8 +4901,17 @@ File: ../res/tmp/Figures/MiddlewareModel-eps-converted-to.pdf Graphic file (type
 Package luatex.def Info: ../res/tmp/Figures/MiddlewareModel-eps-converted-to.pdf
   used on input line 123.
 (luatex.def)             Requested size: 289.07999pt x 199.35034pt.
- [64<../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.pdf><../res/tmp/Figur
-es/TrafficlightModel-eps-converted-to.pdf>]
+
+
+LaTeX Warning: Reference `pba' on page 68 undefined on input line 151.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[68<../res/tmp/Figures/TrafficlightModel-eps-converted-to.pdf><../res/tmp/Figure
+s/MiddlewareModel-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <../res/tmp/Figures/CloudModel.eps>
 (epstopdf)                    date: 2019-10-13 23:13:23
 (epstopdf)                    size: 6424 bytes
@@ -4020,7 +4923,7 @@ Package epstopdf Info: Source file: <../res/tmp/Figures/CloudModel.eps>
 l-eps-converted-to.pdf ../res/tmp/Figures/CloudModel.eps>
 (epstopdf)             \includegraphics on input line 208.
 Package epstopdf Info: Output file is already uptodate.
-<../res/tmp/Figures/CloudModel-eps-converted-to.pdf, id=2131, 294.09875pt x 199.
+<../res/tmp/Figures/CloudModel-eps-converted-to.pdf, id=3675, 294.09875pt x 199.
 74625pt>
 File: ../res/tmp/Figures/CloudModel-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -4028,12 +4931,16 @@ File: ../res/tmp/Figures/CloudModel-eps-converted-to.pdf Graphic file (type pdf)
 Package luatex.def Info: ../res/tmp/Figures/CloudModel-eps-converted-to.pdf  use
 d on input line 208.
 (luatex.def)             Requested size: 231.26378pt x 157.06935pt.
- [65<../res/tmp/Figures/MiddlewareModel-eps-converted-to.pdf>]) (./08-UTLC/05_e
-xperimentation.tex
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 4.
-LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 7.68005pt on input line 4.
+
+
+LaTeX Warning: Reference `pba' on page 69 undefined on input line 221.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[69]) (./08-UTLC/05_experimentation.tex
 Package epstopdf Info: Source file: <../res/tmp/Figures/ScenarioPaper.eps>
 (epstopdf)                    date: 2019-10-13 23:13:23
 (epstopdf)                    size: 790082 bytes
@@ -4045,7 +4952,7 @@ ted-to.pdf>
 aper-eps-converted-to.pdf ../res/tmp/Figures/ScenarioPaper.eps>
 (epstopdf)             \includegraphics on input line 12.
 Package epstopdf Info: Output file is already uptodate.
-<../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf, id=2164, 1535.7375pt x 6
+<../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf, id=3723, 1535.7375pt x 6
 04.2575pt>
 File: ../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf Graphic file (type p
 df)
@@ -4053,10 +4960,20 @@ df)
 Package luatex.def Info: ../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf  
 used on input line 12.
 (luatex.def)             Requested size: 325.215pt x 127.95815pt.
- [66
+
+
+LaTeX Warning: Reference `pba' on page 70 undefined on input line 39.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[70
 Missing character: There is no ’ (U+2019) in font ec-lmr10!
-<../res/tmp/Figures/CloudModel-eps-converted-to.pdf>]
-<../res/tmp/Figures/ethernetRouter.png, id=2202, 294.8616pt x 168.1482pt>
+<../res/tmp/Figures/CloudModel-eps-converted-to.pdf><../res/tmp/Figures/Scenario
+Paper-eps-converted-to.pdf>]
+<../res/tmp/Figures/ethernetRouter.png, id=3771, 294.8616pt x 168.1482pt>
 File: ../res/tmp/Figures/ethernetRouter.png Graphic file (type png)
 <use ../res/tmp/Figures/ethernetRouter.png>
 Package luatex.def Info: ../res/tmp/Figures/ethernetRouter.png  used on input li
@@ -4064,13 +4981,20 @@ ne 52.
 (luatex.def)             Requested size: 180.67499pt x 103.03206pt.
 
 
-LaTeX Warning: Reference `9-sec:Use Case and Model Design' on page 67 undefined 
+LaTeX Warning: Reference `9-sec:Use Case and Model Design' on page 71 undefined 
 on input line 58.
 
-[67
+
+LaTeX Warning: Reference `pba' on page 71 undefined on input line 158.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[71
 Missing character: There is no ’ (U+2019) in font ec-lmr10!
-<../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf><../res/tmp/Figures/ether
-netRouter.png>]
+<../res/tmp/Figures/ethernetRouter.png>]
 Package epstopdf Info: Source file: <../res/tmp/Figures/StackIoTv1.eps>
 (epstopdf)                    date: 2019-10-13 23:13:23
 (epstopdf)                    size: 55400 bytes
@@ -4082,7 +5006,7 @@ Package epstopdf Info: Source file: <../res/tmp/Figures/StackIoTv1.eps>
 1-eps-converted-to.pdf ../res/tmp/Figures/StackIoTv1.eps>
 (epstopdf)             \includegraphics on input line 233.
 Package epstopdf Info: Output file is already uptodate.
-<../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf, id=2246, 298.11375pt x 343.
+<../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf, id=3784, 298.11375pt x 343.
 2825pt>
 File: ../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -4090,8 +5014,7 @@ File: ../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf Graphic file (type pdf)
 Package luatex.def Info: ../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf  use
 d on input line 233.
 (luatex.def)             Requested size: 144.54pt x 166.43942pt.
-) (./08-UTLC/06_results.tex [68<../res/tmp/Figures/StackIoTv1-eps-converted-to.p
-df>]
+) (./08-UTLC/06_results.tex
 Package epstopdf Info: Source file: <../res/tmp/Figures/distributions_v3.eps>
 (epstopdf)                    date: 2019-10-13 23:13:23
 (epstopdf)                    size: 46701 bytes
@@ -4103,7 +5026,7 @@ verted-to.pdf>
 ions_v3-eps-converted-to.pdf ../res/tmp/Figures/distributions_v3.eps>
 (epstopdf)             \includegraphics on input line 9.
 Package epstopdf Info: Output file is already uptodate.
-<../res/tmp/Figures/distributions_v3-eps-converted-to.pdf, id=2266, 752.8125pt x
+<../res/tmp/Figures/distributions_v3-eps-converted-to.pdf, id=3785, 752.8125pt x
  752.8125pt>
 File: ../res/tmp/Figures/distributions_v3-eps-converted-to.pdf Graphic file (typ
 e pdf)
@@ -4112,9 +5035,15 @@ Package luatex.def Info: ../res/tmp/Figures/distributions_v3-eps-converted-to.pd
 f  used on input line 9.
 (luatex.def)             Requested size: 441.01773pt x 441.03107pt.
 
-Underfull \vbox (badness 7168) has occurred while \output is active []
 
- [69<../res/tmp/Figures/distributions_v3-eps-converted-to.pdf>]
+LaTeX Warning: Reference `pba' on page 72 undefined on input line 18.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[72<../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <../res/tmp/Figures/cdf_v3.eps>
 (epstopdf)                    date: 2019-10-13 23:13:23
 (epstopdf)                    size: 10221 bytes
@@ -4126,26 +5055,53 @@ pdf>
 s-converted-to.pdf ../res/tmp/Figures/cdf_v3.eps>
 (epstopdf)             \includegraphics on input line 57.
 Package epstopdf Info: Output file is already uptodate.
-<../res/tmp/Figures/cdf_v3-eps-converted-to.pdf, id=2289, 903.375pt x 617.30624p
+<../res/tmp/Figures/cdf_v3-eps-converted-to.pdf, id=3805, 903.375pt x 617.30624p
 t>
 File: ../res/tmp/Figures/cdf_v3-eps-converted-to.pdf Graphic file (type pdf)
 <use ../res/tmp/Figures/cdf_v3-eps-converted-to.pdf>
 Package luatex.def Info: ../res/tmp/Figures/cdf_v3-eps-converted-to.pdf  used on
  input line 57.
 (luatex.def)             Requested size: 252.94499pt x 172.84456pt.
-)
-(./08-UTLC/07_conclusion.tex [70
-Missing character: There is no ’ (U+2019) in font ec-lmr10!
-<../res/tmp/Figures/cdf_v3-eps-converted-to.pdf>]) [71] [72
 
-]
+
+LaTeX Warning: Reference `pba' on page 73 undefined on input line 80.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[73<../res/tmp/Figures/distributions_v3-eps-converted-to.pdf>])
+(./08-UTLC/07_conclusion.tex)
+
+LaTeX Warning: Reference `pba' on page 74 undefined on input line 25.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[74
+Missing character: There is no ’ (U+2019) in font ec-lmr10!
+<../res/tmp/Figures/cdf_v3-eps-converted-to.pdf>]
 Chapter 10.
 
 \openout7 = these.mtc
 
 \openout7 = these.mtc
-(/home/aghiles/Aghiles/Research/Writing/bin/these.mtc10)
-(./09-Conclusion/00_conclusion.tex) [73] [74
+(/home/aghiles/Aghiles/Research/Writing/bin/these.mtc19)
+(./09-Conclusion/00_conclusion.tex) [75
+
+]
+
+LaTeX Warning: Reference `pba' on page 76 undefined on input line 27.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[76
 
 ]
 Chapter 11.
@@ -4153,20 +5109,84 @@ Chapter 11.
 \openout7 = these.mtc
 
 \openout7 = these.mtc
-(/home/aghiles/Aghiles/Research/Writing/bin/these.mtc11)
-("./A-Survey IoT/00_papers_network.tex" [75]
-Overfull \hbox (47.96674pt too wide) in alignment at lines 6--13
+(/home/aghiles/Aghiles/Research/Writing/bin/these.mtc20)
+("./A-Survey IoT/00_papers_network.tex" [77]
+Overfull \hbox (25.3828pt too wide) in alignment at lines 8--29
  [][][][][] 
  []
 
-[76
 
-]) ("./A-Survey IoT/01_papers_orchestration.tex"
-Overfull \hbox (23.14745pt too wide) in alignment at lines 8--16
+Overfull \hbox (25.3828pt too wide) in alignment at lines 29--51
  [][][][][] 
  []
 
-[77
+
+Overfull \hbox (25.3828pt too wide) in alignment at lines 55--61
+ [][][][][] 
+ []
+
+
+Overfull \hbox (25.3828pt too wide) in alignment at lines 65--71
+ [][][][][] 
+ []
+
+
+LaTeX Warning: Reference `pba' on page 78 undefined on input line 71.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[78
+
+]
+Overfull \hbox (25.3828pt too wide) in alignment at lines 75--81
+ [][][][][] 
+ []
+
+
+Overfull \hbox (25.3828pt too wide) in alignment at lines 85--91
+ [][][][][] 
+ []
+
+
+Overfull \hbox (25.3828pt too wide) in alignment at lines 95--101
+ [][][][][] 
+ []
+
+
+Overfull \hbox (25.3828pt too wide) in alignment at lines 105--111
+ [][][][][] 
+ []
+
+
+Overfull \hbox (25.3828pt too wide) in alignment at lines 115--121
+ [][][][][] 
+ []
+
+
+LaTeX Warning: Reference `pba' on page 79 undefined on input line 127.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[79]) ("./A-Survey IoT/01_papers_orchestration.tex"
+Overfull \hbox (80.7034pt too wide) in alignment at lines 8--17
+ [][][][][] 
+ []
+
+
+LaTeX Warning: Reference `pba' on page 80 undefined on input line 19.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[80
 
 
 ]) ("./A-Survey IoT/02_technologies.tex"
@@ -4184,7 +5204,15 @@ Overfull \hbox (129.26617pt too wide) in alignment at lines 52--61
  [][][][][][][][] 
  []
 
-[78
+
+LaTeX Warning: Reference `pba' on page 81 undefined on input line 63.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[81
 
 
 ]
@@ -4202,7 +5230,15 @@ Overfull \hbox (53.17178pt too wide) in alignment at lines 106--114
  [][][][][][][][] 
  []
 
-[79
+
+LaTeX Warning: Reference `pba' on page 82 undefined on input line 116.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[82
 
 ]
 Overfull \hbox (3.02966pt too wide) in paragraph at lines 153--153
@@ -4222,11 +5258,28 @@ Overfull \hbox (19.2832pt too wide) in paragraph at lines 187--188
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[80
+
+LaTeX Warning: Reference `pba' on page 83 undefined on input line 215.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[83
 
 Missing character: There is no – (U+2013) in font ec-lmr7!
 Missing character: There is no – (U+2013) in font ec-lmr7!
-] [81
+]
+
+LaTeX Warning: Reference `pba' on page 84 undefined on input line 215.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[84
 Missing character: There is no – (U+2013) in font ec-lmr7!
 Missing character: There is no – (U+2013) in font ec-lmr7!
 ]
@@ -4234,7 +5287,15 @@ Overfull \hbox (64.58801pt too wide) in paragraph at lines 221--234
 [][] 
  []
 
-[82
+
+LaTeX Warning: Reference `pba' on page 85 undefined on input line 263.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[85
 
 Missing character: There is no ’ (U+2019) in font ec-lmr10!
 ]) ("./A-Survey IoT/03_application.tex"
@@ -4302,9 +5363,27 @@ Missing character: There is no ’ (U+2019) in font ec-lmr10!
 \depth=\dimen447
 \totalheight=\dimen448
 \width=\dimen449
- [83
 
-]) ("./A-Survey IoT/04_frame.tex" [84]
+
+LaTeX Warning: Reference `pba' on page 86 undefined on input line 93.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[86
+
+]) ("./A-Survey IoT/04_frame.tex"
+
+LaTeX Warning: Reference `pba' on page 87 undefined on input line 8.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[87]
 \height=\dimen450
 \depth=\dimen451
 \totalheight=\dimen452
@@ -4586,9 +5665,26 @@ Overfull \hbox (226.24524pt too wide) in paragraph at lines 19--21
 [][] 
  []
 
-[85
 
-]) ("./A-Survey IoT/09_cloud.tex" [86
+LaTeX Warning: Reference `pba' on page 88 undefined on input line 113.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[88
+
+]) ("./A-Survey IoT/09_cloud.tex"
+
+LaTeX Warning: Reference `pba' on page 89 undefined on input line 66.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[89
 
 ]) ("./A-Survey IoT/09_divers.tex"
 Overfull \hbox (8.10419pt too wide) in paragraph at lines 102--102
@@ -4624,45 +5720,146 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [87
+
+
+LaTeX Warning: Reference `pba' on page 90 undefined on input line 185.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[90
 
 
 ]
 Overfull \vbox (196.09286pt too high) has occurred while \output is active []
 
 
-[88])
+
+LaTeX Warning: Reference `pba' on page 91 undefined on input line 185.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[91])
+
+LaTeX Warning: Reference `pba' on page 92 undefined on input line 34.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[92
+
+
+]
 Chapter 12.
 
 \openout7 = these.mtc
 
 \openout7 = these.mtc
-(/home/aghiles/Aghiles/Research/Writing/bin/these.mtc12)
-(./Y-Management/01_introduction.tex [89
+(/home/aghiles/Aghiles/Research/Writing/bin/these.mtc21)
+(./Y-Management/01_introduction.tex [93])
+
+LaTeX Warning: Reference `pba' on page 94 undefined on input line 35.
 
 
-]) [90]
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[94]
 Chapter 13.
 
 \openout7 = these.mtc
 
 \openout7 = these.mtc
-(/home/aghiles/Aghiles/Research/Writing/bin/these.mtc13)
-(./Z-Plan/01_plan_affaire.tex [91
+(/home/aghiles/Aghiles/Research/Writing/bin/these.mtc22 [95
 
+]
+
+LaTeX Warning: Reference `pba' on page 96 undefined on input line 104.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[96
+Missing character: There is no œ (U+0153) in font ec-lmr9!
+Missing character: There is no … (U+2026) in font ec-lmr9!
+Missing character: There is no ’ (U+2019) in font ec-lmr9!
+]) (./Z-Plan/01_plan_affaire.tex
+
+LaTeX Warning: Reference `pba' on page 97 undefined on input line 25.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[97
 Missing character: There is no • (U+2022) in font ec-lmr10!
 Missing character: There is no • (U+2022) in font ec-lmr10!
 Missing character: There is no • (U+2022) in font ec-lmr10!
 Missing character: There is no • (U+2022) in font ec-lmr10!
-] [92
+]
+
+LaTeX Warning: Reference `pba' on page 98 undefined on input line 64.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[98]
+
+LaTeX Warning: Reference `pba' on page 99 undefined on input line 107.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[99
 Missing character: There is no œ (U+0153) in font ec-lmbx12!
 Missing character: There is no … (U+2026) in font ec-lmr10!
 Missing character: There is no … (U+2026) in font ec-lmbx12!
-] [93
+]
+
+LaTeX Warning: Reference `pba' on page 100 undefined on input line 188.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[100
 Missing character: There is no ’ (U+2019) in font ec-lmbx12!
-] [94
 Missing character: There is no … (U+2026) in font ec-lmr10!
-]) [95] [96
+])
+
+LaTeX Warning: Reference `pba' on page 101 undefined on input line 38.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[101]
+
+LaTeX Warning: Reference `pba' on page 102 undefined on input line 38.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[102
 
 ]
 
@@ -4732,7 +5929,7 @@ Package hyperref Info: Option `pdfnewwindow' set `true' on input line 38.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 38.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 38.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 38.
-[97]
+[103]
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 38.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 38.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 38.
@@ -4758,7 +5955,16 @@ LaTeX Font Info:    Try loading font information for TS1+lmr on input line 38.
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 38.
- [98
+
+
+LaTeX Warning: Reference `pba' on page 104 undefined on input line 38.
+
+
+Overfull \hbox (11.11108pt too wide) has occurred while \output is active
+ $[]$ 
+ []
+
+[104
 Missing character: There is no č (U+010D) in font ec-lmr9!
 ]
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 38.
@@ -4775,15 +5981,14 @@ Package minitoc Info: I0009
 \openout7 = these.maf
 
 
-Package minitoc(hints) Warning: W0059
-(minitoc(hints))                You have used \minitoc, 
-(minitoc(hints))                but not \dominitoc.
+Package minitoc(hints) Warning: W0079
+(minitoc(hints))                You have used \dominilof, 
+(minitoc(hints))                but not \minilof.
 
 
-Package minitoc(hints) Warning: W0068
-(minitoc(hints))                You have used \minitoc but not 
-(minitoc(hints))                \tableofcontents
-(minitoc(hints))                nor \faketableofcontents.
+Package minitoc(hints) Warning: W0080
+(minitoc(hints))                You have used \dominilot, 
+(minitoc(hints))                but not \minilot.
 
 Package minitoc(hints) Info: I0053
 (minitoc(hints))             You have loaded the float package; 
@@ -4795,7 +6000,7 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the these.log file.
 
-[99]
+[105]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 40.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 40.
  (/home/aghiles/Aghiles/Research/Writing/bin/these.aux)
@@ -4810,22 +6015,27 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                these
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'these.run.xml'.
 
 \openout1 = these.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 80655 strings out of 494383
- 156472,2848258 words of node,token memory allocated
- 1525 words of node memory still in use:
-   12 hlist, 2 vlist, 4 rule, 10 glue, 4 kern, 1 glyph, 53 attribute, 163 glue_s
-pec, 53 attribute_list, 1 write, 29 pdf_action nodes
-   avail lists: 1:25,2:6814,3:2696,4:650,5:1114,6:462,7:11122,8:1668,9:2332,10:3
-5,11:688,12:1
- 78881 multiletter control sequences out of 65536+600000
- 209 fonts using 18172551 bytes
- 84i,21n,136p,6070b,3478s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 81399 strings out of 494383
+ 156466,2848258 words of node,token memory allocated
+ 1555 words of node memory still in use:
+   12 hlist, 2 vlist, 4 rule, 10 glue, 4 kern, 1 glyph, 56 attribute, 163 glue_s
+pec, 56 attribute_list, 1 write, 32 pdf_action nodes
+   avail lists: 1:38,2:6869,3:2706,4:650,5:1114,6:472,7:11122,8:1678,9:2347,10:3
+6,11:641,12:1
+ 79090 multiletter control sequences out of 65536+600000
+ 210 fonts using 18255215 bytes
+ 84i,21n,136p,6070b,4885s stack positions out of 5000i,500n,10000p,200000b,100000s
 
 warning  (pdf backend): unreferenced destination with name 'NDCG'
 
@@ -4841,109 +6051,11 @@ warning  (pdf backend): unreferenced destination with name 'RMSE'
 
 warning  (pdf backend): unreferenced destination with name 'MSE'
 
-warning  (pdf backend): unreferenced destination with name 'Hfootnote.5'
-
-warning  (pdf backend): unreferenced destination with name 'RS'
-
-warning  (pdf backend): unreferenced destination with name 'PktL'
-
-warning  (pdf backend): unreferenced destination with name 'O_{space}'
-
-warning  (pdf backend): unreferenced destination with name 'O_{time}'
-
-warning  (pdf backend): unreferenced destination with name 'RSSI'
-
-warning  (pdf backend): unreferenced destination with name 'Sen'
-
-warning  (pdf backend): unreferenced destination with name 'SC'
-
-warning  (pdf backend): unreferenced destination with name 'Th'
-
-warning  (pdf backend): unreferenced destination with name 'Mob'
-
-warning  (pdf backend): unreferenced destination with name 'ToA'
-
-warning  (pdf backend): unreferenced destination with name 'CCI'
-
-warning  (pdf backend): unreferenced destination with name 'Jit'
-
-warning  (pdf backend): unreferenced destination with name 'SL'
-
-warning  (pdf backend): unreferenced destination with name 'SR'
-
-warning  (pdf backend): unreferenced destination with name 'DC'
-
-warning  (pdf backend): unreferenced destination with name 'TC'
-
-warning  (pdf backend): unreferenced destination with name 'RTT'
-
-warning  (pdf backend): unreferenced destination with name 'PLR'
-
-warning  (pdf backend): unreferenced destination with name 'PDR'
-
-warning  (pdf backend): unreferenced destination with name 'PRR'
-
-warning  (pdf backend): unreferenced destination with name 'PER'
-
-warning  (pdf backend): unreferenced destination with name 'BER'
-
-warning  (pdf backend): unreferenced destination with name 'SIR'
-
-warning  (pdf backend): unreferenced destination with name 'SINR'
-
-warning  (pdf backend): unreferenced destination with name 'PS'
+warning  (pdf backend): unreferenced destination with name 'Hfootnote.6'
 
 warning  (pdf backend): unreferenced destination with name 'BR'
 
-warning  (pdf backend): unreferenced destination with name 'UNB'
-
-warning  (pdf backend): unreferenced destination with name 'DSSS'
-
-warning  (pdf backend): unreferenced destination with name 'BS'
-
-warning  (pdf backend): unreferenced destination with name 'LS'
-
-warning  (pdf backend): unreferenced destination with name 'PL'
-
-warning  (pdf backend): unreferenced destination with name 'FEC'
-
-warning  (pdf backend): unreferenced destination with name 'CSS'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.5.2.1.
-4'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.5.2.1.
-3'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.5.2.1.
-2'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.5.2.1.
-1'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.4.5.2.
-3'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.4.5.2.
-2'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.4.5.2.
-1'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.4.5.1.
-2'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.4.5.1.
-1'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.4.4.2.
-3'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.4.4.2.
-2'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.4.4.2.
-1'
+warning  (pdf backend): unreferenced destination with name 'Hfootnote.5'
 
 warning  (pdf backend): unreferenced destination with name 'Hfootnote.4'
 
@@ -4952,295 +6064,6 @@ warning  (pdf backend): unreferenced destination with name 'Hfootnote.3'
 warning  (pdf backend): unreferenced destination with name 'Hfootnote.2'
 
 warning  (pdf backend): unreferenced destination with name 'Hfootnote.1'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.3.4.2.
-2'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.3.4.2.
-1'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.6.3.
-3'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.6.3.
-2'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.6.3.
-1'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.6.1.
-2'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.6.1.
-1'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.4.6.
-4'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.4.6.
-3'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.4.6.
-2'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.4.6.
-1'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.4.5.
-2'
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.4.5.1.3'
-
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.4.5.1.2'
-
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.4.5.1.1'
-
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.4.5.
-1'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.4.4.
-3'
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.4.4.2.3'
-
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.4.4.2.2'
-
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.4.4.2.1'
-
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.4.4.
-2'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.4.4.
-1'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.4.3.
-3'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.4.3.
-2'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.4.3.
-1'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.4.2.
-1'
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.3.4.3.1'
-
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.4.
-3'
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.3.4.2.1'
-
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.4.
-2'
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.3.4.1.1'
-
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.4.
-1'
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.3.3.2.1'
-
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.3.
-2'
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.3.3.1.1'
-
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.3.
-1'
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.3.2.11.6
-'
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.3.2.11.5
-'
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.3.2.11.4
-'
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.3.2.11.3
-'
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.3.2.11.2
-'
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.3.2.11.1
-'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.2.
-11'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.2.
-10'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.2.
-9'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.2.
-8'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.2.
-7'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.2.
-6'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.2.
-5'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.2.
-4'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.2.
-3'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.2.
-2'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.2.
-1'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.1.
-10'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.1.
-9'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.1.
-8'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.1.
-7'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.1.
-6'
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.3.1.5.4'
-
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.3.1.5.3'
-
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.3.1.5.2'
-
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.3.1.5.1'
-
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.1.
-5'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.1.
-4'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.1.
-3'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.1.
-2'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.3.1.
-1'
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.2.2.3.3'
-
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.2.2.3.2'
-
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.2.2.3.1'
-
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.2.2.
-3'
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.2.2.2.1'
-
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.2.2.
-2'
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.2.2.1.3'
-
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.2.2.1.2'
-
-
-warning  (pdf backend): unreferenced destination with name 'paragraph.2.2.2.1.1'
-
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.2.2.
-1'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.2.1.
-6'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.2.1.
-5'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.2.1.
-4'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.2.1.
-3'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.2.1.
-2'
-
-warning  (pdf backend): unreferenced destination with name 'subsubsection.2.2.1.
-1'
-
-warning  (pdf backend): unreferenced destination with name 'WSN'
-
-warning  (pdf backend): unreferenced destination with name 'MQTT'
-
-warning  (pdf backend): unreferenced destination with name 'CoAP'
-
-warning  (pdf backend): unreferenced destination with name 'CF'
-
-warning  (pdf backend): unreferenced destination with name 'DR'
-
-warning  (pdf backend): unreferenced destination with name 'QoS'
-
-warning  (pdf backend): unreferenced destination with name 'EES'
-
-warning  (pdf backend): unreferenced destination with name 'LoRa'
-
-warning  (pdf backend): unreferenced destination with name 'MCDM'
-
-warning  (pdf backend): unreferenced destination with name 'FL'
-
-warning  (pdf backend): unreferenced destination with name 'GA'
-
-warning  (pdf backend): unreferenced destination with name 'SNR'
-
-warning  (pdf backend): unreferenced destination with name 'ADR'
-
-warning  (pdf backend): unreferenced destination with name 'BW'
-
-warning  (pdf backend): unreferenced destination with name 'CR'
-
-warning  (pdf backend): unreferenced destination with name 'Tx'
-
-warning  (pdf backend): unreferenced destination with name 'SF'
-
-warning  (pdf backend): unreferenced destination with name 'NB-IoT'
-
-warning  (pdf backend): unreferenced destination with name 'LPWAN'
-
-warning  (pdf backend): unreferenced destination with name 'IoT'
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/dvip
 s/lm/lm-ec.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/arev/arevot1.enc}{
 /usr/share/texlive/texmf-dist/fonts/enc/dvips/arev/arevoms.enc}{/usr/share/texli
@@ -5256,14 +6079,15 @@ fonts/type1/public/lm/lmr5.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb>
 </usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/p
 ublic/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/t
 exmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lm
-ri9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-ch
-b7t.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-ch
-b7y.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-ch
-r7v.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on these.pdf (99 pages, 9431114 bytes).
+ri9.pfb></usr/share/texmf/fonts/type1/public/lm/lmro10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/mathdesign/mdbch/md-chb7t.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/mathdesign/mdbch/md-chb7y.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr7v.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on these.pdf (135 pages, 9593781 bytes).
 
-PDF statistics: 3019 PDF objects out of 3580 (max. 8388607)
- 2709 compressed objects within 28 object streams
- 743 named destinations out of 1000 (max. 131072)
- 2328 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 4634 PDF objects out of 5155 (max. 8388607)
+ 4249 compressed objects within 43 object streams
+ 862 named destinations out of 1000 (max. 131072)
+ 3680 words of extra memory for PDF output out of 10000 (max. 100000000)
 

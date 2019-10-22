@@ -1,25 +1,124 @@
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1)}Introduction}{\reset@font\mtcSfont 43}{section.5.1}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2)}Related work}{\reset@font\mtcSfont 44}{section.5.2}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.1)}LoRa Overview}{\reset@font\mtcSSfont 44}{subsection.5.2.1}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.1.1)}Bandwidth (BW):}{\reset@font\mtcSSSfont 44}{subsubsection.5.2.1.1}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.1.2)}Carrier Frequency (CF):}{\reset@font\mtcSSSfont 44}{subsubsection.5.2.1.2}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.1.3)}Coding Rate (CR):}{\reset@font\mtcSSSfont 44}{subsubsection.5.2.1.3}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.1.4)}Spreading Factor (SF):}{\reset@font\mtcSSSfont 44}{subsubsection.5.2.1.4}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.2)}From Experimental Measurements to Simulations}{\reset@font\mtcSSfont 44}{subsection.5.2.2}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3)}LoRa Evaluation and Limits}{\reset@font\mtcSSfont 44}{subsection.5.2.3}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.4)}LoRa Network Deployment Strategies}{\reset@font\mtcSSfont 45}{subsection.5.2.4}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3)}Background}{\reset@font\mtcSfont 45}{section.5.3}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4)}Approach}{\reset@font\mtcSfont 45}{section.5.4}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.1)}Spectrum}{\reset@font\mtcSSfont 45}{subsection.5.4.1}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.2)}LoRa Modulation}{\reset@font\mtcSSfont 45}{subsection.5.4.2}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3)}Spreading Factors Orthogonality}{\reset@font\mtcSSfont 46}{subsection.5.4.3}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4)}LoRa SX1276 and SX1301 Transceivers}{\reset@font\mtcSSfont 46}{subsection.5.4.4}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.5)}MAC and Application Layers}{\reset@font\mtcSSfont 46}{subsection.5.4.5}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.6)}Deployment Scenarios}{\reset@font\mtcSSfont 46}{subsection.5.4.6}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {5)}Experimentation}{\reset@font\mtcSfont 47}{section.5.5}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6)}Results exploitation}{\reset@font\mtcSfont 48}{section.5.6}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.1)}Deployment Scenarios and Assumptions}{\reset@font\mtcSSfont 48}{subsection.5.6.1}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.2)}Homogeneous Deployments Scenarios}{\reset@font\mtcSSfont 48}{subsection.5.6.2}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.3)}Heterogeneous vs. Homogeneous Deployment Scenarios}{\reset@font\mtcSSfont 48}{subsection.5.6.3}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.4)}Application Period and Packet Duration vs. ERC Regulations}{\reset@font\mtcSSfont 49}{subsection.5.6.4}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {7)}Conclusion}{\reset@font\mtcSfont 49}{section.5.7}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1}IoT use cases \cite {bregell_hardware_2015}}{\reset@font\mtcSfont 5}{section.2.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.1}Transportation and logistics}{\reset@font\mtcSSfont 5}{subsection.2.1.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.2}Healthcare}{\reset@font\mtcSSfont 5}{subsection.2.1.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.3}Smart environnement}{\reset@font\mtcSSfont 5}{subsection.2.1.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.4}personal and social}{\reset@font\mtcSSfont 5}{subsection.2.1.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.5}Futuristic}{\reset@font\mtcSSfont 5}{subsection.2.1.5}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {1.6}Summary and discussion}{\reset@font\mtcSSfont 8}{subsection.2.1.6}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2}IoT Sensors}{\reset@font\mtcSfont 8}{section.2.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.1}Software platform}{\reset@font\mtcSSfont 8}{subsection.2.2.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.1.1}Contiki}{\reset@font\mtcSSSfont 8}{subsubsection.2.2.1.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.1.2}RIOT}{\reset@font\mtcSSSfont 9}{subsubsection.2.2.1.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.1.3}TinyOS}{\reset@font\mtcSSSfont 10}{subsubsection.2.2.1.3}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.1.4}freeRTOS}{\reset@font\mtcSSSfont 10}{subsubsection.2.2.1.4}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.1.5}SDN platforms}{\reset@font\mtcSSSfont 10}{subsubsection.2.2.1.5}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.1.6}Summary and conclusion}{\reset@font\mtcSSSfont 10}{subsubsection.2.2.1.6}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.2}Hardware platform}{\reset@font\mtcSSfont 11}{subsection.2.2.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.2.1}Processing Unit}{\reset@font\mtcSSSfont 11}{subsubsection.2.2.2.1}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {A)}OpenMote}{\reset@font\mtcPfont 12}{paragraph.2.2.2.1.1}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {B)}MSB430-H}{\reset@font\mtcPfont 12}{paragraph.2.2.2.1.2}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {C)}Zolertia}{\reset@font\mtcPfont 12}{paragraph.2.2.2.1.3}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.2.2}Radio Unit}{\reset@font\mtcSSSfont 12}{subsubsection.2.2.2.2}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {A)}Lora Tranceiver}{\reset@font\mtcPfont 12}{paragraph.2.2.2.2.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {2.2.3}Sensing Unit}{\reset@font\mtcSSSfont 12}{subsubsection.2.2.2.3}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {A)}GPS}{\reset@font\mtcPfont 12}{paragraph.2.2.2.3.1}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {B)}Humidity}{\reset@font\mtcPfont 12}{paragraph.2.2.2.3.2}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {C)}Temperature}{\reset@font\mtcPfont 12}{paragraph.2.2.2.3.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {2.3}Summary and discussion}{\reset@font\mtcSSfont 13}{subsection.2.2.3}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3}IoT Communication protocols}{\reset@font\mtcSfont 14}{section.2.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.1}Application}{\reset@font\mtcSSfont 14}{subsection.2.3.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.1.1}LwM2M}{\reset@font\mtcSSSfont 14}{subsubsection.2.3.1.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.1.2}CBOR}{\reset@font\mtcSSSfont 14}{subsubsection.2.3.1.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.1.3}DTLS}{\reset@font\mtcSSSfont 14}{subsubsection.2.3.1.3}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.1.4}OSCOAP}{\reset@font\mtcSSSfont 14}{subsubsection.2.3.1.4}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.1.5}COAP (COnstrained Application Protocol)}{\reset@font\mtcSSSfont 14}{subsubsection.2.3.1.5}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {A)}Overview}{\reset@font\mtcPfont 14}{paragraph.2.3.1.5.1}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {B)}Coap Methods}{\reset@font\mtcPfont 14}{paragraph.2.3.1.5.2}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {C)}Coap Transactions}{\reset@font\mtcPfont 14}{paragraph.2.3.1.5.3}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {D)}Coap Messages}{\reset@font\mtcPfont 14}{paragraph.2.3.1.5.4}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.1.6}MQTT}{\reset@font\mtcSSSfont 15}{subsubsection.2.3.1.6}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.1.7}XMPP}{\reset@font\mtcSSSfont 15}{subsubsection.2.3.1.7}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.1.8}AMQP}{\reset@font\mtcSSSfont 15}{subsubsection.2.3.1.8}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.1.9}DDS}{\reset@font\mtcSSSfont 15}{subsubsection.2.3.1.9}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.1.10}mDNS}{\reset@font\mtcSSSfont 16}{subsubsection.2.3.1.10}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.2}Network}{\reset@font\mtcSSfont 16}{subsection.2.3.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.2.1}6TiSCH}{\reset@font\mtcSSSfont 16}{subsubsection.2.3.2.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.2.2}OLSRv2}{\reset@font\mtcSSSfont 16}{subsubsection.2.3.2.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.2.3}AODVv2}{\reset@font\mtcSSSfont 16}{subsubsection.2.3.2.3}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.2.4}LoRaWAN}{\reset@font\mtcSSSfont 16}{subsubsection.2.3.2.4}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.2.5}ROHC}{\reset@font\mtcSSSfont 16}{subsubsection.2.3.2.5}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.2.6}IPHC}{\reset@font\mtcSSSfont 16}{subsubsection.2.3.2.6}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.2.7}SCHC}{\reset@font\mtcSSSfont 16}{subsubsection.2.3.2.7}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.2.8}NHC}{\reset@font\mtcSSSfont 16}{subsubsection.2.3.2.8}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.2.9}ROLL}{\reset@font\mtcSSSfont 16}{subsubsection.2.3.2.9}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.2.10}RPL}{\reset@font\mtcSSSfont 16}{subsubsection.2.3.2.10}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.2.11}6LowPAN}{\reset@font\mtcSSSfont 17}{subsubsection.2.3.2.11}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {A)}Characteristics}{\reset@font\mtcPfont 17}{paragraph.2.3.2.11.1}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {B)}Encapsulation Header format}{\reset@font\mtcPfont 17}{paragraph.2.3.2.11.2}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {C)}Fragment Header}{\reset@font\mtcPfont 17}{paragraph.2.3.2.11.3}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {D)}Mesh addressing header}{\reset@font\mtcPfont 18}{paragraph.2.3.2.11.4}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {E)}Header compression (RFC4944)}{\reset@font\mtcPfont 18}{paragraph.2.3.2.11.5}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {F)}Header compression Improved (draft-hui-6lowpan-hc-01)}{\reset@font\mtcPfont 18}{paragraph.2.3.2.11.6}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.3}MAC}{\reset@font\mtcSSfont 20}{subsection.2.3.3}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.3.1}Sharing the channel}{\reset@font\mtcSSSfont 20}{subsubsection.2.3.3.1}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {A)}TDMA, FDMA, CDMA, TSMA}{\reset@font\mtcPfont 20}{paragraph.2.3.3.1.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.3.2}Transmitting information}{\reset@font\mtcSSSfont 20}{subsubsection.2.3.3.2}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {A)}TFDM, TDSSS, TFHSS}{\reset@font\mtcPfont 20}{paragraph.2.3.3.2.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.4}Radio}{\reset@font\mtcSSfont 20}{subsection.2.3.4}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.4.1}Digital modulation}{\reset@font\mtcSSSfont 20}{subsubsection.2.3.4.1}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {A)}ASK, APSK, CPM, FSK, MFSK, MSK, OOK, PPM, PSK, QAM, SC-FDE, TCM WDM}{\reset@font\mtcPfont 20}{paragraph.2.3.4.1.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.4.2}Hierarchical modulation}{\reset@font\mtcSSSfont 20}{subsubsection.2.3.4.2}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {A)}QAM, WDM}{\reset@font\mtcPfont 20}{paragraph.2.3.4.2.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {3.4.3}Spread spectrum}{\reset@font\mtcSSSfont 20}{subsubsection.2.3.4.3}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {A)}SS, DSSS, FHSS, THSS}{\reset@font\mtcPfont 20}{paragraph.2.3.4.3.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.5}Summary and discussion}{\reset@font\mtcSSfont 20}{subsection.2.3.5}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4}IoT Norms \& Standards}{\reset@font\mtcSfont 20}{section.2.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.1}SigFox}{\reset@font\mtcSSfont 20}{subsection.2.4.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.2}IETF}{\reset@font\mtcSSfont 20}{subsection.2.4.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.2.1}6LoWPAN}{\reset@font\mtcSSSfont 21}{subsubsection.2.4.2.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3}3GPP}{\reset@font\mtcSSfont 21}{subsection.2.4.3}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.3.1}NB-IoT}{\reset@font\mtcSSSfont 21}{subsubsection.2.4.3.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.3.2}EC-GSM}{\reset@font\mtcSSSfont 21}{subsubsection.2.4.3.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.3.3}e-MTC}{\reset@font\mtcSSSfont 21}{subsubsection.2.4.3.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4}IEEE}{\reset@font\mtcSSfont 21}{subsection.2.4.4}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.4.1}IEEE 802.11}{\reset@font\mtcSSSfont 22}{subsubsection.2.4.4.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.4.2}IEEE 802.15.4}{\reset@font\mtcSSSfont 22}{subsubsection.2.4.4.2}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {A)}Physical Layer}{\reset@font\mtcPfont 22}{paragraph.2.4.4.2.1}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {B)}Definitions}{\reset@font\mtcPfont 22}{paragraph.2.4.4.2.2}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {C)}Topologies}{\reset@font\mtcPfont 23}{paragraph.2.4.4.2.3}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.4.3}ZigBee}{\reset@font\mtcSSSfont 23}{subsubsection.2.4.4.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.5}LoaraWAN}{\reset@font\mtcSSfont 23}{subsection.2.4.5}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.5.1}ALIANCE}{\reset@font\mtcSSSfont 24}{subsubsection.2.4.5.1}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {A)}Class-A}{\reset@font\mtcPfont 24}{paragraph.2.4.5.1.1}}
+{\reset@font\mtcSPfont\mtc@string\contentsline{subparagraph}{\noexpand \leavevmode \numberline {A.1)}Uplink}{\reset@font\mtcSPfont 24}{subparagraph.2.4.5.1.1.1}}
+{\reset@font\mtcSPfont\mtc@string\contentsline{subparagraph}{\noexpand \leavevmode \numberline {A.2)}Downlink}{\reset@font\mtcSPfont 24}{subparagraph.2.4.5.1.1.2}}
+{\reset@font\mtcSPfont\mtc@string\contentsline{subparagraph}{\noexpand \leavevmode \numberline {A.3)}Confirmed data}{\reset@font\mtcSPfont 24}{subparagraph.2.4.5.1.1.3}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {B)}Class-B}{\reset@font\mtcPfont 24}{paragraph.2.4.5.1.2}}
+{\reset@font\mtcSPfont\mtc@string\contentsline{subparagraph}{\noexpand \leavevmode \numberline {B.1)}Downlink}{\reset@font\mtcSPfont 24}{subparagraph.2.4.5.1.2.1}}
+{\reset@font\mtcSPfont\mtc@string\contentsline{subparagraph}{\noexpand \leavevmode \numberline {B.2)}Confirmed data}{\reset@font\mtcSPfont 24}{subparagraph.2.4.5.1.2.2}}
+{\reset@font\mtcSPfont\mtc@string\contentsline{subparagraph}{\noexpand \leavevmode \numberline {B.3)}Requirements}{\reset@font\mtcSPfont 24}{subparagraph.2.4.5.1.2.3}}
+{\reset@font\mtcPfont\mtc@string\contentsline{paragraph}{\noexpand \leavevmode \numberline {C)}Class-C}{\reset@font\mtcPfont 25}{paragraph.2.4.5.1.3}}
+{\reset@font\mtcSPfont\mtc@string\contentsline{subparagraph}{\noexpand \leavevmode \numberline {C.1)}Downlink}{\reset@font\mtcSPfont 25}{subparagraph.2.4.5.1.3.1}}
+{\reset@font\mtcSPfont\mtc@string\contentsline{subparagraph}{\noexpand \leavevmode \numberline {C.2)}Confirmed data}{\reset@font\mtcSPfont 25}{subparagraph.2.4.5.1.3.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.5.2}SEMTECH}{\reset@font\mtcSSSfont 25}{subsubsection.2.4.5.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.6}Divers}{\reset@font\mtcSSfont 27}{subsection.2.4.6}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.6.1}IPLC}{\reset@font\mtcSSSfont 27}{subsubsection.2.4.6.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.6.2}BACnet}{\reset@font\mtcSSSfont 27}{subsubsection.2.4.6.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.6.3}Z-WAze}{\reset@font\mtcSSSfont 27}{subsubsection.2.4.6.3}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {4.6.4}Bluetooth LE}{\reset@font\mtcSSSfont 27}{subsubsection.2.4.6.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.7}Summary and discussion}{\reset@font\mtcSSfont 28}{subsection.2.4.7}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {5}IoT SDN}{\reset@font\mtcSfont 28}{section.2.5}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.1}Appication}{\reset@font\mtcSSfont 28}{subsection.2.5.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.2}Controle}{\reset@font\mtcSSfont 28}{subsection.2.5.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.3}Data}{\reset@font\mtcSSfont 28}{subsection.2.5.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {5.4}Summary and discussion}{\reset@font\mtcSSfont 28}{subsection.2.5.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6}IoT Security}{\reset@font\mtcSfont 28}{section.2.6}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.1}Application}{\reset@font\mtcSSfont 28}{subsection.2.6.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {6.1.1}MQTTS}{\reset@font\mtcSSSfont 28}{subsubsection.2.6.1.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {6.1.2}Blockchain}{\reset@font\mtcSSSfont 28}{subsubsection.2.6.1.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.2}Network}{\reset@font\mtcSSfont 28}{subsection.2.6.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.3}MAC/Radio}{\reset@font\mtcSSfont 28}{subsection.2.6.3}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {6.3.1}LoraWan}{\reset@font\mtcSSSfont 28}{subsubsection.2.6.3.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {6.3.2}Zigbee}{\reset@font\mtcSSSfont 28}{subsubsection.2.6.3.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {6.3.3}802.15.4}{\reset@font\mtcSSSfont 28}{subsubsection.2.6.3.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.4}Summary and discussion}{\reset@font\mtcSSfont 28}{subsection.2.6.4}}

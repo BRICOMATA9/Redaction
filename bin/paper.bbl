@@ -408,8 +408,8 @@
       \strng{authorbibnamehash}{a4634b5e9b9d8342998153d8a48df3e9}
       \strng{authornamehash}{a4634b5e9b9d8342998153d8a48df3e9}
       \strng{authorfullhash}{a4634b5e9b9d8342998153d8a48df3e9}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
@@ -463,8 +463,8 @@
       \strng{authorbibnamehash}{c92a7bafed4f610f35c58fc6f89d6a21}
       \strng{authornamehash}{ddcfee528c854b1f87f45040d69e6b96}
       \strng{authorfullhash}{c92a7bafed4f610f35c58fc6f89d6a21}
-      \field{sortinit}{5}
-      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Billions of Internet of Things (IoT) devices are expected to populate our environments and provide novel pervasive services by interconnecting the physical and digital world. However, the increased connectivity of everyday objects can open manifold security vectors for cybercriminals to perform malicious attacks. These threats are even augmented by the resource constraints and heterogeneity of low-cost IoT devices, which make current host-based and static perimeter-oriented defense mechanisms unsuitable for dynamic IoT environments. Accounting for all these considerations, we reckon that the novel softwarization capabilities of Telco network can fully leverage its privileged position to provide the desired levels of security. To this aim, the emerging software-defined networking (SDN) and network function virtualization (NFV) paradigms can introduce new security enablers able to increase the level of IoT systems protection. In this paper, we design a novel policy-based framework aiming to exploit SDN/NFV-based security features, by efficiently coupling with existing IoT security approaches. A proof of concept test bed has been developed to assess the feasibility of the proposed architecture. The presented performance evaluation illustrates the benefits of adopting SDN security mechanisms in integrated IoT environments and provides interesting insights in the policy enforcement process to drive future research.}
@@ -516,8 +516,8 @@
       \strng{authorbibnamehash}{061842bc39c59a20626b871b09c21776}
       \strng{authornamehash}{061842bc39c59a20626b871b09c21776}
       \strng{authorfullhash}{061842bc39c59a20626b871b09c21776}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{By 2020, 50 billion devices (things) are expected to be connected to the Internet to form the Internet of Things (IoT) world. In general, two main categories of networks are used in the IoT: short-range and long-range low-power networks. IPv6 over low-power wireless personal area networks (6LoWPAN) are considered to be a crucial network in short-range low-power networks where 6LoWPAN motes will account for the majority of short-range low-power things. Also, LoRaWAN and SigFox are two major networking landscapes and players in long-range, low-power networks or oftentimes called low-power wide area networks (LPWAN). This paper reviews and compares 6LoWPAN and LPWAN in terms of network architecture, protocol stack, applications and security. In general, LPWAN networks are more demanding in terms of node and link constraints than 6LoWPAN networks (e.g. very low payload size, very low data rate and very limited resources). Also, as yet, LPWAN networks do not have IPv6 addressing capabilities. Each network category has its unique characteristics and strengths and each category has its important role in the IoT world.}
@@ -611,8 +611,8 @@
       \strng{editorbibnamehash}{08805d31961f29431c10cd162304cd46}
       \strng{editornamehash}{08805d31961f29431c10cd162304cd46}
       \strng{editorfullhash}{08805d31961f29431c10cd162304cd46}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The use of smart devices in buildings is many times compromised by its form and size. Smart devices are composed of several components including sensors, boards, batteries, processing units, and antennas. However, the form and size of the smart devices are usually limited due to antenna restrictions. In this paper, we propose the architecture of a compact low-cost LoRa smart device designed for easy deployment in smart building applications. The proposed device architecture features a reduced size embedded antenna and an ultra-low-power microcontroller to interface several sensors and actuators. The results obtained have shown that the proposed design can be used for communication, between two compact LoRa devices, in line-of-sight for up to 4.2 km, in urban environments for up to 1.2 km and also for in-building communications for up to 152 m, without compromising the low-power features that LoRa supports.}
@@ -668,8 +668,8 @@
       \strng{authorbibnamehash}{0e3aace85a5ccdbc655184e3c88c301c}
       \strng{authornamehash}{0e3aace85a5ccdbc655184e3c88c301c}
       \strng{authorfullhash}{0e3aace85a5ccdbc655184e3c88c301c}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{endyear}{2017}
@@ -767,8 +767,8 @@
       \strng{authorbibnamehash}{8ad1c27d8da8a64306a95163916d383f}
       \strng{authornamehash}{292f4c9e4251a87f3de708aee8a5b990}
       \strng{authorfullhash}{8ad1c27d8da8a64306a95163916d383f}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{This paper provides an overview of the Internet of Things (IoT) with emphasis on enabling technologies, protocols, and application issues. The IoT is enabled by the latest developments in RFID, smart sensors, communication technologies, and Internet protocols. The basic premise is to have smart sensors collaborate directly without human involvement to deliver a new class of applications. The current revolution in Internet, mobile, and machine-to-machine (M2M) technologies can be seen as the ﬁrst phase of the IoT. In the coming years, the IoT is expected to bridge diverse technologies to enable new applications by connecting physical objects together in support of intelligent decision making. This paper starts by providing a horizontal overview of the IoT. Then, we give an overview of some technical details that pertain to the IoT enabling technologies, protocols, and applications. Compared to other survey papers in the ﬁeld, our objective is to provide a more thorough summary of the most relevant protocols and application issues to enable researchers and application developers to get up to speed quickly on how the different protocols ﬁt together to deliver desired functionalities without having to go through RFCs and the standards speciﬁcations. We also provide an overview of some of the key IoT challenges presented in the recent literature and provide a summary of related research work. Moreover, we explore the relation between the IoT and other emerging technologies including big data analytics and cloud and fog computing. We also present the need for better horizontal integration among IoT services. Finally, we present detailed service use-cases to illustrate how the different protocols presented in the paper ﬁt together to deliver desired IoT services.}
@@ -818,8 +818,8 @@
       \strng{authorbibnamehash}{065fc26e8b136c6f12982e44951be73d}
       \strng{authornamehash}{065fc26e8b136c6f12982e44951be73d}
       \strng{authorfullhash}{065fc26e8b136c6f12982e44951be73d}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
@@ -923,36 +923,47 @@
       \endverb
       \keyw{}
     \endentry
-    \entry{barro_lorawan_2019}{article}{}
-      \name{author}{1}{}{%
-        {{hash=8cc61ce3a39d598a9a243d5ed7bb49d4}{%
-           family={Barro},
+    \entry{cattani_experimental_2017}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5580c2793a5997f0ca044894909252ca}{%
+           family={Cattani},
+           familyi={C\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d01f7b8eb765511050ca03d2cc9f8fb0}{%
+           family={Boano},
            familyi={B\bibinitperiod},
-           given={Pape\bibnamedelima Abdoulaye},
-           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           given={Carlo},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2ff4c69dc5158c7a1084771973222290}{%
+           family={Römer},
+           familyi={R\bibinitperiod},
+           given={Kay},
+           giveni={K\bibinitperiod}}}%
       }
-      \strng{namehash}{8cc61ce3a39d598a9a243d5ed7bb49d4}
-      \strng{fullhash}{8cc61ce3a39d598a9a243d5ed7bb49d4}
-      \strng{bibnamehash}{8cc61ce3a39d598a9a243d5ed7bb49d4}
-      \strng{authorbibnamehash}{8cc61ce3a39d598a9a243d5ed7bb49d4}
-      \strng{authornamehash}{8cc61ce3a39d598a9a243d5ed7bb49d4}
-      \strng{authorfullhash}{8cc61ce3a39d598a9a243d5ed7bb49d4}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \strng{namehash}{151cb1ea820c357186ead9d97404adab}
+      \strng{fullhash}{151cb1ea820c357186ead9d97404adab}
+      \strng{bibnamehash}{151cb1ea820c357186ead9d97404adab}
+      \strng{authorbibnamehash}{151cb1ea820c357186ead9d97404adab}
+      \strng{authornamehash}{151cb1ea820c357186ead9d97404adab}
+      \strng{authorfullhash}{151cb1ea820c357186ead9d97404adab}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Despite the inaccessibility or intermittency of Internet in developing countries, it remains one of the key elements in the ﬁeld of IoT and the smart city. Most cities experiencing these diﬃculties can, therefore, use stand-alone LoRaWAN base station solutions and provide good coverage of the area. Leftovers can claim to have access to acceptable connectivity, and therefore cheaper wireless communication, giving direct access to Internet from the collection node, will be required for data transmission: Wi-Fi can attain these objectives. In this article, we ﬁrst examine the existing tools to ensure a good coverage study of the LoRaWAN network and, thus, perform a testBed. After, we oﬀer a multi-optional architectural model that supports LoRaWAN and Wi-Fi protocols and that is ﬂexible for other options. A gateway (Wi-IoT) capable of both providing Wi-Fi access and at the same time the ability to collect, process and monitor data as a mini-server will be proposed as proof of concept. From the node to the gateway, the data is compressed and sent securely and a user who connects to the gateway can, then, have access to the data.}
-      \field{langid}{english}
-      \field{note}{00000}
-      \field{title}{A {{LoRaWAN}} Coverage {{testBed}} and a Multi-Optional Communication Architecture for Smart City Feasibility in Developing Countries}
-      \field{year}{2019}
+      \field{journaltitle}{Journal of Sensor and Actuator Networks}
+      \field{note}{00042}
+      \field{number}{2}
+      \field{title}{An Experimental Evaluation of the Reliability of Lora Long-Range Low-Power Wireless Communication}
+      \field{volume}{6}
+      \field{year}{2017}
       \field{dateera}{ce}
-      \field{pages}{12}
+      \field{pages}{7}
       \range{pages}{1}
       \verb{file}
-      \verb Barro - A LoRaWAN coverage testBed and a multi-optional co.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/VYEHBWHL/Barro - A LoRaWAN coverage testBed and a multi-optional co.pdf:application/pdf
+      \verb Cattani et al_2017_An experimental evaluation of the reliability of lora long-range low-power.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/Y4D92FBP/Cattani et al_2017_An experimental evaluation of the reliability of lora long-range low-power.pdf:application/pdf
       \endverb
-      \keyw{,RAN-Measurement}
+      \keyw{,Performance}
     \endentry
     \entry{petajajarvi_coverage_2015}{inproceedings}{}
       \name{author}{5}{}{%
@@ -994,8 +1005,8 @@
       \strng{authorbibnamehash}{25da4b03edc8a08dea3aa31054510b67}
       \strng{authornamehash}{c5b9bef0a1479ee32e857410bf47e323}
       \strng{authorfullhash}{25da4b03edc8a08dea3aa31054510b67}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{In addition to long battery life and low cost, coverage is one of the most critical performance metrics for the low power wide area networks (LPWAN). In this work we study the coverage of the recently developed LoRa LPWAN technology via real-life measurements. The experiments were conducted in the city of Oulu, Finland, using the commercially available equipment. The measurements were executed for cases when a node located on ground (attached on the roof rack of a car) or on water (attached to the radio mast of a boat) reporting their data to a base station. For a node operating in the 868 MHz ISM band using 14 dBm transmit power and the maximum spreading factor, we have observed the maximum communication range of over 15 km on ground and close to 30 km on water. Besides the actual measurements, in the paper we also present a channel attenuation model derived from the measurement data. The model can be used to estimate the path loss in 868 MHz ISM band in an area similar to Oulu, Finland.}
@@ -1029,6 +1040,37 @@
       \endverb
       \keyw{SIR,Performance,RAN-Measurement}
     \endentry
+    \entry{barro_lorawan_2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8cc61ce3a39d598a9a243d5ed7bb49d4}{%
+           family={Barro},
+           familyi={B\bibinitperiod},
+           given={Pape\bibnamedelima Abdoulaye},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{8cc61ce3a39d598a9a243d5ed7bb49d4}
+      \strng{fullhash}{8cc61ce3a39d598a9a243d5ed7bb49d4}
+      \strng{bibnamehash}{8cc61ce3a39d598a9a243d5ed7bb49d4}
+      \strng{authorbibnamehash}{8cc61ce3a39d598a9a243d5ed7bb49d4}
+      \strng{authornamehash}{8cc61ce3a39d598a9a243d5ed7bb49d4}
+      \strng{authorfullhash}{8cc61ce3a39d598a9a243d5ed7bb49d4}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Despite the inaccessibility or intermittency of Internet in developing countries, it remains one of the key elements in the ﬁeld of IoT and the smart city. Most cities experiencing these diﬃculties can, therefore, use stand-alone LoRaWAN base station solutions and provide good coverage of the area. Leftovers can claim to have access to acceptable connectivity, and therefore cheaper wireless communication, giving direct access to Internet from the collection node, will be required for data transmission: Wi-Fi can attain these objectives. In this article, we ﬁrst examine the existing tools to ensure a good coverage study of the LoRaWAN network and, thus, perform a testBed. After, we oﬀer a multi-optional architectural model that supports LoRaWAN and Wi-Fi protocols and that is ﬂexible for other options. A gateway (Wi-IoT) capable of both providing Wi-Fi access and at the same time the ability to collect, process and monitor data as a mini-server will be proposed as proof of concept. From the node to the gateway, the data is compressed and sent securely and a user who connects to the gateway can, then, have access to the data.}
+      \field{langid}{english}
+      \field{note}{00000}
+      \field{title}{A {{LoRaWAN}} Coverage {{testBed}} and a Multi-Optional Communication Architecture for Smart City Feasibility in Developing Countries}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{12}
+      \range{pages}{1}
+      \verb{file}
+      \verb Barro - A LoRaWAN coverage testBed and a multi-optional co.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/VYEHBWHL/Barro - A LoRaWAN coverage testBed and a multi-optional co.pdf:application/pdf
+      \endverb
+      \keyw{,RAN-Measurement}
+    \endentry
     \entry{bendaoud_network_2019}{article}{}
       \name{author}{3}{}{%
         {{hash=a9f520f4aa66b0de8c1855215530d96f}{%
@@ -1053,8 +1095,8 @@
       \strng{authorbibnamehash}{51e480f55c4fbb02494f8eaa65eeb1bd}
       \strng{authornamehash}{51e480f55c4fbb02494f8eaa65eeb1bd}
       \strng{authorfullhash}{51e480f55c4fbb02494f8eaa65eeb1bd}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Heterogeneous wireless networks is a term referring to networks combining diﬀerent radio access technologies with the aim of establishing the best connection possible. In this case, users with multi-mode terminals can connect via diﬀerent wireless technologies, such as 802.16, 802.11, UMTS, HSPA and LTE, all at the same time. The problem consists in the selection of the most suitable from all radio access technologies available. The decision process is called network selection, and depends on several parameters, such as quality of service, mobility, cost, energy, battery life, etc. Several methods and approaches have been proposed in this context, with their objective being to oﬀer the best QoS to the users, and/or to maximize re-usability of the networks. This paper represents a survey of the network selection methods used. Multiple attribute-dependent decision-making methods are presented. Furthermore, the game theory concept is illustrated, the use of the fuzzy logic is presented, and the utility functions deﬁning the network selection process are discussed.}
@@ -1105,8 +1147,8 @@
       \strng{authorbibnamehash}{632210d121fd5c704bd559e34a231b1f}
       \strng{authornamehash}{632210d121fd5c704bd559e34a231b1f}
       \strng{authorfullhash}{632210d121fd5c704bd559e34a231b1f}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{«L’Internet des objets (IdO) est une infrastructure mondiale pour la société de l’information, qui permet de disposer de services évolués en interconnectant des objets (physiques ou virtuels) grâce aux technologies de l’information et de la communication interopérables existantes ou en évolution. »[1] La vision de l’Internet des Objets est d’étendre l’Internet dans nos vies quotidiennes afin d’améliorer la qualité de vie des personnes, de sorte que le nombre d’appareils connectés et d’applications innovantes augmente très rapidement pour amener l’intelligence dans différents secteurs comme la ville, le transport ou la santé. En 2020, les études affirment que les appareils connectés à Internet devraient compter entre 26 milliards et 50 milliards d’unités. [2, 3] La qualité de service d’application IoT dépend non seulement du réseau Internet et de l’infrastructure de communication, mais aussi du fonctionnement et des performances des appareils IoT. Par conséquent, les nouveaux paramètres de QoS tels que la précision des données et la disponibilité des appareils deviennent importants pour les applications IoT par rapport aux applications Internet. Le grand nombre de dispositifs et d’applications IoT connectés à Internet, et le flux de trafic spontané entre eux rendent la gestion de la qualité de service complexe à travers l’infrastructure Internet. D’un autre côté, les dispositifs non-IP et leurs capacités limitées en termes d’énergie et de transmission créent l’environnement dynamique et contraint. De plus, l’interconnexion de bout en bout entre les dispositifs et les applications n’est pas possible. Aussi, les applications sont intéressées par les données collectées, pas à la source spécifique qui les produit. Le Software Defined Networking (SDN) est un nouveau paradigme pour les réseaux informatiques apparu récemment pour cacher la complexité de l’architecture de réseau traditionnelle (par exemple de l’Internet) et briser la fermeture des systèmes de réseau dans les fonctions de contrôle et de données. Il permet aux propriétaires et aux administrateurs de réseau de contrôler et de gérer le comportement du réseau par programme, en découplant le plan de contrôle du plan de données. SDN a le potentiel de révolutionner les réseaux informatiques classiques existants, en offrant plusieurs avantages tels que la gestion centralisée, la programmabilité du réseau, l’efficacité des coûts d’exploitation, et les innovations. Dans cette thèse, nous étudions la gestion de ressources sur l’infrastructure IoT, y compris les réseaux de transport/Internet et de détection. Nous profitons de la technologie SDN comme le futur d’Internet pour offrir un système de support QoS flexible et adaptatif pour les services IoT. Nous présentons un intergiciel basé sur SDN pour définir un cadre de gestion de QoS pour gérer les besoins spécifiques de chaque application à travers l’infrastructure IoT. De plus, nous proposons un nouveau modèle QoS qui prend en compte les préférences de QoS des applications et l’état des éléments de réseau pour allouer efficacement les ressources sur le réseau transport/Internet basé sur SDN tout en maximisant les performances du réseau.----------ABSTRACT: The Internet of Things (IoT) is an integration of various kinds of technologies, wherein heterogeneous objects with capabilities of sensing, actuation, communication, computation, networking, and storage are rapidly developed to collect the data for the users and applications. The IoT vision is to extend the Internet into our everyday lives, so the number of connected devices and innovative applications are growing very fast to bring intelligence into as many domains as possible. The QoS for IoT application not only depends on the Internet network and communication infrastructure, it is also impacted by the operation and performance of IoT sensing infrastructure. Therefore, the new QoS parameters such as data accuracy, sampling rate, and device availability become important for the IoT applications compared to the Internet applications. The huge number of the Internet-connected IoT devices and application, and the spontaneous traffic flow among them make the management of the quality of service complex across the Internet infrastructure. On the other hand, the non-IP devices and their limited capabilities in terms of energy and transmission create the dynamic environment and hinder the direct interaction between devices and applications. The quality of service is becoming one of the critical non-functional IoT element which needs research and studies. A flexible and scalable QoS management mechanism must be implemented in IoT system to keep up with the growth rate of the Internet-connected IoT devices and applications as well as their heterogeneity and diversity. The solution should address the IoT application requirements and user satisfaction while considering the system dynamism, limitations, and characteristics. Software-Defined Networking (SDN) is an emerging paradigm in computer networking which separates the control plane and the data plane of the network elements. It makes the network elements programmable via the centralized control plane. This approach enables more agile management and control over the network behavior. In this thesis, we take advantage of SDN technology as the future of the Internet to offer a flexible and adaptive QoS support scheme for the IoT services. We present an SDN-based middleware to define a QoS management framework to manage the application specific QoS needs across the IoT infrastructure including transport and sensing network. Also, we propose a new QoS model that takes into account the application QoS preferences and the network elements status to allocate effectively the resources for the applications across SDN network while maximizing network performance.}
@@ -1210,8 +1252,8 @@
       \strng{authorbibnamehash}{e12b260a6b9e3afa5817756327a36d17}
       \strng{authornamehash}{e12b260a6b9e3afa5817756327a36d17}
       \strng{authorfullhash}{e12b260a6b9e3afa5817756327a36d17}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Due to the revolutionary advances of deep learning achieved in the field of computer vision, object recognition and natural language processing, the deep learning gained much attention. The recommendation task is influenced by the deep learning trend which shows its significant effectiveness. The deep learning based recommender models provides a better detention of user preferences, item features and users-items interactions history. In this paper, we provide a recent literature review of researches dealing with deep learning based recommendation approaches which is preceded by a presentation of the main lines of the recommendation approaches and the deep learning techniques. Then we finish by presenting the recommendation approach adopted by the most popular video recommendation platform YouTube which is based essentially on deep learning advances.}

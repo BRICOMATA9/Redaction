@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.07.0 (TeX Live 2019/dev/Debian)  (format=lualatex 2019.10.13)  19 OCT 2019 14:41
+This is LuaTeX, Version 1.07.0 (TeX Live 2019/dev/Debian)  (format=lualatex 2019.10.13)  21 OCT 2019 23:25
  system commands enabled.
 **main.tex
 (./main.tex
@@ -48,7 +48,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.068 seconds
+luaotfload | main : initialization completed in 0.063 seconds
 (../lib/paper.tex (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
 
@@ -3054,84 +3054,6 @@ Package biblatex Info: Setting label 'refsection:1' on input line 10.
 
 (./01-Introduction/authors.tex)
 
-Package biblatex Warning: Keyword 'Gateway selection' not found on input line 15
-.
-
-
-LaTeX Warning: Empty bibliography on input line 15.
-
-
-Package biblatex Warning: Keyword 'Network selection' not found on input line 15
-.
-
-
-LaTeX Warning: Empty bibliography on input line 15.
-
-
-Package biblatex Warning: Keyword 'Configuration selection' not found on input l
-ine 15.
-
-
-LaTeX Warning: Empty bibliography on input line 15.
-
-
-Package biblatex Warning: Keyword 'Measurement' not found on input line 15.
-
-
-LaTeX Warning: Empty bibliography on input line 15.
-
-
-Package biblatex Warning: Keyword 'Platform' not found on input line 15.
-
-
-LaTeX Warning: Empty bibliography on input line 15.
-
-
-Package biblatex Warning: Keyword 'Weather' not found on input line 15.
-
-
-LaTeX Warning: Empty bibliography on input line 15.
-
-
-Package biblatex Warning: Keyword 'LPWAN' not found on input line 15.
-
-
-LaTeX Warning: Empty bibliography on input line 15.
-
-
-Package biblatex Warning: Keyword '' not found on input line 15.
-
-
-LaTeX Warning: Empty bibliography on input line 15.
-
-
-Package biblatex Warning: Keyword '' not found on input line 15.
-
-
-LaTeX Warning: Empty bibliography on input line 15.
-
-
-LaTeX Warning: Empty bibliography on input line 15.
-
-Package biblatex Info: Reference section=0 on input line 15.
-\blx@maxsegment@2=\count552
-\blx@sectionciteorder@2=\count553
-Package biblatex Info: Reference section=2 on input line 15.
-Package biblatex Info: Setting label 'refsection:2' on input line 15.
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 15.
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 8.64006pt on input line 15.
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 6.72005pt on input line 15.
-LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 11.52008pt on input line 15.
-LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 8.64006pt on input line 15.
-LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 6.72005pt on input line 15.
-(./01-Introduction/00_introduction.tex) ("./02-State of the art/authors.tex")
-
 Package biblatex Warning: Keyword 'Gateway selection' not found on input line 16
 .
 
@@ -3192,6 +3114,84 @@ LaTeX Warning: Empty bibliography on input line 16.
 LaTeX Warning: Empty bibliography on input line 16.
 
 Package biblatex Info: Reference section=0 on input line 16.
+\blx@maxsegment@2=\count552
+\blx@sectionciteorder@2=\count553
+Package biblatex Info: Reference section=2 on input line 16.
+Package biblatex Info: Setting label 'refsection:2' on input line 16.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 11.52008pt on input line 16.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 8.64006pt on input line 16.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 6.72005pt on input line 16.
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 11.52008pt on input line 16.
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 8.64006pt on input line 16.
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 6.72005pt on input line 16.
+(./01-Introduction/00_introduction.tex) ("./02-State of the art/authors.tex")
+
+Package biblatex Warning: Keyword 'Gateway selection' not found on input line 17
+.
+
+
+LaTeX Warning: Empty bibliography on input line 17.
+
+
+Package biblatex Warning: Keyword 'Network selection' not found on input line 17
+.
+
+
+LaTeX Warning: Empty bibliography on input line 17.
+
+
+Package biblatex Warning: Keyword 'Configuration selection' not found on input l
+ine 17.
+
+
+LaTeX Warning: Empty bibliography on input line 17.
+
+
+Package biblatex Warning: Keyword 'Measurement' not found on input line 17.
+
+
+LaTeX Warning: Empty bibliography on input line 17.
+
+
+Package biblatex Warning: Keyword 'Platform' not found on input line 17.
+
+
+LaTeX Warning: Empty bibliography on input line 17.
+
+
+Package biblatex Warning: Keyword 'Weather' not found on input line 17.
+
+
+LaTeX Warning: Empty bibliography on input line 17.
+
+
+Package biblatex Warning: Keyword 'LPWAN' not found on input line 17.
+
+
+LaTeX Warning: Empty bibliography on input line 17.
+
+
+Package biblatex Warning: Keyword '' not found on input line 17.
+
+
+LaTeX Warning: Empty bibliography on input line 17.
+
+
+Package biblatex Warning: Keyword '' not found on input line 17.
+
+
+LaTeX Warning: Empty bibliography on input line 17.
+
+
+LaTeX Warning: Empty bibliography on input line 17.
+
+Package biblatex Info: Reference section=0 on input line 17.
 [1
 Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
@@ -3200,8 +3200,8 @@ Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 ]
 \blx@maxsegment@3=\count554
 \blx@sectionciteorder@3=\count555
-Package biblatex Info: Reference section=3 on input line 16.
-Package biblatex Info: Setting label 'refsection:3' on input line 16.
+Package biblatex Info: Reference section=3 on input line 17.
+Package biblatex Info: Setting label 'refsection:3' on input line 17.
 
 ("./02-State of the art/01_usecases.tex"
 
@@ -3216,13 +3216,13 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `subscript' on input line 1.
 
-<../res/tmp/Picture/application.png, id=1602, 1415.2875pt x 1434.35875pt>
+<../res/tmp/Picture/application.png, id=1635, 1415.2875pt x 1434.35875pt>
 File: ../res/tmp/Picture/application.png Graphic file (type png)
 <use ../res/tmp/Picture/application.png>
 Package luatex.def Info: ../res/tmp/Picture/application.png  used on input line 
 10.
 (luatex.def)             Requested size: 201.60077pt x 204.3107pt.
-<../res/tmp/Picture/apprequirements.png, id=1603, 519.9425pt x 456.70625pt>
+<../res/tmp/Picture/apprequirements.png, id=1636, 519.9425pt x 456.70625pt>
 File: ../res/tmp/Picture/apprequirements.png Graphic file (type png)
 <use ../res/tmp/Picture/apprequirements.png>
 Package luatex.def Info: ../res/tmp/Picture/apprequirements.png  used on input l
@@ -3231,7 +3231,7 @@ ine 11.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../res/tmp/A-Application/standard.png, id=1604, 1290.8225pt x 905.3825pt>
+<../res/tmp/A-Application/standard.png, id=1637, 1290.8225pt x 905.3825pt>
 File: ../res/tmp/A-Application/standard.png Graphic file (type png)
 <use ../res/tmp/A-Application/standard.png>
 Package luatex.def Info: ../res/tmp/A-Application/standard.png  used on input li
@@ -3278,7 +3278,7 @@ res/tmp/A-Application/standard.png>]) ("./02-State of the art/02_sensors.tex"
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 5.
 
-<../res/tmp/Picture/os-timeline.png, id=1631, 594.0594pt x 179.7114pt>
+<../res/tmp/Picture/os-timeline.png, id=1663, 594.0594pt x 179.7114pt>
 File: ../res/tmp/Picture/os-timeline.png Graphic file (type png)
 <use ../res/tmp/Picture/os-timeline.png>
 Package luatex.def Info: ../res/tmp/Picture/os-timeline.png  used on input line 
@@ -3294,7 +3294,7 @@ Missing character: There is no • (U+2022) in font ptmr8t!
 Missing character: There is no • (U+2022) in font ptmr8t!
 Missing character: There is no • (U+2022) in font ptmr8t!
 <../res/tmp/Picture/os-timeline.png>]
-<../res/tmp/Framework/contiki.png, id=1643, 406.51875pt x 439.6425pt>
+<../res/tmp/Framework/contiki.png, id=1675, 406.51875pt x 439.6425pt>
 File: ../res/tmp/Framework/contiki.png Graphic file (type png)
 <use ../res/tmp/Framework/contiki.png>
 Package luatex.def Info: ../res/tmp/Framework/contiki.png  used on input line 83
@@ -3429,7 +3429,7 @@ Overfull \hbox (0.62021pt too wide) in paragraph at lines 246--246
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<../res/tmp/B-CN/sdn-wise.png, id=1670, 1376.14125pt x 588.1975pt>
+<../res/tmp/B-CN/sdn-wise.png, id=1702, 1376.14125pt x 588.1975pt>
 File: ../res/tmp/B-CN/sdn-wise.png Graphic file (type png)
 <use ../res/tmp/B-CN/sdn-wise.png>
 Package luatex.def Info: ../res/tmp/B-CN/sdn-wise.png  used on input line 251.
@@ -3618,20 +3618,20 @@ Missing character: There is no ’ (U+2019) in font ptmr8t!
 Missing character: There is no ’ (U+2019) in font ptmr8t!
 Missing character: There is no ’ (U+2019) in font ptmr8t!
 ]) ("./02-State of the art/04_standards.tex"
-<../res/tmp/Framework/riot-network-stack.png, id=1734, 533.995pt x 519.9425pt>
+<../res/tmp/Framework/riot-network-stack.png, id=1766, 533.995pt x 519.9425pt>
 File: ../res/tmp/Framework/riot-network-stack.png Graphic file (type png)
 <use ../res/tmp/Framework/riot-network-stack.png>
 Package luatex.def Info: ../res/tmp/Framework/riot-network-stack.png  used on in
 put line 4.
 (luatex.def)             Requested size: 126.0pt x 122.67839pt.
-<../res/tmp/C-RAN/iot-protocols-overview.png, id=1735, 1219.55624pt x 655.44875p
+<../res/tmp/C-RAN/iot-protocols-overview.png, id=1767, 1219.55624pt x 655.44875p
 t>
 File: ../res/tmp/C-RAN/iot-protocols-overview.png Graphic file (type png)
 <use ../res/tmp/C-RAN/iot-protocols-overview.png>
 Package luatex.def Info: ../res/tmp/C-RAN/iot-protocols-overview.png  used on in
 put line 5.
 (luatex.def)             Requested size: 252.0pt x 135.428pt.
-<../res/plot/pdf/LPWAN.pdf, id=1736, 499.8424pt x 513.87984pt>
+<../res/plot/pdf/LPWAN.pdf, id=1768, 499.8424pt x 513.87984pt>
 File: ../res/plot/pdf/LPWAN.pdf Graphic file (type pdf)
 <use ../res/plot/pdf/LPWAN.pdf>
 Package luatex.def Info: ../res/plot/pdf/LPWAN.pdf  used on input line 6.
@@ -3640,7 +3640,7 @@ Package luatex.def Info: ../res/plot/pdf/LPWAN.pdf  used on input line 6.
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [10<../res/tmp/Framework/riot-network-stack.png><../res/tmp/C-RAN/iot-protocols-
 overview.png><../res/plot/pdf/LPWAN.pdf>]
-<../res/tmp/C-RAN/lora_stack.png, id=1822, 845.1575pt x 597.23125pt>
+<../res/tmp/C-RAN/lora_stack.png, id=1855, 845.1575pt x 597.23125pt>
 File: ../res/tmp/C-RAN/lora_stack.png Graphic file (type png)
 <use ../res/tmp/C-RAN/lora_stack.png>
 Package luatex.def Info: ../res/tmp/C-RAN/lora_stack.png  used on input line 131
@@ -3649,28 +3649,28 @@ Package luatex.def Info: ../res/tmp/C-RAN/lora_stack.png  used on input line 131
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [11<../res/tmp/C-RAN/lora_stack.png>]
-<../res/tmp/C-RAN/class_a.png, id=1833, 981.6675pt x 209.78375pt>
+<../res/tmp/C-RAN/class_a.png, id=1865, 981.6675pt x 209.78375pt>
 File: ../res/tmp/C-RAN/class_a.png Graphic file (type png)
 <use ../res/tmp/C-RAN/class_a.png>
 Package luatex.def Info: ../res/tmp/C-RAN/class_a.png  used on input line 181.
 (luatex.def)             Requested size: 201.60077pt x 43.07956pt.
-<../res/tmp/C-RAN/class_b.png, id=1834, 1025.8325pt x 196.735pt>
+<../res/tmp/C-RAN/class_b.png, id=1866, 1025.8325pt x 196.735pt>
 File: ../res/tmp/C-RAN/class_b.png Graphic file (type png)
 <use ../res/tmp/C-RAN/class_b.png>
 Package luatex.def Info: ../res/tmp/C-RAN/class_b.png  used on input line 220.
 (luatex.def)             Requested size: 252.0pt x 48.32806pt.
-<../res/tmp/C-RAN/class_c.png, id=1835, 1028.84375pt x 185.69376pt>
+<../res/tmp/C-RAN/class_c.png, id=1867, 1028.84375pt x 185.69376pt>
 File: ../res/tmp/C-RAN/class_c.png Graphic file (type png)
 <use ../res/tmp/C-RAN/class_c.png>
 Package luatex.def Info: ../res/tmp/C-RAN/class_c.png  used on input line 236.
 (luatex.def)             Requested size: 252.0pt x 45.4826pt.
-<../res/tmp/C-RAN/lorawan_parameters.png, id=1836, 1027.84pt x 566.115pt>
+<../res/tmp/C-RAN/lorawan_parameters.png, id=1868, 1027.84pt x 566.115pt>
 File: ../res/tmp/C-RAN/lorawan_parameters.png Graphic file (type png)
 <use ../res/tmp/C-RAN/lorawan_parameters.png>
 Package luatex.def Info: ../res/tmp/C-RAN/lorawan_parameters.png  used on input 
 line 243.
 (luatex.def)             Requested size: 252.0pt x 138.79008pt.
-<../res/tmp/C-RAN/loraparam.png, id=1837, 1219.55624pt x 638.385pt>
+<../res/tmp/C-RAN/loraparam.png, id=1869, 1219.55624pt x 638.385pt>
 File: ../res/tmp/C-RAN/loraparam.png Graphic file (type png)
 <use ../res/tmp/C-RAN/loraparam.png>
 Package luatex.def Info: ../res/tmp/C-RAN/loraparam.png  used on input line 244.
@@ -3683,7 +3683,7 @@ Missing character: There is no “ (U+201C) in font ptmr8t!
 Missing character: There is no ” (U+201D) in font ptmr8t!
 <../res/tmp/C-RAN/class_a.png><../res/tmp/C-RAN/class_b.png><../res/tmp/C-RAN/cl
 ass_c.png><../res/tmp/C-RAN/lorawan_parameters.png>]
-<../res/tmp/C-RAN/bw.png, id=1861, 722.7pt x 459.7175pt>
+<../res/tmp/C-RAN/bw.png, id=1893, 722.7pt x 459.7175pt>
 File: ../res/tmp/C-RAN/bw.png Graphic file (type png)
 <use ../res/tmp/C-RAN/bw.png>
 Package luatex.def Info: ../res/tmp/C-RAN/bw.png  used on input line 303.
@@ -3913,79 +3913,79 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--16
 
 ) (./03-x-Testbed/authors.tex)
 
-Package biblatex Warning: Keyword 'Gateway selection' not found on input line 17
+Package biblatex Warning: Keyword 'Gateway selection' not found on input line 18
 .
 
 
-LaTeX Warning: Empty bibliography on input line 17.
+LaTeX Warning: Empty bibliography on input line 18.
 
 
-Package biblatex Warning: Keyword 'Network selection' not found on input line 17
+Package biblatex Warning: Keyword 'Network selection' not found on input line 18
 .
 
 
-LaTeX Warning: Empty bibliography on input line 17.
+LaTeX Warning: Empty bibliography on input line 18.
 
 
 Package biblatex Warning: Keyword 'Configuration selection' not found on input l
-ine 17.
+ine 18.
 
 
-LaTeX Warning: Empty bibliography on input line 17.
+LaTeX Warning: Empty bibliography on input line 18.
 
 
-Package biblatex Warning: Keyword 'Measurement' not found on input line 17.
+Package biblatex Warning: Keyword 'Measurement' not found on input line 18.
 
 
-LaTeX Warning: Empty bibliography on input line 17.
+LaTeX Warning: Empty bibliography on input line 18.
 
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 17.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 18.
 
-Package biblatex Warning: Keyword 'Weather' not found on input line 17.
-
-
-LaTeX Warning: Empty bibliography on input line 17.
+Package biblatex Warning: Keyword 'Weather' not found on input line 18.
 
 
-Package biblatex Warning: Keyword 'LPWAN' not found on input line 17.
+LaTeX Warning: Empty bibliography on input line 18.
 
 
-LaTeX Warning: Empty bibliography on input line 17.
+Package biblatex Warning: Keyword 'LPWAN' not found on input line 18.
 
 
-Package biblatex Warning: Keyword '' not found on input line 17.
+LaTeX Warning: Empty bibliography on input line 18.
 
 
-LaTeX Warning: Empty bibliography on input line 17.
+Package biblatex Warning: Keyword '' not found on input line 18.
 
 
-Package biblatex Warning: Keyword '' not found on input line 17.
+LaTeX Warning: Empty bibliography on input line 18.
 
 
-LaTeX Warning: Empty bibliography on input line 17.
+Package biblatex Warning: Keyword '' not found on input line 18.
 
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 17.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 17.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 17.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 17.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 17.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 17.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 17.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 17.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 17.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 17.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 17.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 17.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 17.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 17.
-Package biblatex Info: Reference section=0 on input line 17.
+
+LaTeX Warning: Empty bibliography on input line 18.
+
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 18.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 18.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 18.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 18.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 18.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 18.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 18.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 18.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 18.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 18.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 18.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 18.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 18.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 18.
+Package biblatex Info: Reference section=0 on input line 18.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [14]
 \blx@maxsegment@4=\count556
 \blx@sectionciteorder@4=\count557
-Package biblatex Info: Reference section=4 on input line 17.
-Package biblatex Info: Setting label 'refsection:4' on input line 17.
+Package biblatex Info: Reference section=4 on input line 18.
+Package biblatex Info: Setting label 'refsection:4' on input line 18.
  (./03-x-Testbed/00_abstract.tex) (./03-x-Testbed/01_introduction.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -4075,61 +4075,61 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 Missing character: There is no μ (U+03BC) in font ptmr8t!
 ]) (./04-x-Sentilo/authors.tex)
 
-Package biblatex Warning: Keyword 'Gateway selection' not found on input line 18
+Package biblatex Warning: Keyword 'Gateway selection' not found on input line 19
 .
 
 
-LaTeX Warning: Empty bibliography on input line 18.
+LaTeX Warning: Empty bibliography on input line 19.
 
 
-Package biblatex Warning: Keyword 'Network selection' not found on input line 18
+Package biblatex Warning: Keyword 'Network selection' not found on input line 19
 .
 
 
-LaTeX Warning: Empty bibliography on input line 18.
+LaTeX Warning: Empty bibliography on input line 19.
 
 
 Package biblatex Warning: Keyword 'Configuration selection' not found on input l
-ine 18.
+ine 19.
 
 
-LaTeX Warning: Empty bibliography on input line 18.
+LaTeX Warning: Empty bibliography on input line 19.
 
 
-Package biblatex Warning: Keyword 'Measurement' not found on input line 18.
+Package biblatex Warning: Keyword 'Measurement' not found on input line 19.
 
 
-LaTeX Warning: Empty bibliography on input line 18.
+LaTeX Warning: Empty bibliography on input line 19.
 
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 18.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 19.
 
-Package biblatex Warning: Keyword 'Weather' not found on input line 18.
-
-
-LaTeX Warning: Empty bibliography on input line 18.
+Package biblatex Warning: Keyword 'Weather' not found on input line 19.
 
 
-Package biblatex Warning: Keyword 'LPWAN' not found on input line 18.
+LaTeX Warning: Empty bibliography on input line 19.
 
 
-LaTeX Warning: Empty bibliography on input line 18.
+Package biblatex Warning: Keyword 'LPWAN' not found on input line 19.
 
 
-Package biblatex Warning: Keyword '' not found on input line 18.
+LaTeX Warning: Empty bibliography on input line 19.
 
 
-LaTeX Warning: Empty bibliography on input line 18.
+Package biblatex Warning: Keyword '' not found on input line 19.
 
 
-Package biblatex Warning: Keyword '' not found on input line 18.
+LaTeX Warning: Empty bibliography on input line 19.
 
 
-LaTeX Warning: Empty bibliography on input line 18.
+Package biblatex Warning: Keyword '' not found on input line 19.
 
 
-LaTeX Warning: Empty bibliography on input line 18.
+LaTeX Warning: Empty bibliography on input line 19.
 
-Package biblatex Info: Reference section=0 on input line 18.
+
+LaTeX Warning: Empty bibliography on input line 19.
+
+Package biblatex Info: Reference section=0 on input line 19.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [9
@@ -4137,8 +4137,8 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 ]
 \blx@maxsegment@5=\count558
 \blx@sectionciteorder@5=\count559
-Package biblatex Info: Reference section=5 on input line 18.
-Package biblatex Info: Setting label 'refsection:5' on input line 18.
+Package biblatex Info: Reference section=5 on input line 19.
+Package biblatex Info: Setting label 'refsection:5' on input line 19.
  (./04-x-Sentilo/00_abstract.tex) (./04-x-Sentilo/01_introduction.tex
 
 LaTeX Warning: Citation 'joseignacio_contiki_2016' on page 1 undefined on input 
@@ -4178,130 +4178,6 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [3
 Missing character: There is no – (U+2013) in font ptmr8t!
 ]) ("./05-x-Long paper/authors.tex")
-
-Package biblatex Warning: Keyword 'Gateway selection' not found on input line 19
-.
-
-
-LaTeX Warning: Empty bibliography on input line 19.
-
-
-Package biblatex Warning: Keyword 'Network selection' not found on input line 19
-.
-
-
-LaTeX Warning: Empty bibliography on input line 19.
-
-
-Package biblatex Warning: Keyword 'Configuration selection' not found on input l
-ine 19.
-
-
-LaTeX Warning: Empty bibliography on input line 19.
-
-
-Package biblatex Warning: Keyword 'Measurement' not found on input line 19.
-
-
-LaTeX Warning: Empty bibliography on input line 19.
-
-
-Package biblatex Warning: Keyword 'Platform' not found on input line 19.
-
-
-LaTeX Warning: Empty bibliography on input line 19.
-
-
-Package biblatex Warning: Keyword 'Weather' not found on input line 19.
-
-
-LaTeX Warning: Empty bibliography on input line 19.
-
-
-Package biblatex Warning: Keyword 'LPWAN' not found on input line 19.
-
-
-LaTeX Warning: Empty bibliography on input line 19.
-
-
-Package biblatex Warning: Keyword '' not found on input line 19.
-
-
-LaTeX Warning: Empty bibliography on input line 19.
-
-
-Package biblatex Warning: Keyword '' not found on input line 19.
-
-
-LaTeX Warning: Empty bibliography on input line 19.
-
-
-LaTeX Warning: Empty bibliography on input line 19.
-
-Package biblatex Info: Reference section=0 on input line 19.
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[4
-
-]
-\blx@maxsegment@6=\count560
-\blx@sectionciteorder@6=\count561
-Package biblatex Info: Reference section=6 on input line 19.
-Package biblatex Info: Setting label 'refsection:6' on input line 19.
- ("./05-x-Long paper/00_abstract.tex")
-("./05-x-Long paper/01_introduction.tex") ("./05-x-Long paper/02_related.tex"
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[1
-
-
-]) ("./05-x-Long paper/03_background.tex") ("./05-x-Long paper/04_approach.tex"
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[2]
-
-Package tabulary Warning: No suitable columns! on input line 60.
-
-
-Package tabulary Warning: No suitable columns! on input line 84.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[3
-Missing character: There is no ρ (U+03C1) in font ptmr8t!
-Missing character: There is no − (U+2212) in font ptmr8t!
-Missing character: There is no ” (U+201D) in font ptmr8t!
-Missing character: There is no ” (U+201D) in font ptmr8t!
-]) ("./05-x-Long paper/05_experimentation.tex"
-
-Package tabulary Warning: No suitable columns! on input line 27.
-
-LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 27.
-LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
-(Font)              scaled to size 7.68005pt on input line 27.
-(../res/plot/figure1.tex
-PGFPlots: reading {../res/data/figure1.dat}
-PGFPlots: reading {../res/data/figure1.dat}
-PGFPlots: reading {../res/data/figure1.dat}
-PGFPlots: reading {../res/data/figure1.dat}
-) (../res/plot/figure3.tex
-PGFPlots: reading {../res/data/figure3.dat}
-PGFPlots: reading {../res/data/figure3.dat}
-PGFPlots: reading {../res/data/figure3.dat}
-PGFPlots: reading {../res/data/figure3.dat}
-)
-
-LaTeX Warning: Reference `5-fig:local_.png' on page  undefined on input line 36.
-
-
-) ("./05-x-Long paper/06_results.tex"
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[4]) ("./05-x-Long paper/07_conclusion.tex")
-("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/authors.tex"
-)
 
 Package biblatex Warning: Keyword 'Gateway selection' not found on input line 20
 .
@@ -4359,54 +4235,73 @@ Package biblatex Warning: Keyword '' not found on input line 20.
 
 LaTeX Warning: Empty bibliography on input line 20.
 
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 20.
+
+LaTeX Warning: Empty bibliography on input line 20.
+
 Package biblatex Info: Reference section=0 on input line 20.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[5]
-\blx@maxsegment@7=\count562
-\blx@sectionciteorder@7=\count563
-Package biblatex Info: Reference section=7 on input line 20.
-Package biblatex Info: Setting label 'refsection:7' on input line 20.
+[4
 
-("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/00_abstract.
-tex")
-("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/01_introduct
-ion.tex")
-("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/02_related.t
-ex"
+]
+\blx@maxsegment@6=\count560
+\blx@sectionciteorder@6=\count561
+Package biblatex Info: Reference section=6 on input line 20.
+Package biblatex Info: Setting label 'refsection:6' on input line 20.
+ ("./05-x-Long paper/00_abstract.tex")
+("./05-x-Long paper/01_introduction.tex") ("./05-x-Long paper/02_related.tex"
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [1
 
 
-])
-("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/03_backgroun
-d.tex")
-("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/04_approach.
-tex"
-<../res/plot/genetic.pdf, id=2058, 1026.1025pt x 457.04752pt>
-File: ../res/plot/genetic.pdf Graphic file (type pdf)
-<use ../res/plot/genetic.pdf>
-Package luatex.def Info: ../res/plot/genetic.pdf  used on input line 54.
-(luatex.def)             Requested size: 252.0pt x 112.24611pt.
+]) ("./05-x-Long paper/03_background.tex") ("./05-x-Long paper/04_approach.tex"
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[2]
+
+Package tabulary Warning: No suitable columns! on input line 60.
+
+
+Package tabulary Warning: No suitable columns! on input line 84.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[3
+Missing character: There is no ρ (U+03C1) in font ptmr8t!
+Missing character: There is no − (U+2212) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+]) ("./05-x-Long paper/05_experimentation.tex"
+
+Package tabulary Warning: No suitable columns! on input line 27.
+
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 27.
+LaTeX Font Info:    Font shape `MDA/mdbch/b/n' will be
+(Font)              scaled to size 7.68005pt on input line 27.
+(../res/plot/figure1.tex
+PGFPlots: reading {../res/data/figure1.dat}
+PGFPlots: reading {../res/data/figure1.dat}
+PGFPlots: reading {../res/data/figure1.dat}
+PGFPlots: reading {../res/data/figure1.dat}
+) (../res/plot/figure3.tex
+PGFPlots: reading {../res/data/figure3.dat}
+PGFPlots: reading {../res/data/figure3.dat}
+PGFPlots: reading {../res/data/figure3.dat}
+PGFPlots: reading {../res/data/figure3.dat}
 )
-("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/05_experimen
-tation.tex"
-<../res/tmp/Picture/gateway.jpg, id=2075, 4625.28pt x 3468.96pt>
-File: ../res/tmp/Picture/gateway.jpg Graphic file (type jpg)
-<use ../res/tmp/Picture/gateway.jpg>
-Package luatex.def Info: ../res/tmp/Picture/gateway.jpg  used on input line 15.
-(luatex.def)             Requested size: 120.95892pt x 90.67252pt.
-<../res/tmp/Picture/node.jpg, id=2076, 4625.28pt x 3468.96pt>
-File: ../res/tmp/Picture/node.jpg Graphic file (type jpg)
-<use ../res/tmp/Picture/node.jpg>
-Package luatex.def Info: ../res/tmp/Picture/node.jpg  used on input line 15.
-(luatex.def)             Requested size: 120.95892pt x 90.67252pt.
+
+LaTeX Warning: Reference `5-fig:local_.png' on page  undefined on input line 36.
+
+
+) ("./05-x-Long paper/06_results.tex"
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[4]) ("./05-x-Long paper/07_conclusion.tex")
+("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/authors.tex"
 )
-("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/06_results.t
-ex")
-("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/07_conclusio
-n.tex") (./21-Disaster/authors.tex)
 
 Package biblatex Warning: Keyword 'Gateway selection' not found on input line 21
 .
@@ -4434,7 +4329,12 @@ Package biblatex Warning: Keyword 'Measurement' not found on input line 21.
 
 LaTeX Warning: Empty bibliography on input line 21.
 
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 21.
+
+Package biblatex Warning: Keyword 'Platform' not found on input line 21.
+
+
+LaTeX Warning: Empty bibliography on input line 21.
+
 
 Package biblatex Warning: Keyword 'Weather' not found on input line 21.
 
@@ -4459,54 +4359,54 @@ Package biblatex Warning: Keyword '' not found on input line 21.
 
 LaTeX Warning: Empty bibliography on input line 21.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--21
-[]    [][]\T1/ptm/m/it/9 https://lora-alliance.org/resource-hub/lorawanr-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--21
-\T1/ptm/m/it/9 specification-v103[][]\T1/ptm/m/n/9 , [On-line; ac-cessed 8. Aug
-. 2019],
- []
-
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 21.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 21.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 21.
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[2<../res/plot/genetic.pdf><../res/tmp/Picture/gateway.jpg><../res/tmp/Picture/n
-ode.jpg>]
 Package biblatex Info: Reference section=0 on input line 21.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[3
+[5]
+\blx@maxsegment@7=\count562
+\blx@sectionciteorder@7=\count563
+Package biblatex Info: Reference section=7 on input line 21.
+Package biblatex Info: Setting label 'refsection:7' on input line 21.
 
-]
-\blx@maxsegment@8=\count564
-\blx@sectionciteorder@8=\count565
-Package biblatex Info: Reference section=8 on input line 21.
-Package biblatex Info: Setting label 'refsection:8' on input line 21.
- (./21-Disaster/00_abstract.tex) (./21-Disaster/01_introduction.tex)
-(./21-Disaster/02_related.tex) (./21-Disaster/03_background.tex
+("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/00_abstract.
+tex")
+("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/01_introduct
+ion.tex")
+("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/02_related.t
+ex"
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [1
 
 
-]) (./21-Disaster/04_approach.tex
-<../res/tmp/A-Application/iot.png, id=2188, 1702.36pt x 696.6025pt>
-File: ../res/tmp/A-Application/iot.png Graphic file (type png)
-<use ../res/tmp/A-Application/iot.png>
-Package luatex.def Info: ../res/tmp/A-Application/iot.png  used on input line 13
-.
-(luatex.def)             Requested size: 277.20154pt x 113.4251pt.
-
-Overfull \hbox (25.20154pt too wide) in paragraph at lines 13--13
- [][] 
- []
-
-) (./21-Disaster/05_experimentation.tex) (./21-Disaster/06_results.tex)
-(./21-Disaster/07_conclusion.tex) (./07-Template/authors.tex)
+])
+("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/03_backgroun
+d.tex")
+("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/04_approach.
+tex"
+<../res/plot/genetic.pdf, id=2090, 1026.1025pt x 457.04752pt>
+File: ../res/plot/genetic.pdf Graphic file (type pdf)
+<use ../res/plot/genetic.pdf>
+Package luatex.def Info: ../res/plot/genetic.pdf  used on input line 54.
+(luatex.def)             Requested size: 252.0pt x 112.24611pt.
+)
+("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/05_experimen
+tation.tex"
+<../res/tmp/Picture/gateway.jpg, id=2107, 4625.28pt x 3468.96pt>
+File: ../res/tmp/Picture/gateway.jpg Graphic file (type jpg)
+<use ../res/tmp/Picture/gateway.jpg>
+Package luatex.def Info: ../res/tmp/Picture/gateway.jpg  used on input line 15.
+(luatex.def)             Requested size: 120.95892pt x 90.67252pt.
+<../res/tmp/Picture/node.jpg, id=2108, 4625.28pt x 3468.96pt>
+File: ../res/tmp/Picture/node.jpg Graphic file (type jpg)
+<use ../res/tmp/Picture/node.jpg>
+Package luatex.def Info: ../res/tmp/Picture/node.jpg  used on input line 15.
+(luatex.def)             Requested size: 120.95892pt x 90.67252pt.
+)
+("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/06_results.t
+ex")
+("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/07_conclusio
+n.tex") (./21-Disaster/authors.tex)
 
 Package biblatex Warning: Keyword 'Gateway selection' not found on input line 22
 .
@@ -4534,12 +4434,7 @@ Package biblatex Warning: Keyword 'Measurement' not found on input line 22.
 
 LaTeX Warning: Empty bibliography on input line 22.
 
-
-Package biblatex Warning: Keyword 'Platform' not found on input line 22.
-
-
-LaTeX Warning: Empty bibliography on input line 22.
-
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 22.
 
 Package biblatex Warning: Keyword 'Weather' not found on input line 22.
 
@@ -4564,32 +4459,54 @@ Package biblatex Warning: Keyword '' not found on input line 22.
 
 LaTeX Warning: Empty bibliography on input line 22.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+[]    [][]\T1/ptm/m/it/9 https://lora-alliance.org/resource-hub/lorawanr-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+\T1/ptm/m/it/9 specification-v103[][]\T1/ptm/m/n/9 , [On-line; ac-cessed 8. Aug
+. 2019],
+ []
+
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 22.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 22.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 22.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 22.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 22.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[2<../res/plot/genetic.pdf><../res/tmp/Picture/gateway.jpg><../res/tmp/Picture/n
+ode.jpg>]
 Package biblatex Info: Reference section=0 on input line 22.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[2<../res/tmp/A-Application/iot.png>]
-\blx@maxsegment@9=\count566
-\blx@sectionciteorder@9=\count567
-Package biblatex Info: Reference section=9 on input line 22.
-Package biblatex Info: Setting label 'refsection:9' on input line 22.
- (./07-Template/00_abstract.tex)
-(./07-Template/01_introduction.tex
+[3
 
-LaTeX Warning: Reference `8-sec:Background' on page  undefined on input line 24.
+]
+\blx@maxsegment@8=\count564
+\blx@sectionciteorder@8=\count565
+Package biblatex Info: Reference section=8 on input line 22.
+Package biblatex Info: Setting label 'refsection:8' on input line 22.
+ (./21-Disaster/00_abstract.tex) (./21-Disaster/01_introduction.tex)
+(./21-Disaster/02_related.tex) (./21-Disaster/03_background.tex
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[1
 
 
+]) (./21-Disaster/04_approach.tex
+<../res/tmp/A-Application/iot.png, id=2220, 1702.36pt x 696.6025pt>
+File: ../res/tmp/A-Application/iot.png Graphic file (type png)
+<use ../res/tmp/A-Application/iot.png>
+Package luatex.def Info: ../res/tmp/A-Application/iot.png  used on input line 13
+.
+(luatex.def)             Requested size: 277.20154pt x 113.4251pt.
 
-LaTeX Warning: Reference `8-sec:Results' on page  undefined on input line 28.
+Overfull \hbox (25.20154pt too wide) in paragraph at lines 13--13
+ [][] 
+ []
 
-) (./07-Template/02_related.tex) (./07-Template/03_background.tex)
-(./07-Template/04_approach.tex) (./07-Template/05_experimentation.tex)
-(./07-Template/06_results.tex) (./07-Template/07_conclusion.tex)
-(./08-UTLC/authors.tex)
+) (./21-Disaster/05_experimentation.tex) (./21-Disaster/06_results.tex)
+(./21-Disaster/07_conclusion.tex) (./07-Template/authors.tex)
 
 Package biblatex Warning: Keyword 'Gateway selection' not found on input line 23
 .
@@ -4647,237 +4564,32 @@ Package biblatex Warning: Keyword '' not found on input line 23.
 
 LaTeX Warning: Empty bibliography on input line 23.
 
-
-LaTeX Warning: Empty bibliography on input line 23.
-
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 23.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 23.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 23.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 23.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 23.
 Package biblatex Info: Reference section=0 on input line 23.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[1
+[2<../res/tmp/A-Application/iot.png>]
+\blx@maxsegment@9=\count566
+\blx@sectionciteorder@9=\count567
+Package biblatex Info: Reference section=9 on input line 23.
+Package biblatex Info: Setting label 'refsection:9' on input line 23.
+ (./07-Template/00_abstract.tex)
+(./07-Template/01_introduction.tex
+
+LaTeX Warning: Reference `8-sec:Background' on page  undefined on input line 24.
 
 
-]
-\blx@maxsegment@10=\count568
-\blx@sectionciteorder@10=\count569
-Package biblatex Info: Reference section=10 on input line 23.
-Package biblatex Info: Setting label 'refsection:10' on input line 23.
- (./08-UTLC/00_abstract.tex) (./08-UTLC/01_introduction.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
+LaTeX Warning: Reference `8-sec:Results' on page  undefined on input line 28.
 
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[1
-
-
-]
-
-LaTeX Warning: Reference `9-sec:Use Case and Model Design' on page  undefined on
- input line 72.
-
-
-LaTeX Warning: Reference `9-sec:Prototyping' on page  undefined on input line 74
-.
-
-) (./08-UTLC/02_related.tex) (./08-UTLC/03_background.tex)
-(./08-UTLC/04_approach.tex
-Package epstopdf Info: Source file: <../res/tmp/Figures/CrossRoadModel_V1.eps>
-(epstopdf)                    date: 2019-10-13 23:13:23
-(epstopdf)                    size: 124569 bytes
-(epstopdf)             Output file: <../res/tmp/Figures/CrossRoadModel_V1-eps-co
-nverted-to.pdf>
-(epstopdf)                    date: 2019-10-13 23:13:23
-(epstopdf)                    size: 29569 bytes
-(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/CrossRoad
-Model_V1-eps-converted-to.pdf ../res/tmp/Figures/CrossRoadModel_V1.eps>
-(epstopdf)             \includegraphics on input line 29.
-Package epstopdf Info: Output file is already uptodate.
-<../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.pdf, id=2250, 944.52875pt
- x 648.4225pt>
-File: ../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.pdf Graphic file (ty
-pe pdf)
-<use ../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.pdf>
-Package luatex.def Info: ../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.p
-df  used on input line 29.
-(luatex.def)             Requested size: 252.94499pt x 173.64177pt.
-
-Overfull \hbox (0.94499pt too wide) in paragraph at lines 29--30
- [][] 
- []
-
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[2
-Missing character: There is no ’ (U+2019) in font ptmr8t!
-]
-Package epstopdf Info: Source file: <../res/tmp/Figures/TrafficlightModel.eps>
-(epstopdf)                    date: 2019-10-13 23:13:23
-(epstopdf)                    size: 8506 bytes
-(epstopdf)             Output file: <../res/tmp/Figures/TrafficlightModel-eps-co
-nverted-to.pdf>
-(epstopdf)                    date: 2019-10-13 23:13:23
-(epstopdf)                    size: 4298 bytes
-(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/Trafficli
-ghtModel-eps-converted-to.pdf ../res/tmp/Figures/TrafficlightModel.eps>
-(epstopdf)             \includegraphics on input line 116.
-Package epstopdf Info: Output file is already uptodate.
-<../res/tmp/Figures/TrafficlightModel-eps-converted-to.pdf, id=2265, 404.51125pt
- x 152.57pt>
-File: ../res/tmp/Figures/TrafficlightModel-eps-converted-to.pdf Graphic file (ty
-pe pdf)
-<use ../res/tmp/Figures/TrafficlightModel-eps-converted-to.pdf>
-Package luatex.def Info: ../res/tmp/Figures/TrafficlightModel-eps-converted-to.p
-df  used on input line 116.
-(luatex.def)             Requested size: 325.215pt x 122.66377pt.
-Package epstopdf Info: Source file: <../res/tmp/Figures/MiddlewareModel.eps>
-(epstopdf)                    date: 2019-10-13 23:13:23
-(epstopdf)                    size: 17123 bytes
-(epstopdf)             Output file: <../res/tmp/Figures/MiddlewareModel-eps-conv
-erted-to.pdf>
-(epstopdf)                    date: 2019-10-13 23:13:23
-(epstopdf)                    size: 5168 bytes
-(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/Middlewar
-eModel-eps-converted-to.pdf ../res/tmp/Figures/MiddlewareModel.eps>
-(epstopdf)             \includegraphics on input line 123.
-Package epstopdf Info: Output file is already uptodate.
-<../res/tmp/Figures/MiddlewareModel-eps-converted-to.pdf, id=2266, 423.5825pt x 
-292.09125pt>
-File: ../res/tmp/Figures/MiddlewareModel-eps-converted-to.pdf Graphic file (type
- pdf)
-<use ../res/tmp/Figures/MiddlewareModel-eps-converted-to.pdf>
-Package luatex.def Info: ../res/tmp/Figures/MiddlewareModel-eps-converted-to.pdf
-  used on input line 123.
-(luatex.def)             Requested size: 289.07999pt x 199.35034pt.
-Package epstopdf Info: Source file: <../res/tmp/Figures/CloudModel.eps>
-(epstopdf)                    date: 2019-10-13 23:13:23
-(epstopdf)                    size: 6424 bytes
-(epstopdf)             Output file: <../res/tmp/Figures/CloudModel-eps-converted
--to.pdf>
-(epstopdf)                    date: 2019-10-13 23:13:23
-(epstopdf)                    size: 3823 bytes
-(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/CloudMode
-l-eps-converted-to.pdf ../res/tmp/Figures/CloudModel.eps>
-(epstopdf)             \includegraphics on input line 208.
-Package epstopdf Info: Output file is already uptodate.
-<../res/tmp/Figures/CloudModel-eps-converted-to.pdf, id=2274, 294.09875pt x 199.
-74625pt>
-File: ../res/tmp/Figures/CloudModel-eps-converted-to.pdf Graphic file (type pdf)
-
-<use ../res/tmp/Figures/CloudModel-eps-converted-to.pdf>
-Package luatex.def Info: ../res/tmp/Figures/CloudModel-eps-converted-to.pdf  use
-d on input line 208.
-(luatex.def)             Requested size: 231.26378pt x 157.06935pt.
-) (./08-UTLC/05_experimentation.tex
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[3<../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <../res/tmp/Figures/ScenarioPaper.eps>
-(epstopdf)                    date: 2019-10-13 23:13:23
-(epstopdf)                    size: 790082 bytes
-(epstopdf)             Output file: <../res/tmp/Figures/ScenarioPaper-eps-conver
-ted-to.pdf>
-(epstopdf)                    date: 2019-10-13 23:13:23
-(epstopdf)                    size: 79930 bytes
-(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/ScenarioP
-aper-eps-converted-to.pdf ../res/tmp/Figures/ScenarioPaper.eps>
-(epstopdf)             \includegraphics on input line 12.
-Package epstopdf Info: Output file is already uptodate.
-<../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf, id=2326, 1535.7375pt x 6
-04.2575pt>
-File: ../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf Graphic file (type p
-df)
-<use ../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf>
-Package luatex.def Info: ../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf  
-used on input line 12.
-(luatex.def)             Requested size: 325.215pt x 127.95815pt.
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[4
-Missing character: There is no ’ (U+2019) in font ptmr8t!
-<../res/tmp/Figures/TrafficlightModel-eps-converted-to.pdf><../res/tmp/Figures/M
-iddlewareModel-eps-converted-to.pdf><../res/tmp/Figures/CloudModel-eps-converted
--to.pdf>]
-<../res/tmp/Figures/ethernetRouter.png, id=2354, 294.8616pt x 168.1482pt>
-File: ../res/tmp/Figures/ethernetRouter.png Graphic file (type png)
-<use ../res/tmp/Figures/ethernetRouter.png>
-Package luatex.def Info: ../res/tmp/Figures/ethernetRouter.png  used on input li
-ne 52.
-(luatex.def)             Requested size: 180.67499pt x 103.03206pt.
-
-
-LaTeX Warning: Reference `9-sec:Use Case and Model Design' on page  undefined on
- input line 58.
-
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[5
-Missing character: There is no ’ (U+2019) in font ptmr8t!
-<../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf><../res/tmp/Figures/ether
-netRouter.png>]
-Package epstopdf Info: Source file: <../res/tmp/Figures/StackIoTv1.eps>
-(epstopdf)                    date: 2019-10-13 23:13:23
-(epstopdf)                    size: 55400 bytes
-(epstopdf)             Output file: <../res/tmp/Figures/StackIoTv1-eps-converted
--to.pdf>
-(epstopdf)                    date: 2019-10-13 23:13:23
-(epstopdf)                    size: 18793 bytes
-(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/StackIoTv
-1-eps-converted-to.pdf ../res/tmp/Figures/StackIoTv1.eps>
-(epstopdf)             \includegraphics on input line 233.
-Package epstopdf Info: Output file is already uptodate.
-<../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf, id=2416, 298.11375pt x 343.
-2825pt>
-File: ../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf Graphic file (type pdf)
-
-<use ../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf>
-Package luatex.def Info: ../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf  use
-d on input line 233.
-(luatex.def)             Requested size: 144.54pt x 166.43942pt.
-) (./08-UTLC/06_results.tex
-Package epstopdf Info: Source file: <../res/tmp/Figures/distributions_v3.eps>
-(epstopdf)                    date: 2019-10-13 23:13:23
-(epstopdf)                    size: 46701 bytes
-(epstopdf)             Output file: <../res/tmp/Figures/distributions_v3-eps-con
-verted-to.pdf>
-(epstopdf)                    date: 2019-10-13 23:13:23
-(epstopdf)                    size: 45885 bytes
-(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/distribut
-ions_v3-eps-converted-to.pdf ../res/tmp/Figures/distributions_v3.eps>
-(epstopdf)             \includegraphics on input line 9.
-Package epstopdf Info: Output file is already uptodate.
-<../res/tmp/Figures/distributions_v3-eps-converted-to.pdf, id=2417, 752.8125pt x
- 752.8125pt>
-File: ../res/tmp/Figures/distributions_v3-eps-converted-to.pdf Graphic file (typ
-e pdf)
-<use ../res/tmp/Figures/distributions_v3-eps-converted-to.pdf>
-Package luatex.def Info: ../res/tmp/Figures/distributions_v3-eps-converted-to.pd
-f  used on input line 9.
-(luatex.def)             Requested size: 252.0pt x 252.00134pt.
-Package epstopdf Info: Source file: <../res/tmp/Figures/cdf_v3.eps>
-(epstopdf)                    date: 2019-10-13 23:13:23
-(epstopdf)                    size: 10221 bytes
-(epstopdf)             Output file: <../res/tmp/Figures/cdf_v3-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2019-10-13 23:13:23
-(epstopdf)                    size: 12730 bytes
-(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/cdf_v3-ep
-s-converted-to.pdf ../res/tmp/Figures/cdf_v3.eps>
-(epstopdf)             \includegraphics on input line 57.
-Package epstopdf Info: Output file is already uptodate.
-<../res/tmp/Figures/cdf_v3-eps-converted-to.pdf, id=2420, 903.375pt x 617.30624p
-t>
-File: ../res/tmp/Figures/cdf_v3-eps-converted-to.pdf Graphic file (type pdf)
-<use ../res/tmp/Figures/cdf_v3-eps-converted-to.pdf>
-Package luatex.def Info: ../res/tmp/Figures/cdf_v3-eps-converted-to.pdf  used on
- input line 57.
-(luatex.def)             Requested size: 252.94499pt x 172.84456pt.
-
-Overfull \hbox (0.94499pt too wide) in paragraph at lines 57--58
- [][] 
- []
-
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[6<../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf>])
-(./08-UTLC/07_conclusion.tex) (./09-Conclusion/authors.tex)
+) (./07-Template/02_related.tex) (./07-Template/03_background.tex)
+(./07-Template/04_approach.tex) (./07-Template/05_experimentation.tex)
+(./07-Template/06_results.tex) (./07-Template/07_conclusion.tex)
+(./08-UTLC/authors.tex)
 
 Package biblatex Warning: Keyword 'Gateway selection' not found on input line 24
 .
@@ -4935,9 +4647,297 @@ Package biblatex Warning: Keyword '' not found on input line 24.
 
 LaTeX Warning: Empty bibliography on input line 24.
 
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 24.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 24.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 24.
+
+LaTeX Warning: Empty bibliography on input line 24.
+
+Package biblatex Info: Reference section=0 on input line 24.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[1
+
+
+]
+\blx@maxsegment@10=\count568
+\blx@sectionciteorder@10=\count569
+Package biblatex Info: Reference section=10 on input line 24.
+Package biblatex Info: Setting label 'refsection:10' on input line 24.
+ (./08-UTLC/00_abstract.tex) (./08-UTLC/01_introduction.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[1
+
+
+]
+
+LaTeX Warning: Reference `9-sec:Use Case and Model Design' on page  undefined on
+ input line 72.
+
+
+LaTeX Warning: Reference `9-sec:Prototyping' on page  undefined on input line 74
+.
+
+) (./08-UTLC/02_related.tex) (./08-UTLC/03_background.tex)
+(./08-UTLC/04_approach.tex
+Package epstopdf Info: Source file: <../res/tmp/Figures/CrossRoadModel_V1.eps>
+(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    size: 124569 bytes
+(epstopdf)             Output file: <../res/tmp/Figures/CrossRoadModel_V1-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    size: 29569 bytes
+(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/CrossRoad
+Model_V1-eps-converted-to.pdf ../res/tmp/Figures/CrossRoadModel_V1.eps>
+(epstopdf)             \includegraphics on input line 29.
+Package epstopdf Info: Output file is already uptodate.
+<../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.pdf, id=2282, 944.52875pt
+ x 648.4225pt>
+File: ../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+<use ../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.pdf>
+Package luatex.def Info: ../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.p
+df  used on input line 29.
+(luatex.def)             Requested size: 252.94499pt x 173.64177pt.
+
+Overfull \hbox (0.94499pt too wide) in paragraph at lines 29--30
+ [][] 
+ []
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[2
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+]
+Package epstopdf Info: Source file: <../res/tmp/Figures/TrafficlightModel.eps>
+(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    size: 8506 bytes
+(epstopdf)             Output file: <../res/tmp/Figures/TrafficlightModel-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    size: 4298 bytes
+(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/Trafficli
+ghtModel-eps-converted-to.pdf ../res/tmp/Figures/TrafficlightModel.eps>
+(epstopdf)             \includegraphics on input line 116.
+Package epstopdf Info: Output file is already uptodate.
+<../res/tmp/Figures/TrafficlightModel-eps-converted-to.pdf, id=2297, 404.51125pt
+ x 152.57pt>
+File: ../res/tmp/Figures/TrafficlightModel-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+<use ../res/tmp/Figures/TrafficlightModel-eps-converted-to.pdf>
+Package luatex.def Info: ../res/tmp/Figures/TrafficlightModel-eps-converted-to.p
+df  used on input line 116.
+(luatex.def)             Requested size: 325.215pt x 122.66377pt.
+Package epstopdf Info: Source file: <../res/tmp/Figures/MiddlewareModel.eps>
+(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    size: 17123 bytes
+(epstopdf)             Output file: <../res/tmp/Figures/MiddlewareModel-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    size: 5168 bytes
+(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/Middlewar
+eModel-eps-converted-to.pdf ../res/tmp/Figures/MiddlewareModel.eps>
+(epstopdf)             \includegraphics on input line 123.
+Package epstopdf Info: Output file is already uptodate.
+<../res/tmp/Figures/MiddlewareModel-eps-converted-to.pdf, id=2298, 423.5825pt x 
+292.09125pt>
+File: ../res/tmp/Figures/MiddlewareModel-eps-converted-to.pdf Graphic file (type
+ pdf)
+<use ../res/tmp/Figures/MiddlewareModel-eps-converted-to.pdf>
+Package luatex.def Info: ../res/tmp/Figures/MiddlewareModel-eps-converted-to.pdf
+  used on input line 123.
+(luatex.def)             Requested size: 289.07999pt x 199.35034pt.
+Package epstopdf Info: Source file: <../res/tmp/Figures/CloudModel.eps>
+(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    size: 6424 bytes
+(epstopdf)             Output file: <../res/tmp/Figures/CloudModel-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    size: 3823 bytes
+(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/CloudMode
+l-eps-converted-to.pdf ../res/tmp/Figures/CloudModel.eps>
+(epstopdf)             \includegraphics on input line 208.
+Package epstopdf Info: Output file is already uptodate.
+<../res/tmp/Figures/CloudModel-eps-converted-to.pdf, id=2306, 294.09875pt x 199.
+74625pt>
+File: ../res/tmp/Figures/CloudModel-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ../res/tmp/Figures/CloudModel-eps-converted-to.pdf>
+Package luatex.def Info: ../res/tmp/Figures/CloudModel-eps-converted-to.pdf  use
+d on input line 208.
+(luatex.def)             Requested size: 231.26378pt x 157.06935pt.
+) (./08-UTLC/05_experimentation.tex
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[3<../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <../res/tmp/Figures/ScenarioPaper.eps>
+(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    size: 790082 bytes
+(epstopdf)             Output file: <../res/tmp/Figures/ScenarioPaper-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    size: 79930 bytes
+(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/ScenarioP
+aper-eps-converted-to.pdf ../res/tmp/Figures/ScenarioPaper.eps>
+(epstopdf)             \includegraphics on input line 12.
+Package epstopdf Info: Output file is already uptodate.
+<../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf, id=2358, 1535.7375pt x 6
+04.2575pt>
+File: ../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf Graphic file (type p
+df)
+<use ../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf>
+Package luatex.def Info: ../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf  
+used on input line 12.
+(luatex.def)             Requested size: 325.215pt x 127.95815pt.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[4
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+<../res/tmp/Figures/TrafficlightModel-eps-converted-to.pdf><../res/tmp/Figures/M
+iddlewareModel-eps-converted-to.pdf><../res/tmp/Figures/CloudModel-eps-converted
+-to.pdf>]
+<../res/tmp/Figures/ethernetRouter.png, id=2386, 294.8616pt x 168.1482pt>
+File: ../res/tmp/Figures/ethernetRouter.png Graphic file (type png)
+<use ../res/tmp/Figures/ethernetRouter.png>
+Package luatex.def Info: ../res/tmp/Figures/ethernetRouter.png  used on input li
+ne 52.
+(luatex.def)             Requested size: 180.67499pt x 103.03206pt.
+
+
+LaTeX Warning: Reference `9-sec:Use Case and Model Design' on page  undefined on
+ input line 58.
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[5
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+<../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf><../res/tmp/Figures/ether
+netRouter.png>]
+Package epstopdf Info: Source file: <../res/tmp/Figures/StackIoTv1.eps>
+(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    size: 55400 bytes
+(epstopdf)             Output file: <../res/tmp/Figures/StackIoTv1-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    size: 18793 bytes
+(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/StackIoTv
+1-eps-converted-to.pdf ../res/tmp/Figures/StackIoTv1.eps>
+(epstopdf)             \includegraphics on input line 233.
+Package epstopdf Info: Output file is already uptodate.
+<../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf, id=2448, 298.11375pt x 343.
+2825pt>
+File: ../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf>
+Package luatex.def Info: ../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf  use
+d on input line 233.
+(luatex.def)             Requested size: 144.54pt x 166.43942pt.
+) (./08-UTLC/06_results.tex
+Package epstopdf Info: Source file: <../res/tmp/Figures/distributions_v3.eps>
+(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    size: 46701 bytes
+(epstopdf)             Output file: <../res/tmp/Figures/distributions_v3-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    size: 45885 bytes
+(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/distribut
+ions_v3-eps-converted-to.pdf ../res/tmp/Figures/distributions_v3.eps>
+(epstopdf)             \includegraphics on input line 9.
+Package epstopdf Info: Output file is already uptodate.
+<../res/tmp/Figures/distributions_v3-eps-converted-to.pdf, id=2449, 752.8125pt x
+ 752.8125pt>
+File: ../res/tmp/Figures/distributions_v3-eps-converted-to.pdf Graphic file (typ
+e pdf)
+<use ../res/tmp/Figures/distributions_v3-eps-converted-to.pdf>
+Package luatex.def Info: ../res/tmp/Figures/distributions_v3-eps-converted-to.pd
+f  used on input line 9.
+(luatex.def)             Requested size: 252.0pt x 252.00134pt.
+Package epstopdf Info: Source file: <../res/tmp/Figures/cdf_v3.eps>
+(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    size: 10221 bytes
+(epstopdf)             Output file: <../res/tmp/Figures/cdf_v3-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2019-10-13 23:13:23
+(epstopdf)                    size: 12730 bytes
+(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/cdf_v3-ep
+s-converted-to.pdf ../res/tmp/Figures/cdf_v3.eps>
+(epstopdf)             \includegraphics on input line 57.
+Package epstopdf Info: Output file is already uptodate.
+<../res/tmp/Figures/cdf_v3-eps-converted-to.pdf, id=2452, 903.375pt x 617.30624p
+t>
+File: ../res/tmp/Figures/cdf_v3-eps-converted-to.pdf Graphic file (type pdf)
+<use ../res/tmp/Figures/cdf_v3-eps-converted-to.pdf>
+Package luatex.def Info: ../res/tmp/Figures/cdf_v3-eps-converted-to.pdf  used on
+ input line 57.
+(luatex.def)             Requested size: 252.94499pt x 172.84456pt.
+
+Overfull \hbox (0.94499pt too wide) in paragraph at lines 57--58
+ [][] 
+ []
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[6<../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf>])
+(./08-UTLC/07_conclusion.tex) (./09-Conclusion/authors.tex)
+
+Package biblatex Warning: Keyword 'Gateway selection' not found on input line 25
+.
+
+
+LaTeX Warning: Empty bibliography on input line 25.
+
+
+Package biblatex Warning: Keyword 'Network selection' not found on input line 25
+.
+
+
+LaTeX Warning: Empty bibliography on input line 25.
+
+
+Package biblatex Warning: Keyword 'Configuration selection' not found on input l
+ine 25.
+
+
+LaTeX Warning: Empty bibliography on input line 25.
+
+
+Package biblatex Warning: Keyword 'Measurement' not found on input line 25.
+
+
+LaTeX Warning: Empty bibliography on input line 25.
+
+
+Package biblatex Warning: Keyword 'Platform' not found on input line 25.
+
+
+LaTeX Warning: Empty bibliography on input line 25.
+
+
+Package biblatex Warning: Keyword 'Weather' not found on input line 25.
+
+
+LaTeX Warning: Empty bibliography on input line 25.
+
+
+Package biblatex Warning: Keyword 'LPWAN' not found on input line 25.
+
+
+LaTeX Warning: Empty bibliography on input line 25.
+
+
+Package biblatex Warning: Keyword '' not found on input line 25.
+
+
+LaTeX Warning: Empty bibliography on input line 25.
+
+
+Package biblatex Warning: Keyword '' not found on input line 25.
+
+
+LaTeX Warning: Empty bibliography on input line 25.
+
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 25.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 25.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 25.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [7
@@ -4945,9 +4945,9 @@ Missing character: There is no ’ (U+2019) in font ptmr8t!
 Missing character: There is no č (U+010D) in font ptmr8t!
 <../res/tmp/Figures/distributions_v3-eps-converted-to.pdf><../res/tmp/Figures/cd
 f_v3-eps-converted-to.pdf>]
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 24.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 24.
-Package biblatex Info: Reference section=0 on input line 24.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 25.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 25.
+Package biblatex Info: Reference section=0 on input line 25.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [8
@@ -4955,70 +4955,70 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 ]
 \blx@maxsegment@11=\count570
 \blx@sectionciteorder@11=\count571
-Package biblatex Info: Reference section=11 on input line 24.
-Package biblatex Info: Setting label 'refsection:11' on input line 24.
+Package biblatex Info: Reference section=11 on input line 25.
+Package biblatex Info: Setting label 'refsection:11' on input line 25.
  (./09-Conclusion/00_conclusion.tex) ("./A-Survey IoT/authors.tex")
 
-Package biblatex Warning: Keyword 'Gateway selection' not found on input line 26
+Package biblatex Warning: Keyword 'Gateway selection' not found on input line 27
 .
 
 
-LaTeX Warning: Empty bibliography on input line 26.
+LaTeX Warning: Empty bibliography on input line 27.
 
 
-Package biblatex Warning: Keyword 'Network selection' not found on input line 26
+Package biblatex Warning: Keyword 'Network selection' not found on input line 27
 .
 
 
-LaTeX Warning: Empty bibliography on input line 26.
+LaTeX Warning: Empty bibliography on input line 27.
 
 
 Package biblatex Warning: Keyword 'Configuration selection' not found on input l
-ine 26.
+ine 27.
 
 
-LaTeX Warning: Empty bibliography on input line 26.
+LaTeX Warning: Empty bibliography on input line 27.
 
 
-Package biblatex Warning: Keyword 'Measurement' not found on input line 26.
+Package biblatex Warning: Keyword 'Measurement' not found on input line 27.
 
 
-LaTeX Warning: Empty bibliography on input line 26.
+LaTeX Warning: Empty bibliography on input line 27.
 
 
-Package biblatex Warning: Keyword 'Platform' not found on input line 26.
+Package biblatex Warning: Keyword 'Platform' not found on input line 27.
 
 
-LaTeX Warning: Empty bibliography on input line 26.
+LaTeX Warning: Empty bibliography on input line 27.
 
 
-Package biblatex Warning: Keyword 'Weather' not found on input line 26.
+Package biblatex Warning: Keyword 'Weather' not found on input line 27.
 
 
-LaTeX Warning: Empty bibliography on input line 26.
+LaTeX Warning: Empty bibliography on input line 27.
 
 
-Package biblatex Warning: Keyword 'LPWAN' not found on input line 26.
+Package biblatex Warning: Keyword 'LPWAN' not found on input line 27.
 
 
-LaTeX Warning: Empty bibliography on input line 26.
+LaTeX Warning: Empty bibliography on input line 27.
 
 
-Package biblatex Warning: Keyword '' not found on input line 26.
+Package biblatex Warning: Keyword '' not found on input line 27.
 
 
-LaTeX Warning: Empty bibliography on input line 26.
+LaTeX Warning: Empty bibliography on input line 27.
 
 
-Package biblatex Warning: Keyword '' not found on input line 26.
+Package biblatex Warning: Keyword '' not found on input line 27.
 
 
-LaTeX Warning: Empty bibliography on input line 26.
+LaTeX Warning: Empty bibliography on input line 27.
 
 
-LaTeX Warning: Empty bibliography on input line 26.
+LaTeX Warning: Empty bibliography on input line 27.
 
-Package biblatex Info: Reference section=0 on input line 26.
+Package biblatex Info: Reference section=0 on input line 27.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [1
@@ -5027,8 +5027,8 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 ]
 \blx@maxsegment@12=\count572
 \blx@sectionciteorder@12=\count573
-Package biblatex Info: Reference section=12 on input line 26.
-Package biblatex Info: Setting label 'refsection:12' on input line 26.
+Package biblatex Info: Reference section=12 on input line 27.
+Package biblatex Info: Setting label 'refsection:12' on input line 27.
  ("./A-Survey IoT/00_papers_network.tex"
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [1
@@ -5039,9 +5039,11 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [2
 
-]) ("./A-Survey IoT/01_papers_orchestration.tex"
+]
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[3
+[3]) ("./A-Survey IoT/01_papers_orchestration.tex"
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[4
 
 
 
@@ -5062,13 +5064,13 @@ Overfull \hbox (36.89598pt too wide) in alignment at lines 52--61
 
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[4
+[5
 
 
 
 ]
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[5
+[6
 
 ]
 Overfull \hbox (6.66849pt too wide) in paragraph at lines 187--188
@@ -5077,7 +5079,7 @@ Overfull \hbox (6.66849pt too wide) in paragraph at lines 187--188
 
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[6
+[7
 
 Missing character: There is no – (U+2013) in font ptmr8t!
 Missing character: There is no – (U+2013) in font ptmr8t!
@@ -5085,7 +5087,7 @@ Missing character: There is no – (U+2013) in font ptmr8t!
 Missing character: There is no – (U+2013) in font ptmr8t!
 ]
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[7
+[8
 
 Missing character: There is no ’ (U+2019) in font ptmr8t!
 ]) ("./A-Survey IoT/03_application.tex"
@@ -5155,11 +5157,11 @@ Missing character: There is no ’ (U+2019) in font ptmr8t!
 \width=\dimen459
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[8
+[9
 
 ]) ("./A-Survey IoT/04_frame.tex"
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[9]
+[10]
 \height=\dimen460
 \depth=\dimen461
 \totalheight=\dimen462
@@ -5443,115 +5445,52 @@ Overfull \hbox (21.00034pt too wide) in paragraph at lines 19--21
 
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[10
+[11
 
 ]) ("./A-Survey IoT/09_cloud.tex"
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[11
-
-]) ("./A-Survey IoT/09_divers.tex"
-
-LaTeX Font Warning: Command \tiny invalid in math mode on input line 101.
-
-
-Underfull \vbox (badness 2600) has occurred while \output is active []
-
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [12
 
-
-]
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[13])
-
-Package biblatex Warning: Keyword 'Gateway selection' not found on input line 33
-.
+]) ("./A-Survey IoT/09_divers.tex"
+Overfull \hbox (4.77617pt too wide) in paragraph at lines 102--102
+[]|$\OT1/zavm/m/n/8 7\OML/zavm/m/it/8 :\OT1/zavm/m/n/8 8$| 
+ []
 
 
-LaTeX Warning: Empty bibliography on input line 33.
+Overfull \hbox (1.21817pt too wide) in paragraph at lines 103--103
+[]|$\OT1/zavm/m/n/8 2[]$| 
+ []
 
 
-Package biblatex Warning: Keyword 'Network selection' not found on input line 33
-.
+Overfull \hbox (5.65617pt too wide) in paragraph at lines 104--104
+[]|$\OT1/zavm/m/n/8 4\OML/zavm/m/it/8 =\OT1/zavm/m/n/8 5$| 
+ []
 
 
-LaTeX Warning: Empty bibliography on input line 33.
+Overfull \hbox (3.24818pt too wide) in paragraph at lines 105--105
+[]|$\OMS/zavm/m/n/8  \OT1/zavm/m/n/8 4$| 
+ []
 
 
-Package biblatex Warning: Keyword 'Configuration selection' not found on input l
-ine 33.
+LaTeX Font Warning: Command \tiny invalid in math mode on input line 127.
 
 
-LaTeX Warning: Empty bibliography on input line 33.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Package biblatex Warning: Keyword 'Measurement' not found on input line 33.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-LaTeX Warning: Empty bibliography on input line 33.
-
-
-Package biblatex Warning: Keyword 'Platform' not found on input line 33.
-
-
-LaTeX Warning: Empty bibliography on input line 33.
-
-
-Package biblatex Warning: Keyword 'Weather' not found on input line 33.
-
-
-LaTeX Warning: Empty bibliography on input line 33.
-
-
-Package biblatex Warning: Keyword 'LPWAN' not found on input line 33.
-
-
-LaTeX Warning: Empty bibliography on input line 33.
-
-
-Package biblatex Warning: Keyword '' not found on input line 33.
-
-
-LaTeX Warning: Empty bibliography on input line 33.
-
-
-Package biblatex Warning: Keyword '' not found on input line 33.
-
-
-LaTeX Warning: Empty bibliography on input line 33.
-
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 33.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 33.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 33.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 33.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 33.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 33.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 33.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 33.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 33.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 33.
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 33.
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 33.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 33.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 33.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 33.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 33.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 33.
-Package biblatex Info: Reference section=0 on input line 33.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[14
+[13
+
 
 ]
-\blx@maxsegment@13=\count574
-\blx@sectionciteorder@13=\count575
-Package biblatex Info: Reference section=13 on input line 33.
-Package biblatex Info: Setting label 'refsection:13' on input line 33.
- (./Y-Management/01_introduction.tex)
+Overfull \vbox (142.86465pt too high) has occurred while \output is active []
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[14])
 
 Package biblatex Warning: Keyword 'Gateway selection' not found on input line 34
 .
@@ -5609,10 +5548,99 @@ Package biblatex Warning: Keyword '' not found on input line 34.
 
 LaTeX Warning: Empty bibliography on input line 34.
 
-
-LaTeX Warning: Empty bibliography on input line 34.
-
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 34.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 34.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 34.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 34.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 34.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 34.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 34.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 34.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 34.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 34.
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 34.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 34.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 34.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 34.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 34.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 34.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 34.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 34.
 Package biblatex Info: Reference section=0 on input line 34.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[15
+
+]
+\blx@maxsegment@13=\count574
+\blx@sectionciteorder@13=\count575
+Package biblatex Info: Reference section=13 on input line 34.
+Package biblatex Info: Setting label 'refsection:13' on input line 34.
+ (./Y-Management/01_introduction.tex)
+
+Package biblatex Warning: Keyword 'Gateway selection' not found on input line 35
+.
+
+
+LaTeX Warning: Empty bibliography on input line 35.
+
+
+Package biblatex Warning: Keyword 'Network selection' not found on input line 35
+.
+
+
+LaTeX Warning: Empty bibliography on input line 35.
+
+
+Package biblatex Warning: Keyword 'Configuration selection' not found on input l
+ine 35.
+
+
+LaTeX Warning: Empty bibliography on input line 35.
+
+
+Package biblatex Warning: Keyword 'Measurement' not found on input line 35.
+
+
+LaTeX Warning: Empty bibliography on input line 35.
+
+
+Package biblatex Warning: Keyword 'Platform' not found on input line 35.
+
+
+LaTeX Warning: Empty bibliography on input line 35.
+
+
+Package biblatex Warning: Keyword 'Weather' not found on input line 35.
+
+
+LaTeX Warning: Empty bibliography on input line 35.
+
+
+Package biblatex Warning: Keyword 'LPWAN' not found on input line 35.
+
+
+LaTeX Warning: Empty bibliography on input line 35.
+
+
+Package biblatex Warning: Keyword '' not found on input line 35.
+
+
+LaTeX Warning: Empty bibliography on input line 35.
+
+
+Package biblatex Warning: Keyword '' not found on input line 35.
+
+
+LaTeX Warning: Empty bibliography on input line 35.
+
+
+LaTeX Warning: Empty bibliography on input line 35.
+
+Package biblatex Info: Reference section=0 on input line 35.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [1
@@ -5620,8 +5648,8 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 ]
 \blx@maxsegment@14=\count576
 \blx@sectionciteorder@14=\count577
-Package biblatex Info: Reference section=14 on input line 34.
-Package biblatex Info: Setting label 'refsection:14' on input line 34.
+Package biblatex Info: Reference section=14 on input line 35.
+Package biblatex Info: Setting label 'refsection:14' on input line 35.
  (./Z-Plan/01_plan_affaire.tex
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [1
@@ -5643,66 +5671,66 @@ Missing character: There is no ’ (U+2019) in font ptmri8t!
 Missing character: There is no … (U+2026) in font ptmr8t!
 ])
 
-Package biblatex Warning: Keyword 'Gateway selection' not found on input line 37
+Package biblatex Warning: Keyword 'Gateway selection' not found on input line 38
 .
 
 
-LaTeX Warning: Empty bibliography on input line 37.
+LaTeX Warning: Empty bibliography on input line 38.
 
 
-Package biblatex Warning: Keyword 'Network selection' not found on input line 37
+Package biblatex Warning: Keyword 'Network selection' not found on input line 38
 .
 
 
-LaTeX Warning: Empty bibliography on input line 37.
+LaTeX Warning: Empty bibliography on input line 38.
 
 
 Package biblatex Warning: Keyword 'Configuration selection' not found on input l
-ine 37.
+ine 38.
 
 
-LaTeX Warning: Empty bibliography on input line 37.
+LaTeX Warning: Empty bibliography on input line 38.
 
 
-Package biblatex Warning: Keyword 'Measurement' not found on input line 37.
+Package biblatex Warning: Keyword 'Measurement' not found on input line 38.
 
 
-LaTeX Warning: Empty bibliography on input line 37.
+LaTeX Warning: Empty bibliography on input line 38.
 
 
-Package biblatex Warning: Keyword 'Platform' not found on input line 37.
+Package biblatex Warning: Keyword 'Platform' not found on input line 38.
 
 
-LaTeX Warning: Empty bibliography on input line 37.
+LaTeX Warning: Empty bibliography on input line 38.
 
 
-Package biblatex Warning: Keyword 'Weather' not found on input line 37.
+Package biblatex Warning: Keyword 'Weather' not found on input line 38.
 
 
-LaTeX Warning: Empty bibliography on input line 37.
+LaTeX Warning: Empty bibliography on input line 38.
 
 
-Package biblatex Warning: Keyword 'LPWAN' not found on input line 37.
+Package biblatex Warning: Keyword 'LPWAN' not found on input line 38.
 
 
-LaTeX Warning: Empty bibliography on input line 37.
+LaTeX Warning: Empty bibliography on input line 38.
 
 
-Package biblatex Warning: Keyword '' not found on input line 37.
+Package biblatex Warning: Keyword '' not found on input line 38.
 
 
-LaTeX Warning: Empty bibliography on input line 37.
+LaTeX Warning: Empty bibliography on input line 38.
 
 
-Package biblatex Warning: Keyword '' not found on input line 37.
+Package biblatex Warning: Keyword '' not found on input line 38.
 
 
-LaTeX Warning: Empty bibliography on input line 37.
+LaTeX Warning: Empty bibliography on input line 38.
 
 
-LaTeX Warning: Empty bibliography on input line 37.
+LaTeX Warning: Empty bibliography on input line 38.
 
-Package biblatex Info: Reference section=0 on input line 38.
+Package biblatex Info: Reference section=0 on input line 39.
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -5717,11 +5745,11 @@ Before submitting the final camera ready copy, remember to:
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 39.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 39.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 40.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 40.
  (/home/aghiles/Aghiles/Research/Writing/bin/paper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 39.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 39.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 40.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 40.
 Package rerunfilecheck Info: File `paper.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
 
@@ -5742,15 +5770,15 @@ Package logreq Info: Writing requests to 'paper.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 78882 strings out of 494383
+ 79004 strings out of 494383
  195588,2848258 words of node,token memory allocated
- 12970 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 7 glue, 1843 kern, 1 glyph, 677 attribute, 120 glue
-_spec, 677 attribute_list, 1 write, 36 pdf_action nodes
-   avail lists: 1:27,2:6198,3:5369,4:636,5:850,6:488,7:11098,8:1668,9:2417,10:25
+ 13162 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 8 glue, 1866 kern, 1 glyph, 693 attribute, 120 glue
+_spec, 693 attribute_list, 1 write, 37 pdf_action nodes
+   avail lists: 1:27,2:6168,3:5369,4:636,5:854,6:495,7:11097,8:1669,9:2417,10:25
 ,11:751,12:2
- 77425 multiletter control sequences out of 65536+600000
- 353 fonts using 28447783 bytes
+ 77533 multiletter control sequences out of 65536+600000
+ 345 fonts using 27949871 bytes
  84i,21n,136p,6070b,2743s stack positions out of 5000i,500n,10000p,200000b,100000s
 
 warning  (pdf backend): unreferenced destination with name 'NDCG'
@@ -5766,6 +5794,16 @@ warning  (pdf backend): unreferenced destination with name 'MAE'
 warning  (pdf backend): unreferenced destination with name 'RMSE'
 
 warning  (pdf backend): unreferenced destination with name 'MSE'
+
+warning  (pdf backend): unreferenced destination with name 'Hfootnote.5'
+
+warning  (pdf backend): unreferenced destination with name 'RS'
+
+warning  (pdf backend): unreferenced destination with name 'PktL'
+
+warning  (pdf backend): unreferenced destination with name 'O_{space}'
+
+warning  (pdf backend): unreferenced destination with name 'O_{time}'
 
 warning  (pdf backend): unreferenced destination with name 'RSSI'
 
@@ -5870,18 +5908,17 @@ enc/dvips/arev/arevoms.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/arev/a
 revoml.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/arev/ArevSans-Bold.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/arev/ArevSans-Oblique.pfb>
 </usr/share/texlive/texmf-dist/fonts/type1/public/arev/ArevSans-Roman.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chb7t.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chb7y.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr7v.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
-w/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on paper.pdf (67 pages, 9096363 bytes).
+share/texlive/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chb7t.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chb7y.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/mathdesign/mdbch/md-chr7v.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/
+utmri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on paper.pdf (68 pages, 9094031 bytes).
 
-PDF statistics: 2955 PDF objects out of 2984 (max. 8388607)
- 2689 compressed objects within 27 object streams
- 731 named destinations out of 1000 (max. 131072)
- 3176 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 3038 PDF objects out of 3580 (max. 8388607)
+ 2769 compressed objects within 28 object streams
+ 754 named destinations out of 1000 (max. 131072)
+ 3240 words of extra memory for PDF output out of 10000 (max. 100000000)
 
