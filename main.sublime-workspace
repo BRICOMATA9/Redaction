@@ -195,11 +195,14 @@
 	},
 	"expanded_folders":
 	[
-		"/home/aghiles/Aghiles/Research/Writing/lib"
+		"/home/aghiles/Aghiles/Research/Writing/src",
+		"/home/aghiles/Aghiles/Research/Writing/src/A-Survey IoT"
 	],
 	"file_history":
 	[
 		"/home/aghiles/Aghiles/Research/Writing/src/main.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/02-State of the art/04_standards.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/A-Survey IoT/02_technologies.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/05_experimentation.tex",
 		"/home/aghiles/Aghiles/Research/Writing/ref/iotbis.bib",
 		"/home/aghiles/Aghiles/Research/Writing/lib/paper.tex",
@@ -214,7 +217,6 @@
 		"/home/aghiles/Aghiles/Research/Writing/src/Z-Management/01_introduction.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/Z-Management/11_introduction.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/Z-Manaement",
-		"/home/aghiles/Aghiles/Research/Writing/src/A-Survey IoT/02_technologies.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/21-Disaster/03_background.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/21_poster.tex",
 		"/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex",
@@ -325,8 +327,7 @@
 		"/home/aghiles/Aghiles/Redaction/setup/lib/iot/translators/Better BibTeX.js",
 		"/home/aghiles/Aghiles/Redaction/setup/lib/iot/translators/BibLaTeX.js",
 		"/media/aghiles/ADATA HD650/Aghiles/Redaction/Redaction4/setup/lib/res_Privacy/translators/BibLaTeX.js",
-		"/media/aghiles/ADATA HD650/Aghiles/Redaction/Redaction4/setup/lib/res_Privacy/translators/Better BibTeX.js",
-		"/media/aghiles/ADATA HD650/Aghiles/Redaction/Redaction4/setup/lib/res_Privacy/translators/Better BibLaTeX.js"
+		"/media/aghiles/ADATA HD650/Aghiles/Redaction/Redaction4/setup/lib/res_Privacy/translators/Better BibTeX.js"
 	],
 	"find":
 	{
@@ -344,6 +345,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Half",
 			"refsection",
 			"    • ",
 			"subsubsection",
