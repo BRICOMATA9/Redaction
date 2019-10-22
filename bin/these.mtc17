@@ -1,13 +1,15 @@
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1)}By Papers}{\reset@font\mtcSfont 78}{section.A.1}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2)}Service Orchestration}{\reset@font\mtcSfont 79}{section.A.2}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3)}By Technologies}{\reset@font\mtcSfont 80}{section.A.3}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4)}By Paquet}{\reset@font\mtcSfont 85}{section.A.4}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.1)}CoAP}{\reset@font\mtcSSfont 85}{subsection.A.4.1}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.2)}MQTT}{\reset@font\mtcSSfont 85}{subsection.A.4.2}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3)}XMPP}{\reset@font\mtcSSfont 85}{subsection.A.4.3}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4)}AMQP}{\reset@font\mtcSSfont 85}{subsection.A.4.4}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.5)}DDS}{\reset@font\mtcSSfont 86}{subsection.A.4.5}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.6)}mDNS}{\reset@font\mtcSSfont 86}{subsection.A.4.6}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.7)}Lora}{\reset@font\mtcSSfont 86}{subsection.A.4.7}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {5)}By Cloud}{\reset@font\mtcSfont 88}{section.A.5}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6)}Divers}{\reset@font\mtcSfont 89}{section.A.6}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {1}Introduction}{\reset@font\mtcSfont 63}{section.8.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {2}Related work}{\reset@font\mtcSfont 63}{section.8.2}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {3}Background}{\reset@font\mtcSfont 63}{section.8.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.1}Hardware}{\reset@font\mtcSSfont 63}{subsection.8.3.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.2}Operating system}{\reset@font\mtcSSfont 64}{subsection.8.3.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.3}Communication protocol}{\reset@font\mtcSSfont 64}{subsection.8.3.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {3.4}Workspace and tools}{\reset@font\mtcSSfont 64}{subsection.8.3.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4}Approach}{\reset@font\mtcSfont 64}{section.8.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {5}Experimentation}{\reset@font\mtcSfont 64}{section.8.5}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6}Results exploitation}{\reset@font\mtcSfont 64}{section.8.6}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.1}Range}{\reset@font\mtcSSfont 64}{subsection.8.6.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.2}Response time}{\reset@font\mtcSSfont 64}{subsection.8.6.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.3}Connection speed}{\reset@font\mtcSSfont 64}{subsection.8.6.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.4}Power consumption}{\reset@font\mtcSSfont 64}{subsection.8.6.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {7}Conclusion}{\reset@font\mtcSfont 64}{section.8.7}}

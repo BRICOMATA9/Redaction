@@ -1,6 +1,412 @@
+<<<<<<< HEAD
 \BOOKMARK [0][-]{part.1}{1 Genetic Algorithm For LoRa Transmission Parameter Selection}{}% 1
 \BOOKMARK [1][-]{section.1.1}{Introduction}{part.1}% 2
 \BOOKMARK [1][-]{section.1.2}{Related work}{part.1}% 3
 \BOOKMARK [1][-]{section.1.3}{Proposed Framework}{part.1}% 4
 \BOOKMARK [1][-]{section.1.4}{Experiments}{part.1}% 5
 \BOOKMARK [1][-]{section.1.5}{Discussion}{part.1}% 6
+=======
+\BOOKMARK [0][-]{part.1}{1 Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Context and motivation}{part.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Methodology and contributions}{part.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Organization of the thesis}{part.1}% 4
+\BOOKMARK [0][-]{part.2}{2 State of the art}{}% 5
+\BOOKMARK [1][-]{section.2.1}{IoT use cases bregellhardware2015}{part.2}% 6
+\BOOKMARK [2][-]{subsection.2.1.1}{Transportation and logistics}{section.2.1}% 7
+\BOOKMARK [2][-]{subsection.2.1.2}{Healthcare}{section.2.1}% 8
+\BOOKMARK [2][-]{subsection.2.1.3}{Smart environnement}{section.2.1}% 9
+\BOOKMARK [2][-]{subsection.2.1.4}{personal and social}{section.2.1}% 10
+\BOOKMARK [2][-]{subsection.2.1.5}{Futuristic}{section.2.1}% 11
+\BOOKMARK [2][-]{subsection.2.1.6}{Summary and discussion}{section.2.1}% 12
+\BOOKMARK [1][-]{section.2.2}{IoT Sensors}{part.2}% 13
+\BOOKMARK [2][-]{subsection.2.2.1}{Software platform}{section.2.2}% 14
+\BOOKMARK [3][-]{subsubsection.2.2.1.1}{Contiki}{subsection.2.2.1}% 15
+\BOOKMARK [3][-]{subsubsection.2.2.1.2}{RIOT}{subsection.2.2.1}% 16
+\BOOKMARK [3][-]{subsubsection.2.2.1.3}{TinyOS}{subsection.2.2.1}% 17
+\BOOKMARK [3][-]{subsubsection.2.2.1.4}{freeRTOS}{subsection.2.2.1}% 18
+\BOOKMARK [3][-]{table.caption.13}{SDN platforms}{subsection.2.2.1}% 19
+\BOOKMARK [3][-]{table.caption.17}{Summary and conclusion}{subsection.2.2.1}% 20
+\BOOKMARK [2][-]{subsection.2.2.2}{Hardware platform}{section.2.2}% 21
+\BOOKMARK [3][-]{subsubsection.2.2.2.1}{Processing Unit}{subsection.2.2.2}% 22
+\BOOKMARK [3][-]{subsubsection.2.2.2.2}{Radio Unit}{subsection.2.2.2}% 23
+\BOOKMARK [3][-]{subsubsection.2.2.2.3}{Sensing Unit}{subsection.2.2.2}% 24
+\BOOKMARK [2][-]{subsection.2.2.3}{Summary and discussion}{section.2.2}% 25
+\BOOKMARK [1][-]{section.2.3}{IoT Communication protocols}{part.2}% 26
+\BOOKMARK [2][-]{subsection.2.3.1}{Application}{section.2.3}% 27
+\BOOKMARK [3][-]{subsubsection.2.3.1.1}{LwM2M}{subsection.2.3.1}% 28
+\BOOKMARK [3][-]{subsubsection.2.3.1.2}{CBOR}{subsection.2.3.1}% 29
+\BOOKMARK [3][-]{subsubsection.2.3.1.3}{DTLS}{subsection.2.3.1}% 30
+\BOOKMARK [3][-]{subsubsection.2.3.1.4}{OSCOAP}{subsection.2.3.1}% 31
+\BOOKMARK [3][-]{subsubsection.2.3.1.5}{COAP \(COnstrained Application Protocol\)}{subsection.2.3.1}% 32
+\BOOKMARK [3][-]{subsubsection.2.3.1.6}{MQTT}{subsection.2.3.1}% 33
+\BOOKMARK [3][-]{subsubsection.2.3.1.7}{XMPP}{subsection.2.3.1}% 34
+\BOOKMARK [3][-]{subsubsection.2.3.1.8}{AMQP}{subsection.2.3.1}% 35
+\BOOKMARK [3][-]{subsubsection.2.3.1.9}{DDS}{subsection.2.3.1}% 36
+\BOOKMARK [3][-]{subsubsection.2.3.1.10}{mDNS}{subsection.2.3.1}% 37
+\BOOKMARK [2][-]{subsection.2.3.2}{Network}{section.2.3}% 38
+\BOOKMARK [3][-]{subsubsection.2.3.2.1}{6TiSCH}{subsection.2.3.2}% 39
+\BOOKMARK [3][-]{subsubsection.2.3.2.2}{OLSRv2}{subsection.2.3.2}% 40
+\BOOKMARK [3][-]{subsubsection.2.3.2.3}{AODVv2}{subsection.2.3.2}% 41
+\BOOKMARK [3][-]{subsubsection.2.3.2.4}{LoRaWAN}{subsection.2.3.2}% 42
+\BOOKMARK [3][-]{subsubsection.2.3.2.5}{ROHC}{subsection.2.3.2}% 43
+\BOOKMARK [3][-]{subsubsection.2.3.2.6}{IPHC}{subsection.2.3.2}% 44
+\BOOKMARK [3][-]{subsubsection.2.3.2.7}{SCHC}{subsection.2.3.2}% 45
+\BOOKMARK [3][-]{subsubsection.2.3.2.8}{NHC}{subsection.2.3.2}% 46
+\BOOKMARK [3][-]{subsubsection.2.3.2.9}{ROLL}{subsection.2.3.2}% 47
+\BOOKMARK [3][-]{subsubsection.2.3.2.10}{RPL}{subsection.2.3.2}% 48
+\BOOKMARK [3][-]{subsubsection.2.3.2.11}{6LowPAN}{subsection.2.3.2}% 49
+\BOOKMARK [2][-]{subsection.2.3.3}{MAC}{section.2.3}% 50
+\BOOKMARK [3][-]{subsubsection.2.3.3.1}{Sharing the channel}{subsection.2.3.3}% 51
+\BOOKMARK [3][-]{subsubsection.2.3.3.2}{Transmitting information}{subsection.2.3.3}% 52
+\BOOKMARK [2][-]{subsection.2.3.4}{Radio}{section.2.3}% 53
+\BOOKMARK [3][-]{subsubsection.2.3.4.1}{Digital modulation}{subsection.2.3.4}% 54
+\BOOKMARK [3][-]{subsubsection.2.3.4.2}{Hierarchical modulation}{subsection.2.3.4}% 55
+\BOOKMARK [3][-]{subsubsection.2.3.4.3}{Spread spectrum}{subsection.2.3.4}% 56
+\BOOKMARK [2][-]{subsection.2.3.5}{Summary and discussion}{section.2.3}% 57
+\BOOKMARK [1][-]{section.2.4}{IoT Norms \046 Standards}{part.2}% 58
+\BOOKMARK [2][-]{subsection.2.4.1}{SigFox}{section.2.4}% 59
+\BOOKMARK [2][-]{subsection.2.4.2}{IETF}{section.2.4}% 60
+\BOOKMARK [3][-]{subsubsection.2.4.2.1}{6LoWPAN}{subsection.2.4.2}% 61
+\BOOKMARK [2][-]{subsection.2.4.3}{3GPP}{section.2.4}% 62
+\BOOKMARK [3][-]{subsubsection.2.4.3.1}{NB-IoT}{subsection.2.4.3}% 63
+\BOOKMARK [3][-]{subsubsection.2.4.3.2}{EC-GSM}{subsection.2.4.3}% 64
+\BOOKMARK [3][-]{subsubsection.2.4.3.3}{e-MTC}{subsection.2.4.3}% 65
+\BOOKMARK [2][-]{subsection.2.4.4}{IEEE}{section.2.4}% 66
+\BOOKMARK [3][-]{subsubsection.2.4.4.1}{IEEE 802.11}{subsection.2.4.4}% 67
+\BOOKMARK [3][-]{subsubsection.2.4.4.2}{IEEE 802.15.4}{subsection.2.4.4}% 68
+\BOOKMARK [3][-]{subsubsection.2.4.4.3}{ZigBee}{subsection.2.4.4}% 69
+\BOOKMARK [2][-]{subsection.2.4.5}{LoaraWAN}{section.2.4}% 70
+\BOOKMARK [3][-]{subsubsection.2.4.5.1}{ALIANCE}{subsection.2.4.5}% 71
+\BOOKMARK [3][-]{figure.caption.41}{SEMTECH}{subsection.2.4.5}% 72
+\BOOKMARK [2][-]{subsection.2.4.6}{Divers}{section.2.4}% 73
+\BOOKMARK [3][-]{subsubsection.2.4.6.1}{IPLC}{subsection.2.4.6}% 74
+\BOOKMARK [3][-]{subsubsection.2.4.6.2}{BACnet}{subsection.2.4.6}% 75
+\BOOKMARK [3][-]{subsubsection.2.4.6.3}{Z-WAze}{subsection.2.4.6}% 76
+\BOOKMARK [3][-]{subsubsection.2.4.6.4}{Bluetooth LE}{subsection.2.4.6}% 77
+\BOOKMARK [2][-]{subsection.2.4.7}{Summary and discussion}{section.2.4}% 78
+\BOOKMARK [1][-]{section.2.5}{IoT SDN}{part.2}% 79
+\BOOKMARK [2][-]{subsection.2.5.1}{Appication}{section.2.5}% 80
+\BOOKMARK [2][-]{subsection.2.5.2}{Controle}{section.2.5}% 81
+\BOOKMARK [2][-]{subsection.2.5.3}{Data}{section.2.5}% 82
+\BOOKMARK [2][-]{subsection.2.5.4}{Summary and discussion}{section.2.5}% 83
+\BOOKMARK [1][-]{section.2.6}{IoT Security}{part.2}% 84
+\BOOKMARK [2][-]{subsection.2.6.1}{Application}{section.2.6}% 85
+\BOOKMARK [3][-]{subsubsection.2.6.1.1}{MQTTS}{subsection.2.6.1}% 86
+\BOOKMARK [3][-]{subsubsection.2.6.1.2}{Blockchain}{subsection.2.6.1}% 87
+\BOOKMARK [2][-]{subsection.2.6.2}{Network}{section.2.6}% 88
+\BOOKMARK [2][-]{subsection.2.6.3}{MAC/Radio}{section.2.6}% 89
+\BOOKMARK [3][-]{subsubsection.2.6.3.1}{LoraWan}{subsection.2.6.3}% 90
+\BOOKMARK [3][-]{subsubsection.2.6.3.2}{Zigbee}{subsection.2.6.3}% 91
+\BOOKMARK [3][-]{subsubsection.2.6.3.3}{802.15.4}{subsection.2.6.3}% 92
+\BOOKMARK [2][-]{subsection.2.6.4}{Summary and discussion}{section.2.6}% 93
+\BOOKMARK [0][-]{part.3}{3 x-Testbed}{}% 94
+\BOOKMARK [1][-]{section.3.1}{Introduction bregellhardware2015}{part.3}% 95
+\BOOKMARK [2][-]{subsection.3.1.1}{Problem Statement}{section.3.1}% 96
+\BOOKMARK [2][-]{subsection.3.1.2}{Background}{section.3.1}% 97
+\BOOKMARK [2][-]{subsection.3.1.3}{Purpose \(Goal\)}{section.3.1}% 98
+\BOOKMARK [2][-]{subsection.3.1.4}{Limitations}{section.3.1}% 99
+\BOOKMARK [2][-]{subsection.3.1.5}{Method}{section.3.1}% 100
+\BOOKMARK [1][-]{section.3.2}{Related work}{part.3}% 101
+\BOOKMARK [1][-]{section.3.3}{Background}{part.3}% 102
+\BOOKMARK [2][-]{subsection.3.3.1}{Hardware}{section.3.3}% 103
+\BOOKMARK [2][-]{subsection.3.3.2}{Operating system}{section.3.3}% 104
+\BOOKMARK [2][-]{subsection.3.3.3}{Communication protocol}{section.3.3}% 105
+\BOOKMARK [2][-]{subsection.3.3.4}{Workspace and tools}{section.3.3}% 106
+\BOOKMARK [1][-]{section.3.4}{Proposed ...}{part.3}% 107
+\BOOKMARK [2][-]{subsection.3.4.1}{Drivers and firmware}{section.3.4}% 108
+\BOOKMARK [2][-]{subsection.3.4.2}{CoAP server}{section.3.4}% 109
+\BOOKMARK [3][-]{subsubsection.3.4.2.1}{Testing}{subsection.3.4.2}% 110
+\BOOKMARK [3][-]{subsubsection.3.4.2.2}{Final prototype}{subsection.3.4.2}% 111
+\BOOKMARK [1][-]{section.3.5}{Experimentation}{part.3}% 112
+\BOOKMARK [2][-]{subsection.3.5.1}{Range}{section.3.5}% 113
+\BOOKMARK [2][-]{subsection.3.5.2}{Response time}{section.3.5}% 114
+\BOOKMARK [2][-]{subsection.3.5.3}{Connection speed}{section.3.5}% 115
+\BOOKMARK [2][-]{subsection.3.5.4}{Power consumption}{section.3.5}% 116
+\BOOKMARK [1][-]{section.3.6}{Results}{part.3}% 117
+\BOOKMARK [2][-]{subsection.3.6.1}{Range}{section.3.6}% 118
+\BOOKMARK [2][-]{subsection.3.6.2}{Response time}{section.3.6}% 119
+\BOOKMARK [2][-]{subsection.3.6.3}{Connection speed}{section.3.6}% 120
+\BOOKMARK [2][-]{subsection.3.6.4}{Power consumption}{section.3.6}% 121
+\BOOKMARK [2][-]{subsection.3.6.5}{Project execution}{section.3.6}% 122
+\BOOKMARK [1][-]{section.3.7}{Discussion}{part.3}% 123
+\BOOKMARK [0][-]{part.4}{4 x-Sentilo}{}% 124
+\BOOKMARK [1][-]{section.4.1}{Introduction joseignaciocontiki2016}{part.4}% 125
+\BOOKMARK [2][-]{subsection.4.1.1}{Problem Statement}{section.4.1}% 126
+\BOOKMARK [2][-]{subsection.4.1.2}{Background}{section.4.1}% 127
+\BOOKMARK [2][-]{subsection.4.1.3}{Purpose \(Goal\)}{section.4.1}% 128
+\BOOKMARK [2][-]{subsection.4.1.4}{Limitations}{section.4.1}% 129
+\BOOKMARK [2][-]{subsection.4.1.5}{Method}{section.4.1}% 130
+\BOOKMARK [1][-]{section.4.2}{Related work}{part.4}% 131
+\BOOKMARK [1][-]{section.4.3}{Background}{part.4}% 132
+\BOOKMARK [1][-]{section.4.4}{Proposed}{part.4}% 133
+\BOOKMARK [2][-]{subsection.4.4.1}{Definitions}{section.4.4}% 134
+\BOOKMARK [2][-]{subsection.4.4.2}{Sentilo Architecture}{section.4.4}% 135
+\BOOKMARK [3][-]{subsubsection.4.4.2.1}{PubSub Server}{subsection.4.4.2}% 136
+\BOOKMARK [3][-]{subsubsection.4.4.2.2}{Web Catalog Application}{subsection.4.4.2}% 137
+\BOOKMARK [3][-]{subsubsection.4.4.2.3}{Extensions \(Agents\)}{subsection.4.4.2}% 138
+\BOOKMARK [2][-]{subsection.4.4.3}{Sentilo structure}{section.4.4}% 139
+\BOOKMARK [2][-]{subsection.4.4.4}{Sentilo API}{section.4.4}% 140
+\BOOKMARK [1][-]{section.4.5}{Experimentation}{part.4}% 141
+\BOOKMARK [2][-]{subsection.4.5.1}{Sensor Network}{section.4.5}% 142
+\BOOKMARK [3][-]{subsubsection.4.5.1.1}{Border Router}{subsection.4.5.1}% 143
+\BOOKMARK [3][-]{subsubsection.4.5.1.2}{Nodes}{subsection.4.5.1}% 144
+\BOOKMARK [2][-]{subsection.4.5.2}{Network connector}{section.4.5}% 145
+\BOOKMARK [3][-]{subsubsection.4.5.2.1}{Application workflow}{subsection.4.5.2}% 146
+\BOOKMARK [3][-]{subsubsection.4.5.2.2}{Sensor registration}{subsection.4.5.2}% 147
+\BOOKMARK [3][-]{subsubsection.4.5.2.3}{Sensor data publish}{subsection.4.5.2}% 148
+\BOOKMARK [1][-]{section.4.6}{Results}{part.4}% 149
+\BOOKMARK [2][-]{subsection.4.6.1}{Range}{section.4.6}% 150
+\BOOKMARK [2][-]{subsection.4.6.2}{Response time}{section.4.6}% 151
+\BOOKMARK [2][-]{subsection.4.6.3}{Connection speed}{section.4.6}% 152
+\BOOKMARK [2][-]{subsection.4.6.4}{Power consumption}{section.4.6}% 153
+\BOOKMARK [1][-]{section.4.7}{Discussion}{part.4}% 154
+\BOOKMARK [2][-]{subsection.4.7.1}{Future lines of work}{section.4.7}% 155
+\BOOKMARK [0][-]{part.5}{5 x-Long paper}{}% 156
+\BOOKMARK [1][-]{section.5.1}{Introduction}{part.5}% 157
+\BOOKMARK [1][-]{section.5.2}{Related work}{part.5}% 158
+\BOOKMARK [2][-]{subsection.5.2.1}{LoRa Overview}{section.5.2}% 159
+\BOOKMARK [3][-]{subsubsection.5.2.1.1}{Bandwidth \(BW\):}{subsection.5.2.1}% 160
+\BOOKMARK [3][-]{subsubsection.5.2.1.2}{Carrier Frequency \(CF\):}{subsection.5.2.1}% 161
+\BOOKMARK [3][-]{subsubsection.5.2.1.3}{Coding Rate \(CR\):}{subsection.5.2.1}% 162
+\BOOKMARK [3][-]{subsubsection.5.2.1.4}{Spreading Factor \(SF\):}{subsection.5.2.1}% 163
+\BOOKMARK [2][-]{subsection.5.2.2}{From Experimental Measurements to Simulations}{section.5.2}% 164
+\BOOKMARK [2][-]{subsection.5.2.3}{LoRa Evaluation and Limits}{section.5.2}% 165
+\BOOKMARK [2][-]{subsection.5.2.4}{LoRa Network Deployment Strategies}{section.5.2}% 166
+\BOOKMARK [1][-]{section.5.3}{Background}{part.5}% 167
+\BOOKMARK [1][-]{section.5.4}{Approach}{part.5}% 168
+\BOOKMARK [2][-]{subsection.5.4.1}{Spectrum}{section.5.4}% 169
+\BOOKMARK [2][-]{subsection.5.4.2}{LoRa Modulation}{section.5.4}% 170
+\BOOKMARK [2][-]{subsection.5.4.3}{Spreading Factors Orthogonality}{section.5.4}% 171
+\BOOKMARK [2][-]{subsection.5.4.4}{LoRa SX1276 and SX1301 Transceivers}{section.5.4}% 172
+\BOOKMARK [2][-]{subsection.5.4.5}{MAC and Application Layers}{section.5.4}% 173
+\BOOKMARK [2][-]{subsection.5.4.6}{Deployment Scenarios}{section.5.4}% 174
+\BOOKMARK [1][-]{section.5.5}{Experimentation}{part.5}% 175
+\BOOKMARK [1][-]{section.5.6}{Results exploitation}{part.5}% 176
+\BOOKMARK [2][-]{subsection.5.6.1}{Deployment Scenarios and Assumptions}{section.5.6}% 177
+\BOOKMARK [2][-]{subsection.5.6.2}{Homogeneous Deployments Scenarios}{section.5.6}% 178
+\BOOKMARK [2][-]{subsection.5.6.3}{Heterogeneous vs. Homogeneous Deployment Scenarios}{section.5.6}% 179
+\BOOKMARK [2][-]{subsection.5.6.4}{Application Period and Packet Duration vs. ERC Regulations}{section.5.6}% 180
+\BOOKMARK [1][-]{section.5.7}{Conclusion}{part.5}% 181
+\BOOKMARK [0][-]{part.6}{6 Genetic Algorithm For LoRa Transmission Parameter Selection}{}% 182
+\BOOKMARK [1][-]{section.6.1}{Introduction}{part.6}% 183
+\BOOKMARK [1][-]{section.6.2}{Related work}{part.6}% 184
+\BOOKMARK [1][-]{section.6.3}{Proposed Framework}{part.6}% 185
+\BOOKMARK [1][-]{section.6.4}{Experimentation}{part.6}% 186
+\BOOKMARK [1][-]{section.6.5}{Discussion}{part.6}% 187
+\BOOKMARK [0][-]{part.7}{7 Emergency Evacuation System With LoRa and IEEE.802.15.4 Technologies in a Disaster Use Case}{}% 188
+\BOOKMARK [1][-]{section.7.1}{Introduction}{part.7}% 189
+\BOOKMARK [1][-]{section.7.2}{Related work}{part.7}% 190
+\BOOKMARK [1][-]{section.7.3}{Background}{part.7}% 191
+\BOOKMARK [1][-]{section.7.4}{Architecture}{part.7}% 192
+\BOOKMARK [1][-]{section.7.5}{Conclusion}{part.7}% 193
+\BOOKMARK [0][-]{part.8}{8 Template}{}% 194
+\BOOKMARK [1][-]{section.8.1}{Introduction}{part.8}% 195
+\BOOKMARK [1][-]{section.8.2}{Related work}{part.8}% 196
+\BOOKMARK [1][-]{section.8.3}{Background}{part.8}% 197
+\BOOKMARK [2][-]{subsection.8.3.1}{Hardware}{section.8.3}% 198
+\BOOKMARK [2][-]{subsection.8.3.2}{Operating system}{section.8.3}% 199
+\BOOKMARK [2][-]{subsection.8.3.3}{Communication protocol}{section.8.3}% 200
+\BOOKMARK [2][-]{subsection.8.3.4}{Workspace and tools}{section.8.3}% 201
+\BOOKMARK [1][-]{section.8.4}{Approach}{part.8}% 202
+\BOOKMARK [1][-]{section.8.5}{Experimentation}{part.8}% 203
+\BOOKMARK [1][-]{section.8.6}{Results exploitation}{part.8}% 204
+\BOOKMARK [2][-]{subsection.8.6.1}{Range}{section.8.6}% 205
+\BOOKMARK [2][-]{subsection.8.6.2}{Response time}{section.8.6}% 206
+\BOOKMARK [2][-]{subsection.8.6.3}{Connection speed}{section.8.6}% 207
+\BOOKMARK [2][-]{subsection.8.6.4}{Power consumption}{section.8.6}% 208
+\BOOKMARK [1][-]{section.8.7}{Conclusion}{part.8}% 209
+\BOOKMARK [0][-]{part.9}{9 UTLC}{}% 210
+\BOOKMARK [1][-]{section.9.1}{Introduction}{part.9}% 211
+\BOOKMARK [1][-]{section.9.2}{Related work}{part.9}% 212
+\BOOKMARK [1][-]{section.9.3}{Related work}{part.9}% 213
+\BOOKMARK [1][-]{section.9.4}{Use Case and Model Design}{part.9}% 214
+\BOOKMARK [2][-]{subsection.9.4.1}{Use case}{section.9.4}% 215
+\BOOKMARK [2][-]{subsection.9.4.2}{Design Model}{section.9.4}% 216
+\BOOKMARK [1][-]{section.9.5}{Prototyping}{part.9}% 217
+\BOOKMARK [2][-]{subsection.9.5.1}{6LoWPAN, Contiki OS, Re-Mote and Border Router}{section.9.5}% 218
+\BOOKMARK [2][-]{subsection.9.5.2}{MQTT and UBIDOTS}{section.9.5}% 219
+\BOOKMARK [1][-]{section.9.6}{Results}{part.9}% 220
+\BOOKMARK [1][-]{section.9.7}{Conclusion}{part.9}% 221
+\BOOKMARK [0][-]{part.10}{10 Conclusion}{}% 222
+\BOOKMARK [1][-]{section.10.1}{Conclusion}{part.10}% 223
+\BOOKMARK [1][-]{section.10.2}{Perspectives}{part.10}% 224
+\BOOKMARK [0][-]{part.11}{11 Survey Platforms}{}% 225
+\BOOKMARK [1][-]{section.11.1}{By Papers ADR}{part.11}% 226
+\BOOKMARK [2][-]{subsection.11.1.1}{Multi-Armed Bandit}{section.11.1}% 227
+\BOOKMARK [2][-]{subsection.11.1.2}{Experiments}{section.11.1}% 228
+\BOOKMARK [2][-]{subsection.11.1.3}{Fuzzy}{section.11.1}% 229
+\BOOKMARK [2][-]{subsection.11.1.4}{Game}{section.11.1}% 230
+\BOOKMARK [2][-]{subsection.11.1.5}{Learning}{section.11.1}% 231
+\BOOKMARK [2][-]{subsection.11.1.6}{MCDM}{section.11.1}% 232
+\BOOKMARK [2][-]{subsection.11.1.7}{Probability}{section.11.1}% 233
+\BOOKMARK [2][-]{subsection.11.1.8}{Utility}{section.11.1}% 234
+\BOOKMARK [1][-]{section.11.2}{By Papers Orchestration}{part.11}% 235
+\BOOKMARK [1][-]{section.11.3}{By Technologies}{part.11}% 236
+\BOOKMARK [1][-]{section.11.4}{By Paquet}{part.11}% 237
+\BOOKMARK [2][-]{subsection.11.4.1}{CoAP}{section.11.4}% 238
+\BOOKMARK [2][-]{subsection.11.4.2}{MQTT}{section.11.4}% 239
+\BOOKMARK [2][-]{subsection.11.4.3}{XMPP}{section.11.4}% 240
+\BOOKMARK [2][-]{subsection.11.4.4}{AMQP}{section.11.4}% 241
+\BOOKMARK [2][-]{subsection.11.4.5}{DDS}{section.11.4}% 242
+\BOOKMARK [2][-]{subsection.11.4.6}{mDNS}{section.11.4}% 243
+\BOOKMARK [2][-]{subsection.11.4.7}{Lora}{section.11.4}% 244
+\BOOKMARK [1][-]{section.11.5}{By Cloud}{part.11}% 245
+\BOOKMARK [1][-]{section.11.6}{Divers}{part.11}% 246
+\BOOKMARK [0][-]{part.12}{12 Management}{}% 247
+\BOOKMARK [1][-]{section.12.1}{Les Partenaires}{part.12}% 248
+\BOOKMARK [2][-]{subsection.12.1.1}{Les Fun club, Clients \(Satisfaction\)}{section.12.1}% 249
+\BOOKMARK [3][-]{subsubsection.12.1.1.1}{Exprime leur besoins}{subsection.12.1.1}% 250
+\BOOKMARK [3][-]{subsubsection.12.1.1.2}{Exprime leur pouvoir d'achat}{subsection.12.1.1}% 251
+\BOOKMARK [2][-]{subsection.12.1.2}{Les Financeurs \(La plus value\)}{section.12.1}% 252
+\BOOKMARK [3][-]{subsubsection.12.1.2.1}{Investisseurs/Business angels/zinzin/Venture capitalists/}{subsection.12.1.2}% 253
+\BOOKMARK [1][-]{section.12.2}{Comité de pilotage}{part.12}% 254
+\BOOKMARK [2][-]{subsection.12.2.1}{PDG}{section.12.2}% 255
+\BOOKMARK [3][-]{subsubsection.12.2.1.1}{Designer les risques internes -> le chef de projet}{subsection.12.2.1}% 256
+\BOOKMARK [3][-]{subsubsection.12.2.1.2}{Designer les risques externes -> comité de pilotage \(4 max\)}{subsection.12.2.1}% 257
+\BOOKMARK [3][-]{subsubsection.12.2.1.3}{Frontières: Etablir la lettre de mission}{subsection.12.2.1}% 258
+\BOOKMARK [2][-]{subsection.12.2.2}{Directeur RH}{section.12.2}% 259
+\BOOKMARK [2][-]{subsection.12.2.3}{Directeur de bureau d'étude}{section.12.2}% 260
+\BOOKMARK [2][-]{subsection.12.2.4}{Directeur comercial}{section.12.2}% 261
+\BOOKMARK [3][-]{subsubsection.12.2.4.1}{Marketing}{subsection.12.2.4}% 262
+\BOOKMARK [2][-]{subsection.12.2.5}{Directeur financier}{section.12.2}% 263
+\BOOKMARK [3][-]{subsubsection.12.2.5.1}{Pré d'amorçage}{subsection.12.2.5}% 264
+\BOOKMARK [3][-]{subsubsection.12.2.5.2}{Capitale d'amorçage}{subsection.12.2.5}% 265
+\BOOKMARK [3][-]{subsubsection.12.2.5.3}{Capitale risque}{subsection.12.2.5}% 266
+\BOOKMARK [3][-]{subsubsection.12.2.5.4}{Capitale de développement}{subsection.12.2.5}% 267
+\BOOKMARK [3][-]{subsubsection.12.2.5.5}{Credit relais}{subsection.12.2.5}% 268
+\BOOKMARK [3][-]{subsubsection.12.2.5.6}{Introduction en bourse}{subsection.12.2.5}% 269
+\BOOKMARK [2][-]{subsection.12.2.6}{Directeur technique}{section.12.2}% 270
+\BOOKMARK [2][-]{subsection.12.2.7}{Directeur des achats}{section.12.2}% 271
+\BOOKMARK [3][-]{subsubsection.12.2.7.1}{Passation des commandes au fournisseurs}{subsection.12.2.7}% 272
+\BOOKMARK [2][-]{subsection.12.2.8}{Directeur Recherche inovation et développement}{section.12.2}% 273
+\BOOKMARK [1][-]{section.12.3}{Chef de projet \(Cout délai performance\)}{part.12}% 274
+\BOOKMARK [2][-]{subsection.12.3.1}{Documents}{section.12.3}% 275
+\BOOKMARK [3][-]{subsubsection.12.3.1.1}{Lire et signer la lettre de mission}{subsection.12.3.1}% 276
+\BOOKMARK [3][-]{subsubsection.12.3.1.2}{Relation avec les fournisseurs}{subsection.12.3.1}% 277
+\BOOKMARK [3][-]{subsubsection.12.3.1.3}{Etablir le tableau de bord Quantitatif qualitatif}{subsection.12.3.1}% 278
+\BOOKMARK [2][-]{subsection.12.3.2}{Apres}{section.12.3}% 279
+\BOOKMARK [3][-]{subsubsection.12.3.2.1}{Decomposer par paquet de risque -> Sous chef de projet par paquet}{subsection.12.3.2}% 280
+\BOOKMARK [3][-]{subsubsection.12.3.2.2}{Constitution de l'équipe}{subsection.12.3.2}% 281
+\BOOKMARK [3][-]{subsubsection.12.3.2.3}{18 dysfinctionnement majeur -> Méta-règles + lean}{subsection.12.3.2}% 282
+\BOOKMARK [0][-]{part.13}{13 Plan d'affaire}{}% 283
+\BOOKMARK [1][-]{section.13.1}{D'abord, une page résumé :}{part.13}% 284
+\BOOKMARK [2][-]{subsection.13.1.1}{marché}{section.13.1}% 285
+\BOOKMARK [2][-]{subsection.13.1.2}{produit / service}{section.13.1}% 286
+\BOOKMARK [2][-]{subsection.13.1.3}{l'équipe}{section.13.1}% 287
+\BOOKMARK [2][-]{subsection.13.1.4}{avantages de l'entreprise}{section.13.1}% 288
+\BOOKMARK [2][-]{subsection.13.1.5}{objectifs visés}{section.13.1}% 289
+\BOOKMARK [2][-]{subsection.13.1.6}{l'estimation et de la nature des besoins financiers}{section.13.1}% 290
+\BOOKMARK [2][-]{subsection.13.1.7}{montant des fonds recherchés}{section.13.1}% 291
+\BOOKMARK [2][-]{subsection.13.1.8}{la rentabilité visée}{section.13.1}% 292
+\BOOKMARK [2][-]{subsection.13.1.9}{temps de retour sur capital investi}{section.13.1}% 293
+\BOOKMARK [2][-]{subsection.13.1.10}{l'image visée pour l'entreprise}{section.13.1}% 294
+\BOOKMARK [1][-]{section.13.2}{Présentation du projet :}{part.13}% 295
+\BOOKMARK [2][-]{subsection.13.2.1}{Historique}{section.13.2}% 296
+\BOOKMARK [2][-]{subsection.13.2.2}{Famille de produits / services}{section.13.2}% 297
+\BOOKMARK [2][-]{subsection.13.2.3}{Le projet de développement : innovation, croissance externe}{section.13.2}% 298
+\BOOKMARK [2][-]{subsection.13.2.4}{Création de l'entreprise : date, nom, forme juridique \(pourquoi\), brevet / licences}{section.13.2}% 299
+\BOOKMARK [1][-]{section.13.3}{Le marché :}{part.13}% 300
+\BOOKMARK [2][-]{subsection.13.3.1}{Concurrence :}{section.13.3}% 301
+\BOOKMARK [3][-]{subsubsection.13.3.1.1}{Laquelle ?}{subsection.13.3.1}% 302
+\BOOKMARK [3][-]{subsubsection.13.3.1.2}{Quelle place pour une entreprise différente ?}{subsection.13.3.1}% 303
+\BOOKMARK [2][-]{subsection.13.3.2}{Études de marché :}{section.13.3}% 304
+\BOOKMARK [3][-]{subsubsection.13.3.2.1}{Lesquelles ? Quelles sources ?}{subsection.13.3.2}% 305
+\BOOKMARK [3][-]{subsubsection.13.3.2.2}{Quelle confiance leur accorder ?}{subsection.13.3.2}% 306
+\BOOKMARK [3][-]{subsubsection.13.3.2.3}{Sont-elles adaptées aux produits nouveaux ?}{subsection.13.3.2}% 307
+\BOOKMARK [1][-]{section.13.4}{Le produit / service :}{part.13}% 308
+\BOOKMARK [2][-]{subsection.13.4.1}{Physique}{section.13.4}% 309
+\BOOKMARK [2][-]{subsection.13.4.2}{Fonctionnelle}{section.13.4}% 310
+\BOOKMARK [2][-]{subsection.13.4.3}{Technologies}{section.13.4}% 311
+\BOOKMARK [2][-]{subsection.13.4.4}{Avantages par rapport à la concurrence}{section.13.4}% 312
+\BOOKMARK [2][-]{subsection.13.4.5}{Maîtrise des inconvénients / risques}{section.13.4}% 313
+\BOOKMARK [1][-]{section.13.5}{Propriété intellectuelle de l'innovation :}{part.13}% 314
+\BOOKMARK [2][-]{subsection.13.5.1}{brevet \(s\)}{section.13.5}% 315
+\BOOKMARK [2][-]{subsection.13.5.2}{licences exclusives ou non}{section.13.5}% 316
+\BOOKMARK [2][-]{subsection.13.5.3}{savoir-faire}{section.13.5}% 317
+\BOOKMARK [2][-]{subsection.13.5.4}{qui gère et contrôle la RID}{section.13.5}% 318
+\BOOKMARK [2][-]{subsection.13.5.5}{annuités, plan de RID, accès à l'évolution}{section.13.5}% 319
+\BOOKMARK [2][-]{subsection.13.5.6}{veille : équipe interne / externe}{section.13.5}% 320
+\BOOKMARK [1][-]{section.13.6}{Les objectifs :}{part.13}% 321
+\BOOKMARK [2][-]{subsection.13.6.1}{Coûts \(investissements / exploitation\)}{section.13.6}% 322
+\BOOKMARK [2][-]{subsection.13.6.2}{Délais de conception / fabrication / durée de vie}{section.13.6}% 323
+\BOOKMARK [2][-]{subsection.13.6.3}{Performances :}{section.13.6}% 324
+\BOOKMARK [3][-]{subsubsection.13.6.3.1}{Parts de marché et fidélisation clientèle}{subsection.13.6.3}% 325
+\BOOKMARK [3][-]{subsubsection.13.6.3.2}{Performances du produit / service}{subsection.13.6.3}% 326
+\BOOKMARK [3][-]{subsubsection.13.6.3.3}{Rentabilité / ROI / Dividendes}{subsection.13.6.3}% 327
+\BOOKMARK [3][-]{subsubsection.13.6.3.4}{RID, veille,}{subsection.13.6.3}% 328
+\BOOKMARK [3][-]{subsubsection.13.6.3.5}{Intéressement des salariés}{subsection.13.6.3}% 329
+\BOOKMARK [3][-]{subsubsection.13.6.3.6}{Communication}{subsection.13.6.3}% 330
+\BOOKMARK [1][-]{section.13.7}{Les risques :}{part.13}% 331
+\BOOKMARK [2][-]{subsection.13.7.1}{Analyse des risques internes et externes au projet}{section.13.7}% 332
+\BOOKMARK [2][-]{subsection.13.7.2}{Moyens de les anticiper et de les maîtriser}{section.13.7}% 333
+\BOOKMARK [2][-]{subsection.13.7.3}{Avantages du projet}{section.13.7}% 334
+\BOOKMARK [2][-]{subsection.13.7.4}{Inconvénients du projet}{section.13.7}% 335
+\BOOKMARK [2][-]{subsection.13.7.5}{Moyens mis en œuvre pour les assurer}{section.13.7}% 336
+\BOOKMARK [1][-]{section.13.8}{L'équipe :}{part.13}% 337
+\BOOKMARK [2][-]{subsection.13.8.1}{Les hommes-clé}{section.13.8}% 338
+\BOOKMARK [2][-]{subsection.13.8.2}{L'équipe}{section.13.8}% 339
+\BOOKMARK [2][-]{subsection.13.8.3}{La motivation \(intéressement, stock options, …\)}{section.13.8}% 340
+\BOOKMARK [2][-]{subsection.13.8.4}{L'état d'esprit visé \(gagnant-gagnant, transparence\)}{section.13.8}% 341
+\BOOKMARK [2][-]{subsection.13.8.5}{La communication interne}{section.13.8}% 342
+\BOOKMARK [2][-]{subsection.13.8.6}{L'organisation interne}{section.13.8}% 343
+\BOOKMARK [2][-]{subsection.13.8.7}{Dynamiser créativité et innovation}{section.13.8}% 344
+\BOOKMARK [1][-]{section.13.9}{Le plan de RID :}{part.13}% 345
+\BOOKMARK [2][-]{subsection.13.9.1}{Les hommes-clés}{section.13.9}% 346
+\BOOKMARK [2][-]{subsection.13.9.2}{Le plan}{section.13.9}% 347
+\BOOKMARK [2][-]{subsection.13.9.3}{L'organisation}{section.13.9}% 348
+\BOOKMARK [2][-]{subsection.13.9.4}{La veille}{section.13.9}% 349
+\BOOKMARK [2][-]{subsection.13.9.5}{Les coopérations et la gestion du changement}{section.13.9}% 350
+\BOOKMARK [1][-]{section.13.10}{Le plan marketing :}{part.13}% 351
+\BOOKMARK [2][-]{subsection.13.10.1}{Parts de marché et segmentation}{section.13.10}% 352
+\BOOKMARK [2][-]{subsection.13.10.2}{Distribution \(Europe, régionale, locale, hors UE\)}{section.13.10}% 353
+\BOOKMARK [2][-]{subsection.13.10.3}{Politique de prix}{section.13.10}% 354
+\BOOKMARK [2][-]{subsection.13.10.4}{Administration des ventes}{section.13.10}% 355
+\BOOKMARK [2][-]{subsection.13.10.5}{Communication : publicité, promotion, média, site Internet, réseau-relais,}{section.13.10}% 356
+\BOOKMARK [2][-]{subsection.13.10.6}{Budgets commerciaux}{section.13.10}% 357
+\BOOKMARK [1][-]{section.13.11}{Le plan d'industrialisation :}{part.13}% 358
+\BOOKMARK [2][-]{subsection.13.11.1}{Qui fabrique et comment ?}{section.13.11}% 359
+\BOOKMARK [2][-]{subsection.13.11.2}{Immobilisations et investissements}{section.13.11}% 360
+\BOOKMARK [2][-]{subsection.13.11.3}{Sous-traitance, fournisseurs et esprit gagnant-gagnant}{section.13.11}% 361
+\BOOKMARK [2][-]{subsection.13.11.4}{Sécurisation des savoir-faire}{section.13.11}% 362
+\BOOKMARK [2][-]{subsection.13.11.5}{Logistique}{section.13.11}% 363
+\BOOKMARK [2][-]{subsection.13.11.6}{Qualité et contrôle}{section.13.11}% 364
+\BOOKMARK [1][-]{section.13.12}{La stratégie résumée :}{part.13}% 365
+\BOOKMARK [2][-]{subsection.13.12.1}{Pourquoi la stratégie est la meilleure vis à vis des objectifs et contraintes ?}{section.13.12}% 366
+\BOOKMARK [2][-]{subsection.13.12.2}{Conséquence en termes :}{section.13.12}% 367
+\BOOKMARK [3][-]{subsubsection.13.12.2.1}{de structure juridique}{subsection.13.12.2}% 368
+\BOOKMARK [3][-]{subsubsection.13.12.2.2}{de mode de gestion}{subsection.13.12.2}% 369
+\BOOKMARK [3][-]{subsubsection.13.12.2.3}{de jalonnement et de contrôle}{subsection.13.12.2}% 370
+\BOOKMARK [1][-]{section.13.13}{Le contrôle :}{part.13}% 371
+\BOOKMARK [2][-]{subsection.13.13.1}{Mettre en place un contrôle "à zoom", ni lourd ni pesant ni inadapté ...}{section.13.13}% 372
+\BOOKMARK [2][-]{subsection.13.13.2}{Pas de paralysie de l’équipe de projet}{section.13.13}% 373
+\BOOKMARK [2][-]{subsection.13.13.3}{Pas de déresponsabilisation}{section.13.13}% 374
+\BOOKMARK [2][-]{subsection.13.13.4}{Un tableau de bord simple}{section.13.13}% 375
+\BOOKMARK [1][-]{section.13.14}{Le montage financier et juridique :}{part.13}% 376
+\BOOKMARK [2][-]{subsection.13.14.1}{Décomposition analytique des ventes à 5 ans}{section.13.14}% 377
+\BOOKMARK [2][-]{subsection.13.14.2}{Décomposition analytique effectifs et salaires / an}{section.13.14}% 378
+\BOOKMARK [2][-]{subsection.13.14.3}{Charges d'exploitation / an}{section.13.14}% 379
+\BOOKMARK [2][-]{subsection.13.14.4}{Immobilisations et investissements}{section.13.14}% 380
+\BOOKMARK [2][-]{subsection.13.14.5}{Comptes de résultats prévisionnels}{section.13.14}% 381
+\BOOKMARK [2][-]{subsection.13.14.6}{Dont Plan de financement}{section.13.14}% 382
+\BOOKMARK [2][-]{subsection.13.14.7}{Et dont Bilans prévisionnels}{section.13.14}% 383
+\BOOKMARK [2][-]{subsection.13.14.8}{Plan de trésorerie mensuel à 1 an}{section.13.14}% 384
+\BOOKMARK [1][-]{section.13.15}{Marché visé}{part.13}% 385
+\BOOKMARK [1][-]{section.13.16}{Produit}{part.13}% 386
+\BOOKMARK [1][-]{section.13.17}{Equpe}{part.13}% 387
+\BOOKMARK [1][-]{section.13.18}{Avantage de l'entreprise}{part.13}% 388
+\BOOKMARK [1][-]{section.13.19}{Objectifs}{part.13}% 389
+\BOOKMARK [1][-]{section.13.20}{Estimation da la nature des besoins financiers}{part.13}% 390
+\BOOKMARK [1][-]{section.13.21}{Montant des fonds recherchés}{part.13}% 391
+\BOOKMARK [1][-]{section.13.22}{Temps de retour sur le capital investi}{part.13}% 392
+\BOOKMARK [1][-]{section.13.23}{Image pour l'entreprise}{part.13}% 393
+\BOOKMARK [1][-]{section.13.24}{Objectifs quantifiers}{part.13}% 394
+\BOOKMARK [2][-]{subsection.13.24.1}{Cout}{section.13.24}% 395
+\BOOKMARK [3][-]{subsubsection.13.24.1.1}{Investissement}{subsection.13.24.1}% 396
+\BOOKMARK [3][-]{subsubsection.13.24.1.2}{Maintenance}{subsection.13.24.1}% 397
+\BOOKMARK [2][-]{subsection.13.24.2}{Délais}{section.13.24}% 398
+\BOOKMARK [3][-]{subsubsection.13.24.2.1}{Lancement}{subsection.13.24.2}% 399
+\BOOKMARK [3][-]{subsubsection.13.24.2.2}{Durée de vie}{subsection.13.24.2}% 400
+\BOOKMARK [2][-]{subsection.13.24.3}{Performance}{section.13.24}% 401
+\BOOKMARK [3][-]{subsubsection.13.24.3.1}{segmentation du marché -> Cahier des charges}{subsection.13.24.3}% 402
+\BOOKMARK [1][-]{section.13.25}{Compte prévisionel}{part.13}% 403
+>>>>>>> 2992de79090017abbe609b6db1ad776187ba6481
