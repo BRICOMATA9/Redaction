@@ -10,9 +10,31 @@
 %\usepackage{amsfonts}			% Permet d'utiliser des polices mathématiques
 %\usepackage{stmaryrd}
 %\usepackage{nicefrac}			% Fractions 'inline'
-\usepackage[version=3]{mhchem}	% Equations chimiques
-\usepackage{arevmath}     % For math symbols
+% \usepackage[version=3]{mhchem}	% Equations chimiques
+% \usepackage{arevmath}     		% For math symbols
 \usepackage{xstring}
+
+% Packages %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \usepackage{xcolor,color, colortbl}
+% \usepackage{pifont}
+% \usepackage{eso-pic}
+% \usepackage{anyfontsize}
+% \usepackage{placeins}
+
+% \usepackage{textcomp}
+% \usepackage{hyphenat}
+% \usepackage{import}
+% \usepackage{pdfpages} 
+\usepackage{multicol}
+% \usepackage{wrapfig}
+% \usepackage{float}
+% \usepackage{etoolbox}
+% \usepackage{adjustbox}
+% \usepackage{siunitx}
+% \usepackage{url}
+% \usepackage{lscape,lipsum}
+% \usepackage{everypage}
+% \usepackage{eurosym}
 
 
 
@@ -27,43 +49,18 @@
 
 
 
-% Packages %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\usepackage{xcolor,color, colortbl, pifont}
-\usepackage{textcomp}
-\usepackage{hyphenat}
-\usepackage{eso-pic}
-\usepackage{import}
-\usepackage{pdfpages} 
-\usepackage{anyfontsize}
-\usepackage{multicol}
-\usepackage{wrapfig}
-% \usepackage{placeins}
-\usepackage{float}
-\usepackage{etoolbox}
-\usepackage{adjustbox}
-\usepackage{siunitx}
-\usepackage{url}
-\usepackage{lscape,lipsum}
-\usepackage{everypage}
-\usepackage{eurosym}
-
-
-
-
 % Algorithms %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage[lined,linesnumbered,commentsnumbered,ruled]{algorithm2e}
 % \usepackage{verbatim,algorithmic}
 % \usepackage{algorithm,algpseudocode}
 % \usepackage{algorithm,algorithmic}
 \usepackage{listings}
-% \usepackage{algorithm2e}
 
 
 
 % Tableaux %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{multirow}
 \usepackage{booktabs}
-\usepackage{colortbl}
 \usepackage{longtable}
 \usepackage{threeparttable}
 \usepackage{etoolbox}
@@ -117,7 +114,8 @@
 \usepackage[labelsep=period]{caption}
 	\captionsetup{justification=centering}
 	\captionsetup[table]{skip=10pt}
-%	\captionsetup{labelfont=it,textfont={bf,it},justification=centering}
+	%\captionsetup{labelfont=it,textfont={bf,it},justification=centering}
+	\captionsetup{font={footnotesize}}
 	\renewcommand{\thesubfigure}{\alph{subfigure}}
 	\renewcommand{\thefigure}{\arabic{figure}}
 
