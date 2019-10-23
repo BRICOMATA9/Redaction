@@ -196,11 +196,14 @@
 	"expanded_folders":
 	[
 		"/home/aghiles/Aghiles/Research/Writing/src",
-		"/home/aghiles/Aghiles/Research/Writing/src/A-Survey IoT"
+		"/home/aghiles/Aghiles/Research/Writing/src/02-State of the art",
+		"/home/aghiles/Aghiles/Research/Writing/lib"
 	],
 	"file_history":
 	[
 		"/home/aghiles/Aghiles/Research/Writing/src/main.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/02-State of the art/07_metric-performance.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/02-State of the art/08_challenfes.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/02-State of the art/04_standards.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/A-Survey IoT/02_technologies.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/05_experimentation.tex",
@@ -325,9 +328,7 @@
 		"/home/aghiles/Aghiles/Redaction/setup/lib/iot/translators/BibLaTeX3.js",
 		"/home/aghiles/Aghiles/Redaction/setup/lib/iot/translators/BibLaTeX2.js",
 		"/home/aghiles/Aghiles/Redaction/setup/lib/iot/translators/Better BibTeX.js",
-		"/home/aghiles/Aghiles/Redaction/setup/lib/iot/translators/BibLaTeX.js",
-		"/media/aghiles/ADATA HD650/Aghiles/Redaction/Redaction4/setup/lib/res_Privacy/translators/BibLaTeX.js",
-		"/media/aghiles/ADATA HD650/Aghiles/Redaction/Redaction4/setup/lib/res_Privacy/translators/Better BibTeX.js"
+		"/home/aghiles/Aghiles/Redaction/setup/lib/iot/translators/BibLaTeX.js"
 	],
 	"find":
 	{

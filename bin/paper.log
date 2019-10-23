@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.07.0 (TeX Live 2019/dev/Debian)  (format=lualatex 2019.10.12)  22 OCT 2019 12:23
+This is LuaTeX, Version 1.07.0 (TeX Live 2019/dev/Debian)  (format=lualatex 2019.10.12)  23 OCT 2019 08:21
  system commands enabled.
 **main.tex
 (./main.tex
@@ -48,7 +48,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.091 seconds
+luaotfload | main : initialization completed in 0.073 seconds
 (../lib/paper.tex (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
 
@@ -2476,13 +2476,13 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `subscript' on input line 1.
 
-<../res/tmp/Picture/application.png, id=478, 1415.2875pt x 1434.35875pt>
+<../res/tmp/Picture/application.png, id=526, 1415.2875pt x 1434.35875pt>
 File: ../res/tmp/Picture/application.png Graphic file (type png)
 <use ../res/tmp/Picture/application.png>
 Package luatex.def Info: ../res/tmp/Picture/application.png  used on input line 
 10.
 (luatex.def)             Requested size: 201.60077pt x 204.3107pt.
-<../res/tmp/Picture/apprequirements.png, id=479, 519.9425pt x 456.70625pt>
+<../res/tmp/Picture/apprequirements.png, id=527, 519.9425pt x 456.70625pt>
 File: ../res/tmp/Picture/apprequirements.png Graphic file (type png)
 <use ../res/tmp/Picture/apprequirements.png>
 Package luatex.def Info: ../res/tmp/Picture/apprequirements.png  used on input l
@@ -2491,7 +2491,7 @@ ine 11.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../res/tmp/A-Application/standard.png, id=480, 1290.8225pt x 905.3825pt>
+<../res/tmp/A-Application/standard.png, id=528, 1290.8225pt x 905.3825pt>
 File: ../res/tmp/A-Application/standard.png Graphic file (type png)
 <use ../res/tmp/A-Application/standard.png>
 Package luatex.def Info: ../res/tmp/A-Application/standard.png  used on input li
@@ -2537,7 +2537,7 @@ res/tmp/A-Application/standard.png>]) ("./02-State of the art/02_sensors.tex"
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 5.
 
-<../res/tmp/Picture/os-timeline.png, id=509, 594.0594pt x 179.7114pt>
+<../res/tmp/Picture/os-timeline.png, id=557, 594.0594pt x 179.7114pt>
 File: ../res/tmp/Picture/os-timeline.png Graphic file (type png)
 <use ../res/tmp/Picture/os-timeline.png>
 Package luatex.def Info: ../res/tmp/Picture/os-timeline.png  used on input line 
@@ -2553,7 +2553,7 @@ Missing character: There is no • (U+2022) in font ptmr8t!
 Missing character: There is no • (U+2022) in font ptmr8t!
 Missing character: There is no • (U+2022) in font ptmr8t!
 <../res/tmp/Picture/os-timeline.png>]
-<../res/tmp/Framework/contiki.png, id=521, 406.51875pt x 439.6425pt>
+<../res/tmp/Framework/contiki.png, id=569, 406.51875pt x 439.6425pt>
 File: ../res/tmp/Framework/contiki.png Graphic file (type png)
 <use ../res/tmp/Framework/contiki.png>
 Package luatex.def Info: ../res/tmp/Framework/contiki.png  used on input line 83
@@ -2688,7 +2688,7 @@ Overfull \hbox (0.62021pt too wide) in paragraph at lines 246--246
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<../res/tmp/B-CN/sdn-wise.png, id=548, 1376.14125pt x 588.1975pt>
+<../res/tmp/B-CN/sdn-wise.png, id=597, 1376.14125pt x 588.1975pt>
 File: ../res/tmp/B-CN/sdn-wise.png Graphic file (type png)
 <use ../res/tmp/B-CN/sdn-wise.png>
 Package luatex.def Info: ../res/tmp/B-CN/sdn-wise.png  used on input line 251.
@@ -2880,20 +2880,20 @@ Missing character: There is no ’ (U+2019) in font ptmr8t!
 Missing character: There is no ’ (U+2019) in font ptmr8t!
 Missing character: There is no ’ (U+2019) in font ptmr8t!
 ]) ("./02-State of the art/04_standards.tex"
-<../res/tmp/Framework/riot-network-stack.png, id=613, 533.995pt x 519.9425pt>
+<../res/tmp/Framework/riot-network-stack.png, id=661, 533.995pt x 519.9425pt>
 File: ../res/tmp/Framework/riot-network-stack.png Graphic file (type png)
 <use ../res/tmp/Framework/riot-network-stack.png>
 Package luatex.def Info: ../res/tmp/Framework/riot-network-stack.png  used on in
 put line 4.
 (luatex.def)             Requested size: 126.0pt x 122.67839pt.
-<../res/tmp/C-RAN/iot-protocols-overview.png, id=614, 1219.55624pt x 655.44875pt
+<../res/tmp/C-RAN/iot-protocols-overview.png, id=662, 1219.55624pt x 655.44875pt
 >
 File: ../res/tmp/C-RAN/iot-protocols-overview.png Graphic file (type png)
 <use ../res/tmp/C-RAN/iot-protocols-overview.png>
 Package luatex.def Info: ../res/tmp/C-RAN/iot-protocols-overview.png  used on in
 put line 5.
 (luatex.def)             Requested size: 252.0pt x 135.428pt.
-<../res/plot/pdf/LPWAN.pdf, id=615, 499.8424pt x 513.87984pt>
+<../res/plot/pdf/LPWAN.pdf, id=663, 499.8424pt x 513.87984pt>
 File: ../res/plot/pdf/LPWAN.pdf Graphic file (type pdf)
 <use ../res/plot/pdf/LPWAN.pdf>
 Package luatex.def Info: ../res/plot/pdf/LPWAN.pdf  used on input line 6.
@@ -2902,7 +2902,7 @@ Package luatex.def Info: ../res/plot/pdf/LPWAN.pdf  used on input line 6.
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [10<../res/tmp/Framework/riot-network-stack.png><../res/tmp/C-RAN/iot-protocols-
 overview.png><../res/plot/pdf/LPWAN.pdf>]
-<../res/tmp/C-RAN/lora_stack.png, id=700, 845.1575pt x 597.23125pt>
+<../res/tmp/C-RAN/lora_stack.png, id=748, 845.1575pt x 597.23125pt>
 File: ../res/tmp/C-RAN/lora_stack.png Graphic file (type png)
 <use ../res/tmp/C-RAN/lora_stack.png>
 Package luatex.def Info: ../res/tmp/C-RAN/lora_stack.png  used on input line 131
@@ -2911,28 +2911,28 @@ Package luatex.def Info: ../res/tmp/C-RAN/lora_stack.png  used on input line 131
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [11<../res/tmp/C-RAN/lora_stack.png>]
-<../res/tmp/C-RAN/class_a.png, id=713, 981.6675pt x 209.78375pt>
+<../res/tmp/C-RAN/class_a.png, id=761, 981.6675pt x 209.78375pt>
 File: ../res/tmp/C-RAN/class_a.png Graphic file (type png)
 <use ../res/tmp/C-RAN/class_a.png>
 Package luatex.def Info: ../res/tmp/C-RAN/class_a.png  used on input line 181.
 (luatex.def)             Requested size: 201.60077pt x 43.07956pt.
-<../res/tmp/C-RAN/class_b.png, id=714, 1025.8325pt x 196.735pt>
+<../res/tmp/C-RAN/class_b.png, id=762, 1025.8325pt x 196.735pt>
 File: ../res/tmp/C-RAN/class_b.png Graphic file (type png)
 <use ../res/tmp/C-RAN/class_b.png>
 Package luatex.def Info: ../res/tmp/C-RAN/class_b.png  used on input line 220.
 (luatex.def)             Requested size: 252.0pt x 48.32806pt.
-<../res/tmp/C-RAN/class_c.png, id=715, 1028.84375pt x 185.69376pt>
+<../res/tmp/C-RAN/class_c.png, id=763, 1028.84375pt x 185.69376pt>
 File: ../res/tmp/C-RAN/class_c.png Graphic file (type png)
 <use ../res/tmp/C-RAN/class_c.png>
 Package luatex.def Info: ../res/tmp/C-RAN/class_c.png  used on input line 236.
 (luatex.def)             Requested size: 252.0pt x 45.4826pt.
-<../res/tmp/C-RAN/lorawan_parameters.png, id=716, 1027.84pt x 566.115pt>
+<../res/tmp/C-RAN/lorawan_parameters.png, id=764, 1027.84pt x 566.115pt>
 File: ../res/tmp/C-RAN/lorawan_parameters.png Graphic file (type png)
 <use ../res/tmp/C-RAN/lorawan_parameters.png>
 Package luatex.def Info: ../res/tmp/C-RAN/lorawan_parameters.png  used on input 
 line 243.
 (luatex.def)             Requested size: 252.0pt x 138.79008pt.
-<../res/tmp/C-RAN/loraparam.png, id=717, 1219.55624pt x 638.385pt>
+<../res/tmp/C-RAN/loraparam.png, id=765, 1219.55624pt x 638.385pt>
 File: ../res/tmp/C-RAN/loraparam.png Graphic file (type png)
 <use ../res/tmp/C-RAN/loraparam.png>
 Package luatex.def Info: ../res/tmp/C-RAN/loraparam.png  used on input line 244.
@@ -2946,7 +2946,7 @@ Missing character: There is no ” (U+201D) in font ptmr8t!
 <../res/tmp/C-RAN/class_a.png><../res/tmp/C-RAN/class_b.png><../res/tmp/C-RAN/cl
 ass_c.png><../res/tmp/C-RAN/lorawan_parameters.png><../res/tmp/C-RAN/loraparam.p
 ng>]
-<../res/tmp/C-RAN/bw.png, id=739, 722.7pt x 459.7175pt>
+<../res/tmp/C-RAN/bw.png, id=787, 722.7pt x 459.7175pt>
 File: ../res/tmp/C-RAN/bw.png Graphic file (type png)
 <use ../res/tmp/C-RAN/bw.png>
 Package luatex.def Info: ../res/tmp/C-RAN/bw.png  used on input line 303.
@@ -3177,16 +3177,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--16
 
  []
 
-) ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/authors.te
-x")
+) ("./02-State of the art/07_metric-performance.tex")
+("./02-State of the art/08_challenfes.tex"
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[14]
+[14
+Missing character: There is no — (U+2014) in font ptmr8t!
+Missing character: There is no — (U+2014) in font ptmr8t!
+Missing character: There is no — (U+2014) in font ptmr8t!
+Missing character: There is no “ (U+201C) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+]
+<../res/tmp/challenges.png, id=815, 1352.05125pt x 959.585pt>
+File: ../res/tmp/challenges.png Graphic file (type png)
+<use ../res/tmp/challenges.png>
+Package luatex.def Info: ../res/tmp/challenges.png  used on input line 4.
+(luatex.def)             Requested size: 252.0pt x 178.83823pt.
+)
+("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/authors.tex"
+)
 Package biblatex Info: Reference section=0 on input line 23.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[15
-
-]
+[15<../res/tmp/challenges.png>]
 \blx@maxsegment@3=\count542
 \blx@sectionciteorder@3=\count543
 Package biblatex Info: Reference section=3 on input line 23.
@@ -3207,7 +3219,7 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 d.tex")
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/04_approach.
 tex"
-<../res/plot/genetic.pdf, id=817, 1026.1025pt x 457.04752pt>
+<../res/plot/genetic.pdf, id=869, 1026.1025pt x 457.04752pt>
 File: ../res/plot/genetic.pdf Graphic file (type pdf)
 <use ../res/plot/genetic.pdf>
 Package luatex.def Info: ../res/plot/genetic.pdf  used on input line 54.
@@ -3215,12 +3227,12 @@ Package luatex.def Info: ../res/plot/genetic.pdf  used on input line 54.
 )
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/05_experimen
 tation.tex"
-<../res/tmp/Picture/gateway.jpg, id=834, 4625.28pt x 3468.96pt>
+<../res/tmp/Picture/gateway.jpg, id=886, 4625.28pt x 3468.96pt>
 File: ../res/tmp/Picture/gateway.jpg Graphic file (type jpg)
 <use ../res/tmp/Picture/gateway.jpg>
 Package luatex.def Info: ../res/tmp/Picture/gateway.jpg  used on input line 15.
 (luatex.def)             Requested size: 120.95892pt x 90.67252pt.
-<../res/tmp/Picture/node.jpg, id=835, 4625.28pt x 3468.96pt>
+<../res/tmp/Picture/node.jpg, id=887, 4625.28pt x 3468.96pt>
 File: ../res/tmp/Picture/node.jpg Graphic file (type jpg)
 <use ../res/tmp/Picture/node.jpg>
 Package luatex.def Info: ../res/tmp/Picture/node.jpg  used on input line 15.
@@ -3748,14 +3760,14 @@ Package logreq Info: Writing requests to 'paper.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 71892 strings out of 494383
+ 71956 strings out of 494383
  156280,2373549 words of node,token memory allocated
- 6489 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 3 glue, 814 kern, 1 glyph, 406 attribute, 116 glue_
-spec, 406 attribute_list, 1 write, 2 pdf_action nodes
-   avail lists: 1:30,2:4973,3:1127,4:636,5:885,6:535,7:11101,8:1817,9:2624,10:22
+ 6607 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 3 glue, 832 kern, 1 glyph, 413 attribute, 116 glue_
+spec, 413 attribute_list, 1 write, 2 pdf_action nodes
+   avail lists: 1:30,2:4959,3:1127,4:636,5:885,6:535,7:11101,8:1817,9:2624,10:22
 ,11:752,12:1
- 72234 multiletter control sequences out of 65536+600000
+ 72252 multiletter control sequences out of 65536+600000
  221 fonts using 19326735 bytes
  84i,18n,136p,6070b,1970s stack positions out of 5000i,500n,10000p,200000b,100000s
 
@@ -3891,10 +3903,10 @@ ive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
 times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on paper.pdf (33 pages, 8429623 bytes).
+Output written on paper.pdf (33 pages, 8528497 bytes).
 
-PDF statistics: 1378 PDF objects out of 1440 (max. 8388607)
- 1196 compressed objects within 12 object streams
- 352 named destinations out of 1000 (max. 131072)
- 952 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 1432 PDF objects out of 1440 (max. 8388607)
+ 1247 compressed objects within 13 object streams
+ 366 named destinations out of 1000 (max. 131072)
+ 1048 words of extra memory for PDF output out of 10000 (max. 100000000)
 
