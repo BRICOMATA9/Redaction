@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.07.0 (TeX Live 2019/dev/Debian)  (format=lualatex 2019.10.12)  24 OCT 2019 17:25
+This is LuaTeX, Version 1.07.0 (TeX Live 2019/dev/Debian)  (format=lualatex 2019.10.12)  24 OCT 2019 17:56
  system commands enabled.
 **main.tex
 (./main.tex
@@ -48,7 +48,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.080 seconds
+luaotfload | main : initialization completed in 0.071 seconds
 (../lib/paper.tex (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
 
@@ -4386,11 +4386,11 @@ Overfull \hbox (21.00034pt too wide) in paragraph at lines 19--21
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [12
 
-]) ("./A-Survey IoT/05_state.tex") ("./A-Survey IoT/09_cloud.tex"
+]) ("./A-Survey IoT/05_state.tex"
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [13
 
-]
+]) ("./A-Survey IoT/09_cloud.tex"
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [14]) ("./A-Survey IoT/09_divers.tex"
 Overfull \hbox (2.32545pt too wide) in paragraph at lines 102--102
@@ -4442,11 +4442,11 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 41.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
-File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-)
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
@@ -4504,174 +4504,9 @@ Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[18]
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[19
-Missing character: There is no – (U+2013) in font ptmr8t!
-]
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[20
-Missing character: There is no … (U+2026) in font ptmr8t!
-Missing character: There is no ’ (U+2019) in font ptmr8t!
-Missing character: There is no ’ (U+2019) in font ptmr8t!
-Missing character: There is no … (U+2026) in font ptmr8t!
-Missing character: There is no … (U+2026) in font ptmr8t!
-Missing character: There is no ’ (U+2019) in font ptmr8t!
-Missing character: There is no – (U+2013) in font ptmri8t!
-]
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[21
-Missing character: There is no œ (U+0153) in font ptmr8t!
-Missing character: There is no ’ (U+2019) in font ptmr8t!
-Missing character: There is no ’ (U+2019) in font ptmr8t!
-Missing character: There is no ł (U+0142) in font ptmr8t!
-]
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[22
+[18
 Missing character: There is no ś (U+015B) in font ptmr8t!
 ]
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
@@ -4712,9 +4547,162 @@ Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[23]
+[19]
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[20]
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 41.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[21
+Missing character: There is no – (U+2013) in font ptmri8t!
+]
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[22
+Missing character: There is no ł (U+0142) in font ptmr8t!
+]
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[23
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+]
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
@@ -4788,85 +4776,87 @@ Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[25]
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[26]
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[27
-Missing character: There is no 서 (U+C11C) in font ptmr8t!
-Missing character: There is no 울 (U+C6B8) in font ptmr8t!
-Missing character: There is no 대 (U+B300) in font ptmr8t!
-Missing character: There is no 학 (U+D559) in font ptmr8t!
-Missing character: There is no 교 (U+AD50) in font ptmr8t!
-Missing character: There is no 대 (U+B300) in font ptmr8t!
-Missing character: There is no 학 (U+D559) in font ptmr8t!
-Missing character: There is no 원 (U+C6D0) in font ptmr8t!
+[25
+Missing character: There is no œ (U+0153) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+Missing character: There is no … (U+2026) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+Missing character: There is no … (U+2026) in font ptmr8t!
+Missing character: There is no … (U+2026) in font ptmr8t!
+Missing character: There is no ’ (U+2019) in font ptmr8t!
 ]
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[26
+Missing character: There is no – (U+2013) in font ptmr8t!
+]
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[27]
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
@@ -4901,9 +4891,18 @@ Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [28
-Missing character: There is no ’ (U+2019) in font ptmr8t!
-Missing character: There is no ’ (U+2019) in font ptmr8t!
+Missing character: There is no 서 (U+C11C) in font ptmr8t!
+Missing character: There is no 울 (U+C6B8) in font ptmr8t!
+Missing character: There is no 대 (U+B300) in font ptmr8t!
+Missing character: There is no 학 (U+D559) in font ptmr8t!
+Missing character: There is no 교 (U+AD50) in font ptmr8t!
+Missing character: There is no 대 (U+B300) in font ptmr8t!
+Missing character: There is no 학 (U+D559) in font ptmr8t!
+Missing character: There is no 원 (U+C6D0) in font ptmr8t!
 ]
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 41.
@@ -4922,7 +4921,9 @@ Before submitting the final camera ready copy, remember to:
 
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[29]
+[29
+Missing character: There is no ’ (U+2019) in font ptmr8t!
+]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 43.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 43.
  (/home/aghiles/Aghiles/Research/Writing/bin/paper.aux)
@@ -4953,7 +4954,7 @@ Here is how much of LuaTeX's memory you used:
  19940 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 8 glue, 2540 kern, 1 glyph, 1352 attribute, 116 glu
 e_spec, 1352 attribute_list, 1 write, 169 pdf_action nodes
-   avail lists: 1:26,2:5356,3:5359,4:870,5:346,6:1059,7:11611,8:1878,9:2637,10:2
+   avail lists: 1:26,2:5356,3:5359,4:862,5:346,6:1059,7:11611,8:1878,9:2637,10:2
 6,11:880,12:1
  74094 multiletter control sequences out of 65536+600000
  223 fonts using 19487647 bytes
@@ -5104,7 +5105,7 @@ ive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist
 /times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on paper.pdf (78 pages, 9484185 bytes).
+Output written on paper.pdf (78 pages, 9483778 bytes).
 
 PDF statistics: 3871 PDF objects out of 4296 (max. 8388607)
  3570 compressed objects within 36 object streams
