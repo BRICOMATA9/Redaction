@@ -540,13 +540,6 @@
   </bcf:datafieldset>
   <!-- SOURCEMAP -->
   <bcf:sourcemap>
-    <bcf:maps datatype="bibtex" level="user">
-      <bcf:map map_overwrite="1">
-        <bcf:map_step map_field_source="groups"/>
-        <bcf:map_step map_field_set="keywords" map_field_value="," map_append="1"/>
-        <bcf:map_step map_field_set="keywords" map_origfieldval="1" map_append="1"/>
-      </bcf:map>
-    </bcf:maps>
     <bcf:maps datatype="bibtex" level="driver">
       <bcf:map>
         <bcf:map_step map_field_set="day" map_null="1"/>
@@ -2025,22 +2018,22 @@
     <bcf:citekey order="8">venkatesan_design_2017</bcf:citekey>
     <bcf:citekey order="9">feltrin_lorawan_2018</bcf:citekey>
     <bcf:citekey order="10">venkatesan_design_2017</bcf:citekey>
-    <bcf:citekey order="11">sciancalepore_storns_2019</bcf:citekey>
-    <bcf:citekey order="12">sciancalepore_storns_2019</bcf:citekey>
+    <bcf:citekey order="11">cattani_experimental_2017</bcf:citekey>
+    <bcf:citekey order="12">dimartino_internet_2018</bcf:citekey>
     <bcf:citekey order="13">sciancalepore_storns_2019</bcf:citekey>
     <bcf:citekey order="14">sciancalepore_storns_2019</bcf:citekey>
     <bcf:citekey order="15">sciancalepore_storns_2019</bcf:citekey>
     <bcf:citekey order="16">sciancalepore_storns_2019</bcf:citekey>
-    <bcf:citekey order="17">sama_servicebased_2016</bcf:citekey>
-    <bcf:citekey order="18">sama_servicebased_2016</bcf:citekey>
-    <bcf:citekey order="19">ksentini_enforcing_2017b</bcf:citekey>
-    <bcf:citekey order="20">ksentini_enforcing_2017b</bcf:citekey>
+    <bcf:citekey order="17">sciancalepore_storns_2019</bcf:citekey>
+    <bcf:citekey order="18">sciancalepore_storns_2019</bcf:citekey>
+    <bcf:citekey order="19">sama_servicebased_2016</bcf:citekey>
+    <bcf:citekey order="20">sama_servicebased_2016</bcf:citekey>
     <bcf:citekey order="21">ksentini_enforcing_2017b</bcf:citekey>
     <bcf:citekey order="22">ksentini_enforcing_2017b</bcf:citekey>
-    <bcf:citekey order="23">barro_lorawan_2019</bcf:citekey>
-    <bcf:citekey order="24">cattani_experimental_2017</bcf:citekey>
-    <bcf:citekey order="25">dimartino_internet_2018</bcf:citekey>
-    <bcf:citekey order="26">alkhawlani_access_2008a</bcf:citekey>
+    <bcf:citekey order="23">ksentini_enforcing_2017b</bcf:citekey>
+    <bcf:citekey order="24">ksentini_enforcing_2017b</bcf:citekey>
+    <bcf:citekey order="25">alkhawlani_access_2008a</bcf:citekey>
+    <bcf:citekey order="26">barro_lorawan_2019</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
