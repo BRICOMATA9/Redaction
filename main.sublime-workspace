@@ -195,15 +195,15 @@
 	},
 	"expanded_folders":
 	[
-		"/home/aghiles/Aghiles/Research/Writing/src",
-		"/home/aghiles/Aghiles/Research/Writing/src/02-State of the art",
-		"/home/aghiles/Aghiles/Research/Writing/src/A-Survey IoT",
 		"/home/aghiles/Aghiles/Research/Writing/lib"
 	],
 	"file_history":
 	[
 		"/home/aghiles/Aghiles/Research/Writing/src/main.tex",
 		"/home/aghiles/Aghiles/Research/Writing/lib/setup.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/L-Library/05_state.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/L-Library/ref.tex",
+		"/home/aghiles/Aghiles/Research/Writing/lib/bibliography.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/02-State of the art/07_metric-performance.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/02-State of the art/08_challenfes.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/02-State of the art/04_standards.tex",
@@ -326,10 +326,7 @@
 		"/home/aghiles/Downloads/yynn.bib",
 		"/home/aghiles/Downloads/Bandit.bib",
 		"/home/aghiles/Aghiles/Redaction/setup/lib/iot/translators/BibTeX.js",
-		"/home/aghiles/Aghiles/Redaction/setup/lib/iot/translators/BibLaTeX3.js",
-		"/home/aghiles/Aghiles/Redaction/setup/lib/iot/translators/BibLaTeX2.js",
-		"/home/aghiles/Aghiles/Redaction/setup/lib/iot/translators/Better BibTeX.js",
-		"/home/aghiles/Aghiles/Redaction/setup/lib/iot/translators/BibLaTeX.js"
+		"/home/aghiles/Aghiles/Redaction/setup/lib/iot/translators/BibLaTeX3.js"
 	],
 	"find":
 	{
@@ -347,6 +344,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"geom",
 			"Half",
 			"refsection",
 			"    • ",
