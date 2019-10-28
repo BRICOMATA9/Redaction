@@ -199,6 +199,7 @@
 	],
 	"file_history":
 	[
+		"/home/aghiles/.config/dconf/user",
 		"/home/aghiles/Aghiles/Research/Writing/src/main.tex",
 		"/home/aghiles/Aghiles/Research/Writing/lib/setup.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/L-Library/05_state.tex",
@@ -325,12 +326,11 @@
 		"/home/aghiles/Downloads/yyuu.bib",
 		"/home/aghiles/Downloads/yynn.bib",
 		"/home/aghiles/Downloads/Bandit.bib",
-		"/home/aghiles/Aghiles/Redaction/setup/lib/iot/translators/BibTeX.js",
-		"/home/aghiles/Aghiles/Redaction/setup/lib/iot/translators/BibLaTeX3.js"
+		"/home/aghiles/Aghiles/Redaction/setup/lib/iot/translators/BibTeX.js"
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -378,7 +378,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 29.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -423,7 +423,7 @@
 	"project": "main.sublime-project",
 	"replace":
 	{
-		"height": 54.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
