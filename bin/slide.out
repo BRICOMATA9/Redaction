@@ -1,65 +1,67 @@
 \BOOKMARK [2][]{Outline0.1}{Introduction}{}% 1
 \BOOKMARK [2][]{Outline0.2}{State of the art}{}% 2
-\BOOKMARK [3][]{Outline0.2.1.17}{MADM}{Outline0.2}% 3
-\BOOKMARK [3][]{Outline0.2.2.18}{Learning}{Outline0.2}% 4
-\BOOKMARK [4][]{Outline0.2.2.1.19}{Bandit Algorithm}{Outline0.2.2.18}% 5
-\BOOKMARK [4][]{Outline0.2.2.2.21}{Genetic Algorithm}{Outline0.2.2.18}% 6
-\BOOKMARK [4][]{Outline0.2.2.3.24}{Q-Learning}{Outline0.2.2.18}% 7
-\BOOKMARK [4][]{Outline0.2.2.4.25}{Marcov Chain}{Outline0.2.2.18}% 8
-\BOOKMARK [3][]{Outline0.2.3.28}{Fuzzy Logic}{Outline0.2}% 9
-\BOOKMARK [3][]{Outline0.2.4.29}{Utility Function}{Outline0.2}% 10
-\BOOKMARK [3][]{Outline0.2.5.30}{Game Theory}{Outline0.2}% 11
-\BOOKMARK [3][]{Outline0.2.6.32}{Discussion}{Outline0.2}% 12
+\BOOKMARK [3][]{Outline0.2.1.18}{MADM}{Outline0.2}% 3
+\BOOKMARK [3][]{Outline0.2.2.19}{Learning}{Outline0.2}% 4
+\BOOKMARK [4][]{Outline0.2.2.1.20}{Bandit Algorithm}{Outline0.2.2.19}% 5
+\BOOKMARK [4][]{Outline0.2.2.2.22}{Genetic Algorithm}{Outline0.2.2.19}% 6
+\BOOKMARK [4][]{Outline0.2.2.3.25}{Q-Learning}{Outline0.2.2.19}% 7
+\BOOKMARK [4][]{Outline0.2.2.4.27}{Marcov Chain}{Outline0.2.2.19}% 8
+\BOOKMARK [3][]{Outline0.2.3.30}{Fuzzy Logic}{Outline0.2}% 9
+\BOOKMARK [3][]{Outline0.2.4.31}{Utility Function}{Outline0.2}% 10
+\BOOKMARK [3][]{Outline0.2.5.32}{Game Theory}{Outline0.2}% 11
+\BOOKMARK [3][]{Outline0.2.6.34}{Discussion}{Outline0.2}% 12
 \BOOKMARK [2][]{Outline0.3}{x-Testbed}{}% 13
-\BOOKMARK [3][]{Outline0.3.1.35}{Problem statement}{Outline0.3}% 14
-\BOOKMARK [3][]{Outline0.3.2.37}{Related work}{Outline0.3}% 15
-\BOOKMARK [3][]{Outline0.3.3.40}{Contagion process}{Outline0.3}% 16
-\BOOKMARK [3][]{Outline0.3.4.46}{Experimentation}{Outline0.3}% 17
-\BOOKMARK [3][]{Outline0.3.5.48}{Results exploitation}{Outline0.3}% 18
-\BOOKMARK [3][]{Outline0.3.6.50}{Discussion}{Outline0.3}% 19
+\BOOKMARK [3][]{Outline0.3.1.37}{Problem statement}{Outline0.3}% 14
+\BOOKMARK [3][]{Outline0.3.2.39}{Related work}{Outline0.3}% 15
+\BOOKMARK [3][]{Outline0.3.3.42}{Contagion process}{Outline0.3}% 16
+\BOOKMARK [3][]{Outline0.3.4.48}{Experimentation}{Outline0.3}% 17
+\BOOKMARK [3][]{Outline0.3.5.50}{Results exploitation}{Outline0.3}% 18
+\BOOKMARK [3][]{Outline0.3.6.52}{Discussion}{Outline0.3}% 19
 \BOOKMARK [2][]{Outline0.4}{x-Sentilo}{}% 20
-\BOOKMARK [3][]{Outline0.4.1.53}{Problem statement}{Outline0.4}% 21
-\BOOKMARK [3][]{Outline0.4.2.55}{Related work}{Outline0.4}% 22
-\BOOKMARK [3][]{Outline0.4.3.58}{Contagion process}{Outline0.4}% 23
-\BOOKMARK [3][]{Outline0.4.4.63}{Experimentation}{Outline0.4}% 24
-\BOOKMARK [3][]{Outline0.4.5.65}{Results exploitation}{Outline0.4}% 25
-\BOOKMARK [3][]{Outline0.4.6.67}{Discussion}{Outline0.4}% 26
+\BOOKMARK [3][]{Outline0.4.1.55}{Problem statement}{Outline0.4}% 21
+\BOOKMARK [3][]{Outline0.4.2.57}{Related work}{Outline0.4}% 22
+\BOOKMARK [3][]{Outline0.4.3.60}{Contagion process}{Outline0.4}% 23
+\BOOKMARK [3][]{Outline0.4.4.65}{Experimentation}{Outline0.4}% 24
+\BOOKMARK [3][]{Outline0.4.5.67}{Results exploitation}{Outline0.4}% 25
+\BOOKMARK [3][]{Outline0.4.6.69}{Discussion}{Outline0.4}% 26
 \BOOKMARK [2][]{Outline0.5}{x-Long paper}{}% 27
-\BOOKMARK [3][]{Outline0.5.1.70}{Problem statement}{Outline0.5}% 28
-\BOOKMARK [3][]{Outline0.5.2.72}{Related work}{Outline0.5}% 29
-\BOOKMARK [3][]{Outline0.5.3.75}{Contagion process}{Outline0.5}% 30
-\BOOKMARK [3][]{Outline0.5.4.81}{Experimentation}{Outline0.5}% 31
-\BOOKMARK [3][]{Outline0.5.5.83}{Results exploitation}{Outline0.5}% 32
-\BOOKMARK [3][]{Outline0.5.6.85}{Discussion}{Outline0.5}% 33
+\BOOKMARK [3][]{Outline0.5.1.72}{Problem statement}{Outline0.5}% 28
+\BOOKMARK [3][]{Outline0.5.2.74}{Related work}{Outline0.5}% 29
+\BOOKMARK [3][]{Outline0.5.3.77}{Contagion process}{Outline0.5}% 30
+\BOOKMARK [3][]{Outline0.5.4.83}{Experimentation}{Outline0.5}% 31
+\BOOKMARK [3][]{Outline0.5.5.85}{Results exploitation}{Outline0.5}% 32
+\BOOKMARK [3][]{Outline0.5.6.87}{Discussion}{Outline0.5}% 33
 \BOOKMARK [2][]{Outline0.6}{Genetic Algorithm For LoRa}{}% 34
-\BOOKMARK [3][]{Outline0.6.1.88}{Problem statement}{Outline0.6}% 35
-\BOOKMARK [3][]{Outline0.6.2.89}{Related work}{Outline0.6}% 36
-\BOOKMARK [3][]{Outline0.6.3.90}{Background}{Outline0.6}% 37
-\BOOKMARK [3][]{Outline0.6.4.91}{Method}{Outline0.6}% 38
-\BOOKMARK [3][]{Outline0.6.5.95}{Experimentation}{Outline0.6}% 39
-\BOOKMARK [3][]{Outline0.6.6.98}{Results}{Outline0.6}% 40
-\BOOKMARK [3][]{Outline0.6.7.100}{Discussion}{Outline0.6}% 41
+\BOOKMARK [3][]{Outline0.6.1.90}{Problem statement}{Outline0.6}% 35
+\BOOKMARK [3][]{Outline0.6.2.91}{Related work}{Outline0.6}% 36
+\BOOKMARK [3][]{Outline0.6.3.92}{Background}{Outline0.6}% 37
+\BOOKMARK [3][]{Outline0.6.4.93}{Method}{Outline0.6}% 38
+\BOOKMARK [3][]{Outline0.6.5.97}{Experimentation}{Outline0.6}% 39
+\BOOKMARK [3][]{Outline0.6.6.99}{Results}{Outline0.6}% 40
+\BOOKMARK [3][]{Outline0.6.7.101}{Discussion}{Outline0.6}% 41
 \BOOKMARK [2][]{Outline0.7}{EES}{}% 42
-\BOOKMARK [3][]{Outline0.7.1.103}{Problem statement}{Outline0.7}% 43
-\BOOKMARK [3][]{Outline0.7.2.105}{Related work}{Outline0.7}% 44
-\BOOKMARK [3][]{Outline0.7.3.108}{Contagion process}{Outline0.7}% 45
-\BOOKMARK [3][]{Outline0.7.4.114}{Experimentation}{Outline0.7}% 46
-\BOOKMARK [3][]{Outline0.7.5.116}{Results exploitation}{Outline0.7}% 47
-\BOOKMARK [3][]{Outline0.7.6.118}{Discussion}{Outline0.7}% 48
+\BOOKMARK [3][]{Outline0.7.1.104}{Problem statement}{Outline0.7}% 43
+\BOOKMARK [3][]{Outline0.7.2.106}{Related work}{Outline0.7}% 44
+\BOOKMARK [3][]{Outline0.7.3.109}{Contagion process}{Outline0.7}% 45
+\BOOKMARK [3][]{Outline0.7.4.115}{Experimentation}{Outline0.7}% 46
+\BOOKMARK [3][]{Outline0.7.5.117}{Results exploitation}{Outline0.7}% 47
+\BOOKMARK [3][]{Outline0.7.6.119}{Discussion}{Outline0.7}% 48
 \BOOKMARK [2][]{Outline0.8}{Template}{}% 49
-\BOOKMARK [3][]{Outline0.8.1.121}{Problem statement}{Outline0.8}% 50
-\BOOKMARK [3][]{Outline0.8.2.123}{Related work}{Outline0.8}% 51
-\BOOKMARK [3][]{Outline0.8.3.126}{Contagion process}{Outline0.8}% 52
-\BOOKMARK [3][]{Outline0.8.4.132}{Experimentation}{Outline0.8}% 53
-\BOOKMARK [3][]{Outline0.8.5.134}{Results exploitation}{Outline0.8}% 54
-\BOOKMARK [3][]{Outline0.8.6.136}{Discussion}{Outline0.8}% 55
+\BOOKMARK [3][]{Outline0.8.1.122}{Problem statement}{Outline0.8}% 50
+\BOOKMARK [3][]{Outline0.8.2.124}{Related work}{Outline0.8}% 51
+\BOOKMARK [3][]{Outline0.8.3.127}{Contagion process}{Outline0.8}% 52
+\BOOKMARK [3][]{Outline0.8.4.133}{Experimentation}{Outline0.8}% 53
+\BOOKMARK [3][]{Outline0.8.5.135}{Results exploitation}{Outline0.8}% 54
+\BOOKMARK [3][]{Outline0.8.6.137}{Discussion}{Outline0.8}% 55
 \BOOKMARK [2][]{Outline0.9}{UTLC}{}% 56
-\BOOKMARK [3][]{Outline0.9.1.139}{Problem statement}{Outline0.9}% 57
-\BOOKMARK [3][]{Outline0.9.2.141}{Related work}{Outline0.9}% 58
-\BOOKMARK [3][]{Outline0.9.3.144}{Contagion process}{Outline0.9}% 59
-\BOOKMARK [3][]{Outline0.9.4.151}{Experimentation}{Outline0.9}% 60
-\BOOKMARK [3][]{Outline0.9.5.153}{Results exploitation}{Outline0.9}% 61
-\BOOKMARK [3][]{Outline0.9.6.155}{Discussion}{Outline0.9}% 62
+\BOOKMARK [3][]{Outline0.9.1.140}{Problem statement}{Outline0.9}% 57
+\BOOKMARK [3][]{Outline0.9.2.142}{Related work}{Outline0.9}% 58
+\BOOKMARK [3][]{Outline0.9.3.145}{Contagion process}{Outline0.9}% 59
+\BOOKMARK [3][]{Outline0.9.4.152}{Experimentation}{Outline0.9}% 60
+\BOOKMARK [3][]{Outline0.9.5.154}{Results exploitation}{Outline0.9}% 61
+\BOOKMARK [3][]{Outline0.9.6.156}{Discussion}{Outline0.9}% 62
 \BOOKMARK [2][]{Outline0.10}{Conclusion}{}% 63
-\BOOKMARK [2][]{Outline0.11}{Survey Platforms}{}% 64
-\BOOKMARK [2][]{Outline0.12}{References}{}% 65
+\BOOKMARK [3][]{Outline0.10.1.161}{A-App}{Outline0.10}% 64
+\BOOKMARK [3][]{Outline0.10.2.161}{M-Divers}{Outline0.10}% 65
+\BOOKMARK [3][]{Outline0.10.3.161}{M-Proba}{Outline0.10}% 66
+\BOOKMARK [3][]{Outline0.10.4.161}{U-Weather}{Outline0.10}% 67

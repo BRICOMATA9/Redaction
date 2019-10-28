@@ -3,128 +3,126 @@
 \defcounter {refsection}{1}\relax 
 \beamer@sectionintoc {1}{Introduction}{1}{0}{1}
 \defcounter {refsection}{1}\relax 
-\beamer@sectionintoc {2}{State of the art}{16}{0}{2}
+\beamer@sectionintoc {2}{State of the art}{17}{0}{2}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {2}{1}{MADM}{17}{0}{2}
+\beamer@subsectionintoc {2}{1}{MADM}{18}{0}{2}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {2}{2}{Learning}{18}{0}{2}
+\beamer@subsectionintoc {2}{2}{Learning}{19}{0}{2}
 \defcounter {refsection}{1}\relax 
-\beamer@subsubsectionintoc {2}{2}{1}{Bandit Algorithm}{19}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{1}{Bandit Algorithm}{20}{0}{2}
 \defcounter {refsection}{1}\relax 
-\beamer@subsubsectionintoc {2}{2}{2}{Genetic Algorithm}{21}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{2}{Genetic Algorithm}{22}{0}{2}
 \defcounter {refsection}{1}\relax 
-\beamer@subsubsectionintoc {2}{2}{3}{Q-Learning}{24}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{3}{Q-Learning}{25}{0}{2}
 \defcounter {refsection}{1}\relax 
-\beamer@subsubsectionintoc {2}{2}{4}{Marcov Chain}{25}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{4}{Marcov Chain}{27}{0}{2}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {2}{3}{Fuzzy Logic}{28}{0}{2}
+\beamer@subsectionintoc {2}{3}{Fuzzy Logic}{30}{0}{2}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {2}{4}{Utility Function}{29}{0}{2}
+\beamer@subsectionintoc {2}{4}{Utility Function}{31}{0}{2}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {2}{5}{Game Theory}{30}{0}{2}
+\beamer@subsectionintoc {2}{5}{Game Theory}{32}{0}{2}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {2}{6}{Discussion}{32}{0}{2}
+\beamer@subsectionintoc {2}{6}{Discussion}{34}{0}{2}
 \defcounter {refsection}{1}\relax 
-\beamer@sectionintoc {3}{x-Testbed}{34}{0}{3}
+\beamer@sectionintoc {3}{x-Testbed}{36}{0}{3}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {3}{1}{Problem statement}{35}{0}{3}
+\beamer@subsectionintoc {3}{1}{Problem statement}{37}{0}{3}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {3}{2}{Related work}{37}{0}{3}
+\beamer@subsectionintoc {3}{2}{Related work}{39}{0}{3}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {3}{3}{Contagion process}{40}{0}{3}
+\beamer@subsectionintoc {3}{3}{Contagion process}{42}{0}{3}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {3}{4}{Experimentation}{46}{0}{3}
+\beamer@subsectionintoc {3}{4}{Experimentation}{48}{0}{3}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {3}{5}{Results exploitation}{48}{0}{3}
+\beamer@subsectionintoc {3}{5}{Results exploitation}{50}{0}{3}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {3}{6}{Discussion}{50}{0}{3}
+\beamer@subsectionintoc {3}{6}{Discussion}{52}{0}{3}
 \defcounter {refsection}{1}\relax 
-\beamer@sectionintoc {4}{x-Sentilo}{52}{0}{4}
+\beamer@sectionintoc {4}{x-Sentilo}{54}{0}{4}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {4}{1}{Problem statement}{53}{0}{4}
+\beamer@subsectionintoc {4}{1}{Problem statement}{55}{0}{4}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {4}{2}{Related work}{55}{0}{4}
+\beamer@subsectionintoc {4}{2}{Related work}{57}{0}{4}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {4}{3}{Contagion process}{58}{0}{4}
+\beamer@subsectionintoc {4}{3}{Contagion process}{60}{0}{4}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {4}{4}{Experimentation}{63}{0}{4}
+\beamer@subsectionintoc {4}{4}{Experimentation}{65}{0}{4}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {4}{5}{Results exploitation}{65}{0}{4}
+\beamer@subsectionintoc {4}{5}{Results exploitation}{67}{0}{4}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {4}{6}{Discussion}{67}{0}{4}
+\beamer@subsectionintoc {4}{6}{Discussion}{69}{0}{4}
 \defcounter {refsection}{1}\relax 
-\beamer@sectionintoc {5}{x-Long paper}{69}{0}{5}
+\beamer@sectionintoc {5}{x-Long paper}{71}{0}{5}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {5}{1}{Problem statement}{70}{0}{5}
+\beamer@subsectionintoc {5}{1}{Problem statement}{72}{0}{5}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {5}{2}{Related work}{72}{0}{5}
+\beamer@subsectionintoc {5}{2}{Related work}{74}{0}{5}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {5}{3}{Contagion process}{75}{0}{5}
+\beamer@subsectionintoc {5}{3}{Contagion process}{77}{0}{5}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {5}{4}{Experimentation}{81}{0}{5}
+\beamer@subsectionintoc {5}{4}{Experimentation}{83}{0}{5}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {5}{5}{Results exploitation}{83}{0}{5}
+\beamer@subsectionintoc {5}{5}{Results exploitation}{85}{0}{5}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {5}{6}{Discussion}{85}{0}{5}
+\beamer@subsectionintoc {5}{6}{Discussion}{87}{0}{5}
 \defcounter {refsection}{1}\relax 
-\beamer@sectionintoc {6}{Genetic Algorithm For LoRa}{87}{0}{6}
+\beamer@sectionintoc {6}{Genetic Algorithm For LoRa}{89}{0}{6}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {6}{1}{Problem statement}{88}{0}{6}
+\beamer@subsectionintoc {6}{1}{Problem statement}{90}{0}{6}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {6}{2}{Related work}{89}{0}{6}
+\beamer@subsectionintoc {6}{2}{Related work}{91}{0}{6}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {6}{3}{Background}{90}{0}{6}
+\beamer@subsectionintoc {6}{3}{Background}{92}{0}{6}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {6}{4}{Method}{91}{0}{6}
+\beamer@subsectionintoc {6}{4}{Method}{93}{0}{6}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {6}{5}{Experimentation}{95}{0}{6}
+\beamer@subsectionintoc {6}{5}{Experimentation}{97}{0}{6}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {6}{6}{Results}{98}{0}{6}
+\beamer@subsectionintoc {6}{6}{Results}{99}{0}{6}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {6}{7}{Discussion}{100}{0}{6}
+\beamer@subsectionintoc {6}{7}{Discussion}{101}{0}{6}
 \defcounter {refsection}{1}\relax 
-\beamer@sectionintoc {7}{EES}{102}{0}{7}
+\beamer@sectionintoc {7}{EES}{103}{0}{7}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {7}{1}{Problem statement}{103}{0}{7}
+\beamer@subsectionintoc {7}{1}{Problem statement}{104}{0}{7}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {7}{2}{Related work}{105}{0}{7}
+\beamer@subsectionintoc {7}{2}{Related work}{106}{0}{7}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {7}{3}{Contagion process}{108}{0}{7}
+\beamer@subsectionintoc {7}{3}{Contagion process}{109}{0}{7}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {7}{4}{Experimentation}{114}{0}{7}
+\beamer@subsectionintoc {7}{4}{Experimentation}{115}{0}{7}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {7}{5}{Results exploitation}{116}{0}{7}
+\beamer@subsectionintoc {7}{5}{Results exploitation}{117}{0}{7}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {7}{6}{Discussion}{118}{0}{7}
+\beamer@subsectionintoc {7}{6}{Discussion}{119}{0}{7}
 \defcounter {refsection}{1}\relax 
-\beamer@sectionintoc {8}{Template}{120}{0}{8}
+\beamer@sectionintoc {8}{Template}{121}{0}{8}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {8}{1}{Problem statement}{121}{0}{8}
+\beamer@subsectionintoc {8}{1}{Problem statement}{122}{0}{8}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {8}{2}{Related work}{123}{0}{8}
+\beamer@subsectionintoc {8}{2}{Related work}{124}{0}{8}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {8}{3}{Contagion process}{126}{0}{8}
+\beamer@subsectionintoc {8}{3}{Contagion process}{127}{0}{8}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {8}{4}{Experimentation}{132}{0}{8}
+\beamer@subsectionintoc {8}{4}{Experimentation}{133}{0}{8}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {8}{5}{Results exploitation}{134}{0}{8}
+\beamer@subsectionintoc {8}{5}{Results exploitation}{135}{0}{8}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {8}{6}{Discussion}{136}{0}{8}
+\beamer@subsectionintoc {8}{6}{Discussion}{137}{0}{8}
 \defcounter {refsection}{1}\relax 
-\beamer@sectionintoc {9}{UTLC}{138}{0}{9}
+\beamer@sectionintoc {9}{UTLC}{139}{0}{9}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {9}{1}{Problem statement}{139}{0}{9}
+\beamer@subsectionintoc {9}{1}{Problem statement}{140}{0}{9}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {9}{2}{Related work}{141}{0}{9}
+\beamer@subsectionintoc {9}{2}{Related work}{142}{0}{9}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {9}{3}{Contagion process}{144}{0}{9}
+\beamer@subsectionintoc {9}{3}{Contagion process}{145}{0}{9}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {9}{4}{Experimentation}{151}{0}{9}
+\beamer@subsectionintoc {9}{4}{Experimentation}{152}{0}{9}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {9}{5}{Results exploitation}{153}{0}{9}
+\beamer@subsectionintoc {9}{5}{Results exploitation}{154}{0}{9}
 \defcounter {refsection}{1}\relax 
-\beamer@subsectionintoc {9}{6}{Discussion}{155}{0}{9}
+\beamer@subsectionintoc {9}{6}{Discussion}{156}{0}{9}
 \defcounter {refsection}{1}\relax 
-\beamer@sectionintoc {10}{Conclusion}{157}{0}{10}
-\defcounter {refsection}{1}\relax 
-\beamer@sectionintoc {11}{Survey Platforms}{160}{0}{11}
+\beamer@sectionintoc {10}{Conclusion}{158}{0}{10}

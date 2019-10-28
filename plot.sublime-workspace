@@ -200,9 +200,12 @@
 	],
 	"file_history":
 	[
+		"/home/aghiles/Aghiles/Research/Writing/res/plot/marcov.tex",
 		"/home/aghiles/Aghiles/Research/Writing/res/plot.tex",
-		"/home/aghiles/Aghiles/Research/Writing/lib/plot.tex",
+		"/home/aghiles/Aghiles/Research/Writing/res/plot/genetic.tex",
 		"/home/aghiles/Aghiles/Research/Writing/lib/tikzset.tex",
+		"/home/aghiles/Aghiles/Research/Writing/res/plot/qlearning.tex",
+		"/home/aghiles/Aghiles/Research/Writing/lib/plot.tex",
 		"/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/plot.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/slide.tex",
@@ -324,10 +327,7 @@
 		"/home/aghiles/Downloads/Weather.bib",
 		"/home/aghiles/Downloads/Mesh.bib",
 		"/home/aghiles/Downloads/Weatherm.bib",
-		"/home/aghiles/Aghiles/Redaction/setup/lib/privacy.bib",
-		"/home/aghiles/Downloads/Weatherlklk.bib",
-		"/home/aghiles/Downloads/Measurement.bib",
-		"/home/aghiles/Aghiles/Redaction/0/paper/paper.tex"
+		"/home/aghiles/Aghiles/Redaction/setup/lib/privacy.bib"
 	],
 	"find":
 	{
@@ -345,6 +345,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"ca",
+			"cad",
+			"Cadre",
+			"cadre",
+			"input",
 			"Input"
 		],
 		"highlight": true,

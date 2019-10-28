@@ -22,55 +22,65 @@
 
 \begin{frame}{Genetic Algorithm}{Related work \cite{alkhawlani_access_2008a}}
 \begin{itemize}
-	\item Heterogeneous wireless network: (RAT 1 ,RAT 2 ,...,RAT n)
-	\item Criteria up to i (c 1 ,c 2 ,...,c i ) the operators, the applications, and the network conditions.
-	\item 
-	\item The different sets of scores (d 1 , d 2 ,...,d i ) are sent to the MCDM in the second component.
+	\item \textbf{N} transceiver configurations: ($x_{1}, ..., x_{n}$)
+	\item \textbf{I} QoS metrics ($m_{1}, ..., m_{i}$). ex: the operators, the applications, and the network conditions.
+	\item \textbf{I} weights ($w_{1}, ..., w_{i}$) are sent to the MCDM in the second component.
 	\item GA component assigns a suitable weight (w 1 ,w 2 ,...,w i )
 \end{itemize}
 \end{frame}
 
+
 \begin{frame}{Genetic Algorithm}{Related work}
-\Itemize{
-	\item 
-	\item S = {SF12, BW125, 4/8, 17 dBm}
-	\item Input: 
-	\Itemize{
-		\item Problem: f(x) = {max($x^{2}$), x \in [0,32]}
-		\Itemize{
-			\item $x_{1}: 01101_{b}$ 
-			\item $x_{2}: 11000_{b}$
-			\item $x_{3}: 01000_{b}$
-			\item $x_{4}: 10011_{b}$
-		}
-	}
-	\item Method: Genetic algorithm
-	\Itemize{
-		\item Generate a set of random possible solution
-		\item Test each solution and see how good it is (ranking)
-		\Itemize{
-			\item Remove some bad solutions
-			\item Duplicate some good solutions
-			\item Make small changes to some of them (Crossover, Mutation)
-		}
-	}
-	\item Output:
-	\Itemize{
-			\item $x_{1}$: 01101  (169)  (14.4)
-			\item $x_{2}$: 11000  (576)  (49.2)
-			\item $x_{3}$: 01000  (64 )  (5.5)
-			\item $x_{4}$: 10011  (361)  (30.9)
-	}
-}
+% \begin{itemize}
+	% \item Evaluation function
+		\begin{tabular}{ll}
+			\multicolumn{2}{l}{\textbf{Evaluation function}} \\\\
+			Define the number of parameters                       	& \{SF, Tx, CR, BW\} \\
+			Define the target QoS			                      	& \{RSSI, SNR, delay, PDR, RTD\} \\
+			Define evaluation function                            	& \red{Score}(SF, Tx, CR, BW) -> \{RSSI, SNR, delay, PDR, RTD\} \\\\
+			\multicolumn{2}{l}{\textbf{Parameters}} \\\\
+			Define a population of individuals (solutions)      	& 6720  \\
+			Define probabilities of crossing and mutating       	& 0.5, 0.2 \\ 
+			Define the number of generations                   	 	& 60 \\\\
+			\multicolumn{2}{l}{\textbf{Generations}} \\\\
+			Select individuals randomly    							& \{$SF_{i}, Tx_{i}, CR_{i}, BW_{i}\}^{random}$ 	\\
+			Clone, crossover and mutate this individuals 	        & \{$SF_{i+1}, Tx_{i+1}, CR_{i+1}, BW_{i+1}\}^{random}$ \\
+			Evaluate the offspring with an invalid Fitness 			& \red{Score}($SF_{i+1}, Tx_{i+1}, CR_{i+1}, BW_{i+1}$) \\\\
+			\multicolumn{2}{l}{\textbf{(Crossover, Mutation)}} \\\\
+			Remove some bad solutions                                & \\
+			Duplicate some good solutions                            & \\
+			Make small changes to some of them                       & \\
+		\end{tabular}
+
+
+% 	\item Genetic algorithm parameters:
+% 	\begin{itemize}
+
+% 	\end{itemize}
+% 	\item : 
+% 	\begin{itemize}
+% 		\item Evaluate the entire population 						-> fitness
+% 	\end{itemize}
+% 	\item  : (60)
+% 	\begin{itemize}
+
+% 	\end{itemize}
+% \end{itemize}
 \end{frame}
 
-
 \subsubsection{Q-Learning}
+
+
+\begin{frame}{Marcov chain}{Related work}
+\Figure{h}{.5}{qlearning}{qlearning}
+\end{frame}
 
 
 \subsubsection{Marcov Chain}
 
 \begin{frame}{Marcov chain}{Related work}
+
+\begin{flushleft}
 \begin{equation}
 V(s, \pi)=\mathbb{E}_{s}^{\pi}\left(\sum_{k=0}^{\mathrm{inf}} \gamma^{k} \cdot r\left(s_{k}, a_{k}\right)\right), s \in \mathbb{S}
 \end{equation}
@@ -96,10 +106,40 @@ PRR=(1-BER)^{L}
 BER=10^{\alpha e^{\beta SNR}}
 \end{equation}
 
+\end{flushleft}
+
 \end{frame}
 
 \begin{frame}{Marcov chain}{Related work}
-\Figure{h}{1}{markov}{}
+
+\Columns{0.6}{.4}{
+
+Learning iterative steps:
+
+\Itemize{
+	\item \textbf{Choose} action $a_{k}(t) \sim \pi_{k}(t)$
+	\item \textbf{Observe} game outcome 
+	\Itemize{
+		\item $a_{\_k}(t)$
+		\item $u_{k}(a_{k}(t), a_{\_k}(t))$
+	}
+	\item \textbf{Improve} $\pi_{k}(t+1)$
+}
+
+Thus, we can expect that \forall k \in K
+
+\Equation{e1}{\pi_{k(t)} \xrightarrow{t\longrightarrow\infty} \pi^{*}_{k}}
+\Equation{e2}{u_{k}(\pi_{k}(t), \pi_{\_k}(t)) \xrightarrow{t\longrightarrow\infty} u_{k}(\pi^{*}_{k}, \pi^{*}_{\_k})}
+
+Where:
+\Itemize{
+	\item $ \pi^{*} = (\pi^{*}_{1}, ..., \pi^{*}_{k})$ is the NE strategy profile
+}
+
+}{
+	\Figure{h}{1}{marcov}{}
+}
+
 \end{frame}
 
 

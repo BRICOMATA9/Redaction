@@ -84,7 +84,7 @@
       \verb{url}
       \verb http://arxiv.org/abs/1310.4038
       \endverb
-      \keyw{,App-Weather}
+      \keyw{,U-Weather}
     \endentry
     \entry{kouicem_internet_2018}{article}{}
       \name{author}{3}{}{%
@@ -144,7 +144,7 @@
       \verb{url}
       \verb http://www.sciencedirect.com/science/article/pii/S1389128618301208
       \endverb
-      \keyw{,App}
+      \keyw{,A-App}
     \endentry
     \entry{venkatesan_design_2017}{inproceedings}{}
       \name{author}{3}{}{%
@@ -206,7 +206,7 @@
       \verb{url}
       \verb http://ieeexplore.ieee.org/document/8058352/
       \endverb
-      \keyw{,RAN-GW\_selection}
+      \keyw{,A-App}
     \endentry
     \entry{feltrin_lorawan_2018}{article}{}
       \name{author}{5}{}{%
@@ -251,7 +251,7 @@
       \field{journaltitle}{IEEE Internet of Things Journal}
       \field{langid}{english}
       \field{month}{6}
-      \field{note}{00000}
+      \field{note}{00018}
       \field{number}{3}
       \field{shorttitle}{{{LoRaWAN}}}
       \field{title}{{{LoRaWAN}}: {{Evaluation}} of {{Link}}- and {{System}}-{{Level Performance}}}
@@ -276,7 +276,49 @@
       \verb{url}
       \verb https://ieeexplore.ieee.org/document/8344411/
       \endverb
-      \keyw{PDR,SIR,BW,RAN-Measurement}
+      \keyw{PDR,SIR,BW,M-Divers}
+    \endentry
+    \entry{cattani_experimental_2017}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5580c2793a5997f0ca044894909252ca}{%
+           family={Cattani},
+           familyi={C\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d01f7b8eb765511050ca03d2cc9f8fb0}{%
+           family={Boano},
+           familyi={B\bibinitperiod},
+           given={Carlo},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2ff4c69dc5158c7a1084771973222290}{%
+           family={Römer},
+           familyi={R\bibinitperiod},
+           given={Kay},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{151cb1ea820c357186ead9d97404adab}
+      \strng{fullhash}{151cb1ea820c357186ead9d97404adab}
+      \strng{bibnamehash}{151cb1ea820c357186ead9d97404adab}
+      \strng{authorbibnamehash}{151cb1ea820c357186ead9d97404adab}
+      \strng{authornamehash}{151cb1ea820c357186ead9d97404adab}
+      \strng{authorfullhash}{151cb1ea820c357186ead9d97404adab}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Sensor and Actuator Networks}
+      \field{note}{00042}
+      \field{number}{2}
+      \field{title}{An Experimental Evaluation of the Reliability of Lora Long-Range Low-Power Wireless Communication}
+      \field{volume}{6}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{7}
+      \range{pages}{1}
+      \verb{file}
+      \verb Cattani et al_2017_An experimental evaluation of the reliability of lora long-range low-power.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/Y4D92FBP/Cattani et al_2017_An experimental evaluation of the reliability of lora long-range low-power.pdf:application/pdf
+      \endverb
+      \keyw{,M-Divers}
     \endentry
     \entry{sciancalepore_storns_2019}{article}{}
       \name{author}{3}{}{%
@@ -307,6 +349,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Recently released 5G networks empower the novel Network Slicing concept. \%which enables novel business models; Network slicing introduces new business models such as allowing telecom providers to lease a virtualized slice of their infrastructure to tenants such as industry verticals, e.g. automotive, e-health, factories, etc. However, this new paradigm poses a major challenge when applied to Radio Access Networks (RAN): how to achieve revenue maximization while meeting the diverse service level agreements (SLAs) requested by the infrastructure tenants? In this paper, we propose a new analytical framework, based on stochastic geometry theory, to model realistic RANs that leverage the business opportunities offered by network slicing. We mathematically prove the benefits of slicing radio access networks as compared to non-sliced infrastructures. Based on this, we design a new admission control functional block, STORNS, which takes decisions considering per slice SLA guaranteed average experienced throughput. A radio resource allocation strategy is introduced to optimally allocate transmit power and bandwidth (i.e., a slice of radio access resources) to the users of each infrastructure tenant. Numerical results are illustrated to validate our proposed solution in terms of potential spectral efficiency, and compare it against a non-slicing benchmark.}
+      \field{annotation}{Comment: Submitted for publication to IEEE conference}
       \field{day}{16}
       \field{eprintclass}{cs, math}
       \field{eprinttype}{arxiv}
@@ -332,76 +375,9 @@
       \verb{url}
       \verb http://arxiv.org/abs/1901.05336
       \endverb
-      \keyw{Computer Science - Information Theory,**,Slice}
+      \keyw{Computer Science - Information Theory,**,M-Proba}
     \endentry
-    \entry{sama_servicebased_2016}{inproceedings}{}
-      \name{author}{4}{}{%
-        {{hash=4b3a154228103d1b3f7b18b5dea8bb10}{%
-           family={Sama},
-           familyi={S\bibinitperiod},
-           given={Malla\bibnamedelima Reddy},
-           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=27922414b029c77e449720bdd81162ec}{%
-           family={Beker},
-           familyi={B\bibinitperiod},
-           given={Sergio},
-           giveni={S\bibinitperiod}}}%
-        {{hash=690ae3279e18e9fd4c8c9a9b9fa87ca9}{%
-           family={Kiess},
-           familyi={K\bibinitperiod},
-           given={Wolfgang},
-           giveni={W\bibinitperiod}}}%
-        {{hash=0ba8cee89aef8ea4fa5c79451dc99d4f}{%
-           family={Thakolsri},
-           familyi={T\bibinitperiod},
-           given={Srisakul},
-           giveni={S\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Washington, DC, USA}%
-      }
-      \list{publisher}{1}{%
-        {IEEE}%
-      }
-      \strng{namehash}{ea6dd10525535c93086962b3a0a3ba07}
-      \strng{fullhash}{1d99b9d34881c4b59f0d553774de46e2}
-      \strng{bibnamehash}{1d99b9d34881c4b59f0d553774de46e2}
-      \strng{authorbibnamehash}{1d99b9d34881c4b59f0d553774de46e2}
-      \strng{authornamehash}{ea6dd10525535c93086962b3a0a3ba07}
-      \strng{authorfullhash}{1d99b9d34881c4b59f0d553774de46e2}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{2016 {{IEEE Global Communications Conference}} ({{GLOBECOM}})}
-      \field{eventtitle}{{{GLOBECOM}} 2016 - 2016 {{IEEE Global Communications Conference}}}
-      \field{isbn}{978-1-5090-1328-9}
-      \field{month}{12}
-      \field{note}{00016}
-      \field{title}{Service-{{Based Slice Selection Function}} for {{5G}}}
-      \field{urlday}{19}
-      \field{urlmonth}{6}
-      \field{urlyear}{2019}
-      \field{year}{2016}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{1\bibrangedash 6}
-      \range{pages}{6}
-      \verb{doi}
-      \verb 10.1109/GLOCOM.2016.7842265
-      \endverb
-      \verb{file}
-      \verb Sama et al_2016_Service-Based Slice Selection Function for 5G.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/NJ25WB7B/Sama et al_2016_Service-Based Slice Selection Function for 5G.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://ieeexplore.ieee.org/document/7842265/
-      \endverb
-      \verb{url}
-      \verb http://ieeexplore.ieee.org/document/7842265/
-      \endverb
-      \keyw{,Slice}
-    \endentry
-    \entry{ksentini_enforcing_2017b}{article}{}
+    \entry{ksentini_toward_2017}{article}{}
       \name{author}{2}{}{%
         {{hash=09a4314866bfc9e9a165ec1171cd71b6}{%
            family={Ksentini},
@@ -420,8 +396,8 @@
       \strng{authorbibnamehash}{3baf58f7cce1db0b9be04f73f03e7e0a}
       \strng{authornamehash}{3baf58f7cce1db0b9be04f73f03e7e0a}
       \strng{authorfullhash}{3baf58f7cce1db0b9be04f73f03e7e0a}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{issn}{0163-6804}
@@ -452,7 +428,7 @@
       \verb{url}
       \verb http://ieeexplore.ieee.org/document/7946928/
       \endverb
-      \keyw{,Slice}
+      \keyw{,M-Proba}
     \endentry
     \entry{barro_lorawan_2019}{article}{}
       \name{author}{1}{}{%
@@ -483,53 +459,12 @@
       \verb{file}
       \verb Barro - A LoRaWAN coverage testBed and a multi-optional co.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/VYEHBWHL/Barro - A LoRaWAN coverage testBed and a multi-optional co.pdf:application/pdf
       \endverb
-      \keyw{,RAN-Measurement}
-    \endentry
-    \entry{cattani_experimental_2017}{article}{}
-      \name{author}{3}{}{%
-        {{hash=5580c2793a5997f0ca044894909252ca}{%
-           family={Cattani},
-           familyi={C\bibinitperiod},
-           given={Marco},
-           giveni={M\bibinitperiod}}}%
-        {{hash=d01f7b8eb765511050ca03d2cc9f8fb0}{%
-           family={Boano},
-           familyi={B\bibinitperiod},
-           given={Carlo},
-           giveni={C\bibinitperiod}}}%
-        {{hash=2ff4c69dc5158c7a1084771973222290}{%
-           family={Römer},
-           familyi={R\bibinitperiod},
-           given={Kay},
-           giveni={K\bibinitperiod}}}%
-      }
-      \strng{namehash}{151cb1ea820c357186ead9d97404adab}
-      \strng{fullhash}{151cb1ea820c357186ead9d97404adab}
-      \strng{bibnamehash}{151cb1ea820c357186ead9d97404adab}
-      \strng{authorbibnamehash}{151cb1ea820c357186ead9d97404adab}
-      \strng{authornamehash}{151cb1ea820c357186ead9d97404adab}
-      \strng{authorfullhash}{151cb1ea820c357186ead9d97404adab}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Sensor and Actuator Networks}
-      \field{note}{00042}
-      \field{number}{2}
-      \field{title}{An Experimental Evaluation of the Reliability of Lora Long-Range Low-Power Wireless Communication}
-      \field{volume}{6}
-      \field{year}{2017}
-      \field{dateera}{ce}
-      \field{pages}{7}
-      \range{pages}{1}
-      \verb{file}
-      \verb Cattani et al_2017_An experimental evaluation of the reliability of lora long-range low-power.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/Y4D92FBP/Cattani et al_2017_An experimental evaluation of the reliability of lora long-range low-power.pdf:application/pdf
-      \endverb
-      \keyw{,Performance}
+      \keyw{,M-Divers}
     \endentry
   \enddatalist
   \missing{alkhawlani_access_2008a}
   \missing{dimartino_internet_2018}
+  \missing{sama_servicebased_2016}
 \endrefsection
 \endinput
 
