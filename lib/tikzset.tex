@@ -131,3 +131,20 @@
 \newcommand\CadreText[4]{\node[draw, thick,text width=#4] (#1) at (#2) {#3};}
 \newcommand\Line[9]{\draw[dashed] (#1) -- (#2) -- (#3) -- (#4) -- (#5) -- (#6);}
 \newcommand\Rectanglee[5]{\draw[dashed, thick] (#2,#3) -- (#4,#3) -- (#4,#5) -- (#2,#5) -- (#2,#3);}
+
+\newcommand{\bey}[4]{
+  \onslide<2->{
+  \begin{tikzpicture}[remember picture, overlay]
+    \node[rotate=#2] at (#3) {\color{#1!90}\huge #4};
+  \end{tikzpicture}
+  }
+  % \center{\Huge{Thank you !}}
+}
+
+\newcommand{\stamp}[5]{
+  \onslide<2->{
+  \begin{tikzpicture}[remember picture, overlay]
+    \node[draw=#1, rotate=#2] at (#3) {\color{#1!#5}\huge #4};
+  \end{tikzpicture}
+  }
+}

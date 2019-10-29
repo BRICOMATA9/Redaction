@@ -1,18 +1,10 @@
 \documentclass[8pt]{beamer}
 \input{../lib/setup}
 
-
 % \usepackage{pgf}#\logo{\pgfputat{\pgfxy(0,8)}{\pgfbox[right,base]{\includegraphics[height=4cm]{wsn-IoT}}}}
-
-
 \usepackage{fourier} % txtbf
 \usepackage{hyperref}
 % \hypersetup{pdfpagemode=FullScreen}
-
-
-
-
-
 
 \setbeamertemplate{bibliography item}{\insertbiblabel}
 	
@@ -313,9 +305,7 @@
 
 				\item[These] My talk is gonna be on ...
 				\end{itemize}
-			}
-			
-			
+			}	
 	\end{frame}
 }
 
@@ -334,65 +324,10 @@
 	\addtocounter{framenumber}{\value{framenumberappendix}} 
 }
 
-
-%		\addcontentsline{toc}{chapter}{Bibliography}
-		%\printbibheading
-		
-%		\aghiles{Privacy score}
-%		\aghiles{Trust score centrality}
-%		\aghiles{Trust score propagation}
-%		\aghiles{Trust score capital}
-%		\aghiles{Trust score classification}
-%		\aghiles{Trust score collaborative}
-%		\aghiles{Trust score services}
-%		\aghiles{Trust score survey}
-%		\aghiles{Trust score visibility}
-%		\aghiles{Trust score inference}
-%		\aghiles{Trust score divers1}
-%		\aghiles{Trust score divers2}
-
-
-		% \printbibliography[heading=subbibliography,
-%			notkeyword={Privacy score},
-%			notkeyword={Trust score centrality},
-%			notkeyword={Trust score propagation},
-%			notkeyword={Trust score capital},
-%			notkeyword={Trust score classification},
-%			notkeyword={Trust score collaborative},
-%			notkeyword={Trust score services},
-%			notkeyword={Trust score survey},
-%			notkeyword={Trust score visibility},
-%			notkeyword={Trust score inference},
-%			notkeyword={Trust score divers1},
-%			notkeyword={Trust score divers2},
-			% title=Others
-		% ]
-
-
-
-\newcommand{\bey}[4]{
-	\onslide<2->{
-	\begin{tikzpicture}[remember picture, overlay]
-		\node[rotate=#2] at (#3) {\color{#1!90}\huge #4};
-	\end{tikzpicture}
-	}
-	% \center{\Huge{Thank you !}}
-}
-
-\newcommand{\stamp}[5]{
-	\onslide<2->{
-	\begin{tikzpicture}[remember picture, overlay]
-		\node[draw=#1, rotate=#2] at (#3) {\color{#1!#5}\huge #4};
-	\end{tikzpicture}
-	}
-}
-
 \newcommand{\chapter}[2][]{
 	\section{#2}
 	\xinput{#1*/1*}
 }
-
-\xinput{00*/1*}
 
 \def\biblio{
 % \alltableofcontent
@@ -407,3 +342,8 @@
 \newcommand\Appendix{}
 % \newcommand\epigraph[1]{}
 % \date{}
+
+
+
+
+\xinput{00*/1*}

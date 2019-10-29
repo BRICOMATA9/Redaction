@@ -199,7 +199,10 @@
 	],
 	"file_history":
 	[
+		"/home/aghiles/Aghiles/Research/Writing/src/01-Introduction/10_introduction.tex",
+		"/home/aghiles/Aghiles/Research/Writing/lib/tikzset.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/main.tex",
+		"/home/aghiles/Aghiles/Research/Writing/lib/slide.tex",
 		"/home/aghiles/.config/dconf/user",
 		"/home/aghiles/Aghiles/Research/Writing/lib/setup.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/L-Library/05_state.tex",
@@ -225,7 +228,6 @@
 		"/home/aghiles/Aghiles/Research/Writing/src/21-Disaster/03_background.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/21_poster.tex",
 		"/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex",
-		"/home/aghiles/Aghiles/Research/Writing/lib/slide.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/15_experimentation.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/slide.tex",
 		"/home/aghiles/Aghiles/Research/Writing/lib/plot.tex",
@@ -324,13 +326,11 @@
 		"/home/aghiles/Downloads/yyzzee.bib",
 		"/home/aghiles/Downloads/yyff.bib",
 		"/home/aghiles/Downloads/yyuu.bib",
-		"/home/aghiles/Downloads/yynn.bib",
-		"/home/aghiles/Downloads/Bandit.bib",
-		"/home/aghiles/Aghiles/Redaction/setup/lib/iot/translators/BibTeX.js"
+		"/home/aghiles/Downloads/yynn.bib"
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -378,7 +378,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 29.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -423,7 +423,7 @@
 	"project": "main.sublime-project",
 	"replace":
 	{
-		"height": 54.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":

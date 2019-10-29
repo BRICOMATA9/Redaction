@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.07.0 (TeX Live 2019/dev/Debian)  (format=lualatex 2019.10.12)  28 OCT 2019 15:01
+This is LuaTeX, Version 1.07.0 (TeX Live 2019/dev/Debian)  (format=lualatex 2019.10.12)  29 OCT 2019 16:59
  system commands enabled.
 **main.tex
 (./main.tex
@@ -48,7 +48,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.073 seconds
+luaotfload | main : initialization completed in 0.076 seconds
 (../lib/slide.tex (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2018/12/02 v3.55 A class for typesetting presentations
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
@@ -2466,7 +2466,7 @@ Package: pgfpages 2011/01/05 ver 0.02
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/palatino.sty
 Package: palatino 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
-Package biblatex Info: Redefining '\supercite' on input line 72.
+Package biblatex Info: Redefining '\supercite' on input line 64.
 \g__file_internal_ior=\read5
 
 (./00/10_firstpage.tex)) (../lib/bibliography.tex)
@@ -3253,17 +3253,25 @@ Overfull \vbox (11.9054pt too high) detected at line 188
 
 ] [16
 
-]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [17
-
 ]
-("./02-State of the art/12_related.tex"
+<../res/tmp/infocom.png, id=605, 963.6pt x 843.15pt>
+File: ../res/tmp/infocom.png Graphic file (type png)
+<use ../res/tmp/infocom.png>
+Package luatex.def Info: ../res/tmp/infocom.png  used on input line 242.
+(luatex.def)             Requested size: 270.14651pt x 236.37628pt.
+
+Overfull \vbox (36.81265pt too high) detected at line 242
+ []
+
+[17
+
+<../res/tmp/infocom.png>])
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [18
 
 ]
+("./02-State of the art/12_related.tex"
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [19
@@ -3273,61 +3281,61 @@ Overfull \vbox (11.9054pt too high) detected at line 188
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [20
 
-] [21
+]
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [21
+
+] [22
 
 ]
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [22
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [23
 
-] [23
+] [24
 
 ]
 Overfull \hbox (2.21503pt too wide) in paragraph at lines 69--69
 [][]  
  []
 
-[24
+[25
 
 ] (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [25
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [26
 
 ]
-<../res/plot/bin/qlearning.pdf, id=800, 286.33072pt x 144.06725pt>
+<../res/plot/bin/qlearning.pdf, id=810, 286.33072pt x 144.06725pt>
 File: ../res/plot/bin/qlearning.pdf Graphic file (type pdf)
 <use ../res/plot/bin/qlearning.pdf>
 Package luatex.def Info: ../res/plot/bin/qlearning.pdf  used on input line 76.
 (luatex.def)             Requested size: 180.09767pt x 90.61554pt.
- [26
+ [27
 
 <../res/plot/bin/qlearning.pdf>] (/home/aghiles/Aghiles/Research/Writing/bin/sl
 ide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [27
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [28
 
 ]
 LaTeX Font Info:    Try loading font information for T1+ppl on input line 111.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
-) [28
+) [29
 
 ]
-<../res/plot/bin/marcov.pdf, id=864, 118.94739pt x 60.34846pt>
+<../res/plot/bin/marcov.pdf, id=874, 118.94739pt x 60.34846pt>
 File: ../res/plot/bin/marcov.pdf Graphic file (type pdf)
 <use ../res/plot/bin/marcov.pdf>
 Package luatex.def Info: ../res/plot/bin/marcov.pdf  used on input line 143.
 (luatex.def)             Requested size: 144.07594pt x 73.10287pt.
- [29
+ [30
 
 <../res/plot/bin/marcov.pdf>] (/home/aghiles/Aghiles/Research/Writing/bin/slide
 .toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [30
-
-]
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [31
 
@@ -3336,31 +3344,36 @@ Package luatex.def Info: ../res/plot/bin/marcov.pdf  used on input line 143.
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [32
 
-] [33
+]
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [33
+
+] [34
 
 ])
 ("./02-State of the art/16_discussion.tex"
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [34
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [35
 
 ]
-<../res/icon/mail.png, id=1010, 845.0772pt x 597.9138pt>
+<../res/icon/mail.png, id=1020, 845.0772pt x 597.9138pt>
 File: ../res/icon/mail.png Graphic file (type png)
 <use ../res/icon/mail.png>
 Package luatex.def Info: ../res/icon/mail.png  used on input line 13.
 (luatex.def)             Requested size: 126.07057pt x 89.19054pt.
- [35
+ [36
 
 <../res/icon/mail.png>]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [36
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [37
 
 ]
 (./03-x-Testbed/11_introduction.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [37
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [38
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -3370,31 +3383,31 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 13.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[38
+[39
 
 ]) (./03-x-Testbed/12_related.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [39
-
-] [40
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [40
 
 ] [41
+
+] [42
 
 ])
 (./03-x-Testbed/13_method.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [42
-
-] [43
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [43
 
 ] [44
 
 ] [45
 
+] [46
+
 ]
-[46
+[47
 
 ]
 
@@ -3402,12 +3415,12 @@ Package tabulary Warning: No suitable columns! on input line 83.
 
 
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:'
-[47
+[48
 
 ]) (./03-x-Testbed/14_experimentation.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [48
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [49
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -3417,12 +3430,12 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 12.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[49
+[50
 
 ]) (./03-x-Testbed/15_results.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [50
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [51
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -3432,12 +3445,12 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 12.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[51
+[52
 
 ]) (./03-x-Testbed/16_discussion.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [52
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [53
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -3447,17 +3460,17 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 13.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[53
+[54
 
 ]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [54
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [55
 
 ]
 (./04-x-Sentilo/11_introduction.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [55
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [56
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -3467,33 +3480,33 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 12.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[56
+[57
 
 ]) (./04-x-Sentilo/12_related.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [57
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [58
 
 ]
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
 '
-[58
+[59
 
 ]
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
 u'
-[59
+[60
 
 ]) (./04-x-Sentilo/13_method.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [60
-
-] [61
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [61
 
 ] [62
 
 ] [63
+
+] [64
 
 ]
 
@@ -3501,12 +3514,12 @@ Package tabulary Warning: No suitable columns! on input line 77.
 
 
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:'
-[64
+[65
 
 ]) (./04-x-Sentilo/14_experimentation.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [65
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [66
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -3516,12 +3529,12 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 12.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[66
+[67
 
 ]) (./04-x-Sentilo/15_results.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [67
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [68
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -3531,12 +3544,12 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 12.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[68
+[69
 
 ]) (./04-x-Sentilo/16_discussion.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [69
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [70
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -3546,17 +3559,17 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 13.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[70
+[71
 
 ]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [71
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [72
 
 ]
 ("./05-x-Long paper/11_introduction.tex"
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [72
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [73
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -3566,36 +3579,36 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 12.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[73
+[74
 
 ]) ("./05-x-Long paper/12_related.tex"
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [74
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [75
 
 ]
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
 '
-[75
+[76
 
 ]
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
 u'
-[76
+[77
 
 ]) ("./05-x-Long paper/13_method.tex"
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [77
-
-] [78
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [78
 
 ] [79
 
 ] [80
 
+] [81
+
 ]
-[81
+[82
 
 ]
 
@@ -3603,12 +3616,12 @@ Package tabulary Warning: No suitable columns! on input line 83.
 
 
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:'
-[82
+[83
 
 ]) ("./05-x-Long paper/14_experimentation.tex"
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [83
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [84
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -3618,12 +3631,12 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 12.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[84
+[85
 
 ]) ("./05-x-Long paper/15_results.tex"
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [85
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [86
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -3633,12 +3646,12 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 12.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[86
+[87
 
 ]) ("./05-x-Long paper/16_discussion.tex"
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [87
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [88
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -3648,53 +3661,53 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 13.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[88
+[89
 
 ]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [89
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [90
 
 ]
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/11_introduct
 ion.tex" (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [90
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [91
 
 ])
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/12_related.t
 ex" (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [91
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [92
 
 ])
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/13_backgroun
 d.tex" (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [92
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [93
 
 ])
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/14_method.te
 x" (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [93
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [94
 
 ]
-<../res/plot/genetic.pdf, id=1923, 1026.1025pt x 457.04752pt>
+<../res/plot/genetic.pdf, id=1933, 1026.1025pt x 457.04752pt>
 File: ../res/plot/genetic.pdf Graphic file (type pdf)
 <use ../res/plot/genetic.pdf>
 Package luatex.def Info: ../res/plot/genetic.pdf  used on input line 50.
 (luatex.def)             Requested size: 360.19536pt x 160.43628pt.
- [94
+ [95
 
-<../res/plot/genetic.pdf>] [95
+<../res/plot/genetic.pdf>] [96
 
-] [96
+] [97
 
 ])
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/15_experimen
 tation.tex" (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [97
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [98
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -3704,13 +3717,13 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 14.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[98
+[99
 
 ])
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/16_results.t
 ex" (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [99
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [100
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -3720,13 +3733,13 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 12.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[100
+[101
 
 ])
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/17_discussio
 n.tex" (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [101
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [102
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -3736,17 +3749,17 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 13.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[102
+[103
 
 ]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [103
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [104
 
 ]
 (./21-Disaster/11_introduction.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [104
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [105
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -3756,36 +3769,36 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 12.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[105
+[106
 
 ]) (./21-Disaster/12_related.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [106
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [107
 
 ]
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
 '
-[107
+[108
 
 ]
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
 u'
-[108
+[109
 
 ]) (./21-Disaster/13_method.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [109
-
-] [110
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [110
 
 ] [111
 
-]
-[112
+] [112
 
-] [113
+]
+[113
+
+] [114
 
 ]
 
@@ -3793,12 +3806,12 @@ Package tabulary Warning: No suitable columns! on input line 83.
 
 
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:'
-[114
+[115
 
 ]) (./21-Disaster/14_experimentation.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [115
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [116
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -3808,12 +3821,12 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 12.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[116
+[117
 
 ]) (./21-Disaster/15_results.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [117
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [118
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -3823,12 +3836,12 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 12.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[118
+[119
 
 ]) (./21-Disaster/16_discussion.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [119
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [120
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -3838,17 +3851,17 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 13.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[120
+[121
 
 ]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [121
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [122
 
 ]
 (./07-Template/11_introduction.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [122
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [123
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -3858,36 +3871,36 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 12.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[123
+[124
 
 ]) (./07-Template/12_related.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [124
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [125
 
 ]
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
 '
-[125
+[126
 
 ]
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
 u'
-[126
+[127
 
 ]) (./07-Template/13_method.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [127
-
-] [128
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [128
 
 ] [129
 
-]
-[130
+] [130
 
-] [131
+]
+[131
+
+] [132
 
 ]
 
@@ -3895,12 +3908,12 @@ Package tabulary Warning: No suitable columns! on input line 83.
 
 
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:'
-[132
+[133
 
 ]) (./07-Template/14_experimentation.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [133
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [134
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -3910,12 +3923,12 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 12.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[134
+[135
 
 ]) (./07-Template/15_results.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [135
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [136
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -3925,12 +3938,12 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 12.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[136
+[137
 
 ]) (./07-Template/16_discussion.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [137
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [138
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -3940,17 +3953,17 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 13.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[138
+[139
 
 ]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [139
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [140
 
 ]
 (./08-UTLC/11_introduction.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [140
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [141
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -3960,36 +3973,36 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 12.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[141
+[142
 
 ]) (./08-UTLC/12_related.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [142
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [143
 
 ]
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
 '
-[143
+[144
 
 ]
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:Tablej
 u'
-[144
+[145
 
 ]) (./08-UTLC/13_method.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [145
-
-] [146
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [146
 
 ] [147
 
-]
-[148
+] [148
 
-] [149
+]
+[149
+
+] [150
 
 ]
 
@@ -3997,7 +4010,7 @@ Package tabulary Warning: No suitable columns! on input line 83.
 
 
 warning  (pdf backend): ignoring duplicate destination with the name 'tab:'
-[150
+[151
 
 ]
 
@@ -4008,12 +4021,12 @@ he current directory, where it must reside for viewing. on input line 87.
 Overfull \vbox (1.0pt too high) detected at line 87
  []
 
-[151
+[152
 
 ]) (./08-UTLC/14_experimentation.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [152
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [153
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -4023,12 +4036,12 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 12.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[153
+[154
 
 ]) (./08-UTLC/15_results.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [154
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [155
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -4038,12 +4051,12 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 12.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[155
+[156
 
 ]) (./08-UTLC/16_discussion.tex
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [156
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [157
 
 ]
 File: ../res/icon/mail.png Graphic file (type png)
@@ -4053,18 +4066,23 @@ Package luatex.def Info: ../res/icon/mail.png  used on input line 13.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'fig:mail.p
 ng'
-[157
+[158
 
 ]) (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
 (/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
-(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [158
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [159
 
 ]
-(./09-Conclusion/10_conclusion.tex [159
+(./09-Conclusion/10_conclusion.tex [160
 
-] [160
+] [161
 
 ])
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc)
+(/home/aghiles/Aghiles/Research/Writing/bin/slide.toc) [162
+
+]
 \c@framenumberappendix=\count560
 
 (/home/aghiles/Aghiles/Research/Writing/src/L-Library/ref.tex
@@ -4425,7 +4443,7 @@ LaTeX Warning: Empty bibliography on input line 52.
 
 LaTeX Warning: Empty bibliography on input line 53.
 
-) [161
+) [163
 
 ]
 Package biblatex Info: Reference section=0 on input line 36.
@@ -4459,18 +4477,18 @@ Package logreq Info: Writing requests to 'slide.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 79203 strings out of 494383
+ 79311 strings out of 494383
  100000,2848258 words of node,token memory allocated
  20633 words of node memory still in use:
    47 hlist, 9 vlist, 6 rule, 138 disc, 10 local_par, 4 math, 420 glue, 177 kern
 , 108 penalty, 1562 glyph, 490 attribute, 116 glue_spec, 490 attribute_list, 16 
 write, 10 pdf_start_link, 10 pdf_end_link, 12 pdf_dest, 10 pdf_action, 118 pdf_c
 olorstack nodes
-   avail lists: 1:15,2:703,3:553,4:510,5:178,6:227,7:2209,8:656,9:994,10:36,11:1
+   avail lists: 1:15,2:703,3:553,4:510,5:178,6:227,7:2248,8:656,9:994,10:36,11:1
 62,12:1
- 76142 multiletter control sequences out of 65536+600000
+ 76149 multiletter control sequences out of 65536+600000
  349 fonts using 27697015 bytes
- 90i,17n,142p,1605b,3974s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 90i,17n,142p,1605b,4008s stack positions out of 5000i,500n,10000p,200000b,100000s
 
 warning  (pdf backend): unreferenced destination with name 'PktL'
 
@@ -4489,6 +4507,14 @@ warning  (pdf backend): unreferenced destination with name 'CR'
 warning  (pdf backend): unreferenced destination with name 'SF'
 
 warning  (pdf backend): unreferenced destination with name 'BW'
+
+warning  (pdf backend): unreferenced destination with name 'Outline0.10.4.162'
+
+warning  (pdf backend): unreferenced destination with name 'Outline0.10.3.162'
+
+warning  (pdf backend): unreferenced destination with name 'Outline0.10.2.162'
+
+warning  (pdf backend): unreferenced destination with name 'Outline0.10.1.162'
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/fourier/fourier-bb.pfb></usr/share/texlive/texmf-dist/fonts
@@ -4501,10 +4527,10 @@ xlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-d
 ist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/zapfd
 ing/uzdr.pfb>
-Output written on slide.pdf (161 pages, 5880589 bytes).
+Output written on slide.pdf (163 pages, 6115230 bytes).
 
-PDF statistics: 2968 PDF objects out of 2984 (max. 8388607)
- 2676 compressed objects within 27 object streams
- 436 named destinations out of 1000 (max. 131072)
+PDF statistics: 3000 PDF objects out of 3580 (max. 8388607)
+ 2703 compressed objects within 28 object streams
+ 446 named destinations out of 1000 (max. 131072)
  562 words of extra memory for PDF output out of 10000 (max. 100000000)
 
