@@ -200,12 +200,25 @@
 	],
 	"file_history":
 	[
+<<<<<<< HEAD
 		"/home/aghiles/Aghiles/Research/Writing/src/main.tex",
+=======
+		"/home/aghiles/.config/mutt/.cache/tmp/neomutt-gmail-1000-23385-18165426985156971998",
+		"/home/aghiles/.config/mutt/.cache/tmp/neomutt-gmail-1000-23385-1903577677666915584",
+		"/home/aghiles/.config/mutt/.cache/tmp/neomutt-gmail-1000-23385-4563890204153497125",
+		"/home/aghiles/Aghiles/Research/Writing/src/main.tex",
+		"/home/aghiles/.config/mutt/.cache/tmp/neomutt-gmail-1000-23385-5516758089931512771",
+		"/home/aghiles/Aghiles/Research/Writing/lib/setup.tex",
+		"/home/aghiles/Aghiles/Research/Writing/lib/plot.tex",
+		"/home/aghiles/Aghiles/Research/Writing/lib/commands.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/02-State of the art/01_usecases.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/02-State of the art/02_sensors.tex",
+		"/home/aghiles/Aghiles/Research/Writing/lib/these.tex",
+>>>>>>> 88b76af22a2435ad5ebf94c983c532b39fa8f0e0
 		"/home/aghiles/Aghiles/Research/Writing/src/01-Introduction/10_introduction.tex",
 		"/home/aghiles/Aghiles/Research/Writing/lib/tikzset.tex",
 		"/home/aghiles/Aghiles/Research/Writing/lib/slide.tex",
 		"/home/aghiles/.config/dconf/user",
-		"/home/aghiles/Aghiles/Research/Writing/lib/setup.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/L-Library/05_state.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/L-Library/ref.tex",
 		"/home/aghiles/Aghiles/Research/Writing/lib/bibliography.tex",
@@ -217,12 +230,10 @@
 		"/home/aghiles/Aghiles/Research/Writing/ref/iotbis.bib",
 		"/home/aghiles/Aghiles/Research/Writing/lib/paper.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/01_introduction.tex",
-		"/home/aghiles/Aghiles/Research/Writing/lib/commands.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/03-x-Testbed/01_introduction.tex",
 		"/home/aghiles/Aghiles/Research/Writing/lib/poster.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/Y-Management/01_introduction.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/Z-Plan/01_plan_affaire.tex",
-		"/home/aghiles/Aghiles/Research/Writing/lib/these.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/Z-Management/01_introduction.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/Z-Management/11_introduction.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/Z-Manaement",
@@ -231,7 +242,6 @@
 		"/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection/15_experimentation.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/slide.tex",
-		"/home/aghiles/Aghiles/Research/Writing/lib/plot.tex",
 		"/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/graphs/tikzlibrarygraphs.standard.code.tex",
 		"/home/aghiles/Aghiles/Redaction/src/slide.tex",
 		"/home/aghiles/Downloads/calcursem/src/calcurse",
@@ -321,13 +331,7 @@
 		"/home/aghiles/Aghiles/Latex/res/translators/Better BibLaTeX.js",
 		"/home/aghiles/Aghiles/Latex/src/1/main1.bib",
 		"/home/aghiles/Aghiles/Latex/src/2/main1.bib",
-		"/home/aghiles/Downloads/Mining2.bib",
-		"/home/aghiles/Downloads/Mining.bib",
-		"/home/aghiles/Downloads/yyrr.bib",
-		"/home/aghiles/Downloads/yyzzee.bib",
-		"/home/aghiles/Downloads/yyff.bib",
-		"/home/aghiles/Downloads/yyuu.bib",
-		"/home/aghiles/Downloads/yynn.bib"
+		"/home/aghiles/Downloads/Mining2.bib"
 	],
 	"find":
 	{
@@ -345,6 +349,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"item",
+			"tabu",
 			"geom",
 			"Half",
 			"refsection",
