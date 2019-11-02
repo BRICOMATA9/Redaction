@@ -195,13 +195,14 @@
 	},
 	"expanded_folders":
 	[
-		"/home/aghiles/Aghiles/Research/Writing/lib"
+		"/home/aghiles/Aghiles/Research/Writing/src",
+		"/home/aghiles/Aghiles/Research/Writing/src/06-Genetic Algorithm For LoRa Transmission Parameter Selection"
 	],
 	"file_history":
 	[
+		"/home/aghiles/Aghiles/Research/Writing/src/main.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/01-Introduction/10_introduction.tex",
 		"/home/aghiles/Aghiles/Research/Writing/lib/tikzset.tex",
-		"/home/aghiles/Aghiles/Research/Writing/src/main.tex",
 		"/home/aghiles/Aghiles/Research/Writing/lib/slide.tex",
 		"/home/aghiles/.config/dconf/user",
 		"/home/aghiles/Aghiles/Research/Writing/lib/setup.tex",
