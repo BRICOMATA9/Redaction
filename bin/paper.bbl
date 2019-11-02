@@ -363,7 +363,7 @@
       \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{LoRaWAN is emerging as an attractive network infrastructure for ultra low power Internet of Thing devices. Albeit the technology itself is quite mature and speciﬁed, how to effectively allocate wireless resources so as to support a large amount of devices in a same terrestrial area is an open challenge. This paper contributes by proposing two algorithms (of incremental complexity) which are shown to outperform the basic Adaptive Rate Strategy (ADR) so far considered. A ﬁrst approach, named EXPLoRa-SF, shows the beneﬁts of a simple strategy which does not limit to use (as per ADR) distance/RSSI measurements, but also selects Spreading Factors (SF) based on the total number of connected devices. The advantages attained with EXPLoRa-SF further lead us to propose a more sophisticated algorithm, named EXPLoRa-AT, which employs an innovative “ordered waterﬁlling” approach which attempts to allocate the spreading factors so as to equalize the Time on Air of the packets transmitted by the system’s end devices in each spreading factor’s group. Simulation results show that the proposed algorithms signiﬁcantly outperform the basic ADR strategy, and particularly the EXPLoRa-AT algorithm appears very robust to different operating conditions and consistently guarantees high bit rates in the case of high trafﬁc loads.}
+      \field{abstract}{LoRaWAN is emerging as an attractive network infrastructure for ultra low power Internet of Thing devices. Albeit the technology itself is quite mature and specified, how to effectively allocate wireless resources so as to support a large amount of devices in a same terrestrial area is an open challenge. This paper contributes by proposing two algorithms (of incremental complexity) which are shown to outperform the basic Adaptive Rate Strategy (ADR) so far considered. A first approach, named EXPLoRa-SF, shows the benefits of a simple strategy which does not limit to use (as per ADR) distance/RSSI measurements, but also selects Spreading Factors (SF) based on the total number of connected devices. The advantages attained with EXPLoRa-SF further lead us to propose a more sophisticated algorithm, named EXPLoRa-AT, which employs an innovative “ordered waterfilling” approach which attempts to allocate the spreading factors so as to equalize the Time on Air of the packets transmitted by the system’s end devices in each spreading factor’s group. Simulation results show that the proposed algorithms significantly outperform the basic ADR strategy, and particularly the EXPLoRa-AT algorithm appears very robust to different operating conditions and consistently guarantees high bit rates in the case of high traffic loads.}
       \field{booktitle}{2017 {{IEEE}} 13th {{International Conference}} on {{Wireless}} and {{Mobile Computing}}, {{Networking}} and {{Communications}} ({{WiMob}})}
       \field{eventtitle}{2017 {{IEEE}} 13th {{International Conference}} on {{Wireless}} and {{Mobile Computing}}, {{Networking}} and {{Communications}} ({{WiMob}})}
       \field{isbn}{978-1-5386-3839-2}
@@ -384,7 +384,7 @@
       \verb 10.1109/WiMOB.2017.8115779
       \endverb
       \verb{file}
-      \verb Cuomo et al. - 2017 - EXPLoRa Extending the performance of LoRa by suit.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/CTKEI9B4/Cuomo et al. - 2017 - EXPLoRa Extending the performance of LoRa by suit.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/CTKEI9B4/Cuomo et al. - 2017 - EXPLoRa Extending the performance of LoRa by suit.pdf
       \endverb
       \verb{urlraw}
       \verb http://ieeexplore.ieee.org/document/8115779/
@@ -420,7 +420,7 @@
       \field{pages}{215}
       \range{pages}{1}
       \verb{file}
-      \verb Duhart - Toward organic ambient intelligences EMMA.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/K99MF4B4/Duhart - Toward organic ambient intelligences EMMA.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/K99MF4B4/Duhart - Toward organic ambient intelligences EMMA.pdf
       \endverb
       \keyw{,M-Choregraphie}
     \endentry
@@ -487,7 +487,7 @@
       \verb 10.1002/nem.2038
       \endverb
       \verb{file}
-      \verb Zarca et al_2018_Enhancing IoT security through network softwarization and virtual security.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/BJJA6A5Y/Zarca et al_2018_Enhancing IoT security through network softwarization and virtual security.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/BJJA6A5Y/Zarca et al_2018_Enhancing IoT security through network softwarization and virtual security.pdf
       \endverb
       \verb{urlraw}
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/nem.2038
@@ -541,7 +541,7 @@
       \verb 10.1080/1448837X.2017.1409920
       \endverb
       \verb{file}
-      \verb Al-Kashoash_Kemp_2016_Comparison of 6LoWPAN and LPWAN for the Internet of Things.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/RDCM3GDN/Al-Kashoash_Kemp_2016_Comparison of 6LoWPAN and LPWAN for the Internet of Things.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/RDCM3GDN/Al-Kashoash_Kemp_2016_Comparison of 6LoWPAN and LPWAN for the Internet of Things.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.tandfonline.com/doi/full/10.1080/1448837X.2017.1409920
@@ -549,7 +549,7 @@
       \verb{url}
       \verb https://www.tandfonline.com/doi/full/10.1080/1448837X.2017.1409920
       \endverb
-      \keyw{,A-RAN,U-Disaster}
+      \keyw{,E-RAN,U-Disaster}
     \endentry
     \entry{ayoub_internet_2019}{article}{}
       \name{author}{5}{}{%
@@ -589,7 +589,7 @@
       \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Low-power Wide Area Networks (LPWANs) constitute a type of networks which is used to connect things to the Internet from a wide variety of sectors. These types of technologies provide the Internet of Things (IoT) devices with the ability to transmit few bytes of data for long ranges, taking into consideration minimum power consumption. In parallel, IoT applications will cover a wide range of human and life needs from smart environments (cities, home, transportation etc.) to health and quality of life. Among these popular LPWANs technologies, we have identiﬁed the unlicensed frequency band (LoRa, DASH7, SigFox, Wi-SUN, etc.), and the licensed frequency band standards (NB-IoT, LTE Cat-M, EC-GSM-IoT, etc.). In general, both types of standards only consider ﬁxed interconnected things, and less attention has been provided to the mobility of the things or devices. In this paper, we address the mobility of the things and the connectivity in each of the three LPWAN standards: LoRaWAN, DASH7, and NB-IoT. In particular, we show how the mobility of things can be achieved when transmitting and receiving data. Then, we provide a general and technical comparison for the three standards. Finally, we illustrate several application scenarios where the mobility is required, and we show how to select the most suited standard. We also discuss the research challenges and perspectives.}
+      \field{abstract}{Low-power Wide Area Networks (LPWANs) constitute a type of networks which is used to connect things to the Internet from a wide variety of sectors. These types of technologies provide the Internet of Things (IoT) devices with the ability to transmit few bytes of data for long ranges, taking into consideration minimum power consumption. In parallel, IoT applications will cover a wide range of human and life needs from smart environments (cities, home, transportation etc.) to health and quality of life. Among these popular LPWANs technologies, we have identified the unlicensed frequency band (LoRa, DASH7, SigFox, Wi-SUN, etc.), and the licensed frequency band standards (NB-IoT, LTE Cat-M, EC-GSM-IoT, etc.). In general, both types of standards only consider fixed interconnected things, and less attention has been provided to the mobility of the things or devices. In this paper, we address the mobility of the things and the connectivity in each of the three LPWAN standards: LoRaWAN, DASH7, and NB-IoT. In particular, we show how the mobility of things can be achieved when transmitting and receiving data. Then, we provide a general and technical comparison for the three standards. Finally, we illustrate several application scenarios where the mobility is required, and we show how to select the most suited standard. We also discuss the research challenges and perspectives.}
       \field{endyear}{2019}
       \field{issn}{1553-877X, 2373-745X}
       \field{journaltitle}{IEEE Communications Surveys \& Tutorials}
@@ -612,7 +612,7 @@
       \verb 10.1109/COMST.2018.2877382
       \endverb
       \verb{file}
-      \verb Ayoub et al. - 2019 - Internet of Mobile Things Overview of LoRaWAN, DA.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/RQSGHPUE/Ayoub et al. - 2019 - Internet of Mobile Things Overview of LoRaWAN, DA.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/RQSGHPUE/Ayoub et al. - 2019 - Internet of Mobile Things Overview of LoRaWAN, DA.pdf
       \endverb
       \verb{urlraw}
       \verb https://ieeexplore.ieee.org/document/8502812/
@@ -648,9 +648,9 @@
       \field{pages}{593}
       \range{pages}{1}
       \verb{file}
-      \verb Berder - 2014 - Réseaux & Communications Sans fil.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/44XA3JDP/Berder - 2014 - Réseaux & Communications Sans fil.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/44XA3JDP/Berder - 2014 - Réseaux & Communications Sans fil.pdf
       \endverb
-      \keyw{,L-Wireless}
+      \keyw{,L-RAN}
     \endentry
     \entry{sarwar_iot_2015}{article}{}
       \name{author}{1}{}{%
@@ -678,7 +678,7 @@
       \field{pages}{23}
       \range{pages}{1}
       \verb{file}
-      \verb Sarwar - IoT Architecture Elements of Connectivity Techno.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/EEH8YJ2H/Sarwar - IoT Architecture Elements of Connectivity Techno.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/EEH8YJ2H/Sarwar - IoT Architecture Elements of Connectivity Techno.pdf
       \endverb
       \keyw{,Statistics}
     \endentry
@@ -729,7 +729,7 @@
       \verb 10.1109/ICC.2017.7996383
       \endverb
       \verb{file}
-      \verb Varsier_Schwoerer_2017_Capacity limits of LoRaWAN technology for smart metering applications.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/FLWU4Q98/Varsier_Schwoerer_2017_Capacity limits of LoRaWAN technology for smart metering applications.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/FLWU4Q98/Varsier_Schwoerer_2017_Capacity limits of LoRaWAN technology for smart metering applications.pdf
       \endverb
       \verb{urlraw}
       \verb http://ieeexplore.ieee.org/document/7996383/
@@ -737,7 +737,7 @@
       \verb{url}
       \verb http://ieeexplore.ieee.org/document/7996383/
       \endverb
-      \keyw{SF,M-Divers}
+      \keyw{SF,M-xDivers}
     \endentry
     \entry{loraaliance}{misc}{}
       \field{sortinit}{3}
@@ -809,9 +809,9 @@
       \field{pages}{7}
       \range{pages}{1}
       \verb{file}
-      \verb Cattani et al_2017_An experimental evaluation of the reliability of lora long-range low-power.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/Y4D92FBP/Cattani et al_2017_An experimental evaluation of the reliability of lora long-range low-power.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/Y4D92FBP/Cattani et al_2017_An experimental evaluation of the reliability of lora long-range low-power.pdf
       \endverb
-      \keyw{,M-Divers}
+      \keyw{,M-xDivers}
     \endentry
     \entry{barro_lorawan_2019}{article}{}
       \name{author}{1}{}{%
@@ -831,7 +831,7 @@
       \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Despite the inaccessibility or intermittency of Internet in developing countries, it remains one of the key elements in the ﬁeld of IoT and the smart city. Most cities experiencing these diﬃculties can, therefore, use stand-alone LoRaWAN base station solutions and provide good coverage of the area. Leftovers can claim to have access to acceptable connectivity, and therefore cheaper wireless communication, giving direct access to Internet from the collection node, will be required for data transmission: Wi-Fi can attain these objectives. In this article, we ﬁrst examine the existing tools to ensure a good coverage study of the LoRaWAN network and, thus, perform a testBed. After, we oﬀer a multi-optional architectural model that supports LoRaWAN and Wi-Fi protocols and that is ﬂexible for other options. A gateway (Wi-IoT) capable of both providing Wi-Fi access and at the same time the ability to collect, process and monitor data as a mini-server will be proposed as proof of concept. From the node to the gateway, the data is compressed and sent securely and a user who connects to the gateway can, then, have access to the data.}
+      \field{abstract}{Despite the inaccessibility or intermittency of Internet in developing countries, it remains one of the key elements in the field of IoT and the smart city. Most cities experiencing these difficulties can, therefore, use stand-alone LoRaWAN base station solutions and provide good coverage of the area. Leftovers can claim to have access to acceptable connectivity, and therefore cheaper wireless communication, giving direct access to Internet from the collection node, will be required for data transmission: Wi-Fi can attain these objectives. In this article, we first examine the existing tools to ensure a good coverage study of the LoRaWAN network and, thus, perform a testBed. After, we offer a multi-optional architectural model that supports LoRaWAN and Wi-Fi protocols and that is flexible for other options. A gateway (Wi-IoT) capable of both providing Wi-Fi access and at the same time the ability to collect, process and monitor data as a mini-server will be proposed as proof of concept. From the node to the gateway, the data is compressed and sent securely and a user who connects to the gateway can, then, have access to the data.}
       \field{langid}{english}
       \field{note}{00000}
       \field{title}{A {{LoRaWAN}} Coverage {{testBed}} and a Multi-Optional Communication Architecture for Smart City Feasibility in Developing Countries}
@@ -840,9 +840,9 @@
       \field{pages}{12}
       \range{pages}{1}
       \verb{file}
-      \verb Barro - A LoRaWAN coverage testBed and a multi-optional co.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/VYEHBWHL/Barro - A LoRaWAN coverage testBed and a multi-optional co.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/VYEHBWHL/Barro - A LoRaWAN coverage testBed and a multi-optional co.pdf
       \endverb
-      \keyw{,M-Divers}
+      \keyw{,M-xDivers}
     \endentry
     \entry{bendaoud_network_2019}{article}{}
       \name{author}{3}{}{%
@@ -872,7 +872,7 @@
       \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Heterogeneous wireless networks is a term referring to networks combining diﬀerent radio access technologies with the aim of establishing the best connection possible. In this case, users with multi-mode terminals can connect via diﬀerent wireless technologies, such as 802.16, 802.11, UMTS, HSPA and LTE, all at the same time. The problem consists in the selection of the most suitable from all radio access technologies available. The decision process is called network selection, and depends on several parameters, such as quality of service, mobility, cost, energy, battery life, etc. Several methods and approaches have been proposed in this context, with their objective being to oﬀer the best QoS to the users, and/or to maximize re-usability of the networks. This paper represents a survey of the network selection methods used. Multiple attribute-dependent decision-making methods are presented. Furthermore, the game theory concept is illustrated, the use of the fuzzy logic is presented, and the utility functions deﬁning the network selection process are discussed.}
+      \field{abstract}{Heterogeneous wireless networks is a term referring to networks combining different radio access technologies with the aim of establishing the best connection possible. In this case, users with multi-mode terminals can connect via different wireless technologies, such as 802.16, 802.11, UMTS, HSPA and LTE, all at the same time. The problem consists in the selection of the most suitable from all radio access technologies available. The decision process is called network selection, and depends on several parameters, such as quality of service, mobility, cost, energy, battery life, etc. Several methods and approaches have been proposed in this context, with their objective being to offer the best QoS to the users, and/or to maximize re-usability of the networks. This paper represents a survey of the network selection methods used. Multiple attribute-dependent decision-making methods are presented. Furthermore, the game theory concept is illustrated, the use of the fuzzy logic is presented, and the utility functions defining the network selection process are discussed.}
       \field{issn}{15094553, 18998852}
       \field{journaltitle}{Journal of Telecommunications and Information Technology}
       \field{langid}{english}
@@ -893,7 +893,7 @@
       \verb 10.26636/jtit.2018.126218
       \endverb
       \verb{file}
-      \verb Bendaoud et al_2019_Network Selection in Wireless Heterogeneous Networks.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/739YRMYN/Bendaoud et al_2019_Network Selection in Wireless Heterogeneous Networks.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/739YRMYN/Bendaoud et al_2019_Network Selection in Wireless Heterogeneous Networks.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.itl.waw.pl/czasopisma/JTIT/2018/4/64.pdf
@@ -937,7 +937,7 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{file}
-      \verb Meshinchi_2018_QOS-Aware and Status-Aware Adaptive Resource Allocation Framework in SDN-Based.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/BNHZ9XGG/Meshinchi_2018_QOS-Aware and Status-Aware Adaptive Resource Allocation Framework in SDN-Based.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/BNHZ9XGG/Meshinchi_2018_QOS-Aware and Status-Aware Adaptive Resource Allocation Framework in SDN-Based.pdf
       \endverb
       \verb{urlraw}
       \verb https://publications.polymtl.ca/3096/
@@ -991,7 +991,7 @@
       \verb 10.1016/j.jnca.2018.07.007
       \endverb
       \verb{file}
-      \verb Chowdhury_Raut_2018_A survey study on Internet of Things resource management.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/8678UQHT/Chowdhury_Raut_2018_A survey study on Internet of Things resource management.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/8678UQHT/Chowdhury_Raut_2018_A survey study on Internet of Things resource management.pdf
       \endverb
       \verb{urlraw}
       \verb http://www.sciencedirect.com/science/article/pii/S1084804518302315
@@ -1038,7 +1038,7 @@
       \field{year}{2015}
       \field{dateera}{ce}
       \verb{file}
-      \verb Bregell - 2015 - Hardware and software platform for Internet of Thi.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/WP8TRJWI/Bregell - 2015 - Hardware and software platform for Internet of Thi.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/WP8TRJWI/Bregell - 2015 - Hardware and software platform for Internet of Thi.pdf
       \endverb
       \keyw{,tool}
     \endentry
@@ -1092,7 +1092,7 @@
       \verb 10.1016/j.comnet.2018.03.012
       \endverb
       \verb{file}
-      \verb Kouicem et al_2018_Internet of things security.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/6UWPMR2T/Kouicem et al_2018_Internet of things security.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/6UWPMR2T/Kouicem et al_2018_Internet of things security.pdf
       \endverb
       \verb{urlraw}
       \verb http://www.sciencedirect.com/science/article/pii/S1389128618301208
@@ -1100,7 +1100,7 @@
       \verb{url}
       \verb http://www.sciencedirect.com/science/article/pii/S1389128618301208
       \endverb
-      \keyw{,A-App}
+      \keyw{,X-App}
     \endentry
     \entry{venkatesan_design_2017}{inproceedings}{}
       \name{author}{3}{}{%
@@ -1154,7 +1154,7 @@
       \verb 10.1109/I-SMAC.2017.8058352
       \endverb
       \verb{file}
-      \verb Venkatesan et al_2017_Design of a smart gateway solution based on the exploration of specific.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/A8CEDHVT/Venkatesan et al_2017_Design of a smart gateway solution based on the exploration of specific.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/A8CEDHVT/Venkatesan et al_2017_Design of a smart gateway solution based on the exploration of specific.pdf
       \endverb
       \verb{urlraw}
       \verb http://ieeexplore.ieee.org/document/8058352/
@@ -1162,7 +1162,7 @@
       \verb{url}
       \verb http://ieeexplore.ieee.org/document/8058352/
       \endverb
-      \keyw{,A-App}
+      \keyw{,X-App}
     \endentry
     \entry{rizzi_evaluation_2017}{article}{}
       \name{author}{4}{}{%
@@ -1218,7 +1218,7 @@
       \verb 10.1109/TIM.2017.2746378
       \endverb
       \verb{file}
-      \verb Rizzi et al. - 2017 - Evaluation of the IoT LoRaWAN Solution for Distrib.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/CDIGL49M/Rizzi et al. - 2017 - Evaluation of the IoT LoRaWAN Solution for Distrib.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/CDIGL49M/Rizzi et al. - 2017 - Evaluation of the IoT LoRaWAN Solution for Distrib.pdf
       \endverb
       \verb{urlraw}
       \verb http://ieeexplore.ieee.org/document/8036410/
@@ -1226,7 +1226,7 @@
       \verb{url}
       \verb http://ieeexplore.ieee.org/document/8036410/
       \endverb
-      \keyw{Delay,SF,M-Divers}
+      \keyw{Delay,SF,M-xDivers}
     \endentry
     \entry{feltrin_lorawan_2018}{article}{}
       \name{author}{5}{}{%
@@ -1266,7 +1266,7 @@
       \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{The Internet of Things (IoT) addresses a huge set of possible application domains, requiring both short- and long-range communication technologies. When long distances are present, a number of proprietary and standard solutions for Low Power Wide Area Networks (LPWAN) are already available. Among them, LoRaWAN is a candidate technology supported by many network operators. This paper discusses the possible role of LoRaWAN for the IoT. First, the LoRaWAN technology is assessed experimentally through a set of laboratory and on-ﬁeld tests, to characterize it from the link-level viewpoint; then, a system-level analysis is performed through simulation, to evaluate the capacity of a LoRaWAN gateway and a multigateway network to serve a large area. Finally, the results are discussed considering a broad set of use cases.}
+      \field{abstract}{The Internet of Things (IoT) addresses a huge set of possible application domains, requiring both short- and long-range communication technologies. When long distances are present, a number of proprietary and standard solutions for Low Power Wide Area Networks (LPWAN) are already available. Among them, LoRaWAN is a candidate technology supported by many network operators. This paper discusses the possible role of LoRaWAN for the IoT. First, the LoRaWAN technology is assessed experimentally through a set of laboratory and on-field tests, to characterize it from the link-level viewpoint; then, a system-level analysis is performed through simulation, to evaluate the capacity of a LoRaWAN gateway and a multigateway network to serve a large area. Finally, the results are discussed considering a broad set of use cases.}
       \field{issn}{2327-4662}
       \field{journaltitle}{IEEE Internet of Things Journal}
       \field{langid}{english}
@@ -1288,7 +1288,7 @@
       \verb 10.1109/JIOT.2018.2828867
       \endverb
       \verb{file}
-      \verb Feltrin et al. - 2018 - LoRaWAN Evaluation of Link- and System-Level Perf.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/685GB2HT/Feltrin et al. - 2018 - LoRaWAN Evaluation of Link- and System-Level Perf.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/685GB2HT/Feltrin et al. - 2018 - LoRaWAN Evaluation of Link- and System-Level Perf.pdf
       \endverb
       \verb{urlraw}
       \verb https://ieeexplore.ieee.org/document/8344411/
@@ -1296,7 +1296,7 @@
       \verb{url}
       \verb https://ieeexplore.ieee.org/document/8344411/
       \endverb
-      \keyw{PDR,SIR,BW,M-Divers}
+      \keyw{PDR,SIR,BW,M-xDivers}
     \endentry
     \entry{alba_intelligent_2016}{inproceedings}{}
       \name{author}{1}{}{%
@@ -1322,7 +1322,6 @@
       \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{annotation}{kkkllkkkl}
       \field{booktitle}{Proceedings of the 2016 on {{Genetic}} and {{Evolutionary Computation Conference Companion}} - {{GECCO}} '16 {{Companion}}}
       \field{eventtitle}{The 2016}
       \field{isbn}{978-1-4503-4323-7}
@@ -1341,7 +1340,7 @@
       \verb 10.1145/2908961.2927000
       \endverb
       \verb{file}
-      \verb Alba_2016_Intelligent Systems for Smart Cities.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/9JTDGC6B/Alba_2016_Intelligent Systems for Smart Cities.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/9JTDGC6B/Alba_2016_Intelligent Systems for Smart Cities.pdf
       \endverb
       \verb{urlraw}
       \verb http://dl.acm.org/citation.cfm?doid=2908961.2927000
@@ -1349,7 +1348,7 @@
       \verb{url}
       \verb http://dl.acm.org/citation.cfm?doid=2908961.2927000
       \endverb
-      \keyw{,L-Wireless}
+      \keyw{,L-RAN}
     \endentry
     \entry{qin_software_2014}{inproceedings}{}
       \name{author}{5}{}{%
@@ -1413,7 +1412,7 @@
       \verb 10.1109/NOMS.2014.6838365
       \endverb
       \verb{file}
-      \verb Qin et al_2014_A Software Defined Networking architecture for the Internet-of-Things.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/Q3E3LYAK/Qin et al_2014_A Software Defined Networking architecture for the Internet-of-Things.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/Q3E3LYAK/Qin et al_2014_A Software Defined Networking architecture for the Internet-of-Things.pdf
       \endverb
       \verb{urlraw}
       \verb http://ieeexplore.ieee.org/document/6838365/
@@ -1466,7 +1465,7 @@
       \verb 10.1109/ACCESS.2017.2666200
       \endverb
       \verb{file}
-      \verb Kobo et al_2017_A Survey on Software-Defined Wireless Sensor Networks.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/9RW9ERJD/Kobo et al_2017_A Survey on Software-Defined Wireless Sensor Networks.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/9RW9ERJD/Kobo et al_2017_A Survey on Software-Defined Wireless Sensor Networks.pdf
       \endverb
       \keyw{,E-RAN}
     \endentry
@@ -1520,7 +1519,7 @@
       \verb 10.3390/s17051031
       \endverb
       \verb{file}
-      \verb Ndiaye et al_2017_Software Defined Networking for Improved Wireless Sensor Network Management.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/N6WNWL4G/Ndiaye et al_2017_Software Defined Networking for Improved Wireless Sensor Network Management.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/N6WNWL4G/Ndiaye et al_2017_Software Defined Networking for Improved Wireless Sensor Network Management.pdf
       \endverb
       \verb{urlraw}
       \verb http://www.mdpi.com/1424-8220/17/5/1031
@@ -1578,7 +1577,7 @@
       \verb 10.1109/JIOT.2017.2746186
       \endverb
       \verb{file}
-      \verb Bera et al_2017_Software-Defined Networking for Internet of Things.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/FLAE22VT/Bera et al_2017_Software-Defined Networking for Internet of Things.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/FLAE22VT/Bera et al_2017_Software-Defined Networking for Internet of Things.pdf
       \endverb
       \verb{urlraw}
       \verb http://ieeexplore.ieee.org/document/8017556/
@@ -1616,7 +1615,7 @@
       \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{While it has been a belief for over a decade that wireless sensor networks (WSN) are application-speciﬁc, we argue that it can lead to resource underutilization and counterproductivity. We also identify two other main problems with WSN: rigidity to policy changes and difﬁculty to manage. In this paper, we take a radical, yet backward and peer compatible, approach to tackle these problems inherent to WSN. We propose a Software-Deﬁned WSN architecture and address key technical challenges for its core component, Sensor OpenFlow. This work represents the ﬁrst effort that synergizes softwaredeﬁned networking and WSN.}
+      \field{abstract}{While it has been a belief for over a decade that wireless sensor networks (WSN) are application-specific, we argue that it can lead to resource underutilization and counterproductivity. We also identify two other main problems with WSN: rigidity to policy changes and difficulty to manage. In this paper, we take a radical, yet backward and peer compatible, approach to tackle these problems inherent to WSN. We propose a Software-Defined WSN architecture and address key technical challenges for its core component, Sensor OpenFlow. This work represents the first effort that synergizes softwaredefined networking and WSN.}
       \field{issn}{1089-7798}
       \field{journaltitle}{IEEE Communications Letters}
       \field{langid}{english}
@@ -1638,7 +1637,7 @@
       \verb 10.1109/LCOMM.2012.092812.121712
       \endverb
       \verb{file}
-      \verb Luo et al_2012_Sensor OpenFlow.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/QI743EGY/Luo et al_2012_Sensor OpenFlow.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/QI743EGY/Luo et al_2012_Sensor OpenFlow.pdf
       \endverb
       \verb{urlraw}
       \verb http://ieeexplore.ieee.org/document/6324377/
@@ -1689,7 +1688,7 @@
       \field{pages}{25}
       \range{pages}{1}
       \verb{file}
-      \verb Costanzo et al. - Software Defined Wireless Networks (SDWN) Unbri.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/WAP5IPHH/Costanzo et al. - Software Defined Wireless Networks (SDWN) Unbri.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/WAP5IPHH/Costanzo et al. - Software Defined Wireless Networks (SDWN) Unbri.pdf
       \endverb
       \keyw{,A-SDN}
     \endentry
@@ -1752,7 +1751,7 @@
       \verb 10.1109/INFOCOM.2015.7218418
       \endverb
       \verb{file}
-      \verb Galluccio et al_2015_SDN-WISE.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/Q8RMRF7N/Galluccio et al_2015_SDN-WISE.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/Q8RMRF7N/Galluccio et al_2015_SDN-WISE.pdf
       \endverb
       \verb{urlraw}
       \verb http://ieeexplore.ieee.org/document/7218418/
@@ -1783,7 +1782,7 @@
       \field{year}{2017}
       \field{dateera}{ce}
       \verb{file}
-      \verb LIBELIUM:/home/aghiles/Aghiles/Research/Reading/iot/storage/B5PIB93N/LIBELIUM:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/B5PIB93N/LIBELIUM
       \endverb
       \keyw{,Statistics}
     \endentry
@@ -1836,7 +1835,7 @@
       \verb 10.1109/ICETIETR.2018.8529060
       \endverb
       \verb{file}
-      \verb Gaddam and Rai - 2018 - A Comparative Study on Various LPWAN and Cellular .pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/BWJQ98I6/Gaddam and Rai - 2018 - A Comparative Study on Various LPWAN and Cellular .pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/BWJQ98I6/Gaddam and Rai - 2018 - A Comparative Study on Various LPWAN and Cellular .pdf
       \endverb
       \verb{urlraw}
       \verb https://ieeexplore.ieee.org/document/8529060/
@@ -1874,7 +1873,7 @@
       \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Internet of things (IoT) changes signiﬁcantly the requirements for connectivity, mainly with regards to long battery life, low device cost, low deployment cost, extended coverage and support for a massive number of devices. Driven from these requirements, several different cellular and non-cellular low power wide area network (LPWAN) solutions are emerging and competing for IoT business and the overall connectivity market. Motivated by this, in this paper, we review and compare the design speciﬁcations of different LPWAN solutions, as well as, we discuss their suitability for different IoT applications. Finally, we present the challenges, future trends, and potential research directions for LPWANs.}
+      \field{abstract}{Internet of things (IoT) changes significantly the requirements for connectivity, mainly with regards to long battery life, low device cost, low deployment cost, extended coverage and support for a massive number of devices. Driven from these requirements, several different cellular and non-cellular low power wide area network (LPWAN) solutions are emerging and competing for IoT business and the overall connectivity market. Motivated by this, in this paper, we review and compare the design specifications of different LPWAN solutions, as well as, we discuss their suitability for different IoT applications. Finally, we present the challenges, future trends, and potential research directions for LPWANs.}
       \field{langid}{english}
       \field{note}{00023}
       \field{title}{Low {{Power Wide Area Networks}} ({{LPWANs}}) for {{Internet}} of {{Things}} ({{IoT}}) {{Applications}}: {{Research Challenges}} and {{Future Trends}}}
@@ -1883,9 +1882,9 @@
       \field{pages}{16}
       \range{pages}{1}
       \verb{file}
-      \verb Boulogeorgos et al. - Low Power Wide Area Networks (LPWANs) for Internet.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/7AGMT4VN/Boulogeorgos et al. - Low Power Wide Area Networks (LPWANs) for Internet.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/7AGMT4VN/Boulogeorgos et al. - Low Power Wide Area Networks (LPWANs) for Internet.pdf
       \endverb
-      \keyw{,A-RAN}
+      \keyw{,E-RAN}
     \endentry
   \enddatalist
   \missing{_rpl2_}
@@ -1921,7 +1920,7 @@
       \field{year}{2015}
       \field{dateera}{ce}
       \verb{file}
-      \verb Bregell - 2015 - Hardware and software platform for Internet of Thi.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/WP8TRJWI/Bregell - 2015 - Hardware and software platform for Internet of Thi.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/WP8TRJWI/Bregell - 2015 - Hardware and software platform for Internet of Thi.pdf
       \endverb
       \keyw{,tool}
     \endentry
@@ -2076,7 +2075,7 @@
       \verb 10.1145/2988287.2989163
       \endverb
       \verb{file}
-      \verb Bor et al_2016_Do LoRa Low-Power Wide-Area Networks Scale.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/HYV9NQTL/Bor et al_2016_Do LoRa Low-Power Wide-Area Networks Scale.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/HYV9NQTL/Bor et al_2016_Do LoRa Low-Power Wide-Area Networks Scale.pdf
       \endverb
       \verb{urlraw}
       \verb http://dl.acm.org/citation.cfm?doid=2988287.2989163
@@ -2084,7 +2083,7 @@
       \verb{url}
       \verb http://dl.acm.org/citation.cfm?doid=2988287.2989163
       \endverb
-      \keyw{PDR,Tx,M-Divers}
+      \keyw{PDR,Tx,M-xDivers}
     \endentry
     \entry{slabicki_adaptive_2018}{article}{}
       \name{author}{3}{}{%
@@ -2126,7 +2125,7 @@
       \verb 10.1109/NOMS.2018.8406255
       \endverb
       \verb{file}
-      \verb Slabicki et al_2018_Adaptive configuration of lora networks for dense IoT deployments.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/5D3E5HH3/Slabicki et al_2018_Adaptive configuration of lora networks for dense IoT deployments.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/5D3E5HH3/Slabicki et al_2018_Adaptive configuration of lora networks for dense IoT deployments.pdf
       \endverb
       \keyw{Scalability,Simulation,End-to-end principle,Internet of things,Noisy-channel coding theorem,Open-source software,Propagation constant,M-Utility}
     \endentry
@@ -2186,7 +2185,7 @@
       \verb 10.1155/2008/793058
       \endverb
       \verb{file}
-      \verb Alkhawlani_Ayesh_2008_Access Network Selection Based on Fuzzy Logic and Genetic Algorithms.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/F6FSAEVQ/Alkhawlani_Ayesh_2008_Access Network Selection Based on Fuzzy Logic and Genetic Algorithms.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/F6FSAEVQ/Alkhawlani_Ayesh_2008_Access Network Selection Based on Fuzzy Logic and Genetic Algorithms.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.hindawi.com/archive/2008/793058/
@@ -2224,7 +2223,7 @@
       \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{With the development of new technologies, these last years have witnessed the emergence 26 of a new paradigm: the Internet of Things (IoT) and of the physical world. We are now able 27 to communicate and interact with our surrounding environment through the use of multi- 28 ple tiny sensors, RFID technologies or small wireless robots. This allows a set of new appli- 29 cations and usages to be envisioned ranging from logistic and traceability purposes to 30 emergency and rescue operations going through the monitoring of volcanos or forest ﬁres. 31 However, all this comes with several technical and scientiﬁc issues like how to ensure the 32 reliability of wireless communications in disturbed environments, how to manage efﬁ- 33 ciently the low resources (energy, memory, etc.) or how to set a safe and sustainable (both 34 hardware and software) platform maintenance. All these issues are addressed by research- 35 ers all around the world but solutions designed for IoT need to face real experimentations 36 to be validated. To ease such experimentations for IoT, several experimental testbeds have 37 been deployed offering diverse and heterogeneous services and tools. In this article, we 38 study the different requirements and features such facilities should offer. We survey the 39 different experimental facilities currently available for the community, describe their char- 40 acteristics. In particular, we detail the different hardware used for sensor networks and 41 robot platforms and the scope of services the different facilities offer with a speciﬁc focus 42 on testbeds which enable experimentations with mobility. We expect this survey assist a 43 potential user to easily choose the one to use regarding his own needs. Finally, we identify 44 existing gaps and difﬁculties and investigate new directions for such facilities.}
+      \field{abstract}{With the development of new technologies, these last years have witnessed the emergence 26 of a new paradigm: the Internet of Things (IoT) and of the physical world. We are now able 27 to communicate and interact with our surrounding environment through the use of multi- 28 ple tiny sensors, RFID technologies or small wireless robots. This allows a set of new appli- 29 cations and usages to be envisioned ranging from logistic and traceability purposes to 30 emergency and rescue operations going through the monitoring of volcanos or forest fires. 31 However, all this comes with several technical and scientific issues like how to ensure the 32 reliability of wireless communications in disturbed environments, how to manage effi- 33 ciently the low resources (energy, memory, etc.) or how to set a safe and sustainable (both 34 hardware and software) platform maintenance. All these issues are addressed by research- 35 ers all around the world but solutions designed for IoT need to face real experimentations 36 to be validated. To ease such experimentations for IoT, several experimental testbeds have 37 been deployed offering diverse and heterogeneous services and tools. In this article, we 38 study the different requirements and features such facilities should offer. We survey the 39 different experimental facilities currently available for the community, describe their char- 40 acteristics. In particular, we detail the different hardware used for sensor networks and 41 robot platforms and the scope of services the different facilities offer with a specific focus 42 on testbeds which enable experimentations with mobility. We expect this survey assist a 43 potential user to easily choose the one to use regarding his own needs. Finally, we identify 44 existing gaps and difficulties and investigate new directions for such facilities.}
       \field{issn}{15708705}
       \field{journaltitle}{Ad Hoc Networks}
       \field{langid}{english}
@@ -2245,7 +2244,7 @@
       \verb 10.1016/j.adhoc.2015.03.002
       \endverb
       \verb{file}
-      \verb Tonneau et al. - 2015 - How to choose an experimentation platform for wire.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/IRFTD9ZB/Tonneau et al. - 2015 - How to choose an experimentation platform for wire.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/IRFTD9ZB/Tonneau et al. - 2015 - How to choose an experimentation platform for wire.pdf
       \endverb
       \verb{urlraw}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S1570870515000451
@@ -2324,7 +2323,7 @@
       \verb 10.1016/j.jnca.2016.06.009
       \endverb
       \verb{file}
-      \verb Qiu et al_2016_ERGID.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/GJLHCB4X/Qiu et al_2016_ERGID.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/GJLHCB4X/Qiu et al_2016_ERGID.pdf
       \endverb
       \verb{urlraw}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S1084804516301308
@@ -2372,7 +2371,7 @@
       \verb 10.1016/j.future.2017.03.014
       \endverb
       \verb{file}
-      \verb Al-Turjman - 2019 - Cognitive routing protocol for disaster-inspired I.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/ADX9YQW5/Al-Turjman - 2019 - Cognitive routing protocol for disaster-inspired I.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/ADX9YQW5/Al-Turjman - 2019 - Cognitive routing protocol for disaster-inspired I.pdf
       \endverb
       \verb{urlraw}
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0167739X16307439
@@ -2426,7 +2425,7 @@
       \verb 10.1080/1448837X.2017.1409920
       \endverb
       \verb{file}
-      \verb Al-Kashoash_Kemp_2016_Comparison of 6LoWPAN and LPWAN for the Internet of Things.pdf:/home/aghiles/Aghiles/Research/Reading/iot/storage/RDCM3GDN/Al-Kashoash_Kemp_2016_Comparison of 6LoWPAN and LPWAN for the Internet of Things.pdf:application/pdf
+      \verb /home/aghiles/Aghiles/Research/Reading/iot/storage/RDCM3GDN/Al-Kashoash_Kemp_2016_Comparison of 6LoWPAN and LPWAN for the Internet of Things.pdf
       \endverb
       \verb{urlraw}
       \verb https://www.tandfonline.com/doi/full/10.1080/1448837X.2017.1409920
@@ -2434,7 +2433,7 @@
       \verb{url}
       \verb https://www.tandfonline.com/doi/full/10.1080/1448837X.2017.1409920
       \endverb
-      \keyw{,A-RAN,U-Disaster}
+      \keyw{,E-RAN,U-Disaster}
     \endentry
   \enddatalist
   \missing{lopes_design_2019}

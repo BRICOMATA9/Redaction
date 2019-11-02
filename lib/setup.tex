@@ -2,42 +2,12 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[english]{babel}
-%\usepackage{lmodern} 
-%\usepackage[upright]{fourier}
-%\usepackage{ae,aecompl} 		% Utilisation des fontes vectorielles modernes
-%\usepackage{amsmath}			% Permet de taper des formules mathématiques
-%\usepackage{amssymb}			% Permet d'utiliser des symboles mathématiques
-%\usepackage{amsfonts}			% Permet d'utiliser des polices mathématiques
-%\usepackage{stmaryrd}
-%\usepackage{nicefrac}			% Fractions 'inline'
-% \usepackage[version=3]{mhchem}	% Equations chimiques
-% \usepackage{arevmath}     		% For math symbols
 \usepackage{xstring}
-\usepackage{geometry}
-
-
-% \def\bf#1{\textbf{#1}}
-% Packages %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% \usepackage{xcolor,color, colortbl}
-% \usepackage{pifont}
-% \usepackage{eso-pic}
-% \usepackage{anyfontsize}
-% \usepackage{placeins}
-
-% \usepackage{textcomp}
-% \usepackage{hyphenat}
-% \usepackage{import}
-% \usepackage{pdfpages} 
+% \usepackage{geometry}
+\usepackage{mathtools}
+\usepackage{pifont}
 \usepackage{multicol}
-% \usepackage{wrapfig}
-% \usepackage{float}
-% \usepackage{etoolbox}
-% \usepackage{adjustbox}
-% \usepackage{siunitx}
-% \usepackage{url}
-% \usepackage{lscape,lipsum}
-% \usepackage{everypage}
-% \usepackage{eurosym}
+%\usepackage[draft]{todonotes}
 
 
 \usepackage{xparse}
@@ -52,7 +22,6 @@
     }
   \ExplSyntaxOff
   
-
 %% Path %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \def\LIBPATH{../lib}
 \def\REFPATH{../ref}
@@ -64,7 +33,7 @@
 
 
 
-% Algorithms %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Algorithms --------------------------------------------------------------------------------
 \usepackage[lined,linesnumbered,commentsnumbered,ruled]{algorithm2e}
 % \usepackage{verbatim,algorithmic}
 % \usepackage{algorithm,algpseudocode}
@@ -73,7 +42,7 @@
 
 
 
-% Tableaux %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Tableaux ----------------------------------------------------------------------------------
 \usepackage{multirow}
 \usepackage{booktabs}
 \usepackage{longtable}
@@ -93,7 +62,7 @@
 
 
 
-% Hyperref %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Hyperref ---------------------------------------------------------------------------------
 \usepackage{hyperref}
 	\hypersetup{
 	%	pdftex,
@@ -122,7 +91,7 @@
 	}
 
 
-% Figures %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Figures --------------------------------------------------------------------------------
 \usepackage{graphicx}
 	\graphicspath{{\RESPATH/plot/}{\RESPATH/icon/}{\RESPATH/tmp/}{\RESPATH/tmp/1-social/}{\RESPATH/tmp/2-utlc/}{\RESPATH/tmp/A-Application/}{\RESPATH/tmp/B-CN/}{\RESPATH/tmp/C-RAN/}{\RESPATH/tmp/Framework/}{\RESPATH/tmp/Model//}{\RESPATH/tmp/Picture/}{\RESPATH/plot/bin/}{\RESPATH/plot/pdf/}}
 \usepackage{subcaption}
@@ -135,7 +104,7 @@
 	\renewcommand{\thefigure}{\arabic{figure}}
 
 
-% Item %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Item -------------------------------------------------------------------------------------
 \usepackage{enumitem}
 	\setlist[enumerate]{topsep=-0.5cm,itemsep=0ex,partopsep=0ex,parsep=0ex}
 	\setlist[itemize]{topsep=-0.5cm,itemsep=0ex,partopsep=0ex,parsep=0ex}
@@ -157,7 +126,7 @@
 %\renewcommand\labelitemi{--}
 
 
-% Bibliography %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Bibliography ------------------------------------------------------------------------------
 \usepackage[sorting=none,backref=false,backend=biber, doi=false,url=false,isbn=false, style=ieee]{biblatex}%sorting=nyt, sorting=rasha
 	\addbibresource{\REFPATH/iot.bib}%
 	\addbibresource{\REFPATH/iotbis.bib}%
@@ -170,19 +139,4 @@
 \input{\LIBPATH/nomenclature}
 
 
-%\usepackage[draft]{todonotes}
-
-
-%\begin{figure}
-%\begin{center}
-%\begin{tabular}{cc}
-%\RESPATHizebox{60mm}{!}{\includegraphics{gateway}} &
-%\RESPATHizebox{60mm}{!}{\includegraphics{gateway}} \\
-%\RESPATHizebox{60mm}{!}{\includegraphics{gateway}} &
-%\RESPATHizebox{60mm}{!}{\includegraphics{gateway}} \\
-%\end{tabular}
-%\caption{This is sample figures.}
-%\label{test4}
-%\end{center}
-%\end{figure}
 
