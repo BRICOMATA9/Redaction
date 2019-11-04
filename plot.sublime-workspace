@@ -195,15 +195,16 @@
 	},
 	"expanded_folders":
 	[
-		"/home/aghiles/Aghiles/Research/Writing/res",
 		"/home/aghiles/Aghiles/Research/Writing/lib"
 	],
 	"file_history":
 	[
-		"/home/aghiles/Aghiles/Research/Writing/res/plot/marcov.tex",
 		"/home/aghiles/Aghiles/Research/Writing/res/plot.tex",
-		"/home/aghiles/Aghiles/Research/Writing/res/plot/genetic.tex",
 		"/home/aghiles/Aghiles/Research/Writing/lib/tikzset.tex",
+		"/home/aghiles/Aghiles/Research/Writing/res/plot/slice.tex",
+		"/home/aghiles/Aghiles/Research/Writing/src/02-State of the art/12_related.tex",
+		"/home/aghiles/Aghiles/Research/Writing/res/plot/marcov.tex",
+		"/home/aghiles/Aghiles/Research/Writing/res/plot/genetic.tex",
 		"/home/aghiles/Aghiles/Research/Writing/res/plot/qlearning.tex",
 		"/home/aghiles/Aghiles/Research/Writing/lib/plot.tex",
 		"/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex",
@@ -325,13 +326,11 @@
 		"/home/aghiles/Downloads/Weathernn.bib",
 		"/home/aghiles/Downloads/Weatherpp.bib",
 		"/home/aghiles/Downloads/Weather.bib",
-		"/home/aghiles/Downloads/Mesh.bib",
-		"/home/aghiles/Downloads/Weatherm.bib",
-		"/home/aghiles/Aghiles/Redaction/setup/lib/privacy.bib"
+		"/home/aghiles/Downloads/Mesh.bib"
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -345,6 +344,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"'_{,",
 			"ca",
 			"cad",
 			"Cadre",
@@ -375,7 +375,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 29.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -416,7 +416,7 @@
 	"project": "plot.sublime-project",
 	"replace":
 	{
-		"height": 54.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":

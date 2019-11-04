@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.07.0 (TeX Live 2019/dev/Debian)  (format=lualatex 2019.10.12)  1 NOV 2019 20:03
+This is LuaTeX, Version 1.07.0 (TeX Live 2019/dev/Debian)  (format=lualatex 2019.10.13)  2 NOV 2019 11:25
  system commands enabled.
 **main.tex
 (./main.tex
@@ -48,7 +48,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.067 seconds
+luaotfload | main : initialization completed in 0.087 seconds
 (../lib/paper.tex (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
 
@@ -187,88 +187,88 @@ File: switch.def 2018/11/13 3.27 Babel switching mechanism
 \l@dumylang=\language2
 Package babel Info: Non-standard hyphenation setup on input line 114.
 \l@nohyphenation=\language3
-\l@french=\language4
-\l@interlingua=\language5
-\l@romanian=\language6
-\l@mongolian=\language7
-\l@galician=\language8
-\l@churchslavonic=\language9
-\l@kurmanji=\language10
-\l@malayalam=\language11
-\l@latvian=\language12
-\l@estonian=\language13
-\l@danish=\language14
-\l@greek=\language15
-\l@thai=\language16
-\l@armenian=\language17
-\l@mongolianlmc=\language18
-\l@bokmal=\language19
-\l@ibycus=\language20
+\l@slovak=\language4
+\l@tamil=\language5
+\l@pali=\language6
+\l@romanian=\language7
+\l@finnish=\language8
+\l@serbian=\language9
+\l@french=\language10
+\l@hindi=\language11
+\l@swedish=\language12
+\l@nynorsk=\language13
+\l@farsi=\language14
+\l@romansh=\language15
+\l@monogreek=\language16
+\l@ancientgreek=\language17
+\l@usenglishmax=\language18
+\l@esperanto=\language19
+\l@oriya=\language20
 \l@croatian=\language21
-\l@pali=\language22
-\l@georgian=\language23
-\l@usenglishmax=\language24
-\l@dutch=\language25
-\l@romansh=\language26
-\l@ukrainian=\language27
-\l@ancientgreek=\language28
-\l@german=\language29
-\l@panjabi=\language30
-\l@pinyin=\language31
-\l@belarusian=\language32
-\l@liturgicallatin=\language33
-\l@ethiopic=\language34
-\l@portuguese=\language35
-\l@serbianc=\language36
-\l@classiclatin=\language37
-\l@serbian=\language38
-\l@italian=\language39
-\l@welsh=\language40
-\l@basque=\language41
-\l@catalan=\language42
-\l@lithuanian=\language43
-\l@esperanto=\language44
-\l@bengali=\language45
-\l@ukenglish=\language46
-\l@nynorsk=\language47
-\l@monogreek=\language48
-\l@latin=\language49
-\l@coptic=\language50
-\l@slovenian=\language51
-\l@russian=\language52
-\l@turkmen=\language53
-\l@friulan=\language54
-\l@oriya=\language55
-\l@polish=\language56
-\l@swedish=\language57
-\l@uppersorbian=\language58
-\l@czech=\language59
-\l@piedmontese=\language60
-\l@finnish=\language61
-\l@sanskrit=\language62
-\l@spanish=\language63
-\l@kannada=\language64
-\l@swissgerman=\language65
-\l@slovak=\language66
-\l@marathi=\language67
-\l@farsi=\language68
-\l@afrikaans=\language69
-\l@turkish=\language70
-\l@german-x-2018-03-31=\language71
-\l@occitan=\language72
-\l@gujarati=\language73
-\l@assamese=\language74
-\l@hungarian=\language75
-\l@irish=\language76
-\l@bulgarian=\language77
-\l@indonesian=\language78
-\l@tamil=\language79
-\l@telugu=\language80
-\l@ngerman=\language81
-\l@hindi=\language82
-\l@arabic=\language83
-\l@ngerman-x-2018-03-31=\language84
-\l@icelandic=\language85
+\l@greek=\language22
+\l@friulan=\language23
+\l@basque=\language24
+\l@ukenglish=\language25
+\l@bulgarian=\language26
+\l@uppersorbian=\language27
+\l@ngerman-x-2018-03-31=\language28
+\l@estonian=\language29
+\l@dutch=\language30
+\l@german=\language31
+\l@ibycus=\language32
+\l@arabic=\language33
+\l@serbianc=\language34
+\l@kurmanji=\language35
+\l@pinyin=\language36
+\l@catalan=\language37
+\l@malayalam=\language38
+\l@liturgicallatin=\language39
+\l@hungarian=\language40
+\l@latvian=\language41
+\l@mongolianlmc=\language42
+\l@occitan=\language43
+\l@indonesian=\language44
+\l@gujarati=\language45
+\l@turkmen=\language46
+\l@assamese=\language47
+\l@polish=\language48
+\l@german-x-2018-03-31=\language49
+\l@churchslavonic=\language50
+\l@swissgerman=\language51
+\l@welsh=\language52
+\l@ukrainian=\language53
+\l@mongolian=\language54
+\l@slovenian=\language55
+\l@icelandic=\language56
+\l@ngerman=\language57
+\l@russian=\language58
+\l@bokmal=\language59
+\l@afrikaans=\language60
+\l@belarusian=\language61
+\l@latin=\language62
+\l@sanskrit=\language63
+\l@italian=\language64
+\l@danish=\language65
+\l@portuguese=\language66
+\l@classiclatin=\language67
+\l@telugu=\language68
+\l@irish=\language69
+\l@panjabi=\language70
+\l@thai=\language71
+\l@lithuanian=\language72
+\l@bengali=\language73
+\l@piedmontese=\language74
+\l@interlingua=\language75
+\l@kannada=\language76
+\l@armenian=\language77
+\l@galician=\language78
+\l@georgian=\language79
+\l@spanish=\language80
+\l@coptic=\language81
+\l@turkish=\language82
+\l@ethiopic=\language83
+\l@czech=\language84
+\l@marathi=\language85
 )
 (/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
@@ -2232,10 +2232,7 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 LaTeX Warning: Label `2-tab:OS' multiply defined.
 
 
-LaTeX Warning: Label `5-tab:' multiply defined.
-
-
-LaTeX Warning: Label `11-tab:LPWan_characteristics' multiply defined.
+LaTeX Warning: Label `8-tab:LPWan_characteristics' multiply defined.
 
 )
 \openout1 = paper.aux
@@ -2380,146 +2377,6 @@ Package biblatex Info: ... file 'paper.bbl' found.
 (/home/aghiles/Aghiles/Research/Writing/bin/paper.bbl
 
 Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 10):
-(biblatex)                Al-Fuqaha2015
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 10):
-(biblatex)                Chen2017
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 10):
-(biblatex)                Dastjerdi2016
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 10):
-(biblatex)                Perera2014
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 10):
-(biblatex)                Routiere2015
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 10):
-(biblatex)                STEPHENS1979
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 10):
-(biblatex)                Silva2018
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 10):
-(biblatex)                Web0
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 10):
-(biblatex)                chalappuram_development_2016
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 10):
-(biblatex)                difebbraro_trafficresponsive_2006
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 10):
-(biblatex)                rose_internet_2015
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 10):
-(biblatex)                tlig_decentralized_2014
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 12):
-(biblatex)                _evaluation_
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 12):
-(biblatex)                _short_2007
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 12):
-(biblatex)                al-fuqaha_internet_24
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 12):
-(biblatex)                fakhfakh_deep_2017
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 12):
-(biblatex)                lopes_design_2019
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 12):
-(biblatex)                petajajarvi_coverage_2015
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 12):
-(biblatex)                raza_low_22
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 12):
-(biblatex)                yuzehuang_timeaware_2017
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database (refsection 3):
 (biblatex)                _rpl2_
 (biblatex)                Please verify the spelling and rerun
@@ -2555,15 +2412,71 @@ Package biblatex Warning: The following entry could not be found
 
 
 Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 8):
+(biblatex)                in the database (refsection 6):
 (biblatex)                lopes_design_2019
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
 
 Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database (refsection 8):
+(biblatex)                in the database (refsection 6):
 (biblatex)                raza_low_22
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 9):
+(biblatex)                _evaluation_
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 9):
+(biblatex)                _short_2007
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 9):
+(biblatex)                al-fuqaha_internet_24
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 9):
+(biblatex)                fakhfakh_deep_2017
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 9):
+(biblatex)                lopes_design_2019
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 9):
+(biblatex)                petajajarvi_coverage_2015
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 9):
+(biblatex)                raza_low_22
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database (refsection 9):
+(biblatex)                yuzehuang_timeaware_2017
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -3276,13 +3189,13 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `subscript' on input line 1.
 
-<../res/tmp/Picture/application.png, id=1052, 1415.2875pt x 1434.35875pt>
+<../res/tmp/Picture/application.png, id=754, 1415.2875pt x 1434.35875pt>
 File: ../res/tmp/Picture/application.png Graphic file (type png)
 <use ../res/tmp/Picture/application.png>
 Package luatex.def Info: ../res/tmp/Picture/application.png  used on input line 
 10.
 (luatex.def)             Requested size: 201.60077pt x 204.3107pt.
-<../res/tmp/Picture/apprequirements.png, id=1053, 519.9425pt x 456.70625pt>
+<../res/tmp/Picture/apprequirements.png, id=755, 519.9425pt x 456.70625pt>
 File: ../res/tmp/Picture/apprequirements.png Graphic file (type png)
 <use ../res/tmp/Picture/apprequirements.png>
 Package luatex.def Info: ../res/tmp/Picture/apprequirements.png  used on input l
@@ -3291,7 +3204,7 @@ ine 11.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../res/tmp/A-Application/standard.png, id=1054, 1290.8225pt x 905.3825pt>
+<../res/tmp/A-Application/standard.png, id=756, 1290.8225pt x 905.3825pt>
 File: ../res/tmp/A-Application/standard.png Graphic file (type png)
 <use ../res/tmp/A-Application/standard.png>
 Package luatex.def Info: ../res/tmp/A-Application/standard.png  used on input li
@@ -3337,7 +3250,7 @@ res/tmp/A-Application/standard.png>]) ("./02-State of the art/02_sensors.tex"
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 5.
 
-<../res/tmp/Picture/os-timeline.png, id=1080, 594.0594pt x 179.7114pt>
+<../res/tmp/Picture/os-timeline.png, id=782, 594.0594pt x 179.7114pt>
 File: ../res/tmp/Picture/os-timeline.png Graphic file (type png)
 <use ../res/tmp/Picture/os-timeline.png>
 Package luatex.def Info: ../res/tmp/Picture/os-timeline.png  used on input line 
@@ -3353,7 +3266,7 @@ Missing character: There is no • (U+2022) in font ptmr8t!
 Missing character: There is no • (U+2022) in font ptmr8t!
 Missing character: There is no • (U+2022) in font ptmr8t!
 <../res/tmp/Picture/os-timeline.png>]
-<../res/tmp/Framework/contiki.png, id=1092, 406.51875pt x 439.6425pt>
+<../res/tmp/Framework/contiki.png, id=795, 406.51875pt x 439.6425pt>
 File: ../res/tmp/Framework/contiki.png Graphic file (type png)
 <use ../res/tmp/Framework/contiki.png>
 Package luatex.def Info: ../res/tmp/Framework/contiki.png  used on input line 83
@@ -3488,7 +3401,7 @@ Overfull \hbox (0.62021pt too wide) in paragraph at lines 246--246
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<../res/tmp/B-CN/sdn-wise.png, id=1119, 1376.14125pt x 588.1975pt>
+<../res/tmp/B-CN/sdn-wise.png, id=822, 1376.14125pt x 588.1975pt>
 File: ../res/tmp/B-CN/sdn-wise.png Graphic file (type png)
 <use ../res/tmp/B-CN/sdn-wise.png>
 Package luatex.def Info: ../res/tmp/B-CN/sdn-wise.png  used on input line 251.
@@ -3680,78 +3593,84 @@ Missing character: There is no ’ (U+2019) in font ptmr8t!
 Missing character: There is no ’ (U+2019) in font ptmr8t!
 Missing character: There is no ’ (U+2019) in font ptmr8t!
 ]) ("./02-State of the art/04_standards.tex"
-<../res/tmp/Framework/riot-network-stack.png, id=1179, 533.995pt x 519.9425pt>
+<../res/tmp/Framework/riot-network-stack.png, id=882, 533.995pt x 519.9425pt>
 File: ../res/tmp/Framework/riot-network-stack.png Graphic file (type png)
 <use ../res/tmp/Framework/riot-network-stack.png>
 Package luatex.def Info: ../res/tmp/Framework/riot-network-stack.png  used on in
 put line 4.
 (luatex.def)             Requested size: 126.0pt x 122.67839pt.
-<../res/tmp/C-RAN/iot-protocols-overview.png, id=1180, 1219.55624pt x 655.44875p
-t>
+<../res/tmp/C-RAN/iot-protocols-overview.png, id=883, 1219.55624pt x 655.44875pt
+>
 File: ../res/tmp/C-RAN/iot-protocols-overview.png Graphic file (type png)
 <use ../res/tmp/C-RAN/iot-protocols-overview.png>
 Package luatex.def Info: ../res/tmp/C-RAN/iot-protocols-overview.png  used on in
 put line 5.
 (luatex.def)             Requested size: 252.0pt x 135.428pt.
-<../res/plot/pdf/LPWAN.pdf, id=1181, 499.8424pt x 513.87984pt>
+<../res/plot/pdf/LPWAN.pdf, id=884, 499.8424pt x 513.87984pt>
 File: ../res/plot/pdf/LPWAN.pdf Graphic file (type pdf)
 <use ../res/plot/pdf/LPWAN.pdf>
 Package luatex.def Info: ../res/plot/pdf/LPWAN.pdf  used on input line 6.
 (luatex.def)             Requested size: 252.0pt x 259.07991pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[10<../res/tmp/Framework/riot-network-stack.png><../res/tmp/C-RAN/iot-protocols-
-overview.png><../res/plot/pdf/LPWAN.pdf>]
-<../res/tmp/C-RAN/lora_stack.png, id=1267, 845.1575pt x 597.23125pt>
+[10
+Missing character: There is no — (U+2014) in font ptmr8t!
+Missing character: There is no — (U+2014) in font ptmr8t!
+Missing character: There is no — (U+2014) in font ptmr8t!
+Missing character: There is no “ (U+201C) in font ptmr8t!
+Missing character: There is no ” (U+201D) in font ptmr8t!
+<../res/tmp/Framework/riot-network-stack.png>]
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[11<../res/tmp/C-RAN/iot-protocols-overview.png><../res/plot/pdf/LPWAN.pdf>]
+<../res/tmp/C-RAN/lora_stack.png, id=984, 845.1575pt x 597.23125pt>
 File: ../res/tmp/C-RAN/lora_stack.png Graphic file (type png)
 <use ../res/tmp/C-RAN/lora_stack.png>
 Package luatex.def Info: ../res/tmp/C-RAN/lora_stack.png  used on input line 131
 .
 (luatex.def)             Requested size: 252.0pt x 178.0772pt.
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[11<../res/tmp/C-RAN/lora_stack.png>]
-<../res/tmp/C-RAN/class_a.png, id=1279, 981.6675pt x 209.78375pt>
+<../res/tmp/C-RAN/class_a.png, id=985, 981.6675pt x 209.78375pt>
 File: ../res/tmp/C-RAN/class_a.png Graphic file (type png)
 <use ../res/tmp/C-RAN/class_a.png>
 Package luatex.def Info: ../res/tmp/C-RAN/class_a.png  used on input line 181.
 (luatex.def)             Requested size: 201.60077pt x 43.07956pt.
-<../res/tmp/C-RAN/class_b.png, id=1280, 1025.8325pt x 196.735pt>
-File: ../res/tmp/C-RAN/class_b.png Graphic file (type png)
-<use ../res/tmp/C-RAN/class_b.png>
-Package luatex.def Info: ../res/tmp/C-RAN/class_b.png  used on input line 220.
-(luatex.def)             Requested size: 252.0pt x 48.32806pt.
-<../res/tmp/C-RAN/class_c.png, id=1281, 1028.84375pt x 185.69376pt>
-File: ../res/tmp/C-RAN/class_c.png Graphic file (type png)
-<use ../res/tmp/C-RAN/class_c.png>
-Package luatex.def Info: ../res/tmp/C-RAN/class_c.png  used on input line 236.
-(luatex.def)             Requested size: 252.0pt x 45.4826pt.
-<../res/tmp/C-RAN/lorawan_parameters.png, id=1282, 1027.84pt x 566.115pt>
-File: ../res/tmp/C-RAN/lorawan_parameters.png Graphic file (type png)
-<use ../res/tmp/C-RAN/lorawan_parameters.png>
-Package luatex.def Info: ../res/tmp/C-RAN/lorawan_parameters.png  used on input 
-line 243.
-(luatex.def)             Requested size: 252.0pt x 138.79008pt.
-<../res/tmp/C-RAN/loraparam.png, id=1283, 1219.55624pt x 638.385pt>
-File: ../res/tmp/C-RAN/loraparam.png Graphic file (type png)
-<use ../res/tmp/C-RAN/loraparam.png>
-Package luatex.def Info: ../res/tmp/C-RAN/loraparam.png  used on input line 244.
-
-(luatex.def)             Requested size: 252.0pt x 131.9023pt.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [12
 Missing character: There is no “ (U+201C) in font ptmr8t!
 Missing character: There is no ” (U+201D) in font ptmr8t!
-<../res/tmp/C-RAN/class_a.png><../res/tmp/C-RAN/class_b.png><../res/tmp/C-RAN/cl
-ass_c.png><../res/tmp/C-RAN/lorawan_parameters.png><../res/tmp/C-RAN/loraparam.p
-ng>]
-<../res/tmp/C-RAN/bw.png, id=1305, 722.7pt x 459.7175pt>
+<../res/tmp/C-RAN/lora_stack.png><../res/tmp/C-RAN/class_a.png>]
+<../res/tmp/C-RAN/class_b.png, id=1002, 1025.8325pt x 196.735pt>
+File: ../res/tmp/C-RAN/class_b.png Graphic file (type png)
+<use ../res/tmp/C-RAN/class_b.png>
+Package luatex.def Info: ../res/tmp/C-RAN/class_b.png  used on input line 220.
+(luatex.def)             Requested size: 252.0pt x 48.32806pt.
+<../res/tmp/C-RAN/class_c.png, id=1003, 1028.84375pt x 185.69376pt>
+File: ../res/tmp/C-RAN/class_c.png Graphic file (type png)
+<use ../res/tmp/C-RAN/class_c.png>
+Package luatex.def Info: ../res/tmp/C-RAN/class_c.png  used on input line 236.
+(luatex.def)             Requested size: 252.0pt x 45.4826pt.
+<../res/tmp/C-RAN/lorawan_parameters.png, id=1004, 1027.84pt x 566.115pt>
+File: ../res/tmp/C-RAN/lorawan_parameters.png Graphic file (type png)
+<use ../res/tmp/C-RAN/lorawan_parameters.png>
+Package luatex.def Info: ../res/tmp/C-RAN/lorawan_parameters.png  used on input 
+line 243.
+(luatex.def)             Requested size: 252.0pt x 138.79008pt.
+<../res/tmp/C-RAN/loraparam.png, id=1005, 1219.55624pt x 638.385pt>
+File: ../res/tmp/C-RAN/loraparam.png Graphic file (type png)
+<use ../res/tmp/C-RAN/loraparam.png>
+Package luatex.def Info: ../res/tmp/C-RAN/loraparam.png  used on input line 244.
+
+(luatex.def)             Requested size: 252.0pt x 131.9023pt.
+<../res/tmp/C-RAN/bw.png, id=1006, 722.7pt x 459.7175pt>
 File: ../res/tmp/C-RAN/bw.png Graphic file (type png)
 <use ../res/tmp/C-RAN/bw.png>
 Package luatex.def Info: ../res/tmp/C-RAN/bw.png  used on input line 303.
 (luatex.def)             Requested size: 126.0pt x 80.15013pt.
 
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[13<../res/tmp/C-RAN/class_b.png><../res/tmp/C-RAN/class_c.png><../res/tmp/C-RAN
+/lorawan_parameters.png><../res/tmp/C-RAN/loraparam.png><../res/tmp/C-RAN/bw.png
+>]
 Overfull \hbox (190.80086pt too wide) detected at line 314
 []
  []
@@ -3966,29 +3885,22 @@ Overfull \hbox (3.99246pt too wide) in paragraph at lines 322--347
 [][] 
  []
 
+) ("./02-State of the art/05_sdn.tex") ("./02-State of the art/06_security.tex"
 
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[13<../res/tmp/C-RAN/bw.png>]) ("./02-State of the art/05_sdn.tex")
-("./02-State of the art/06_security.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 14--16
 
  []
 
-) ("./02-State of the art/07_metric-performance.tex")
-("./02-State of the art/08_challenfes.tex"
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[14
-Missing character: There is no — (U+2014) in font ptmr8t!
-Missing character: There is no — (U+2014) in font ptmr8t!
-Missing character: There is no — (U+2014) in font ptmr8t!
-Missing character: There is no “ (U+201C) in font ptmr8t!
-Missing character: There is no ” (U+201D) in font ptmr8t!
-]
-<../res/tmp/challenges.png, id=1332, 1352.05125pt x 959.585pt>
+) ("./02-State of the art/08_challenfes.tex"
+<../res/tmp/challenges.png, id=1024, 1352.05125pt x 959.585pt>
 File: ../res/tmp/challenges.png Graphic file (type png)
 <use ../res/tmp/challenges.png>
 Package luatex.def Info: ../res/tmp/challenges.png  used on input line 4.
 (luatex.def)             Requested size: 252.0pt x 178.83823pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 ) (./03-x-Testbed/authors.tex)
 (/home/aghiles/Aghiles/Research/Writing/src/L-Library/ref.tex
 
@@ -4028,9 +3940,13 @@ Package biblatex Warning: Keyword 'A-RAN,U-Disaster' not found on input line 6.
 LaTeX Warning: Empty bibliography on input line 6.
 
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 7.
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.'
+[14]
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 7.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 7.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 7.
+
 
 Package biblatex Warning: Keyword 'A-Social' not found on input line 8.
 
@@ -4397,8 +4313,9 @@ Missing character: There is no ’ (U+2019) in font ptmr8t!
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [8
 Missing character: There is no μ (U+03BC) in font ptmr8t!
-]) (./04-x-Sentilo/authors.tex)
-(/home/aghiles/Aghiles/Research/Writing/src/L-Library/ref.tex
+])
+("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/authors.tex"
+) (/home/aghiles/Aghiles/Research/Writing/src/L-Library/ref.tex
 
 Package biblatex Warning: Keyword 'A-App' not found on input line 1.
 
@@ -4725,751 +4642,6 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 \blx@sectionciteorder@5=\count535
 Package biblatex Info: Reference section=5 on input line 17.
 Package biblatex Info: Setting label 'refsection:5' on input line 17.
- (./04-x-Sentilo/00_abstract.tex) (./04-x-Sentilo/01_introduction.tex
-
-LaTeX Warning: Citation 'joseignacio_contiki_2016' on page 1 undefined on input 
-line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\cite' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 1.
-
-) (./04-x-Sentilo/02_related.tex) (./04-x-Sentilo/03_background.tex)
-(./04-x-Sentilo/04_approach.tex
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[1
-
-
-Missing character: There is no “ (U+201C) in font ptmr8t!
-Missing character: There is no ” (U+201D) in font ptmr8t!
-Missing character: There is no “ (U+201C) in font ptmr8t!
-Missing character: There is no ” (U+201D) in font ptmr8t!
-Missing character: There is no “ (U+201C) in font ptmr8t!
-Missing character: There is no ” (U+201D) in font ptmr8t!
-Missing character: There is no “ (U+201C) in font ptmr8t!
-Missing character: There is no ” (U+201D) in font ptmr8t!
-]
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[2]) (./04-x-Sentilo/05_experimentation.tex) (./04-x-Sentilo/06_results.tex)
-(./04-x-Sentilo/07_conclusion.tex
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[3
-Missing character: There is no – (U+2013) in font ptmr8t!
-]) ("./05-x-Long paper/authors.tex")
-(/home/aghiles/Aghiles/Research/Writing/src/L-Library/ref.tex
-
-Package biblatex Warning: Keyword 'A-App' not found on input line 1.
-
-
-LaTeX Warning: Empty bibliography on input line 1.
-
-
-Package biblatex Warning: Keyword 'A-Blockchain' not found on input line 2.
-
-
-LaTeX Warning: Empty bibliography on input line 2.
-
-
-Package biblatex Warning: Keyword 'A-IEEE' not found on input line 3.
-
-
-LaTeX Warning: Empty bibliography on input line 3.
-
-
-Package biblatex Warning: Keyword 'A-Mesh' not found on input line 4.
-
-
-LaTeX Warning: Empty bibliography on input line 4.
-
-
-Package biblatex Warning: Keyword 'A-RAN' not found on input line 5.
-
-
-LaTeX Warning: Empty bibliography on input line 5.
-
-
-Package biblatex Warning: Keyword 'A-RAN,U-Disaster' not found on input line 6.
-
-
-LaTeX Warning: Empty bibliography on input line 6.
-
-
-Package biblatex Warning: Keyword 'A-SDN' not found on input line 7.
-
-
-LaTeX Warning: Empty bibliography on input line 7.
-
-
-Package biblatex Warning: Keyword 'A-Social' not found on input line 8.
-
-
-LaTeX Warning: Empty bibliography on input line 8.
-
-
-Package biblatex Warning: Keyword 'Cloud' not found on input line 9.
-
-
-LaTeX Warning: Empty bibliography on input line 9.
-
-
-Package biblatex Warning: Keyword 'Contiki' not found on input line 10.
-
-
-LaTeX Warning: Empty bibliography on input line 10.
-
-
-Package biblatex Warning: Keyword 'Device' not found on input line 11.
-
-
-LaTeX Warning: Empty bibliography on input line 11.
-
-
-Package biblatex Warning: Keyword 'E-RAN' not found on input line 12.
-
-
-LaTeX Warning: Empty bibliography on input line 12.
-
-
-Package biblatex Warning: Keyword 'E-RAN,U-Disaster' not found on input line 13.
-
-
-
-LaTeX Warning: Empty bibliography on input line 13.
-
-
-Package biblatex Warning: Keyword 'E-SDN' not found on input line 14.
-
-
-LaTeX Warning: Empty bibliography on input line 14.
-
-
-Package biblatex Warning: Keyword 'Gateway' not found on input line 15.
-
-
-LaTeX Warning: Empty bibliography on input line 15.
-
-
-Package biblatex Warning: Keyword 'IoTlab' not found on input line 16.
-
-
-LaTeX Warning: Empty bibliography on input line 16.
-
-
-Package biblatex Warning: Keyword 'L-CELL' not found on input line 17.
-
-
-LaTeX Warning: Empty bibliography on input line 17.
-
-
-Package biblatex Warning: Keyword 'L-Karlyna' not found on input line 18.
-
-
-LaTeX Warning: Empty bibliography on input line 18.
-
-
-Package biblatex Warning: Keyword 'L-Learning' not found on input line 19.
-
-
-LaTeX Warning: Empty bibliography on input line 19.
-
-
-Package biblatex Warning: Keyword 'L-LoRa' not found on input line 20.
-
-
-LaTeX Warning: Empty bibliography on input line 20.
-
-
-Package biblatex Warning: Keyword 'L-Management' not found on input line 21.
-
-
-LaTeX Warning: Empty bibliography on input line 21.
-
-
-Package biblatex Warning: Keyword 'L-Math' not found on input line 22.
-
-
-LaTeX Warning: Empty bibliography on input line 22.
-
-
-Package biblatex Warning: Keyword 'L-Probability' not found on input line 23.
-
-
-LaTeX Warning: Empty bibliography on input line 23.
-
-
-Package biblatex Warning: Keyword 'L-Python' not found on input line 24.
-
-
-LaTeX Warning: Empty bibliography on input line 24.
-
-
-Package biblatex Warning: Keyword 'L-QoS' not found on input line 25.
-
-
-LaTeX Warning: Empty bibliography on input line 25.
-
-
-Package biblatex Warning: Keyword 'L-Rafik' not found on input line 26.
-
-
-LaTeX Warning: Empty bibliography on input line 26.
-
-
-Package biblatex Warning: Keyword 'L-SDR' not found on input line 27.
-
-
-LaTeX Warning: Empty bibliography on input line 27.
-
-
-Package biblatex Warning: Keyword 'L-Wireless' not found on input line 28.
-
-
-LaTeX Warning: Empty bibliography on input line 28.
-
-
-Package biblatex Warning: Keyword 'M-Access-Class-Barring' not found on input li
-ne 29.
-
-
-LaTeX Warning: Empty bibliography on input line 29.
-
-
-Package biblatex Warning: Keyword 'M-Bee-Colony' not found on input line 30.
-
-
-LaTeX Warning: Empty bibliography on input line 30.
-
-
-Package biblatex Warning: Keyword 'M-Choregraphie' not found on input line 31.
-
-
-LaTeX Warning: Empty bibliography on input line 31.
-
-
-Package biblatex Warning: Keyword 'M-Divers' not found on input line 32.
-
-
-LaTeX Warning: Empty bibliography on input line 32.
-
-
-Package biblatex Warning: Keyword 'M-Experimentation' not found on input line 33
-.
-
-
-LaTeX Warning: Empty bibliography on input line 33.
-
-
-Package biblatex Warning: Keyword 'M-Game' not found on input line 34.
-
-
-LaTeX Warning: Empty bibliography on input line 34.
-
-
-Package biblatex Warning: Keyword 'M-Game,M-MCDM' not found on input line 35.
-
-
-LaTeX Warning: Empty bibliography on input line 35.
-
-
-Package biblatex Warning: Keyword 'M-Graph' not found on input line 36.
-
-
-LaTeX Warning: Empty bibliography on input line 36.
-
-
-Package biblatex Warning: Keyword 'M-Learning' not found on input line 37.
-
-
-LaTeX Warning: Empty bibliography on input line 37.
-
-
-Package biblatex Warning: Keyword 'M-Learning-Bandit' not found on input line 38
-.
-
-
-LaTeX Warning: Empty bibliography on input line 38.
-
-
-Package biblatex Warning: Keyword 'M-Marcov' not found on input line 39.
-
-
-LaTeX Warning: Empty bibliography on input line 39.
-
-
-Package biblatex Warning: Keyword 'M-Matching' not found on input line 40.
-
-
-LaTeX Warning: Empty bibliography on input line 40.
-
-
-Package biblatex Warning: Keyword 'M-MCDM' not found on input line 41.
-
-
-LaTeX Warning: Empty bibliography on input line 41.
-
-
-Package biblatex Warning: Keyword 'M-MCDM-Fuzzy' not found on input line 42.
-
-
-LaTeX Warning: Empty bibliography on input line 42.
-
-
-Package biblatex Warning: Keyword 'M-Proba' not found on input line 43.
-
-
-LaTeX Warning: Empty bibliography on input line 43.
-
-
-Package biblatex Warning: Keyword 'M-Utility' not found on input line 44.
-
-
-LaTeX Warning: Empty bibliography on input line 44.
-
-
-Package biblatex Warning: Keyword 'RIOT' not found on input line 45.
-
-
-LaTeX Warning: Empty bibliography on input line 45.
-
-
-Package biblatex Warning: Keyword 'Statistics' not found on input line 46.
-
-
-LaTeX Warning: Empty bibliography on input line 46.
-
-
-Package biblatex Warning: Keyword 'tool' not found on input line 47.
-
-
-LaTeX Warning: Empty bibliography on input line 47.
-
-
-Package biblatex Warning: Keyword 'U-Disaster' not found on input line 48.
-
-
-LaTeX Warning: Empty bibliography on input line 48.
-
-
-Package biblatex Warning: Keyword 'U-Disaster,U-Weather' not found on input line
- 49.
-
-
-LaTeX Warning: Empty bibliography on input line 49.
-
-
-Package biblatex Warning: Keyword 'UTLC' not found on input line 50.
-
-
-LaTeX Warning: Empty bibliography on input line 50.
-
-
-Package biblatex Warning: Keyword 'U-Weather' not found on input line 51.
-
-
-LaTeX Warning: Empty bibliography on input line 51.
-
-
-Package biblatex Warning: Keyword 'Waziup' not found on input line 52.
-
-
-LaTeX Warning: Empty bibliography on input line 52.
-
-
-LaTeX Warning: Empty bibliography on input line 53.
-
-)
-Package biblatex Info: Reference section=0 on input line 18.
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[4
-
-]
-\blx@maxsegment@6=\count536
-\blx@sectionciteorder@6=\count537
-Package biblatex Info: Reference section=6 on input line 18.
-Package biblatex Info: Setting label 'refsection:6' on input line 18.
- ("./05-x-Long paper/00_abstract.tex")
-("./05-x-Long paper/01_introduction.tex") ("./05-x-Long paper/02_related.tex"
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[1
-
-
-]) ("./05-x-Long paper/03_background.tex") ("./05-x-Long paper/04_approach.tex"
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[2]
-
-Package tabulary Warning: No suitable columns! on input line 60.
-
-
-Package tabulary Warning: No suitable columns! on input line 84.
-
-) ("./05-x-Long paper/05_experimentation.tex"
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[3
-Missing character: There is no ρ (U+03C1) in font ptmr8t!
-Missing character: There is no − (U+2212) in font ptmr8t!
-Missing character: There is no ” (U+201D) in font ptmr8t!
-Missing character: There is no ” (U+201D) in font ptmr8t!
-]
-
-Package tabulary Warning: No suitable columns! on input line 27.
-
-(../res/plot/figure1.tex
-PGFPlots: reading {../res/data/figure1.dat}
-PGFPlots: reading {../res/data/figure1.dat}
-PGFPlots: reading {../res/data/figure1.dat}
-PGFPlots: reading {../res/data/figure1.dat}
-) (../res/plot/figure3.tex
-PGFPlots: reading {../res/data/figure3.dat}
-PGFPlots: reading {../res/data/figure3.dat}
-PGFPlots: reading {../res/data/figure3.dat}
-PGFPlots: reading {../res/data/figure3.dat}
-)
-
-LaTeX Warning: Reference `5-fig:local_.png' on page  undefined on input line 36.
-
-
-) ("./05-x-Long paper/06_results.tex"
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[4]) ("./05-x-Long paper/07_conclusion.tex")
-("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/authors.tex"
-) (/home/aghiles/Aghiles/Research/Writing/src/L-Library/ref.tex
-
-Package biblatex Warning: Keyword 'A-App' not found on input line 1.
-
-
-LaTeX Warning: Empty bibliography on input line 1.
-
-
-Package biblatex Warning: Keyword 'A-Blockchain' not found on input line 2.
-
-
-LaTeX Warning: Empty bibliography on input line 2.
-
-
-Package biblatex Warning: Keyword 'A-IEEE' not found on input line 3.
-
-
-LaTeX Warning: Empty bibliography on input line 3.
-
-
-Package biblatex Warning: Keyword 'A-Mesh' not found on input line 4.
-
-
-LaTeX Warning: Empty bibliography on input line 4.
-
-
-Package biblatex Warning: Keyword 'A-RAN' not found on input line 5.
-
-
-LaTeX Warning: Empty bibliography on input line 5.
-
-
-Package biblatex Warning: Keyword 'A-RAN,U-Disaster' not found on input line 6.
-
-
-LaTeX Warning: Empty bibliography on input line 6.
-
-
-Package biblatex Warning: Keyword 'A-SDN' not found on input line 7.
-
-
-LaTeX Warning: Empty bibliography on input line 7.
-
-
-Package biblatex Warning: Keyword 'A-Social' not found on input line 8.
-
-
-LaTeX Warning: Empty bibliography on input line 8.
-
-
-Package biblatex Warning: Keyword 'Cloud' not found on input line 9.
-
-
-LaTeX Warning: Empty bibliography on input line 9.
-
-
-Package biblatex Warning: Keyword 'Contiki' not found on input line 10.
-
-
-LaTeX Warning: Empty bibliography on input line 10.
-
-
-Package biblatex Warning: Keyword 'Device' not found on input line 11.
-
-
-LaTeX Warning: Empty bibliography on input line 11.
-
-
-Package biblatex Warning: Keyword 'E-RAN' not found on input line 12.
-
-
-LaTeX Warning: Empty bibliography on input line 12.
-
-
-Package biblatex Warning: Keyword 'E-RAN,U-Disaster' not found on input line 13.
-
-
-
-LaTeX Warning: Empty bibliography on input line 13.
-
-
-Package biblatex Warning: Keyword 'E-SDN' not found on input line 14.
-
-
-LaTeX Warning: Empty bibliography on input line 14.
-
-
-Package biblatex Warning: Keyword 'Gateway' not found on input line 15.
-
-
-LaTeX Warning: Empty bibliography on input line 15.
-
-
-Package biblatex Warning: Keyword 'IoTlab' not found on input line 16.
-
-
-LaTeX Warning: Empty bibliography on input line 16.
-
-
-Package biblatex Warning: Keyword 'L-CELL' not found on input line 17.
-
-
-LaTeX Warning: Empty bibliography on input line 17.
-
-
-Package biblatex Warning: Keyword 'L-Karlyna' not found on input line 18.
-
-
-LaTeX Warning: Empty bibliography on input line 18.
-
-
-Package biblatex Warning: Keyword 'L-Learning' not found on input line 19.
-
-
-LaTeX Warning: Empty bibliography on input line 19.
-
-
-Package biblatex Warning: Keyword 'L-LoRa' not found on input line 20.
-
-
-LaTeX Warning: Empty bibliography on input line 20.
-
-
-Package biblatex Warning: Keyword 'L-Management' not found on input line 21.
-
-
-LaTeX Warning: Empty bibliography on input line 21.
-
-
-Package biblatex Warning: Keyword 'L-Math' not found on input line 22.
-
-
-LaTeX Warning: Empty bibliography on input line 22.
-
-
-Package biblatex Warning: Keyword 'L-Probability' not found on input line 23.
-
-
-LaTeX Warning: Empty bibliography on input line 23.
-
-
-Package biblatex Warning: Keyword 'L-Python' not found on input line 24.
-
-
-LaTeX Warning: Empty bibliography on input line 24.
-
-
-Package biblatex Warning: Keyword 'L-QoS' not found on input line 25.
-
-
-LaTeX Warning: Empty bibliography on input line 25.
-
-
-Package biblatex Warning: Keyword 'L-Rafik' not found on input line 26.
-
-
-LaTeX Warning: Empty bibliography on input line 26.
-
-
-Package biblatex Warning: Keyword 'L-SDR' not found on input line 27.
-
-
-LaTeX Warning: Empty bibliography on input line 27.
-
-
-Package biblatex Warning: Keyword 'L-Wireless' not found on input line 28.
-
-
-LaTeX Warning: Empty bibliography on input line 28.
-
-
-Package biblatex Warning: Keyword 'M-Access-Class-Barring' not found on input li
-ne 29.
-
-
-LaTeX Warning: Empty bibliography on input line 29.
-
-
-Package biblatex Warning: Keyword 'M-Bee-Colony' not found on input line 30.
-
-
-LaTeX Warning: Empty bibliography on input line 30.
-
-
-Package biblatex Warning: Keyword 'M-Choregraphie' not found on input line 31.
-
-
-LaTeX Warning: Empty bibliography on input line 31.
-
-
-Package biblatex Warning: Keyword 'M-Divers' not found on input line 32.
-
-
-LaTeX Warning: Empty bibliography on input line 32.
-
-
-Package biblatex Warning: Keyword 'M-Experimentation' not found on input line 33
-.
-
-
-LaTeX Warning: Empty bibliography on input line 33.
-
-
-Package biblatex Warning: Keyword 'M-Game' not found on input line 34.
-
-
-LaTeX Warning: Empty bibliography on input line 34.
-
-
-Package biblatex Warning: Keyword 'M-Game,M-MCDM' not found on input line 35.
-
-
-LaTeX Warning: Empty bibliography on input line 35.
-
-
-Package biblatex Warning: Keyword 'M-Graph' not found on input line 36.
-
-
-LaTeX Warning: Empty bibliography on input line 36.
-
-
-Package biblatex Warning: Keyword 'M-Learning' not found on input line 37.
-
-
-LaTeX Warning: Empty bibliography on input line 37.
-
-
-Package biblatex Warning: Keyword 'M-Learning-Bandit' not found on input line 38
-.
-
-
-LaTeX Warning: Empty bibliography on input line 38.
-
-
-Package biblatex Warning: Keyword 'M-Marcov' not found on input line 39.
-
-
-LaTeX Warning: Empty bibliography on input line 39.
-
-
-Package biblatex Warning: Keyword 'M-Matching' not found on input line 40.
-
-
-LaTeX Warning: Empty bibliography on input line 40.
-
-
-Package biblatex Warning: Keyword 'M-MCDM' not found on input line 41.
-
-
-LaTeX Warning: Empty bibliography on input line 41.
-
-
-Package biblatex Warning: Keyword 'M-MCDM-Fuzzy' not found on input line 42.
-
-
-LaTeX Warning: Empty bibliography on input line 42.
-
-
-Package biblatex Warning: Keyword 'M-Proba' not found on input line 43.
-
-
-LaTeX Warning: Empty bibliography on input line 43.
-
-
-Package biblatex Warning: Keyword 'M-Utility' not found on input line 44.
-
-
-LaTeX Warning: Empty bibliography on input line 44.
-
-
-Package biblatex Warning: Keyword 'RIOT' not found on input line 45.
-
-
-LaTeX Warning: Empty bibliography on input line 45.
-
-
-Package biblatex Warning: Keyword 'Statistics' not found on input line 46.
-
-
-LaTeX Warning: Empty bibliography on input line 46.
-
-
-Package biblatex Warning: Keyword 'tool' not found on input line 47.
-
-
-LaTeX Warning: Empty bibliography on input line 47.
-
-
-Package biblatex Warning: Keyword 'U-Disaster' not found on input line 48.
-
-
-LaTeX Warning: Empty bibliography on input line 48.
-
-
-Package biblatex Warning: Keyword 'U-Disaster,U-Weather' not found on input line
- 49.
-
-
-LaTeX Warning: Empty bibliography on input line 49.
-
-
-Package biblatex Warning: Keyword 'UTLC' not found on input line 50.
-
-
-LaTeX Warning: Empty bibliography on input line 50.
-
-
-Package biblatex Warning: Keyword 'U-Weather' not found on input line 51.
-
-
-LaTeX Warning: Empty bibliography on input line 51.
-
-
-Package biblatex Warning: Keyword 'Waziup' not found on input line 52.
-
-
-LaTeX Warning: Empty bibliography on input line 52.
-
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 53.
-)
-Package biblatex Info: Reference section=0 on input line 19.
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[5]
-\blx@maxsegment@7=\count538
-\blx@sectionciteorder@7=\count539
-Package biblatex Info: Reference section=7 on input line 19.
-Package biblatex Info: Setting label 'refsection:7' on input line 19.
 
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/00_abstract.
 tex")
@@ -5486,7 +4658,7 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 d.tex")
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/04_approach.
 tex"
-<../res/plot/genetic.pdf, id=1524, 1026.1025pt x 457.04752pt>
+<../res/plot/genetic.pdf, id=1183, 1026.1025pt x 457.04752pt>
 File: ../res/plot/genetic.pdf Graphic file (type pdf)
 <use ../res/plot/genetic.pdf>
 Package luatex.def Info: ../res/plot/genetic.pdf  used on input line 54.
@@ -5494,12 +4666,12 @@ Package luatex.def Info: ../res/plot/genetic.pdf  used on input line 54.
 )
 ("./06-Genetic Algorithm For LoRa Transmission Parameter Selection/05_experimen
 tation.tex"
-<../res/tmp/Picture/gateway.jpg, id=1541, 4625.28pt x 3468.96pt>
+<../res/tmp/Picture/gateway.jpg, id=1200, 4625.28pt x 3468.96pt>
 File: ../res/tmp/Picture/gateway.jpg Graphic file (type jpg)
 <use ../res/tmp/Picture/gateway.jpg>
 Package luatex.def Info: ../res/tmp/Picture/gateway.jpg  used on input line 15.
 (luatex.def)             Requested size: 120.95892pt x 90.67252pt.
-<../res/tmp/Picture/node.jpg, id=1542, 4625.28pt x 3468.96pt>
+<../res/tmp/Picture/node.jpg, id=1201, 4625.28pt x 3468.96pt>
 File: ../res/tmp/Picture/node.jpg Graphic file (type jpg)
 <use ../res/tmp/Picture/node.jpg>
 Package luatex.def Info: ../res/tmp/Picture/node.jpg  used on input line 15.
@@ -5818,16 +4990,16 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 ode.jpg>]
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 53.
 )
-Package biblatex Info: Reference section=0 on input line 20.
+Package biblatex Info: Reference section=0 on input line 18.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [3
 
 ]
-\blx@maxsegment@8=\count540
-\blx@sectionciteorder@8=\count541
-Package biblatex Info: Reference section=8 on input line 20.
-Package biblatex Info: Setting label 'refsection:8' on input line 20.
+\blx@maxsegment@6=\count536
+\blx@sectionciteorder@6=\count537
+Package biblatex Info: Reference section=6 on input line 18.
+Package biblatex Info: Setting label 'refsection:6' on input line 18.
  (./21-Disaster/00_abstract.tex) (./21-Disaster/01_introduction.tex)
 (./21-Disaster/02_related.tex) (./21-Disaster/03_background.tex
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
@@ -5835,7 +5007,7 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 
 
 ]) (./21-Disaster/04_approach.tex
-<../res/tmp/A-Application/iot.png, id=1654, 1702.36pt x 696.6025pt>
+<../res/tmp/A-Application/iot.png, id=1313, 1702.36pt x 696.6025pt>
 File: ../res/tmp/A-Application/iot.png Graphic file (type png)
 <use ../res/tmp/A-Application/iot.png>
 Package luatex.def Info: ../res/tmp/A-Application/iot.png  used on input line 13
@@ -6162,27 +5334,27 @@ LaTeX Warning: Empty bibliography on input line 52.
 LaTeX Warning: Empty bibliography on input line 53.
 
 )
-Package biblatex Info: Reference section=0 on input line 21.
+Package biblatex Info: Reference section=0 on input line 19.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [2<../res/tmp/A-Application/iot.png>]
-\blx@maxsegment@9=\count542
-\blx@sectionciteorder@9=\count543
-Package biblatex Info: Reference section=9 on input line 21.
-Package biblatex Info: Setting label 'refsection:9' on input line 21.
+\blx@maxsegment@7=\count538
+\blx@sectionciteorder@7=\count539
+Package biblatex Info: Reference section=7 on input line 19.
+Package biblatex Info: Setting label 'refsection:7' on input line 19.
  (./07-Template/00_abstract.tex)
 (./07-Template/01_introduction.tex
 
-LaTeX Warning: Reference `8-sec:Background' on page  undefined on input line 24.
+LaTeX Warning: Reference `6-sec:Background' on page  undefined on input line 24.
 
 
 
-LaTeX Warning: Reference `8-sec:Results' on page  undefined on input line 28.
+LaTeX Warning: Reference `6-sec:Results' on page  undefined on input line 28.
 
 ) (./07-Template/02_related.tex) (./07-Template/03_background.tex)
 (./07-Template/04_approach.tex) (./07-Template/05_experimentation.tex)
 (./07-Template/06_results.tex) (./07-Template/07_conclusion.tex)
-(./08-UTLC/authors.tex)
+(./09-Conclusion/authors.tex)
 (/home/aghiles/Aghiles/Research/Writing/src/L-Library/ref.tex
 
 Package biblatex Warning: Keyword 'A-App' not found on input line 1.
@@ -6505,576 +5677,17 @@ LaTeX Warning: Empty bibliography on input line 52.
 LaTeX Warning: Empty bibliography on input line 53.
 
 )
-Package biblatex Info: Reference section=0 on input line 22.
+Package biblatex Info: Reference section=0 on input line 21.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [1
 
 
 ]
-\blx@maxsegment@10=\count544
-\blx@sectionciteorder@10=\count545
-Package biblatex Info: Reference section=10 on input line 22.
-Package biblatex Info: Setting label 'refsection:10' on input line 22.
- (./08-UTLC/00_abstract.tex) (./08-UTLC/01_introduction.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[1
-
-
-]
-
-LaTeX Warning: Reference `9-sec:Use Case and Model Design' on page  undefined on
- input line 72.
-
-
-LaTeX Warning: Reference `9-sec:Prototyping' on page  undefined on input line 74
-.
-
-) (./08-UTLC/02_related.tex) (./08-UTLC/03_background.tex)
-(./08-UTLC/04_approach.tex
-Package epstopdf Info: Source file: <../res/tmp/Figures/CrossRoadModel_V1.eps>
-(epstopdf)                    date: 2019-10-12 16:10:00
-(epstopdf)                    size: 124569 bytes
-(epstopdf)             Output file: <../res/tmp/Figures/CrossRoadModel_V1-eps-co
-nverted-to.pdf>
-(epstopdf)                    date: 2019-10-12 16:10:00
-(epstopdf)                    size: 29569 bytes
-(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/CrossRoad
-Model_V1-eps-converted-to.pdf ../res/tmp/Figures/CrossRoadModel_V1.eps>
-(epstopdf)             \includegraphics on input line 29.
-Package epstopdf Info: Output file is already uptodate.
-<../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.pdf, id=1719, 944.52875pt
- x 648.4225pt>
-File: ../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.pdf Graphic file (ty
-pe pdf)
-<use ../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.pdf>
-Package luatex.def Info: ../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.p
-df  used on input line 29.
-(luatex.def)             Requested size: 252.94499pt x 173.64177pt.
-
-Overfull \hbox (0.94499pt too wide) in paragraph at lines 29--30
- [][] 
- []
-
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[2
-Missing character: There is no ’ (U+2019) in font ptmr8t!
-<../res/tmp/Figures/CrossRoadModel_V1-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <../res/tmp/Figures/TrafficlightModel.eps>
-(epstopdf)                    date: 2019-10-12 16:10:00
-(epstopdf)                    size: 8506 bytes
-(epstopdf)             Output file: <../res/tmp/Figures/TrafficlightModel-eps-co
-nverted-to.pdf>
-(epstopdf)                    date: 2019-10-12 16:10:00
-(epstopdf)                    size: 4298 bytes
-(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/Trafficli
-ghtModel-eps-converted-to.pdf ../res/tmp/Figures/TrafficlightModel.eps>
-(epstopdf)             \includegraphics on input line 116.
-Package epstopdf Info: Output file is already uptodate.
-<../res/tmp/Figures/TrafficlightModel-eps-converted-to.pdf, id=1753, 404.51125pt
- x 152.57pt>
-File: ../res/tmp/Figures/TrafficlightModel-eps-converted-to.pdf Graphic file (ty
-pe pdf)
-<use ../res/tmp/Figures/TrafficlightModel-eps-converted-to.pdf>
-Package luatex.def Info: ../res/tmp/Figures/TrafficlightModel-eps-converted-to.p
-df  used on input line 116.
-(luatex.def)             Requested size: 325.215pt x 122.66377pt.
-Package epstopdf Info: Source file: <../res/tmp/Figures/MiddlewareModel.eps>
-(epstopdf)                    date: 2019-10-12 16:10:00
-(epstopdf)                    size: 17123 bytes
-(epstopdf)             Output file: <../res/tmp/Figures/MiddlewareModel-eps-conv
-erted-to.pdf>
-(epstopdf)                    date: 2019-10-12 16:10:00
-(epstopdf)                    size: 5168 bytes
-(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/Middlewar
-eModel-eps-converted-to.pdf ../res/tmp/Figures/MiddlewareModel.eps>
-(epstopdf)             \includegraphics on input line 123.
-Package epstopdf Info: Output file is already uptodate.
-<../res/tmp/Figures/MiddlewareModel-eps-converted-to.pdf, id=1754, 423.5825pt x 
-292.09125pt>
-File: ../res/tmp/Figures/MiddlewareModel-eps-converted-to.pdf Graphic file (type
- pdf)
-<use ../res/tmp/Figures/MiddlewareModel-eps-converted-to.pdf>
-Package luatex.def Info: ../res/tmp/Figures/MiddlewareModel-eps-converted-to.pdf
-  used on input line 123.
-(luatex.def)             Requested size: 289.07999pt x 199.35034pt.
-Package epstopdf Info: Source file: <../res/tmp/Figures/CloudModel.eps>
-(epstopdf)                    date: 2019-10-12 16:10:00
-(epstopdf)                    size: 6424 bytes
-(epstopdf)             Output file: <../res/tmp/Figures/CloudModel-eps-converted
--to.pdf>
-(epstopdf)                    date: 2019-10-12 16:10:00
-(epstopdf)                    size: 3823 bytes
-(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/CloudMode
-l-eps-converted-to.pdf ../res/tmp/Figures/CloudModel.eps>
-(epstopdf)             \includegraphics on input line 208.
-Package epstopdf Info: Output file is already uptodate.
-<../res/tmp/Figures/CloudModel-eps-converted-to.pdf, id=1762, 294.09875pt x 199.
-74625pt>
-File: ../res/tmp/Figures/CloudModel-eps-converted-to.pdf Graphic file (type pdf)
-
-<use ../res/tmp/Figures/CloudModel-eps-converted-to.pdf>
-Package luatex.def Info: ../res/tmp/Figures/CloudModel-eps-converted-to.pdf  use
-d on input line 208.
-(luatex.def)             Requested size: 231.26378pt x 157.06935pt.
-)
-(./08-UTLC/05_experimentation.tex
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[3]
-Package epstopdf Info: Source file: <../res/tmp/Figures/ScenarioPaper.eps>
-(epstopdf)                    date: 2019-10-12 16:10:00
-(epstopdf)                    size: 790082 bytes
-(epstopdf)             Output file: <../res/tmp/Figures/ScenarioPaper-eps-conver
-ted-to.pdf>
-(epstopdf)                    date: 2019-10-12 16:10:00
-(epstopdf)                    size: 79930 bytes
-(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/ScenarioP
-aper-eps-converted-to.pdf ../res/tmp/Figures/ScenarioPaper.eps>
-(epstopdf)             \includegraphics on input line 12.
-Package epstopdf Info: Output file is already uptodate.
-<../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf, id=1793, 1535.7375pt x 6
-04.2575pt>
-File: ../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf Graphic file (type p
-df)
-<use ../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf>
-Package luatex.def Info: ../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf  
-used on input line 12.
-(luatex.def)             Requested size: 325.215pt x 127.95815pt.
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[4
-Missing character: There is no ’ (U+2019) in font ptmr8t!
-<../res/tmp/Figures/TrafficlightModel-eps-converted-to.pdf><../res/tmp/Figures/M
-iddlewareModel-eps-converted-to.pdf><../res/tmp/Figures/CloudModel-eps-converted
--to.pdf>]
-<../res/tmp/Figures/ethernetRouter.png, id=1822, 294.8616pt x 168.1482pt>
-File: ../res/tmp/Figures/ethernetRouter.png Graphic file (type png)
-<use ../res/tmp/Figures/ethernetRouter.png>
-Package luatex.def Info: ../res/tmp/Figures/ethernetRouter.png  used on input li
-ne 52.
-(luatex.def)             Requested size: 180.67499pt x 103.03206pt.
-
-
-LaTeX Warning: Reference `9-sec:Use Case and Model Design' on page  undefined on
- input line 58.
-
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[5
-Missing character: There is no ’ (U+2019) in font ptmr8t!
-<../res/tmp/Figures/ScenarioPaper-eps-converted-to.pdf><../res/tmp/Figures/ether
-netRouter.png>]
-Package epstopdf Info: Source file: <../res/tmp/Figures/StackIoTv1.eps>
-(epstopdf)                    date: 2019-10-12 16:10:00
-(epstopdf)                    size: 55400 bytes
-(epstopdf)             Output file: <../res/tmp/Figures/StackIoTv1-eps-converted
--to.pdf>
-(epstopdf)                    date: 2019-10-12 16:10:00
-(epstopdf)                    size: 18793 bytes
-(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/StackIoTv
-1-eps-converted-to.pdf ../res/tmp/Figures/StackIoTv1.eps>
-(epstopdf)             \includegraphics on input line 233.
-Package epstopdf Info: Output file is already uptodate.
-<../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf, id=1883, 298.11375pt x 343.
-2825pt>
-File: ../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf Graphic file (type pdf)
-
-<use ../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf>
-Package luatex.def Info: ../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf  use
-d on input line 233.
-(luatex.def)             Requested size: 144.54pt x 166.43942pt.
-) (./08-UTLC/06_results.tex
-Package epstopdf Info: Source file: <../res/tmp/Figures/distributions_v3.eps>
-(epstopdf)                    date: 2019-10-12 16:10:00
-(epstopdf)                    size: 46701 bytes
-(epstopdf)             Output file: <../res/tmp/Figures/distributions_v3-eps-con
-verted-to.pdf>
-(epstopdf)                    date: 2019-10-12 16:10:00
-(epstopdf)                    size: 45885 bytes
-(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/distribut
-ions_v3-eps-converted-to.pdf ../res/tmp/Figures/distributions_v3.eps>
-(epstopdf)             \includegraphics on input line 9.
-Package epstopdf Info: Output file is already uptodate.
-<../res/tmp/Figures/distributions_v3-eps-converted-to.pdf, id=1884, 752.8125pt x
- 752.8125pt>
-File: ../res/tmp/Figures/distributions_v3-eps-converted-to.pdf Graphic file (typ
-e pdf)
-<use ../res/tmp/Figures/distributions_v3-eps-converted-to.pdf>
-Package luatex.def Info: ../res/tmp/Figures/distributions_v3-eps-converted-to.pd
-f  used on input line 9.
-(luatex.def)             Requested size: 252.0pt x 252.00134pt.
-Package epstopdf Info: Source file: <../res/tmp/Figures/cdf_v3.eps>
-(epstopdf)                    date: 2019-10-12 16:10:00
-(epstopdf)                    size: 10221 bytes
-(epstopdf)             Output file: <../res/tmp/Figures/cdf_v3-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2019-10-12 16:10:00
-(epstopdf)                    size: 12730 bytes
-(epstopdf)             Command: <epstopdf --outfile=../res/tmp/Figures/cdf_v3-ep
-s-converted-to.pdf ../res/tmp/Figures/cdf_v3.eps>
-(epstopdf)             \includegraphics on input line 57.
-Package epstopdf Info: Output file is already uptodate.
-<../res/tmp/Figures/cdf_v3-eps-converted-to.pdf, id=1887, 903.375pt x 617.30624p
-t>
-File: ../res/tmp/Figures/cdf_v3-eps-converted-to.pdf Graphic file (type pdf)
-<use ../res/tmp/Figures/cdf_v3-eps-converted-to.pdf>
-Package luatex.def Info: ../res/tmp/Figures/cdf_v3-eps-converted-to.pdf  used on
- input line 57.
-(luatex.def)             Requested size: 252.94499pt x 172.84456pt.
-
-Overfull \hbox (0.94499pt too wide) in paragraph at lines 57--58
- [][] 
- []
-
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[6<../res/tmp/Figures/StackIoTv1-eps-converted-to.pdf>])
-(./08-UTLC/07_conclusion.tex) (./09-Conclusion/authors.tex)
-(/home/aghiles/Aghiles/Research/Writing/src/L-Library/ref.tex
-
-Package biblatex Warning: Keyword 'A-App' not found on input line 1.
-
-
-LaTeX Warning: Empty bibliography on input line 1.
-
-
-Package biblatex Warning: Keyword 'A-Blockchain' not found on input line 2.
-
-
-LaTeX Warning: Empty bibliography on input line 2.
-
-
-Package biblatex Warning: Keyword 'A-IEEE' not found on input line 3.
-
-
-LaTeX Warning: Empty bibliography on input line 3.
-
-
-Package biblatex Warning: Keyword 'A-Mesh' not found on input line 4.
-
-
-LaTeX Warning: Empty bibliography on input line 4.
-
-
-Package biblatex Warning: Keyword 'A-RAN' not found on input line 5.
-
-
-LaTeX Warning: Empty bibliography on input line 5.
-
-
-Package biblatex Warning: Keyword 'A-RAN,U-Disaster' not found on input line 6.
-
-
-LaTeX Warning: Empty bibliography on input line 6.
-
-
-Package biblatex Warning: Keyword 'A-SDN' not found on input line 7.
-
-
-LaTeX Warning: Empty bibliography on input line 7.
-
-
-Package biblatex Warning: Keyword 'A-Social' not found on input line 8.
-
-
-LaTeX Warning: Empty bibliography on input line 8.
-
-
-Package biblatex Warning: Keyword 'Cloud' not found on input line 9.
-
-
-LaTeX Warning: Empty bibliography on input line 9.
-
-
-Package biblatex Warning: Keyword 'Contiki' not found on input line 10.
-
-
-LaTeX Warning: Empty bibliography on input line 10.
-
-
-Package biblatex Warning: Keyword 'Device' not found on input line 11.
-
-
-LaTeX Warning: Empty bibliography on input line 11.
-
-
-Package biblatex Warning: Keyword 'E-RAN' not found on input line 12.
-
-
-LaTeX Warning: Empty bibliography on input line 12.
-
-
-Package biblatex Warning: Keyword 'E-RAN,U-Disaster' not found on input line 13.
-
-
-
-LaTeX Warning: Empty bibliography on input line 13.
-
-
-Package biblatex Warning: Keyword 'E-SDN' not found on input line 14.
-
-
-LaTeX Warning: Empty bibliography on input line 14.
-
-
-Package biblatex Warning: Keyword 'Gateway' not found on input line 15.
-
-
-LaTeX Warning: Empty bibliography on input line 15.
-
-
-Package biblatex Warning: Keyword 'IoTlab' not found on input line 16.
-
-
-LaTeX Warning: Empty bibliography on input line 16.
-
-
-Package biblatex Warning: Keyword 'L-CELL' not found on input line 17.
-
-
-LaTeX Warning: Empty bibliography on input line 17.
-
-
-Package biblatex Warning: Keyword 'L-Karlyna' not found on input line 18.
-
-
-LaTeX Warning: Empty bibliography on input line 18.
-
-
-Package biblatex Warning: Keyword 'L-Learning' not found on input line 19.
-
-
-LaTeX Warning: Empty bibliography on input line 19.
-
-
-Package biblatex Warning: Keyword 'L-LoRa' not found on input line 20.
-
-
-LaTeX Warning: Empty bibliography on input line 20.
-
-
-Package biblatex Warning: Keyword 'L-Management' not found on input line 21.
-
-
-LaTeX Warning: Empty bibliography on input line 21.
-
-
-Package biblatex Warning: Keyword 'L-Math' not found on input line 22.
-
-
-LaTeX Warning: Empty bibliography on input line 22.
-
-
-Package biblatex Warning: Keyword 'L-Probability' not found on input line 23.
-
-
-LaTeX Warning: Empty bibliography on input line 23.
-
-
-Package biblatex Warning: Keyword 'L-Python' not found on input line 24.
-
-
-LaTeX Warning: Empty bibliography on input line 24.
-
-
-Package biblatex Warning: Keyword 'L-QoS' not found on input line 25.
-
-
-LaTeX Warning: Empty bibliography on input line 25.
-
-
-Package biblatex Warning: Keyword 'L-Rafik' not found on input line 26.
-
-
-LaTeX Warning: Empty bibliography on input line 26.
-
-
-Package biblatex Warning: Keyword 'L-SDR' not found on input line 27.
-
-
-LaTeX Warning: Empty bibliography on input line 27.
-
-
-Package biblatex Warning: Keyword 'L-Wireless' not found on input line 28.
-
-
-LaTeX Warning: Empty bibliography on input line 28.
-
-
-Package biblatex Warning: Keyword 'M-Access-Class-Barring' not found on input li
-ne 29.
-
-
-LaTeX Warning: Empty bibliography on input line 29.
-
-
-Package biblatex Warning: Keyword 'M-Bee-Colony' not found on input line 30.
-
-
-LaTeX Warning: Empty bibliography on input line 30.
-
-
-Package biblatex Warning: Keyword 'M-Choregraphie' not found on input line 31.
-
-
-LaTeX Warning: Empty bibliography on input line 31.
-
-
-Package biblatex Warning: Keyword 'M-Divers' not found on input line 32.
-
-
-LaTeX Warning: Empty bibliography on input line 32.
-
-
-Package biblatex Warning: Keyword 'M-Experimentation' not found on input line 33
-.
-
-
-LaTeX Warning: Empty bibliography on input line 33.
-
-
-Package biblatex Warning: Keyword 'M-Game' not found on input line 34.
-
-
-LaTeX Warning: Empty bibliography on input line 34.
-
-
-Package biblatex Warning: Keyword 'M-Game,M-MCDM' not found on input line 35.
-
-
-LaTeX Warning: Empty bibliography on input line 35.
-
-
-Package biblatex Warning: Keyword 'M-Graph' not found on input line 36.
-
-
-LaTeX Warning: Empty bibliography on input line 36.
-
-
-Package biblatex Warning: Keyword 'M-Learning' not found on input line 37.
-
-
-LaTeX Warning: Empty bibliography on input line 37.
-
-
-Package biblatex Warning: Keyword 'M-Learning-Bandit' not found on input line 38
-.
-
-
-LaTeX Warning: Empty bibliography on input line 38.
-
-
-Package biblatex Warning: Keyword 'M-Marcov' not found on input line 39.
-
-
-LaTeX Warning: Empty bibliography on input line 39.
-
-
-Package biblatex Warning: Keyword 'M-Matching' not found on input line 40.
-
-
-LaTeX Warning: Empty bibliography on input line 40.
-
-
-Package biblatex Warning: Keyword 'M-MCDM' not found on input line 41.
-
-
-LaTeX Warning: Empty bibliography on input line 41.
-
-
-Package biblatex Warning: Keyword 'M-MCDM-Fuzzy' not found on input line 42.
-
-
-LaTeX Warning: Empty bibliography on input line 42.
-
-
-Package biblatex Warning: Keyword 'M-Proba' not found on input line 43.
-
-
-LaTeX Warning: Empty bibliography on input line 43.
-
-
-Package biblatex Warning: Keyword 'M-Utility' not found on input line 44.
-
-
-LaTeX Warning: Empty bibliography on input line 44.
-
-
-Package biblatex Warning: Keyword 'RIOT' not found on input line 45.
-
-
-LaTeX Warning: Empty bibliography on input line 45.
-
-
-Package biblatex Warning: Keyword 'Statistics' not found on input line 46.
-
-
-LaTeX Warning: Empty bibliography on input line 46.
-
-
-Package biblatex Warning: Keyword 'tool' not found on input line 47.
-
-
-LaTeX Warning: Empty bibliography on input line 47.
-
-
-Package biblatex Warning: Keyword 'U-Disaster' not found on input line 48.
-
-
-LaTeX Warning: Empty bibliography on input line 48.
-
-
-Package biblatex Warning: Keyword 'U-Disaster,U-Weather' not found on input line
- 49.
-
-
-LaTeX Warning: Empty bibliography on input line 49.
-
-
-Package biblatex Warning: Keyword 'UTLC' not found on input line 50.
-
-
-LaTeX Warning: Empty bibliography on input line 50.
-
-
-Package biblatex Warning: Keyword 'U-Weather' not found on input line 51.
-
-
-LaTeX Warning: Empty bibliography on input line 51.
-
-
-Package biblatex Warning: Keyword 'Waziup' not found on input line 52.
-
-
-LaTeX Warning: Empty bibliography on input line 52.
-
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 53.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 53.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 53.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 53.
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[7
-Missing character: There is no ’ (U+2019) in font ptmr8t!
-Missing character: There is no č (U+010D) in font ptmr8t!
-<../res/tmp/Figures/distributions_v3-eps-converted-to.pdf><../res/tmp/Figures/cd
-f_v3-eps-converted-to.pdf>]
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 53.
-)
-Package biblatex Info: Reference section=0 on input line 23.
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.'
-[8
-
-]
-\blx@maxsegment@11=\count546
-\blx@sectionciteorder@11=\count547
-Package biblatex Info: Reference section=11 on input line 23.
-Package biblatex Info: Setting label 'refsection:11' on input line 23.
+\blx@maxsegment@8=\count540
+\blx@sectionciteorder@8=\count541
+Package biblatex Info: Reference section=8 on input line 21.
+Package biblatex Info: Setting label 'refsection:8' on input line 21.
  (./09-Conclusion/00_conclusion.tex) ("./A-Survey IoT/authors.tex")
 (/home/aghiles/Aghiles/Research/Writing/src/L-Library/ref.tex
 
@@ -7398,17 +6011,17 @@ LaTeX Warning: Empty bibliography on input line 52.
 LaTeX Warning: Empty bibliography on input line 53.
 
 )
-Package biblatex Info: Reference section=0 on input line 25.
+Package biblatex Info: Reference section=0 on input line 23.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [1
 
 
 ]
-\blx@maxsegment@12=\count548
-\blx@sectionciteorder@12=\count549
-Package biblatex Info: Reference section=12 on input line 25.
-Package biblatex Info: Setting label 'refsection:12' on input line 25.
+\blx@maxsegment@9=\count542
+\blx@sectionciteorder@9=\count543
+Package biblatex Info: Reference section=9 on input line 23.
+Package biblatex Info: Setting label 'refsection:9' on input line 23.
  ("./A-Survey IoT/00_papers_network.tex"
 warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [1
@@ -8179,7 +6792,7 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 53.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 53.
 )
-Package biblatex Info: Reference section=0 on input line 36.
+Package biblatex Info: Reference section=0 on input line 34.
 
 
 ** Conference Paper **
@@ -8197,11 +6810,11 @@ warning  (pdf backend): ignoring duplicate destination with the name 'page.'
 [16
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 37.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 37.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 35.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 35.
  (/home/aghiles/Aghiles/Research/Writing/bin/paper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 37.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 37.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 35.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 35.
 Package rerunfilecheck Info: File `paper.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
 
@@ -8211,27 +6824,22 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                paper
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'paper.run.xml'.
 
 \openout1 = paper.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 74071 strings out of 494383
- 195593,2848258 words of node,token memory allocated
- 13014 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 8 glue, 1854 kern, 1 glyph, 679 attribute, 116 glue
-_spec, 679 attribute_list, 1 write, 35 pdf_action nodes
-   avail lists: 1:31,2:6211,3:5358,4:636,5:897,6:541,7:11095,8:1823,9:2624,10:25
-,11:879,12:1
- 73059 multiletter control sequences out of 65536+600000
+ 72686 strings out of 494383
+ 244504,2373549 words of node,token memory allocated
+ 9300 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 3 glue, 1253 kern, 1 glyph, 518 attribute, 116 glue
+_spec, 518 attribute_list, 1 write, 30 pdf_action nodes
+   avail lists: 1:27,2:5328,3:1365,4:636,5:897,6:950,7:11095,8:3608,9:5030,10:22
+,11:754,12:1
+ 72380 multiletter control sequences out of 65536+600000
  221 fonts using 19326735 bytes
- 84i,21n,136p,6070b,2739s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 84i,18n,136p,6070b,1970s stack positions out of 5000i,500n,10000p,200000b,100000s
 
 warning  (pdf backend): unreferenced destination with name 'NDCG'
 
@@ -8247,7 +6855,7 @@ warning  (pdf backend): unreferenced destination with name 'RMSE'
 
 warning  (pdf backend): unreferenced destination with name 'MSE'
 
-warning  (pdf backend): unreferenced destination with name 'Hfootnote.5'
+warning  (pdf backend): unreferenced destination with name 'Hfootnote.1'
 
 warning  (pdf backend): unreferenced destination with name 'RS'
 
@@ -8377,10 +6985,10 @@ ive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
 times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on paper.pdf (65 pages, 9325655 bytes).
+Output written on paper.pdf (48 pages, 8714370 bytes).
 
-PDF statistics: 2478 PDF objects out of 2487 (max. 8388607)
- 2204 compressed objects within 23 object streams
- 607 named destinations out of 1000 (max. 131072)
- 2080 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 1871 PDF objects out of 2073 (max. 8388607)
+ 1669 compressed objects within 17 object streams
+ 462 named destinations out of 1000 (max. 131072)
+ 1488 words of extra memory for PDF output out of 10000 (max. 100000000)
 

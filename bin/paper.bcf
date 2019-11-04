@@ -2115,32 +2115,6 @@
     <bcf:datasource type="file" datatype="bibtex">../ref/petri.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="5">
-    <bcf:citekey order="1">joseignacio_contiki_2016</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 6 -->
-  <bcf:bibdata section="6">
-    <bcf:datasource type="file" datatype="bibtex">../ref/iot.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex">../ref/iotbis.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex">../ref/privacy.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex">../ref/petri.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="6">
-    <bcf:citekey order="1">shetty_discovering_2005</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 7 -->
-  <bcf:bibdata section="7">
-    <bcf:datasource type="file" datatype="bibtex">../ref/iot.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex">../ref/iotbis.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex">../ref/privacy.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex">../ref/petri.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="7">
     <bcf:citekey order="1">lowcostloragateway</bcf:citekey>
     <bcf:citekey order="2">LorawanSpecification</bcf:citekey>
     <bcf:citekey order="3">LorawanSpecification</bcf:citekey>
@@ -2155,6 +2129,37 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
+  <!-- SECTION 6 -->
+  <bcf:bibdata section="6">
+    <bcf:datasource type="file" datatype="bibtex">../ref/iot.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex">../ref/iotbis.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex">../ref/privacy.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex">../ref/petri.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="6">
+    <bcf:citekey order="1">qiu_ergid_2016</bcf:citekey>
+    <bcf:citekey order="2">al-turjman_cognitive_2019</bcf:citekey>
+    <bcf:citekey order="3">lopes_design_2019</bcf:citekey>
+    <bcf:citekey order="4">al-kashoash_comparison_2016</bcf:citekey>
+    <bcf:citekey order="5">al-kashoash_comparison_2016</bcf:citekey>
+    <bcf:citekey order="6">raza_low_22</bcf:citekey>
+    <bcf:citekey order="7">lopes_design_2019</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
+  <!-- SECTION 7 -->
+  <bcf:bibdata section="7">
+    <bcf:datasource type="file" datatype="bibtex">../ref/iot.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex">../ref/iotbis.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex">../ref/privacy.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex">../ref/petri.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="7">
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
   <!-- SECTION 8 -->
   <bcf:bibdata section="8">
     <bcf:datasource type="file" datatype="bibtex">../ref/iot.bib</bcf:datasource>
@@ -2163,13 +2168,6 @@
     <bcf:datasource type="file" datatype="bibtex">../ref/petri.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="8">
-    <bcf:citekey order="1">qiu_ergid_2016</bcf:citekey>
-    <bcf:citekey order="2">al-turjman_cognitive_2019</bcf:citekey>
-    <bcf:citekey order="3">lopes_design_2019</bcf:citekey>
-    <bcf:citekey order="4">al-kashoash_comparison_2016</bcf:citekey>
-    <bcf:citekey order="5">al-kashoash_comparison_2016</bcf:citekey>
-    <bcf:citekey order="6">raza_low_22</bcf:citekey>
-    <bcf:citekey order="7">lopes_design_2019</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2182,67 +2180,6 @@
     <bcf:datasource type="file" datatype="bibtex">../ref/petri.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="9">
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 10 -->
-  <bcf:bibdata section="10">
-    <bcf:datasource type="file" datatype="bibtex">../ref/iot.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex">../ref/iotbis.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex">../ref/privacy.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex">../ref/petri.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="10">
-    <bcf:citekey order="1">Routiere2015</bcf:citekey>
-    <bcf:citekey order="2">Perera2014</bcf:citekey>
-    <bcf:citekey order="3">Dastjerdi2016</bcf:citekey>
-    <bcf:citekey order="4">difebbraro_trafficresponsive_2006</bcf:citekey>
-    <bcf:citekey order="5">huang_modular_2014</bcf:citekey>
-    <bcf:citekey order="6">david_uppaal_2015</bcf:citekey>
-    <bcf:citekey order="7">Al-Fuqaha2015</bcf:citekey>
-    <bcf:citekey order="8">chalappuram_development_2016</bcf:citekey>
-    <bcf:citekey order="9">huang_modular_2014</bcf:citekey>
-    <bcf:citekey order="10">difebbraro_trafficresponsive_2006</bcf:citekey>
-    <bcf:citekey order="11">febbraro_using_2009</bcf:citekey>
-    <bcf:citekey order="12">dotoli_urban_2004</bcf:citekey>
-    <bcf:citekey order="13">dossantossoares_modular_2012</bcf:citekey>
-    <bcf:citekey order="14">david_uppaal_2015</bcf:citekey>
-    <bcf:citekey order="15">Web0</bcf:citekey>
-    <bcf:citekey order="16">tlig_decentralized_2014</bcf:citekey>
-    <bcf:citekey order="17">rose_internet_2015</bcf:citekey>
-    <bcf:citekey order="18">Silva2018</bcf:citekey>
-    <bcf:citekey order="19">huang_modular_2014</bcf:citekey>
-    <bcf:citekey order="20">difebbraro_trafficresponsive_2006</bcf:citekey>
-    <bcf:citekey order="21">febbraro_using_2009</bcf:citekey>
-    <bcf:citekey order="22">dossantossoares_modular_2012</bcf:citekey>
-    <bcf:citekey order="23">huang_modular_2014</bcf:citekey>
-    <bcf:citekey order="24">STEPHENS1979</bcf:citekey>
-    <bcf:citekey order="25">Chen2017</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 11 -->
-  <bcf:bibdata section="11">
-    <bcf:datasource type="file" datatype="bibtex">../ref/iot.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex">../ref/iotbis.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex">../ref/privacy.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex">../ref/petri.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="11">
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 12 -->
-  <bcf:bibdata section="12">
-    <bcf:datasource type="file" datatype="bibtex">../ref/iot.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex">../ref/iotbis.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex">../ref/privacy.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex">../ref/petri.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="12">
     <bcf:citekey order="1">cuomo_explora_2017</bcf:citekey>
     <bcf:citekey order="2">cuomo_explora_2017</bcf:citekey>
     <bcf:citekey order="3">cuomo_explora_2017</bcf:citekey>
@@ -2371,33 +2308,6 @@
                 labelalphanametemplatename="global">
   </bcf:datalist>
   <bcf:datalist section="9"
-                name="none/global//global/global"
-                type="entry"
-                sortingtemplatename="none"
-                sortingnamekeytemplatename="global"
-                labelprefix=""
-                uniquenametemplatename="global"
-                labelalphanametemplatename="global">
-  </bcf:datalist>
-  <bcf:datalist section="10"
-                name="none/global//global/global"
-                type="entry"
-                sortingtemplatename="none"
-                sortingnamekeytemplatename="global"
-                labelprefix=""
-                uniquenametemplatename="global"
-                labelalphanametemplatename="global">
-  </bcf:datalist>
-  <bcf:datalist section="11"
-                name="none/global//global/global"
-                type="entry"
-                sortingtemplatename="none"
-                sortingnamekeytemplatename="global"
-                labelprefix=""
-                uniquenametemplatename="global"
-                labelalphanametemplatename="global">
-  </bcf:datalist>
-  <bcf:datalist section="12"
                 name="none/global//global/global"
                 type="entry"
                 sortingtemplatename="none"

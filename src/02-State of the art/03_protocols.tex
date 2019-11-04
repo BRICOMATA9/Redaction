@@ -617,6 +617,7 @@ As a result,
 
 \subsection{Radio}
 
+
 \subsubsection{Digital modulation}
 \paragraph{ASK, APSK, CPM, FSK, MFSK, MSK, OOK, PPM, PSK, QAM, SC-FDE, TCM WDM}
 
@@ -625,6 +626,73 @@ As a result,
 
 \subsubsection{Spread spectrum}
 \paragraph{SS, DSSS, FHSS, THSS}
+
+\subsubsection{Radio performance}
+
+\paragraph{Power Level (dB)}
+
+The dB measures the power of a signal as a function of its ratio to another standardized value. The
+abbreviation dB is often combined with other abbreviations to represent the values that are compared.
+Here are two examples:
+\Itemize{
+	\item dBm—The dB value is compared to 1 mW.
+	\item dBw—The dB value is compared to 1 W.
+}
+
+\Equation{power}{Power (in dB) = 10 * log(10) (Signal/Reference)}
+
+Where:
+\Itemize{
+	\item log(10) is logarithm base 10.
+	\item Signal is the power of the signal.
+	\item Reference is the reference power.
+}
+
+For example, if you want to calculate the power in dB of 50 mW:
+
+Power (in dB) = 10 * log(10) (50/1) = 10 * 1.7 = 17 dBm
+
+\paragraph{Receive Signal Strength Indicator RSSI}
+
+Receiver sensitivity is defined as the minimum signal power level with an acceptable Bit Error Rate (in dBm or mW) that is necessary for the receiver to accurately decode a given signal.
+This is usually expressed in a negative number depending on the data rate.
+For example an Access Point may require an RSSI of at least negative -91 dBm at 1 MB and an even higher strength RF power -79 dBm to decode 54 MB.
+
+\paragraph{Signal to Noise Ratio SNR}
+
+Noise is any signal that interferes with your signal.
+Noise can be due to other wireless devices such as cordless phones,
+	microwave devices,
+	etc.
+This value is measured in decibels from 0 (zero) to -120 (minus 120).
+Noise level is the amount of interference in your wireless signal,
+	so lower is generally good for WLAN deployments.
+Typical environments range between -90dBm and -98dBm with little ambient noise.
+This value may be even higher if there is a lot of RF interference coming in from other non-802.11 devices on the same spectrum Signal to Noise Ratio or SNR is defined as the ratio of the transmitted power from the AP to the ambient (noise floor) energy present.
+To calculate the SNR value,
+	we add the Signal Value to the Noise Value to get the SNR ratio.
+A positive value of the SNR ratio is always better.
+For example,
+	say your Signal value is -55dBm and your Noise value is -95dBm.
+The difference of Signal (-55dBm) + Noise (-95dBm) = 40db—This means you have an SNR of 40.
+Note that in the above equation you are not merely adding two numbers,
+	but are interested in the “difference” between the Signal and Noise values,
+	which is usually a positive number.
+The lower the number,
+	the lower the difference between noise and transmitted power,
+	which in turn means lower quality of signal.
+The higher the difference between Signal and Noise means that the transmitted signal is of much higher power than the noise floor,
+	thereby making it easier for a WLAN client to decode the signal.
+
+
+\paragraph{Signal Attenuation}
+
+Signal attenuation or signal loss occurs even as the signal passes through air.
+The loss of signal strength is more pronounced as the signal passes through different objects.
+A transmit power of 20 mW is equivalent to 13 dBm.
+Therefore if the transmitted power at the entry point of a plasterboard wall is at 13 dBm,
+	the signal strength will be reduced to 10 dBm when exiting that wall.
+Some common examples are shown in Table 10-5.
 
 
 

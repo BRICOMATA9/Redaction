@@ -1,140 +1,95 @@
 [0] Config.pm:304> INFO - This is Biber 2.12
 [0] Config.pm:307> INFO - Logfile is '/home/aghiles/Aghiles/Research/Writing/bin/paper.blg'
-[27] biber:315> INFO - === Fri Nov  1, 2019, 20:03:13
-[49] Biber.pm:371> INFO - Reading '/home/aghiles/Aghiles/Research/Writing/bin/paper.bcf'
-[123] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
-[123] Biber.pm:889> INFO - Found 0 citekeys in bib section 1
-[123] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
-[123] Biber.pm:889> INFO - Found 0 citekeys in bib section 2
-[123] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
-[125] Biber.pm:889> INFO - Found 21 citekeys in bib section 3
-[125] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
-[125] Biber.pm:889> INFO - Found 1 citekeys in bib section 4
-[125] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
-[126] Biber.pm:889> INFO - Found 1 citekeys in bib section 5
-[126] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
-[126] Biber.pm:889> INFO - Found 1 citekeys in bib section 6
-[126] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
-[126] Biber.pm:889> INFO - Found 7 citekeys in bib section 7
-[126] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
-[126] Biber.pm:889> INFO - Found 5 citekeys in bib section 8
-[126] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
-[126] Biber.pm:889> INFO - Found 0 citekeys in bib section 9
-[126] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
-[127] Biber.pm:889> INFO - Found 17 citekeys in bib section 10
-[127] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
-[127] Biber.pm:889> INFO - Found 0 citekeys in bib section 11
-[127] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
-[128] Biber.pm:889> INFO - Found 23 citekeys in bib section 12
-[128] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
-[210] Biber.pm:4093> INFO - Processing section 3
-[220] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iot.bib' for section 3
-[276] bibtex.pm:1512> INFO - LaTeX decoding ...
-[1384] bibtex.pm:1329> INFO - Found BibTeX data source '/home/aghiles/Aghiles/Research/Writing/bin/../ref/iot.bib'
-[1443] Utils.pm:193> WARN - ISBN '978-1-5090-3242-6 978-1-5090-3243-3' in entry 'venkatesan_design_2017' is invalid - run biber with '--validate_datamodel' for details.
-[1533] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iotbis.bib' for section 3
-[1534] bibtex.pm:1512> INFO - LaTeX decoding ...
-[1539] bibtex.pm:1329> INFO - Found BibTeX data source '/home/aghiles/Aghiles/Research/Writing/bin/../ref/iotbis.bib'
-[1540] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/privacy.bib' for section 3
-[1555] bibtex.pm:1512> INFO - LaTeX decoding ...
-[1822] bibtex.pm:1329> INFO - Found BibTeX data source '/home/aghiles/Aghiles/Research/Writing/bin/../ref/privacy.bib'
-[1832] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/petri.bib' for section 3
-[1834] bibtex.pm:1512> INFO - LaTeX decoding ...
-[1854] bibtex.pm:1329> INFO - Found BibTeX data source '/home/aghiles/Aghiles/Research/Writing/bin/../ref/petri.bib'
-[1855] Utils.pm:193> WARN - I didn't find a database entry for 'sarwar_iot_' (section 3)
-[1855] Utils.pm:193> WARN - I didn't find a database entry for 'hancke_role_2012' (section 3)
-[1855] Utils.pm:193> WARN - I didn't find a database entry for 'degante_smart_2014' (section 3)
-[1856] Utils.pm:193> WARN - I didn't find a database entry for 'al-fuqaha_internet_24' (section 3)
-[1856] Utils.pm:193> WARN - I didn't find a database entry for '_rpl2_' (section 3)
-[1871] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1871] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1871] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[1871] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
-[1886] Biber.pm:4093> INFO - Processing section 4
-[1886] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iot.bib' for section 4
-[1899] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1899] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1899] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[1899] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
-[1900] Biber.pm:4093> INFO - Processing section 5
-[1901] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iot.bib' for section 5
-[1901] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iotbis.bib' for section 5
-[1901] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/privacy.bib' for section 5
-[1902] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/petri.bib' for section 5
-[1902] Utils.pm:193> WARN - I didn't find a database entry for 'joseignacio_contiki_2016' (section 5)
-[1909] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1909] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1910] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[1910] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
-[1910] Biber.pm:4093> INFO - Processing section 6
-[1910] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iot.bib' for section 6
-[1911] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iotbis.bib' for section 6
-[1911] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/privacy.bib' for section 6
-[1925] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1925] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1925] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[1925] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
-[1927] Biber.pm:4093> INFO - Processing section 7
-[1927] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iot.bib' for section 7
-[1958] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iotbis.bib' for section 7
-[1959] Utils.pm:193> WARN - month field 'Aug' in entry 'lowcostloragateway' is not an integer - this will probably not sort properly.
-[1960] Utils.pm:193> WARN - month field 'Aug' in entry 'LorawanSpecification' is not an integer - this will probably not sort properly.
-[1961] Utils.pm:193> WARN - month field 'Sep' in entry 'lorasemtech' is not an integer - this will probably not sort properly.
-[1971] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1971] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1972] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[1972] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
-[1977] Biber.pm:4093> INFO - Processing section 8
-[1978] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iot.bib' for section 8
-[2000] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iotbis.bib' for section 8
-[2000] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/privacy.bib' for section 8
-[2000] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/petri.bib' for section 8
-[2001] Utils.pm:193> WARN - I didn't find a database entry for 'lopes_design_2019' (section 8)
-[2001] Utils.pm:193> WARN - I didn't find a database entry for 'raza_low_22' (section 8)
-[2011] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2011] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2011] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[2011] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
-[2013] Biber.pm:4093> INFO - Processing section 10
-[2013] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iot.bib' for section 10
-[2014] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iotbis.bib' for section 10
-[2014] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/privacy.bib' for section 10
-[2015] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/petri.bib' for section 10
-[2051] Utils.pm:193> WARN - I didn't find a database entry for 'Routiere2015' (section 10)
-[2052] Utils.pm:193> WARN - I didn't find a database entry for 'Perera2014' (section 10)
-[2052] Utils.pm:193> WARN - I didn't find a database entry for 'Dastjerdi2016' (section 10)
-[2052] Utils.pm:193> WARN - I didn't find a database entry for 'difebbraro_trafficresponsive_2006' (section 10)
-[2052] Utils.pm:193> WARN - I didn't find a database entry for 'Al-Fuqaha2015' (section 10)
-[2052] Utils.pm:193> WARN - I didn't find a database entry for 'chalappuram_development_2016' (section 10)
-[2052] Utils.pm:193> WARN - I didn't find a database entry for 'Web0' (section 10)
-[2052] Utils.pm:193> WARN - I didn't find a database entry for 'tlig_decentralized_2014' (section 10)
-[2052] Utils.pm:193> WARN - I didn't find a database entry for 'rose_internet_2015' (section 10)
-[2052] Utils.pm:193> WARN - I didn't find a database entry for 'Silva2018' (section 10)
-[2052] Utils.pm:193> WARN - I didn't find a database entry for 'STEPHENS1979' (section 10)
-[2052] Utils.pm:193> WARN - I didn't find a database entry for 'Chen2017' (section 10)
-[2063] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2063] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2063] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[2063] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
-[2067] Biber.pm:4093> INFO - Processing section 12
-[2067] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iot.bib' for section 12
-[2158] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iotbis.bib' for section 12
-[2159] Utils.pm:193> WARN - month field 'Sep' in entry 'loraaliance' is not an integer - this will probably not sort properly.
-[2160] Utils.pm:193> WARN - month field 'Aug' in entry 'lorasite' is not an integer - this will probably not sort properly.
-[2160] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/privacy.bib' for section 12
-[2161] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/petri.bib' for section 12
-[2161] Utils.pm:193> WARN - I didn't find a database entry for 'yuzehuang_timeaware_2017' (section 12)
-[2161] Utils.pm:193> WARN - I didn't find a database entry for 'lopes_design_2019' (section 12)
-[2161] Utils.pm:193> WARN - I didn't find a database entry for 'raza_low_22' (section 12)
-[2161] Utils.pm:193> WARN - I didn't find a database entry for 'al-fuqaha_internet_24' (section 12)
-[2161] Utils.pm:193> WARN - I didn't find a database entry for '_evaluation_' (section 12)
-[2162] Utils.pm:193> WARN - I didn't find a database entry for '_short_2007' (section 12)
-[2162] Utils.pm:193> WARN - I didn't find a database entry for 'petajajarvi_coverage_2015' (section 12)
-[2162] Utils.pm:193> WARN - I didn't find a database entry for 'fakhfakh_deep_2017' (section 12)
-[2178] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2178] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2178] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[2178] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
-[2189] bbl.pm:636> INFO - Writing '/home/aghiles/Aghiles/Research/Writing/bin/paper.bbl' with encoding 'UTF-8'
-[2216] bbl.pm:739> INFO - Output to /home/aghiles/Aghiles/Research/Writing/bin/paper.bbl
-[2216] Biber.pm:110> INFO - WARNINGS: 34
+[25] biber:315> INFO - === Sat Nov  2, 2019, 11:25:40
+[46] Biber.pm:371> INFO - Reading '/home/aghiles/Aghiles/Research/Writing/bin/paper.bcf'
+[109] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[109] Biber.pm:889> INFO - Found 0 citekeys in bib section 1
+[110] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[110] Biber.pm:889> INFO - Found 0 citekeys in bib section 2
+[110] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[111] Biber.pm:889> INFO - Found 21 citekeys in bib section 3
+[111] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[111] Biber.pm:889> INFO - Found 1 citekeys in bib section 4
+[111] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[111] Biber.pm:889> INFO - Found 7 citekeys in bib section 5
+[111] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[112] Biber.pm:889> INFO - Found 5 citekeys in bib section 6
+[112] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[112] Biber.pm:889> INFO - Found 0 citekeys in bib section 7
+[112] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[112] Biber.pm:889> INFO - Found 0 citekeys in bib section 8
+[112] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[113] Biber.pm:889> INFO - Found 23 citekeys in bib section 9
+[113] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[169] Biber.pm:4093> INFO - Processing section 3
+[178] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iot.bib' for section 3
+[229] bibtex.pm:1512> INFO - LaTeX decoding ...
+[1248] bibtex.pm:1329> INFO - Found BibTeX data source '/home/aghiles/Aghiles/Research/Writing/bin/../ref/iot.bib'
+[1304] Utils.pm:193> WARN - ISBN '978-1-5090-3242-6 978-1-5090-3243-3' in entry 'venkatesan_design_2017' is invalid - run biber with '--validate_datamodel' for details.
+[1398] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iotbis.bib' for section 3
+[1398] bibtex.pm:1512> INFO - LaTeX decoding ...
+[1404] bibtex.pm:1329> INFO - Found BibTeX data source '/home/aghiles/Aghiles/Research/Writing/bin/../ref/iotbis.bib'
+[1405] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/privacy.bib' for section 3
+[1420] bibtex.pm:1512> INFO - LaTeX decoding ...
+[1683] bibtex.pm:1329> INFO - Found BibTeX data source '/home/aghiles/Aghiles/Research/Writing/bin/../ref/privacy.bib'
+[1693] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/petri.bib' for section 3
+[1694] bibtex.pm:1512> INFO - LaTeX decoding ...
+[1715] bibtex.pm:1329> INFO - Found BibTeX data source '/home/aghiles/Aghiles/Research/Writing/bin/../ref/petri.bib'
+[1716] Utils.pm:193> WARN - I didn't find a database entry for 'sarwar_iot_' (section 3)
+[1716] Utils.pm:193> WARN - I didn't find a database entry for 'hancke_role_2012' (section 3)
+[1716] Utils.pm:193> WARN - I didn't find a database entry for 'degante_smart_2014' (section 3)
+[1717] Utils.pm:193> WARN - I didn't find a database entry for 'al-fuqaha_internet_24' (section 3)
+[1717] Utils.pm:193> WARN - I didn't find a database entry for '_rpl2_' (section 3)
+[1732] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1732] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1732] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[1732] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[1745] Biber.pm:4093> INFO - Processing section 4
+[1745] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iot.bib' for section 4
+[1756] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1756] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1756] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[1757] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[1758] Biber.pm:4093> INFO - Processing section 5
+[1758] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iot.bib' for section 5
+[1785] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iotbis.bib' for section 5
+[1786] Utils.pm:193> WARN - month field 'Aug' in entry 'lowcostloragateway' is not an integer - this will probably not sort properly.
+[1787] Utils.pm:193> WARN - month field 'Aug' in entry 'LorawanSpecification' is not an integer - this will probably not sort properly.
+[1788] Utils.pm:193> WARN - month field 'Sep' in entry 'lorasemtech' is not an integer - this will probably not sort properly.
+[1799] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1799] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1799] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[1799] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[1804] Biber.pm:4093> INFO - Processing section 6
+[1804] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iot.bib' for section 6
+[1826] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iotbis.bib' for section 6
+[1827] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/privacy.bib' for section 6
+[1827] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/petri.bib' for section 6
+[1827] Utils.pm:193> WARN - I didn't find a database entry for 'lopes_design_2019' (section 6)
+[1827] Utils.pm:193> WARN - I didn't find a database entry for 'raza_low_22' (section 6)
+[1836] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1836] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1836] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[1836] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[1839] Biber.pm:4093> INFO - Processing section 9
+[1839] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iot.bib' for section 9
+[1924] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/iotbis.bib' for section 9
+[1925] Utils.pm:193> WARN - month field 'Sep' in entry 'loraaliance' is not an integer - this will probably not sort properly.
+[1926] Utils.pm:193> WARN - month field 'Aug' in entry 'lorasite' is not an integer - this will probably not sort properly.
+[1926] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/privacy.bib' for section 9
+[1927] Biber.pm:4254> INFO - Looking for bibtex format file '../ref/petri.bib' for section 9
+[1927] Utils.pm:193> WARN - I didn't find a database entry for 'yuzehuang_timeaware_2017' (section 9)
+[1927] Utils.pm:193> WARN - I didn't find a database entry for 'lopes_design_2019' (section 9)
+[1927] Utils.pm:193> WARN - I didn't find a database entry for 'raza_low_22' (section 9)
+[1927] Utils.pm:193> WARN - I didn't find a database entry for 'al-fuqaha_internet_24' (section 9)
+[1927] Utils.pm:193> WARN - I didn't find a database entry for '_evaluation_' (section 9)
+[1927] Utils.pm:193> WARN - I didn't find a database entry for '_short_2007' (section 9)
+[1927] Utils.pm:193> WARN - I didn't find a database entry for 'petajajarvi_coverage_2015' (section 9)
+[1928] Utils.pm:193> WARN - I didn't find a database entry for 'fakhfakh_deep_2017' (section 9)
+[1943] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1943] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1943] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[1943] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[1954] bbl.pm:636> INFO - Writing '/home/aghiles/Aghiles/Research/Writing/bin/paper.bbl' with encoding 'UTF-8'
+[1975] bbl.pm:739> INFO - Output to /home/aghiles/Aghiles/Research/Writing/bin/paper.bbl
+[1975] Biber.pm:110> INFO - WARNINGS: 21

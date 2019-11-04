@@ -82,6 +82,7 @@
     inner sep=10pt, 
     inner ysep=15pt
   },
+  EdgeStyle/.style={-{Latex[length=2.5mm]}},
   boxTitleStyle/.style={
     fill=blue!80, 
     rectangle, 
@@ -125,8 +126,13 @@
   }
 }
 
+\usepackage{tkz-graph}
+
 \newcommand\Label[3]{\node[] (#1) at (#2) {#3};}
-\newcommand\Fleche[2]{\draw[thick,->,>=latex] (#1) -- (#2);}
+\newcommand\Fleche[4]{\Edge[label=#4, color=#3](#1)(#2);}
+
+% \draw[thick,#3, ->,>=latex] (#1) -- (#2) node[midway,sloped,left,rotate=270] {#4};
+% }
 \newcommand\Cadre[3]{\node[draw, thick] (#1) at (#2) {#3};}
 \newcommand\CadreText[4]{\node[draw, thick,text width=#4] (#1) at (#2) {#3};}
 \newcommand\Line[9]{\draw[dashed] (#1) -- (#2) -- (#3) -- (#4) -- (#5) -- (#6);}
