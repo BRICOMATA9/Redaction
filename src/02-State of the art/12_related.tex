@@ -203,36 +203,91 @@ Where:
 	% \end{equation}
  % \end{frame}
 
- \begin{frame}{Utility Function}{Related work}
+ \begin{frame}{Notations}{Related work}
+ \Figure{h}{1}{slice2}{Network selection problem}
+ \end{frame}
+
+
+ \begin{frame}{Notations}{Related work}
+ \Figure{h}{1}{slice1}{Slice orchestration problem}
+ \end{frame}
+
+ \begin{frame}{Notations}{Related work}
  	\Columns{.6}{.4}{
 		\begin{tabular}{ll} \\
 		\multicolumn{2}{l}{\textbf{Set of devices, slices, gateways and flows}}\\
 		G              & set of LoRa Gateways \\
 		S              & set of Slices \\
-		$D_{s}$        & set of devices associated to slice s \\
-		$F_{d,s,g}$    & subset of packets from device d in slice s to GW g \\ 
+		$D_{s}$        & cluster of devices associated to slice s \\
+		% $F_{d,s,g}$    & subset of packets from device d in slice s to GW g \\ 
 		\multicolumn{2}{l}{\textbf{Parameters}}\\
 		$F_{c}$        & packets with SF = c  \\ 
 		$BW_{s,g}$     & bandwidth assigned for slice s over GW g\\
-		$Tx_{g}$       & transmission power of GW g \\
+		$P^{Tx}_{g}$       & transmission power of GW g \\
 		\multicolumn{2}{l}{\textbf{Constants}}\\
 		$i_{d,s}$      & association index of device d to slice s \\ 
 		$i_{d,g}$      & association index of device d to GW g \\
 		$w_{d}$        & urgency factor for device d \\
 		$w_{s} $       & priority of slice s \\
+		$w_{r}$        & weight of reliability \\
+		$w_{ld} $      & weight of load \\
 		\multicolumn{2}{l}{\textbf{Metrics}}\\
 		$DR_{d,s,g}$   & data rate achieved by a device d \\
 		$SINR_{i,j}$   & SINR with SF=i and SF=j\\ 
-		$Tx^{gain}_{d,g}$ & power gain between a GW g and a device d \\ 
-		$Rx_{d,s,g}$   & Receiver sensitivity\\
+		$G^{tx}_{d,g}$ & power gain between a GW g and a device d \\ 
+		$S^{rx}_{d,s,g}$   & Receiver sensitivity\\
 		$RTD_{d} $     & instant packet delay for device d \\
-		$PDB_{d}$      & packet delay budget for device d \\\\
-		$U_{d,s,g}  $  & utility for device d in slice s on GW g \\ 
+		$PLR_{d}$      & packet loss rate of device d \\\\
+		\red{$U_{d,s,g}$}  & \red{utility for device d in slice s on GW g} \\ 
 		\end{tabular}
 	}{
 		\Figure{h}{.85}{slice}{Slicing}
 	}
  \end{frame}
+
+\begin{frame}{Utility function}{Related work}
+	\Itemize{
+		\item \textbf{G = \{1, ... , G\}:}  Set of gateways
+		\item \textbf{S = \{1, ... , S\}:}  Set of slices
+		\item \textbf{D = \{1, ... , D\}:} Set of devices
+		\item $\mathbf{D_{s} = \{1, ... , D_{s}\} \in D :}$ Cluster of devices in slice s
+		\item $\mathbf{F_{d,s,g} = \{1, ... , D_{s}\} :}$ Virtual flow for device d in slice s through GW g
+	}
+
+	\Itemize{
+		\item $\bf{i}_{\bf{d,s}}$      \in \{0,1\}  Association index of device d to slice s \\ 
+		\item $\bf{i}_{\bf{d,g}}$      \in \{0,1\}  Association index of device d to GW g \\
+	}
+
+
+	\Itemize{
+		\item $\bf{w}_{\bf{d}}$   \in [0,1]  Urgency factor for device d \\
+		\item $\bf{w}_{\bf{s}} $  \in [0,1]  Priority of slice s \\
+		\item $\bf{wr}$           \in [0,1]  Weight of the impact of reliability (SINR)\\
+		\item $\bf{wld}$          \in [0,1]  Weight of the impact of load (congestion)\\
+	}
+
+ \end{frame}
+
+\begin{frame}{Utility Function}{Related work}
+\Columns{.6}{.4}{
+
+	\begin{equation}
+		\begin{array} { l }
+			\sigma_{r} = SINR_{d,s,g}/SINR_{max}\\\\\\
+
+			% min~D  = \left( \frac {\sum_{d=1}^{D_{s} } \sum_{d^{\prime} = D_{s} +1}^{D_{s}+D_{s^{\prime}}} \left(u_{d}-u_{d^{\prime}} \right)} {D_{s} D_{s^{\prime}}}\right)^{1/2},\forall d \in D_{s},\forall d^{\prime }\in D_{s^ {\prime}}\\\\
+			U_{HCC} = \delta_{r} \left(\sigma_{r} w_{r} + \sigma_{ld} w_{ld} \right) \quad  with \quad \delta_{r} \in \{ 0,1 \} \\\\
+			U_{MCC} = \sigma_{r} w_{r} + \sigma_{ld} w_{ld} \\\\
+			U_{LCC} = \sigma_{ld} w_{ld} \\\\
+			U_{d,s,g} = U_{d,s,g}^{\prime}+U_{d,s,g}^{\prime\prime} \\\\\\
+			E_{d,s,g} = \frac {p_{i}^{tx} + p_{i} ^ {rx}} {V+epa } \cdot d_{tx/rx}
+		\end{array}
+	\end{equation}
+}{
+\Figure{h}{.85}{slice}{Slicing}
+}
+\end{frame}
 
 % \begin{frame}{Utility Function}{Related work}
 % 	\begin{equation}
@@ -247,41 +302,9 @@ Where:
 %  \end{frame}
 
 
-\begin{frame}{Utility Function}{Related work}
-\Columns{.6}{.4}{
-	\begin{equation}
-		max \sum _ { d \in D } \sum _ { s \in S } i_{d,s} \cdot U_{d,g,s} ~~~~~~~~~~~, g \in G
-	\end{equation}
-
-	\begin{equation}
-		\begin{array} { l l}
-			C1 : \sum _ { s \in S } i_{d,s} &= 1 , \forall d \in D \\ \\
-			C2 : \sum _ { d \in D } i_ {d,g} \cdot tx_ { d,s,g } &\leqslant Tx^{max}_{g} , \forall g \in G , \forall s \in S \\ \\
-			C3 : \sum _ { d = 1 } ^ { N } i_ {d,s} \cdot i_{d,g} \cdot DR_{d,s,g} \cdot &\leq  BW _ { s , g } , \forall s \in S , \forall g \in G  \\ \\
-		\end{array} 
-	\end{equation}
-
-	\begin{equation}
-		\begin{array} { l }
-			% min~D  = \left( \frac {\sum_{d=1}^{D_{s} } \sum_{d^{\prime} = D_{s} +1}^{D_{s}+D_{s^{\prime}}} \left(u_{d}-u_{d^{\prime}} \right)} {D_{s} D_{s^{\prime}}}\right)^{1/2},\forall d \in D_{s},\forall d^{\prime }\in D_{s^ {\prime}}\\\\
-			U_{HCC} = \delta _ { r } \left( \sigma _ { r } w _ { r } , \tau _ { l d } w _ { t d } \right) \quad  with \quad \delta _ { r } \in \{ 0,1 \} \\\\
-			U_{MCC} = \sigma _ { r } w _ { r } + \sigma _ { l d } w _ { l d } \\\\
-			U_{LCC} = \sigma _ { l d } w _ { l d } \\\\
-			U_{d,s,g} = U_{d,s,g}^{\prime}+U_{d,s,g}^{\prime\prime} \\\\
-			E_{d,s,g} = \frac {p_{i}^{tx} + p_{i} ^ {rx}} {V+epa } \cdot d_{tx/rx}
-		\end{array}
-	\end{equation}
-}{
-\Figure{h}{.85}{slice}{Slicing}
-}
-\end{frame}
-
-
-
 \begin{frame}{BIRCH: Clustering}{balanced iterative reducing and clustering using hierarchies}
 	
 	\Itemize{
-
 	\item [T:] max number of device per cluster, 
 	\item [B:] maw number of childes per cluster.
 	}
@@ -299,6 +322,32 @@ Where:
 	\end{equation}
 
 \end{frame}
+
+
+\begin{frame}{Constraints/Hypothesis}{Related work}
+\Columns{.6}{.4}{
+	\begin{equation}
+		max \sum _ { d \in D } \sum _ { s \in S } i_{d,s} \cdot U_{d,g,s} ~~~~~~~~~~~, g \in G
+	\end{equation}
+
+	\begin{equation}
+		\begin{array} { l l}
+			C1 : \sum _ { s \in S } i_{d,s} &= 1 , \forall d \in D \\ \\
+			C2 : \sum _ { d \in D } i_ {d,g} \cdot P^{tx}_{d,s,g } &\leqslant P^{tx~max}_{g} , \forall g \in G , \forall s \in S \\ \\
+			C3 : \sum _ { d = 1 } ^ { N } i_ {d,s} \cdot i_{d,g} \cdot DR_{d,s,g} \cdot &\leq  BW _ { s , g } , \forall s \in S , \forall g \in G  \\ \\
+		\end{array} 
+	\end{equation}
+}{
+\Figure{h}{.85}{slice}{Slicing}
+}
+\end{frame}
+
+
+
+
+
+
+
 % \begin{frame}{Utility Function}{Related work}
 % 	\begin{tabular} { l | l l l l l l } \\
 % 		\           & $SF_{7}$ & $SF_{B}$ & $SF_{9}$ & $SF_{10}$ & $SF_{11}$ & $SF_{12}$ \\

@@ -195,11 +195,15 @@
 	},
 	"expanded_folders":
 	[
-		"/home/aghiles/Aghiles/Research/Writing/lib"
+		"/home/aghiles/Aghiles/Research/Writing/res",
+		"/home/aghiles/Aghiles/Research/Writing/res/plot",
+		"/home/aghiles/Aghiles/Research/Writing/res/tmp"
 	],
 	"file_history":
 	[
+		"/home/aghiles/Aghiles/Research/Writing/res/plot/slice1.tex",
 		"/home/aghiles/Aghiles/Research/Writing/res/plot.tex",
+		"/home/aghiles/Aghiles/Research/Writing/res/plot/slice2.tex",
 		"/home/aghiles/Aghiles/Research/Writing/lib/tikzset.tex",
 		"/home/aghiles/Aghiles/Research/Writing/res/plot/slice.tex",
 		"/home/aghiles/Aghiles/Research/Writing/src/02-State of the art/12_related.tex",
@@ -324,13 +328,11 @@
 		"/home/aghiles/Downloads/Weatherzz.bib",
 		"/home/aghiles/Downloads/Weatheraaa.bib",
 		"/home/aghiles/Downloads/Weathernn.bib",
-		"/home/aghiles/Downloads/Weatherpp.bib",
-		"/home/aghiles/Downloads/Weather.bib",
-		"/home/aghiles/Downloads/Mesh.bib"
+		"/home/aghiles/Downloads/Weatherpp.bib"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 25.0
 	},
 	"find_in_files":
 	{
@@ -375,7 +377,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 25.0
 	},
 	"input":
 	{
@@ -416,7 +418,7 @@
 	"project": "plot.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 46.0
 	},
 	"save_all_on_build": true,
 	"select_file":

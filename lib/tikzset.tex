@@ -128,7 +128,7 @@
 
 \usepackage{tkz-graph}
 
-\newcommand\Label[3]{\node[] (#1) at (#2) {#3};}
+\newcommand\Label[4]{\node[#4] (#1) at (#2) {#3};}
 \newcommand\Fleche[4]{\Edge[label=#4, color=#3](#1)(#2);}
 
 % \draw[thick,#3, ->,>=latex] (#1) -- (#2) node[midway,sloped,left,rotate=270] {#4};
